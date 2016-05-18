@@ -9,8 +9,6 @@
 
 #import <Foundation/Foundation.h>
 
-#import <Parse/PFConstants.h>
-
 #import "PFDataProvider.h"
 #import "PFMacros.h"
 
