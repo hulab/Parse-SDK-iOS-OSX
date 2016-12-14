@@ -17,8 +17,10 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = 'Parse/*.{h,m}',
+                   'Parse/Realm/*.{h,m}',
                    'Parse/Internal/**/*.{h,m}'
-  s.public_header_files = 'Parse/*.h'
+  s.public_header_files = 'Parse/*.h',
+                          'Parse/Realm/*.h'
 
   s.ios.exclude_files = 'Parse/Internal/PFMemoryEventuallyQueue.{h,m}'
   s.osx.exclude_files = 'Parse/PFNetworkActivityIndicatorManager.{h,m}',
@@ -86,4 +88,6 @@ Pod::Spec.new do |s|
   s.libraries        = 'z', 'sqlite3'
 
   s.dependency 'Bolts/Tasks', '~> 1.8'
+  s.dependency 'Realm', '~> 2.1'
+
 end

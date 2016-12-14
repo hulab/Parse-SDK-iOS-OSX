@@ -39,6 +39,9 @@
 #import <Parse/PFUser+Synchronous.h>
 #import <Parse/PFUser+Deprecated.h>
 #import <Parse/PFUserAuthenticationDelegate.h>
+#import <Parse/PFRealmObject.h>
+#import <Parse/PFRealmQuery.h>
+#import <Parse/PFRealmStore.h>
 
 #if TARGET_OS_IOS
 

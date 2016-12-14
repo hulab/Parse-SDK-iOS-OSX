@@ -2566,6 +2566,70 @@
 		97DE045A16321492007154E8 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97DE045916321492007154E8 /* Security.framework */; };
 		97DE045C163214C0007154E8 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97DE045B163214C0007154E8 /* SystemConfiguration.framework */; };
 		97EB055516F7CCE400E09147 /* PFAnalytics.m in Sources */ = {isa = PBXBuildFile; fileRef = 9739513916B9D28E0010B884 /* PFAnalytics.m */; };
+		9C33339B1E000FE500786240 /* Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C33339A1E000FE500786240 /* Realm.framework */; };
+		9C3333A81E00100700786240 /* Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C3333A71E00100700786240 /* Realm.framework */; };
+		9C3333AB1E00105100786240 /* Realm.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9C3333AA1E00105100786240 /* Realm.framework.dSYM */; };
+		9C3333AD1E00108600786240 /* Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C3333AC1E00108600786240 /* Realm.framework */; };
+		9C3333AF1E0010A400786240 /* Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C3333AE1E0010A400786240 /* Realm.framework */; };
+		9C3333BC1E00125200786240 /* PFRealmDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B21E00125200786240 /* PFRealmDecoder.h */; };
+		9C3333BD1E00125200786240 /* PFRealmDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B21E00125200786240 /* PFRealmDecoder.h */; };
+		9C3333BE1E00125200786240 /* PFRealmDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B21E00125200786240 /* PFRealmDecoder.h */; };
+		9C3333BF1E00125200786240 /* PFRealmDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B21E00125200786240 /* PFRealmDecoder.h */; };
+		9C3333C01E00125200786240 /* PFRealmDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B21E00125200786240 /* PFRealmDecoder.h */; };
+		9C3333C11E00125200786240 /* PFRealmDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B21E00125200786240 /* PFRealmDecoder.h */; };
+		9C3333C21E00125200786240 /* PFRealmDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B21E00125200786240 /* PFRealmDecoder.h */; };
+		9C3333C31E00125200786240 /* PFRealmDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B31E00125200786240 /* PFRealmDecoder.m */; };
+		9C3333C41E00125200786240 /* PFRealmDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B31E00125200786240 /* PFRealmDecoder.m */; };
+		9C3333C51E00125200786240 /* PFRealmDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B31E00125200786240 /* PFRealmDecoder.m */; };
+		9C3333C61E00125200786240 /* PFRealmDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B31E00125200786240 /* PFRealmDecoder.m */; };
+		9C3333C71E00125200786240 /* PFRealmDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B31E00125200786240 /* PFRealmDecoder.m */; };
+		9C3333C81E00125200786240 /* PFRealmDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B31E00125200786240 /* PFRealmDecoder.m */; };
+		9C3333C91E00125200786240 /* PFRealmDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B31E00125200786240 /* PFRealmDecoder.m */; };
+		9C3333D81E00125200786240 /* PFRealmObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B61E00125200786240 /* PFRealmObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333D91E00125200786240 /* PFRealmObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B61E00125200786240 /* PFRealmObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333DA1E00125200786240 /* PFRealmObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B61E00125200786240 /* PFRealmObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333DB1E00125200786240 /* PFRealmObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B61E00125200786240 /* PFRealmObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333DC1E00125200786240 /* PFRealmObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B61E00125200786240 /* PFRealmObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333DD1E00125200786240 /* PFRealmObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B61E00125200786240 /* PFRealmObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333DE1E00125200786240 /* PFRealmObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B61E00125200786240 /* PFRealmObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333DF1E00125200786240 /* PFRealmObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B71E00125200786240 /* PFRealmObject.m */; };
+		9C3333E01E00125200786240 /* PFRealmObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B71E00125200786240 /* PFRealmObject.m */; };
+		9C3333E11E00125200786240 /* PFRealmObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B71E00125200786240 /* PFRealmObject.m */; };
+		9C3333E21E00125200786240 /* PFRealmObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B71E00125200786240 /* PFRealmObject.m */; };
+		9C3333E31E00125200786240 /* PFRealmObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B71E00125200786240 /* PFRealmObject.m */; };
+		9C3333E41E00125200786240 /* PFRealmObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B71E00125200786240 /* PFRealmObject.m */; };
+		9C3333E51E00125200786240 /* PFRealmObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B71E00125200786240 /* PFRealmObject.m */; };
+		9C3333E61E00125200786240 /* PFRealmQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B81E00125200786240 /* PFRealmQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333E71E00125200786240 /* PFRealmQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B81E00125200786240 /* PFRealmQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333E81E00125200786240 /* PFRealmQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B81E00125200786240 /* PFRealmQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333E91E00125200786240 /* PFRealmQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B81E00125200786240 /* PFRealmQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333EA1E00125200786240 /* PFRealmQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B81E00125200786240 /* PFRealmQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333EB1E00125200786240 /* PFRealmQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B81E00125200786240 /* PFRealmQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333EC1E00125200786240 /* PFRealmQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333B81E00125200786240 /* PFRealmQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333ED1E00125200786240 /* PFRealmQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B91E00125200786240 /* PFRealmQuery.m */; };
+		9C3333EE1E00125200786240 /* PFRealmQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B91E00125200786240 /* PFRealmQuery.m */; };
+		9C3333EF1E00125200786240 /* PFRealmQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B91E00125200786240 /* PFRealmQuery.m */; };
+		9C3333F01E00125200786240 /* PFRealmQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B91E00125200786240 /* PFRealmQuery.m */; };
+		9C3333F11E00125200786240 /* PFRealmQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B91E00125200786240 /* PFRealmQuery.m */; };
+		9C3333F21E00125200786240 /* PFRealmQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B91E00125200786240 /* PFRealmQuery.m */; };
+		9C3333F31E00125200786240 /* PFRealmQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333B91E00125200786240 /* PFRealmQuery.m */; };
+		9C3333F41E00125200786240 /* PFRealmStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333BA1E00125200786240 /* PFRealmStore.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333F51E00125200786240 /* PFRealmStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333BA1E00125200786240 /* PFRealmStore.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333F61E00125200786240 /* PFRealmStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333BA1E00125200786240 /* PFRealmStore.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333F71E00125200786240 /* PFRealmStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333BA1E00125200786240 /* PFRealmStore.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333F81E00125200786240 /* PFRealmStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333BA1E00125200786240 /* PFRealmStore.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333F91E00125200786240 /* PFRealmStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333BA1E00125200786240 /* PFRealmStore.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333FA1E00125200786240 /* PFRealmStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C3333BA1E00125200786240 /* PFRealmStore.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C3333FB1E00125200786240 /* PFRealmStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333BB1E00125200786240 /* PFRealmStore.m */; };
+		9C3333FC1E00125200786240 /* PFRealmStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333BB1E00125200786240 /* PFRealmStore.m */; };
+		9C3333FD1E00125200786240 /* PFRealmStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333BB1E00125200786240 /* PFRealmStore.m */; };
+		9C3333FE1E00125200786240 /* PFRealmStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333BB1E00125200786240 /* PFRealmStore.m */; };
+		9C3333FF1E00125200786240 /* PFRealmStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333BB1E00125200786240 /* PFRealmStore.m */; };
+		9C3334001E00125200786240 /* PFRealmStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333BB1E00125200786240 /* PFRealmStore.m */; };
+		9C3334011E00125200786240 /* PFRealmStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3333BB1E00125200786240 /* PFRealmStore.m */; };
+		9C3334021E00246F00786240 /* Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C33339A1E000FE500786240 /* Realm.framework */; };
+		9C3334031E00249300786240 /* Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C3333AC1E00108600786240 /* Realm.framework */; };
+		9C3334041E0024A000786240 /* Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C3333AE1E0010A400786240 /* Realm.framework */; };
 		F50C66331B33A708001941A6 /* PFPushUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = F50C66311B33A708001941A6 /* PFPushUtilities.h */; };
 		F50C66341B33A708001941A6 /* PFPushUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = F50C66321B33A708001941A6 /* PFPushUtilities.m */; };
 		F50C667C1B34B231001941A6 /* PFPushUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = F50C66321B33A708001941A6 /* PFPushUtilities.m */; };
@@ -2935,6 +2999,16 @@
 			files = (
 			);
 			name = "Copy Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9C3333A91E00103700786240 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 16;
+			files = (
+				9C3333AB1E00105100786240 /* Realm.framework.dSYM in CopyFiles */,
+			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
@@ -3470,6 +3544,19 @@
 		97DE045B163214C0007154E8 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		97E18AE41623835600B17A67 /* PFLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFLocationManager.h; sourceTree = "<group>"; };
 		97E18AE51623835600B17A67 /* PFLocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PFLocationManager.m; sourceTree = "<group>"; };
+		9C33339A1E000FE500786240 /* Realm.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Realm.framework; path = Carthage/Build/iOS/Realm.framework; sourceTree = "<group>"; };
+		9C3333A71E00100700786240 /* Realm.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Realm.framework; path = Carthage/Build/Mac/Realm.framework; sourceTree = "<group>"; };
+		9C3333AA1E00105100786240 /* Realm.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = Realm.framework.dSYM; path = Carthage/Build/Mac/Realm.framework.dSYM; sourceTree = "<group>"; };
+		9C3333AC1E00108600786240 /* Realm.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Realm.framework; path = Carthage/Build/tvOS/Realm.framework; sourceTree = "<group>"; };
+		9C3333AE1E0010A400786240 /* Realm.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Realm.framework; path = Carthage/Build/watchOS/Realm.framework; sourceTree = "<group>"; };
+		9C3333B21E00125200786240 /* PFRealmDecoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFRealmDecoder.h; sourceTree = "<group>"; };
+		9C3333B31E00125200786240 /* PFRealmDecoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PFRealmDecoder.m; sourceTree = "<group>"; };
+		9C3333B61E00125200786240 /* PFRealmObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFRealmObject.h; sourceTree = "<group>"; };
+		9C3333B71E00125200786240 /* PFRealmObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PFRealmObject.m; sourceTree = "<group>"; };
+		9C3333B81E00125200786240 /* PFRealmQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFRealmQuery.h; sourceTree = "<group>"; };
+		9C3333B91E00125200786240 /* PFRealmQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PFRealmQuery.m; sourceTree = "<group>"; };
+		9C3333BA1E00125200786240 /* PFRealmStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFRealmStore.h; sourceTree = "<group>"; };
+		9C3333BB1E00125200786240 /* PFRealmStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PFRealmStore.m; sourceTree = "<group>"; };
 		E9BBE98E16D18E5800CD7B52 /* PFObject+Subclass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "PFObject+Subclass.h"; path = "Parse/PFObject+Subclass.h"; sourceTree = SOURCE_ROOT; };
 		E9E81E8316EEF93E001D034F /* PFSubclassing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFSubclassing.h; sourceTree = "<group>"; };
 		F50C66311B33A708001941A6 /* PFPushUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFPushUtilities.h; sourceTree = "<group>"; };
@@ -3531,6 +3618,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C3334041E0024A000786240 /* Realm.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3538,6 +3626,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C3334031E00249300786240 /* Realm.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3573,6 +3662,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C3334021E00246F00786240 /* Realm.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3588,6 +3678,7 @@
 				81C587151C3B0B1C000063C6 /* AudioToolbox.framework in Frameworks */,
 				81C587131C3B0B18000063C6 /* UIKit.framework in Frameworks */,
 				81C587111C3B0B0C000063C6 /* Bolts.framework in Frameworks */,
+				9C33339B1E000FE500786240 /* Realm.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3602,6 +3693,7 @@
 				81C587241C3B0B7B000063C6 /* Security.framework in Frameworks */,
 				81C587221C3B0B77000063C6 /* SystemConfiguration.framework in Frameworks */,
 				81C587201C3B0B72000063C6 /* Bolts.framework in Frameworks */,
+				9C3333AD1E00108600786240 /* Realm.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3614,6 +3706,7 @@
 				81C587311C3B0BB6000063C6 /* Security.framework in Frameworks */,
 				81C5872F1C3B0BB1000063C6 /* libsqlite3.tbd in Frameworks */,
 				81C5872D1C3B0BA6000063C6 /* Bolts.framework in Frameworks */,
+				9C3333AF1E0010A400786240 /* Realm.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3627,6 +3720,7 @@
 				97DE045C163214C0007154E8 /* SystemConfiguration.framework in Frameworks */,
 				97DE045A16321492007154E8 /* Security.framework in Frameworks */,
 				97DE045116321428007154E8 /* CoreLocation.framework in Frameworks */,
+				9C3333A81E00100700786240 /* Realm.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3637,6 +3731,7 @@
 			isa = PBXGroup;
 			children = (
 				09809FAE1434F98C00EC3E74 /* Internal */,
+				9C3333B11E00125200786240 /* Realm */,
 				09809FB81434F98C00EC3E74 /* Resources */,
 				09EEA12D1434FB1F00E3A3FA /* Parse.h */,
 				09EEA12E1434FB1F00E3A3FA /* Parse.m */,
@@ -3782,6 +3877,8 @@
 				F5C8F2BF1B1F7E6B00CD98E7 /* PFAsyncTaskQueue.m */,
 				F586B34E1B1E3BD70082E3BD /* PFBaseState.h */,
 				F586B34F1B1E3BD70082E3BD /* PFBaseState.m */,
+				9C3333B21E00125200786240 /* PFRealmDecoder.h */,
+				9C3333B31E00125200786240 /* PFRealmDecoder.m */,
 			);
 			path = Internal;
 			sourceTree = "<group>";
@@ -3841,6 +3938,11 @@
 		09D3364C139C54940098E916 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				9C3333AE1E0010A400786240 /* Realm.framework */,
+				9C3333AC1E00108600786240 /* Realm.framework */,
+				9C3333A71E00100700786240 /* Realm.framework */,
+				9C3333AA1E00105100786240 /* Realm.framework.dSYM */,
+				9C33339A1E000FE500786240 /* Realm.framework */,
 				81C587341C3B0BBE000063C6 /* WatchKit.framework */,
 				81C587321C3B0BB9000063C6 /* CoreLocation.framework */,
 				81C587301C3B0BB6000063C6 /* Security.framework */,
@@ -5100,6 +5202,19 @@
 			path = CurrentUserController;
 			sourceTree = "<group>";
 		};
+		9C3333B11E00125200786240 /* Realm */ = {
+			isa = PBXGroup;
+			children = (
+				9C3333B61E00125200786240 /* PFRealmObject.h */,
+				9C3333B71E00125200786240 /* PFRealmObject.m */,
+				9C3333B81E00125200786240 /* PFRealmQuery.h */,
+				9C3333B91E00125200786240 /* PFRealmQuery.m */,
+				9C3333BA1E00125200786240 /* PFRealmStore.h */,
+				9C3333BB1E00125200786240 /* PFRealmStore.m */,
+			);
+			path = Realm;
+			sourceTree = "<group>";
+		};
 		F50C66301B33A6CE001941A6 /* Utilites */ = {
 			isa = PBXGroup;
 			children = (
@@ -5223,6 +5338,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C3333F91E00125200786240 /* PFRealmStore.h in Headers */,
+				9C3333EB1E00125200786240 /* PFRealmQuery.h in Headers */,
+				9C3333DD1E00125200786240 /* PFRealmObject.h in Headers */,
 				8101559F1BB3832700D7C7BD /* PFPinningObjectStore.h in Headers */,
 				810155A01BB3832700D7C7BD /* PFMacros.h in Headers */,
 				810155A11BB3832700D7C7BD /* PFRESTAnalyticsCommand.h in Headers */,
@@ -5276,6 +5394,7 @@
 				810155D11BB3832700D7C7BD /* PFBaseState.h in Headers */,
 				810155D31BB3832700D7C7BD /* PFOfflineObjectController.h in Headers */,
 				810155D41BB3832700D7C7BD /* PFPropertyInfo_Private.h in Headers */,
+				9C3333C11E00125200786240 /* PFRealmDecoder.h in Headers */,
 				810155D51BB3832700D7C7BD /* PFCommandCache.h in Headers */,
 				810155D71BB3832700D7C7BD /* PFCommandCache_Private.h in Headers */,
 				810155D81BB3832700D7C7BD /* PFCommandResult.h in Headers */,
@@ -5419,6 +5538,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C3333F71E00125200786240 /* PFRealmStore.h in Headers */,
+				9C3333E91E00125200786240 /* PFRealmQuery.h in Headers */,
+				9C3333DB1E00125200786240 /* PFRealmObject.h in Headers */,
 				815F234A1BD04D150054659F /* PFPinningObjectStore.h in Headers */,
 				815F234B1BD04D150054659F /* PFMacros.h in Headers */,
 				815F234C1BD04D150054659F /* PFRESTAnalyticsCommand.h in Headers */,
@@ -5615,6 +5737,7 @@
 				81CA29F21C28ECFD00C4F34A /* PFUser+Deprecated.h in Headers */,
 				815F240A1BD04D150054659F /* PFUser.h in Headers */,
 				815F240B1BD04D150054659F /* PFSQLiteDatabase_Private.h in Headers */,
+				9C3333BF1E00125200786240 /* PFRealmDecoder.h in Headers */,
 				F5B64D8D1BFA646C0038F3CB /* ParseClientConfiguration.h in Headers */,
 				815F240C1BD04D150054659F /* PFACLState.h in Headers */,
 				815F240D1BD04D150054659F /* PFCurrentConfigController.h in Headers */,
@@ -5626,6 +5749,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C3333F41E00125200786240 /* PFRealmStore.h in Headers */,
+				9C3333E61E00125200786240 /* PFRealmQuery.h in Headers */,
+				9C3333D81E00125200786240 /* PFRealmObject.h in Headers */,
 				8124C8731B26B9E700758E00 /* PFPinningObjectStore.h in Headers */,
 				810B7D761A0291FF003C0909 /* PFMacros.h in Headers */,
 				815E764D1BDF168A00E1DF8E /* PFPersistenceController.h in Headers */,
@@ -5729,6 +5855,7 @@
 				81329E8E1AE1E8840071EE3E /* PFReachability.h in Headers */,
 				81CA29F01C28ECFD00C4F34A /* PFUser+Deprecated.h in Headers */,
 				81C7F4AC1AF42BD9007B5418 /* PFMutableQueryState.h in Headers */,
+				9C3333BC1E00125200786240 /* PFRealmDecoder.h in Headers */,
 				81CB7F991B17970400DC601D /* PFPushState_Private.h in Headers */,
 				81C7F4A21AF4220A007B5418 /* PFMutableFileState.h in Headers */,
 				8124C8AC1B27D5D600758E00 /* PFSessionUtilities.h in Headers */,
@@ -5848,6 +5975,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C3333F51E00125200786240 /* PFRealmStore.h in Headers */,
+				9C3333E71E00125200786240 /* PFRealmQuery.h in Headers */,
+				9C3333D91E00125200786240 /* PFRealmObject.h in Headers */,
 				81C583801C3B0A98000063C6 /* PFPinningObjectStore.h in Headers */,
 				81C583811C3B0A98000063C6 /* PFMacros.h in Headers */,
 				81C583821C3B0A98000063C6 /* PFPersistenceController.h in Headers */,
@@ -5887,6 +6017,7 @@
 				81C583A41C3B0A98000063C6 /* PFUserState.h in Headers */,
 				81C583A51C3B0A98000063C6 /* PFDecoder.h in Headers */,
 				81C583A61C3B0A98000063C6 /* PFGeoPointPrivate.h in Headers */,
+				9C3333BD1E00125200786240 /* PFRealmDecoder.h in Headers */,
 				81C583A71C3B0A98000063C6 /* PFURLSessionFileDownloadTaskDelegate.h in Headers */,
 				81C583A81C3B0A98000063C6 /* PFInternalUtils.h in Headers */,
 				81C583A91C3B0A98000063C6 /* PFKeychainStore.h in Headers */,
@@ -6071,6 +6202,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C3333F81E00125200786240 /* PFRealmStore.h in Headers */,
+				9C3333EA1E00125200786240 /* PFRealmQuery.h in Headers */,
+				9C3333DC1E00125200786240 /* PFRealmObject.h in Headers */,
 				81C584F21C3B0AA1000063C6 /* PFPinningObjectStore.h in Headers */,
 				81C584F31C3B0AA1000063C6 /* PFMacros.h in Headers */,
 				81C584F41C3B0AA1000063C6 /* PFRESTAnalyticsCommand.h in Headers */,
@@ -6267,6 +6401,7 @@
 				81C585B21C3B0AA1000063C6 /* PFUser+Deprecated.h in Headers */,
 				81C585B31C3B0AA1000063C6 /* PFUser.h in Headers */,
 				81C585B41C3B0AA1000063C6 /* PFSQLiteDatabase_Private.h in Headers */,
+				9C3333C01E00125200786240 /* PFRealmDecoder.h in Headers */,
 				81C585B51C3B0AA1000063C6 /* ParseClientConfiguration.h in Headers */,
 				81C585B61C3B0AA1000063C6 /* PFACLState.h in Headers */,
 				81C585B71C3B0AA1000063C6 /* PFCurrentConfigController.h in Headers */,
@@ -6278,6 +6413,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C3333FA1E00125200786240 /* PFRealmStore.h in Headers */,
+				9C3333EC1E00125200786240 /* PFRealmQuery.h in Headers */,
+				9C3333DE1E00125200786240 /* PFRealmObject.h in Headers */,
 				81C5864D1C3B0AA9000063C6 /* PFPinningObjectStore.h in Headers */,
 				81C5864E1C3B0AA9000063C6 /* PFMacros.h in Headers */,
 				81C5864F1C3B0AA9000063C6 /* PFRESTAnalyticsCommand.h in Headers */,
@@ -6331,6 +6469,7 @@
 				81C5867F1C3B0AA9000063C6 /* PFBaseState.h in Headers */,
 				81C586801C3B0AA9000063C6 /* PFOfflineObjectController.h in Headers */,
 				81C586811C3B0AA9000063C6 /* PFPropertyInfo_Private.h in Headers */,
+				9C3333C21E00125200786240 /* PFRealmDecoder.h in Headers */,
 				81C586821C3B0AA9000063C6 /* PFCommandCache.h in Headers */,
 				81C586831C3B0AA9000063C6 /* PFCommandCache_Private.h in Headers */,
 				81C586841C3B0AA9000063C6 /* PFCommandResult.h in Headers */,
@@ -6474,6 +6613,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C3333F61E00125200786240 /* PFRealmStore.h in Headers */,
+				9C3333E81E00125200786240 /* PFRealmQuery.h in Headers */,
+				9C3333DA1E00125200786240 /* PFRealmObject.h in Headers */,
 				81F0E89919E6F83E00812A88 /* PFRelation.h in Headers */,
 				81BCB4C51B744626006659CB /* PFURLSessionDataTaskDelegate.h in Headers */,
 				81C9CA0719FECF5F00D514C5 /* PFRESTFileCommand.h in Headers */,
@@ -6591,6 +6733,7 @@
 				8166FC7D1B503787003841A2 /* PFFile_Private.h in Headers */,
 				814BCDF81B4DF66500007B7F /* PFMutableUserState.h in Headers */,
 				F590194B1B7992E700F763EF /* PFSQLiteDatabaseController.h in Headers */,
+				9C3333BE1E00125200786240 /* PFRealmDecoder.h in Headers */,
 				81951F171ACB90DA00E142EB /* PFJSONSerialization.h in Headers */,
 				818D6F211B3DCB5A00F94C82 /* PFObjectEstimatedData.h in Headers */,
 				813E769B1B7A9BD000FA3294 /* PFErrorUtilities.h in Headers */,
@@ -6856,6 +6999,7 @@
 				97010FA91630B18F00AB761E /* Frameworks */,
 				97010FAA1630B18F00AB761E /* Headers */,
 				8139B12D1A7BF570002BEF84 /* Resources */,
+				9C3333A91E00103700786240 /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -7231,9 +7375,11 @@
 				8101550C1BB3832700D7C7BD /* PFCommandURLRequestConstructor.m in Sources */,
 				8101550D1BB3832700D7C7BD /* PFCoreManager.m in Sources */,
 				8101550E1BB3832700D7C7BD /* PFURLSessionUploadTaskDelegate.m in Sources */,
+				9C3334001E00125200786240 /* PFRealmStore.m in Sources */,
 				8101550F1BB3832700D7C7BD /* PFPin.m in Sources */,
 				810155101BB3832700D7C7BD /* PFMulticastDelegate.m in Sources */,
 				810155111BB3832700D7C7BD /* PFPropertyInfo_Runtime.m in Sources */,
+				9C3333C81E00125200786240 /* PFRealmDecoder.m in Sources */,
 				810155121BB3832700D7C7BD /* PFSessionUtilities.m in Sources */,
 				810155131BB3832700D7C7BD /* PFURLSessionFileDownloadTaskDelegate.m in Sources */,
 				810155141BB3832700D7C7BD /* PFOperationSet.m in Sources */,
@@ -7309,6 +7455,7 @@
 				810155611BB3832700D7C7BD /* PFObjectLocalIdStore.m in Sources */,
 				810155631BB3832700D7C7BD /* PFObjectFileCodingLogic.m in Sources */,
 				810155641BB3832700D7C7BD /* PFObjectFilePersistenceController.m in Sources */,
+				9C3333F21E00125200786240 /* PFRealmQuery.m in Sources */,
 				810155651BB3832700D7C7BD /* PFURLSessionCommandRunner.m in Sources */,
 				810155661BB3832700D7C7BD /* PFDateFormatter.m in Sources */,
 				810155671BB3832700D7C7BD /* PFPinningObjectStore.m in Sources */,
@@ -7321,6 +7468,7 @@
 				8101556E1BB3832700D7C7BD /* PFInternalUtils.m in Sources */,
 				8101556F1BB3832700D7C7BD /* PFCommandRunning.m in Sources */,
 				810155711BB3832700D7C7BD /* BFTask+Private.m in Sources */,
+				9C3333E41E00125200786240 /* PFRealmObject.m in Sources */,
 				810155721BB3832700D7C7BD /* PFEncoder.m in Sources */,
 				810155731BB3832700D7C7BD /* PFJSONSerialization.m in Sources */,
 				810155741BB3832700D7C7BD /* PFCloud.m in Sources */,
@@ -7395,6 +7543,7 @@
 				815F22CA1BD04D150054659F /* PFUserAuthenticationController.m in Sources */,
 				815F22CB1BD04D150054659F /* PFRelationState.m in Sources */,
 				815F22CC1BD04D150054659F /* ParseManager.m in Sources */,
+				9C3333E21E00125200786240 /* PFRealmObject.m in Sources */,
 				815F22CE1BD04D150054659F /* PFAnalyticsController.m in Sources */,
 				815F22CF1BD04D150054659F /* PFURLSessionDataTaskDelegate.m in Sources */,
 				815F22D01BD04D150054659F /* PFGeoPoint.m in Sources */,
@@ -7465,7 +7614,9 @@
 				815F23191BD04D150054659F /* PFInternalUtils.m in Sources */,
 				815F231A1BD04D150054659F /* PFCommandRunning.m in Sources */,
 				815F231C1BD04D150054659F /* BFTask+Private.m in Sources */,
+				9C3333F01E00125200786240 /* PFRealmQuery.m in Sources */,
 				815F231D1BD04D150054659F /* PFEncoder.m in Sources */,
+				9C3333FE1E00125200786240 /* PFRealmStore.m in Sources */,
 				815F231E1BD04D150054659F /* PFJSONSerialization.m in Sources */,
 				815F231F1BD04D150054659F /* PFCloud.m in Sources */,
 				815F23201BD04D150054659F /* PFUser.m in Sources */,
@@ -7477,6 +7628,7 @@
 				815F23261BD04D150054659F /* PFHTTPURLRequestConstructor.m in Sources */,
 				815F23271BD04D150054659F /* PFObjectUtilities.m in Sources */,
 				815F23281BD04D150054659F /* PFURLSessionJSONDataTaskDelegate.m in Sources */,
+				9C3333C61E00125200786240 /* PFRealmDecoder.m in Sources */,
 				F5B64D911BFA646C0038F3CB /* ParseClientConfiguration.m in Sources */,
 				815F23291BD04D150054659F /* PFObjectEstimatedData.m in Sources */,
 				815F232A1BD04D150054659F /* PFConfig.m in Sources */,
@@ -7841,6 +7993,7 @@
 				81C7F4A41AF4220A007B5418 /* PFMutableFileState.m in Sources */,
 				81BF4ABE1B0BF64B00A3D75B /* PFCurrentConfigController.m in Sources */,
 				81C3824E19CCAD2C0066284A /* PFRole.m in Sources */,
+				9C3333FB1E00125200786240 /* PFRealmStore.m in Sources */,
 				91DF24931A09BA7600CFC7D4 /* PFEventuallyQueue.m in Sources */,
 				81C3826B19CCAD850066284A /* PFThreadsafety.m in Sources */,
 				818D6F161B3C8D1900F94C82 /* PFObjectLocalIdStore.m in Sources */,
@@ -7888,8 +8041,10 @@
 				81C3824119CCAD2C0066284A /* PFAnalytics.m in Sources */,
 				816AC9BB1A3F48250031D94C /* PFApplication.m in Sources */,
 				812145791AA4A4C1000B23F5 /* PFSession.m in Sources */,
+				9C3333DF1E00125200786240 /* PFRealmObject.m in Sources */,
 				81C3827E19CCADA00066284A /* PFTaskQueue.m in Sources */,
 				81C3828019CCADA00066284A /* PFLocationManager.m in Sources */,
+				9C3333ED1E00125200786240 /* PFRealmQuery.m in Sources */,
 				81C3824D19CCAD2C0066284A /* PFRelation.m in Sources */,
 				F5C42CDC1B38761B00C720D8 /* PFObjectSubclassInfo.m in Sources */,
 				81146C801A785203001F8473 /* PFRESTObjectCommand.m in Sources */,
@@ -7905,6 +8060,7 @@
 				81C7F4AE1AF42BD9007B5418 /* PFMutableQueryState.m in Sources */,
 				812B02981B5DE3EE003846EE /* PFURLSession.m in Sources */,
 				81C3824A19CCAD2C0066284A /* PFPurchase.m in Sources */,
+				9C3333C31E00125200786240 /* PFRealmDecoder.m in Sources */,
 				81E7A21E1B602560006CB680 /* PFUserFileCodingLogic.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -8001,6 +8157,7 @@
 				81C5833B1C3B0A98000063C6 /* PFMutableFileState.m in Sources */,
 				81C5833C1C3B0A98000063C6 /* PFCurrentConfigController.m in Sources */,
 				81C5833D1C3B0A98000063C6 /* PFRole.m in Sources */,
+				9C3333FC1E00125200786240 /* PFRealmStore.m in Sources */,
 				81C5833E1C3B0A98000063C6 /* PFEventuallyQueue.m in Sources */,
 				81C5833F1C3B0A98000063C6 /* PFThreadsafety.m in Sources */,
 				81C583401C3B0A98000063C6 /* PFObjectLocalIdStore.m in Sources */,
@@ -8048,8 +8205,10 @@
 				81C583691C3B0A98000063C6 /* PFAnalytics.m in Sources */,
 				81C5836A1C3B0A98000063C6 /* PFApplication.m in Sources */,
 				81C5836B1C3B0A98000063C6 /* PFSession.m in Sources */,
+				9C3333E01E00125200786240 /* PFRealmObject.m in Sources */,
 				81C5836C1C3B0A98000063C6 /* PFTaskQueue.m in Sources */,
 				81C5836D1C3B0A98000063C6 /* PFLocationManager.m in Sources */,
+				9C3333EE1E00125200786240 /* PFRealmQuery.m in Sources */,
 				81C5836E1C3B0A98000063C6 /* PFRelation.m in Sources */,
 				81C5836F1C3B0A98000063C6 /* PFObjectSubclassInfo.m in Sources */,
 				81C583701C3B0A98000063C6 /* PFRESTObjectCommand.m in Sources */,
@@ -8065,6 +8224,7 @@
 				81C5837A1C3B0A98000063C6 /* PFMutableQueryState.m in Sources */,
 				81C5837B1C3B0A98000063C6 /* PFURLSession.m in Sources */,
 				81C5837C1C3B0A98000063C6 /* PFPurchase.m in Sources */,
+				9C3333C41E00125200786240 /* PFRealmDecoder.m in Sources */,
 				81C5837D1C3B0A98000063C6 /* PFUserFileCodingLogic.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -8101,6 +8261,7 @@
 				81C5847C1C3B0AA1000063C6 /* PFUserAuthenticationController.m in Sources */,
 				81C5847D1C3B0AA1000063C6 /* PFRelationState.m in Sources */,
 				81C5847E1C3B0AA1000063C6 /* ParseManager.m in Sources */,
+				9C3333E31E00125200786240 /* PFRealmObject.m in Sources */,
 				81C5847F1C3B0AA1000063C6 /* PFAnalyticsController.m in Sources */,
 				81C584801C3B0AA1000063C6 /* PFURLSessionDataTaskDelegate.m in Sources */,
 				81C584811C3B0AA1000063C6 /* PFGeoPoint.m in Sources */,
@@ -8171,7 +8332,9 @@
 				81C584C21C3B0AA1000063C6 /* PFInternalUtils.m in Sources */,
 				81C584C31C3B0AA1000063C6 /* PFCommandRunning.m in Sources */,
 				81C584C41C3B0AA1000063C6 /* BFTask+Private.m in Sources */,
+				9C3333F11E00125200786240 /* PFRealmQuery.m in Sources */,
 				81C584C51C3B0AA1000063C6 /* PFEncoder.m in Sources */,
+				9C3333FF1E00125200786240 /* PFRealmStore.m in Sources */,
 				81C584C61C3B0AA1000063C6 /* PFJSONSerialization.m in Sources */,
 				81C584C71C3B0AA1000063C6 /* PFCloud.m in Sources */,
 				81C584C81C3B0AA1000063C6 /* PFUser.m in Sources */,
@@ -8183,6 +8346,7 @@
 				81C584CE1C3B0AA1000063C6 /* PFHTTPURLRequestConstructor.m in Sources */,
 				81C584CF1C3B0AA1000063C6 /* PFObjectUtilities.m in Sources */,
 				81C584D01C3B0AA1000063C6 /* PFURLSessionJSONDataTaskDelegate.m in Sources */,
+				9C3333C71E00125200786240 /* PFRealmDecoder.m in Sources */,
 				81C584D11C3B0AA1000063C6 /* ParseClientConfiguration.m in Sources */,
 				81C584D21C3B0AA1000063C6 /* PFObjectEstimatedData.m in Sources */,
 				81C584D31C3B0AA1000063C6 /* PFConfig.m in Sources */,
@@ -8226,9 +8390,11 @@
 				81C585C81C3B0AA9000063C6 /* PFCommandURLRequestConstructor.m in Sources */,
 				81C585C91C3B0AA9000063C6 /* PFCoreManager.m in Sources */,
 				81C585CA1C3B0AA9000063C6 /* PFURLSessionUploadTaskDelegate.m in Sources */,
+				9C3334011E00125200786240 /* PFRealmStore.m in Sources */,
 				81C585CB1C3B0AA9000063C6 /* PFPin.m in Sources */,
 				81C585CC1C3B0AA9000063C6 /* PFMulticastDelegate.m in Sources */,
 				81C585CD1C3B0AA9000063C6 /* PFPropertyInfo_Runtime.m in Sources */,
+				9C3333C91E00125200786240 /* PFRealmDecoder.m in Sources */,
 				81C585CE1C3B0AA9000063C6 /* PFSessionUtilities.m in Sources */,
 				81C585CF1C3B0AA9000063C6 /* PFURLSessionFileDownloadTaskDelegate.m in Sources */,
 				81C585D01C3B0AA9000063C6 /* PFOperationSet.m in Sources */,
@@ -8304,6 +8470,7 @@
 				81C586151C3B0AA9000063C6 /* PFObjectLocalIdStore.m in Sources */,
 				81C586161C3B0AA9000063C6 /* PFObjectFileCodingLogic.m in Sources */,
 				81C586171C3B0AA9000063C6 /* PFObjectFilePersistenceController.m in Sources */,
+				9C3333F31E00125200786240 /* PFRealmQuery.m in Sources */,
 				81C586181C3B0AA9000063C6 /* PFURLSessionCommandRunner.m in Sources */,
 				81C586191C3B0AA9000063C6 /* PFDateFormatter.m in Sources */,
 				81C5861A1C3B0AA9000063C6 /* PFPinningObjectStore.m in Sources */,
@@ -8316,6 +8483,7 @@
 				81C586211C3B0AA9000063C6 /* PFInternalUtils.m in Sources */,
 				81C586221C3B0AA9000063C6 /* PFCommandRunning.m in Sources */,
 				81C586231C3B0AA9000063C6 /* BFTask+Private.m in Sources */,
+				9C3333E51E00125200786240 /* PFRealmObject.m in Sources */,
 				81C586241C3B0AA9000063C6 /* PFEncoder.m in Sources */,
 				81C586251C3B0AA9000063C6 /* PFJSONSerialization.m in Sources */,
 				81C586261C3B0AA9000063C6 /* PFCloud.m in Sources */,
@@ -8421,6 +8589,7 @@
 				8166FCE01B503914003841A2 /* PFAnonymousAuthenticationProvider.m in Sources */,
 				970110881630B45800AB761E /* PFQuery.m in Sources */,
 				970110891630B45800AB761E /* PFRelation.m in Sources */,
+				9C3333E11E00125200786240 /* PFRealmObject.m in Sources */,
 				81EBF3461B33E7DE00991947 /* PFPushChannelsController.m in Sources */,
 				9701108A1630B45800AB761E /* PFRole.m in Sources */,
 				9701108C1630B45800AB761E /* PFUser.m in Sources */,
@@ -8493,17 +8662,20 @@
 				81BBE1381A0062B800622646 /* PFRESTAnalyticsCommand.m in Sources */,
 				815EE92019F987910076FE5D /* PFRESTCloudCommand.m in Sources */,
 				8166FCDC1B503914003841A2 /* PFUserAuthenticationController.m in Sources */,
+				9C3333C51E00125200786240 /* PFRealmDecoder.m in Sources */,
 				815EE92619F989390076FE5D /* PFRESTConfigCommand.m in Sources */,
 				814881631B795CD4008763BF /* PFMultiProcessFileLock.m in Sources */,
 				81ABC1011B5427EC00BA9009 /* PFUserController.m in Sources */,
 				974268CA1651ED4E00F2BC57 /* PFCommandResult.m in Sources */,
 				81AFE0E91A1FDB7D00AB6CB3 /* PFRESTUserCommand.m in Sources */,
 				97EB055516F7CCE400E09147 /* PFAnalytics.m in Sources */,
+				9C3333FD1E00125200786240 /* PFRealmStore.m in Sources */,
 				81951F191ACB90DA00E142EB /* PFJSONSerialization.m in Sources */,
 				8166FCBB1B503886003841A2 /* PFPin.m in Sources */,
 				8166FCB71B503886003841A2 /* PFOfflineStore.m in Sources */,
 				815EE8F819F976D50076FE5D /* PFRESTCommand.m in Sources */,
 				81CB7F781B166FF500DC601D /* PFMutableObjectState.m in Sources */,
+				9C3333EF1E00125200786240 /* PFRealmQuery.m in Sources */,
 				8166FC861B503794003841A2 /* PFInstallationIdentifierStore.m in Sources */,
 				8196D55E1B0AB64B000465A1 /* PFAnalyticsController.m in Sources */,
 				8196D5641B0AB661000465A1 /* PFAnalyticsUtilities.m in Sources */,
@@ -8611,6 +8783,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 810154FE1BB382F800D7C7BD /* Parse-watchOS.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
+				);
 			};
 			name = Debug;
 		};
@@ -8618,6 +8794,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 810154FE1BB382F800D7C7BD /* Parse-watchOS.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
+				);
 			};
 			name = Release;
 		};
@@ -8625,6 +8805,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 815F24171BD04D310054659F /* Parse-tvOS.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+				);
 			};
 			name = Debug;
 		};
@@ -8632,6 +8816,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 815F24171BD04D310054659F /* Parse-tvOS.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+				);
 			};
 			name = Release;
 		};
@@ -8667,6 +8855,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F55ABB531B4F39DA00A0ECD5 /* Parse-iOS.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 			};
 			name = Debug;
 		};
@@ -8674,6 +8866,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F55ABB531B4F39DA00A0ECD5 /* Parse-iOS.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 			};
 			name = Release;
 		};
@@ -8681,6 +8877,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81C582DE1C3B0A40000063C6 /* Parse-iOS-Dynamic.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 			};
 			name = Debug;
 		};
@@ -8688,6 +8888,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81C582DE1C3B0A40000063C6 /* Parse-iOS-Dynamic.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 			};
 			name = Release;
 		};
@@ -8695,6 +8899,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81C582DF1C3B0A40000063C6 /* Parse-tvOS-Dynamic.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+				);
 			};
 			name = Debug;
 		};
@@ -8702,6 +8910,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81C582DF1C3B0A40000063C6 /* Parse-tvOS-Dynamic.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+				);
 			};
 			name = Release;
 		};
@@ -8709,6 +8921,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81C582E01C3B0A40000063C6 /* Parse-watchOS-Dynamic.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
+				);
 			};
 			name = Debug;
 		};
@@ -8716,6 +8932,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81C582E01C3B0A40000063C6 /* Parse-watchOS-Dynamic.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
+				);
 			};
 			name = Release;
 		};
@@ -8723,6 +8943,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F55ABB541B4F39DA00A0ECD5 /* Parse-macOS.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+				);
 			};
 			name = Debug;
 		};
@@ -8730,6 +8954,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F55ABB541B4F39DA00A0ECD5 /* Parse-macOS.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+				);
 			};
 			name = Release;
 		};

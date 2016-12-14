@@ -1,1 +1,2 @@
 github "BoltsFramework/Bolts-ObjC" ~> 1.6
+github "realm/realm-cocoa" ~> 2.1
