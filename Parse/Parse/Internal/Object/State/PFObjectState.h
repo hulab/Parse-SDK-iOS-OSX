@@ -67,4 +67,17 @@ typedef void(^PFObjectStateMutationBlock)(PFMutableObjectState *state);
 
 - (PFObjectState *)copyByMutatingWithBlock:(PFObjectStateMutationBlock)block;
 
+///--------------------------------------
+#pragma mark - Equality
+///--------------------------------------
+
+/**
+ Returns a Boolean value that indicates whether the receiver and a given state are equal.
+ To be considered as equal, they must have the same `parseClassName` and the same `objectId`.
+ 
+ @param state The state to be compared to the receiver. May be nil, in which case this method returns NO.
+ @return YES if the receiver and the other object are equal, otherwise NO.
+ */
+- (BOOL)isEqualToState:(PFObjectState *)state;
+
 @end

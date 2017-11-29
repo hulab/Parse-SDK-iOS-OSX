@@ -2550,6 +2550,30 @@ static void PFObjectAssertValueIsKindOfValidClass(id object) {
     return [Parse _currentManager].coreManager.objectSubclassingController;
 }
 
+///--------------------------------------
+#pragma mark - Equality
+///--------------------------------------
+
+- (BOOL)isEqual:(id)other {
+    return [self isEqualToObject:other];
+}
+
+- (NSUInteger)hash {
+    return _pfinternal_state.hash;
+}
+
+- (BOOL)isEqualToObject:(PFObject *)object {
+    if (object == self) {
+        return YES;
+    }
+    
+    if (![object isKindOfClass:[PFObject class]]) {
+        return NO;
+    }
+    
+    return [_pfinternal_state isEqualToState:object->_pfinternal_state];
+}
+
 @end
 
 ///--------------------------------------
