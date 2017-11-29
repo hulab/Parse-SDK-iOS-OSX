@@ -869,6 +869,19 @@ NS_REQUIRES_PROPERTY_DEFINITIONS
                     withName:(NSString *)name
                        block:(nullable PFBooleanResultBlock)block;
 
+///--------------------------------------
+#pragma mark - Equality
+///--------------------------------------
+
+/**
+ Returns a Boolean value that indicates whether the receiver and a given object are equal.
+ If two Parse objects are equal, they must have the same `parseClassName` and the same `objectId`.
+ 
+ @param object The object to be compared to the receiver. May be nil, in which case this method returns NO.
+ @return YES if the receiver and the other object are equal, otherwise NO.
+ */
+- (BOOL)isEqualToObject:(PFObject *)object;
+
 @end
 
 NS_ASSUME_NONNULL_END

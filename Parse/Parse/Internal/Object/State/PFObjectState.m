@@ -211,4 +211,31 @@
     return [[PFMutableObjectState allocWithZone:zone] initWithState:self];
 }
 
+///--------------------------------------
+#pragma mark - Equality
+///--------------------------------------
+
+- (BOOL)isEqual:(id)other {
+    return [self isEqualToState:other];
+}
+
+- (NSUInteger)hash {
+    return [NSString stringWithFormat:@"%@:%@", self.parseClassName, self.objectId].hash;
+}
+
+- (BOOL)isEqualToState:(PFObjectState *)state {
+    if (state == self) {
+        return YES;
+    }
+    
+    if (![state isKindOfClass:[PFObjectState class]]) {
+        return NO;
+    }
+    
+    if (![self.parseClassName isEqualToString:state.parseClassName]) {
+        return NO;
+    }
+    return [self.objectId isEqualToString:state.objectId];
+}
+
 @end
