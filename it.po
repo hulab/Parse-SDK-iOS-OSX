@@ -7,16 +7,6 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Language: it\n"
 
-#:
-msgctxt "WatchKit Extension/Info.plist"
-msgid "NSLocationUsageDescription"
-msgstr ""
-
-#:
-msgctxt "WatchKit Extension/Info.plist"
-msgid "NSLocationWhenInUseUsageDescription"
-msgstr ""
-
 #. Place Sharing - in <CityName>
 #:
 msgid " in %s."
@@ -2455,38 +2445,3 @@ msgstr "i tuoi luoghi, il tuo mondo"
 #:
 msgid "your friend"
 msgstr "tuo amico"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSCameraUsageDescription"
-msgstr "Mapstr ha bisogno di accedere alla fotocamera per la scansione di un indirizzo!"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSContactsUsageDescription"
-msgstr "Mapstr ha bisogno di accedere ai tuoi contatti per importarli sulla tua mappa!"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationAlwaysAndWhenInUseUsageDescription"
-msgstr ""
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationAlwaysUsageDescription"
-msgstr "Mapstr ha bisogno di accedere in background alla tua posizione per notifiche sui luoghi vicini!"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationUsageDescription"
-msgstr "Mapstr ha bisogno di accedere alla tua posizione per visualizzare i luoghi attorno a te!"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationWhenInUseUsageDescription"
-msgstr "Mapstr ha bisogno di accedere alla tua posizione per visualizzare i luoghi attorno a te!"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSPhotoLibraryUsageDescription"
-msgstr "Mapstr ha bisogno di accedere alla tua galleria di foto per permetterti di aggiungere l'immagine personale!"

@@ -1980,31 +1980,3 @@ msgstr "your Places, your World"
 #. your friend
 msgid "your friend"
 msgstr "your friend"
-
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSCameraUsageDescription"
-msgstr "Mapstr needs to access to the camera to scan an address!"
-
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSContactsUsageDescription"
-msgstr "Mapstr needs to access your contacts to import them in your map!"
-
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationAlwaysAndWhenInUseUsageDescription"
-msgstr "Mapstr needs to access to your location in background (\"Always allow\") for nearby places notifications"
-
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationAlwaysUsageDescription"
-msgstr "Mapstr needs to access to your location in background for nearby places notifications!"
-
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationUsageDescription"
-msgstr "Mapstr needs to access to your location to show places around you!"
-
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationWhenInUseUsageDescription"
-msgstr "Mapstr needs to access to your location to show places around you!"
-
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSPhotoLibraryUsageDescription"
-msgstr "Mapstr needs to access your Photo library to let you add your own picture!"

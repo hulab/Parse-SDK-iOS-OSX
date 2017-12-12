@@ -3,24 +3,15 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-12-12 12:39+0000\n"
+"PO-Revision-Date: 2017-12-12 15:15+0100\n"
 "Last-Translator: Sebastien <sebastien@mapstr.com>\n"
-"Language-Team: French "
-"<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
+"Language-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.17.1\n"
-
-msgctxt "WatchKit Extension/Info.plist"
-msgid "NSLocationUsageDescription"
-msgstr ""
-
-msgctxt "WatchKit Extension/Info.plist"
-msgid "NSLocationWhenInUseUsageDescription"
-msgstr ""
+"X-Generator: Poedit 2.0.5\n"
 
 #. Place Sharing - in <CityName>
 msgid " in %s."
@@ -2144,60 +2135,3 @@ msgstr "la Carte de votre Monde"
 #. your friend
 msgid "your friend"
 msgstr "votre ami"
-
-#, fuzzy
-#| msgctxt "Mapstr/iOS/Permissions"
-#| msgid "NSCameraUsageDescription"
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSCameraUsageDescription"
-msgstr "Mapstr a besoin d'accéder à la caméra pour scanner vos adresses !"
-
-#, fuzzy
-#| msgctxt "Mapstr/iOS/Permissions"
-#| msgid "NSContactsUsageDescription"
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSContactsUsageDescription"
-msgstr "Mapstr a besoin d'accéder à vos contacts pour les ajouter à votre carte !"
-
-#, fuzzy
-#| msgctxt "Mapstr/iOS/Permissions"
-#| msgid "NSLocationWhenInUseUsageDescription"
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationAlwaysAndWhenInUseUsageDescription"
-msgstr ""
-"Mapstr a besoin d'accéder à votre position pour afficher les adresses autour de "
-"vous !"
-
-#, fuzzy
-#| msgctxt "Mapstr/iOS/Permissions"
-#| msgid "NSLocationAlwaysUsageDescription"
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationAlwaysUsageDescription"
-msgstr ""
-"Mapstr a besoin d'accéder à votre position en arrière-plan pour les notifications de "
-"proximité !"
-
-#, fuzzy
-#| msgctxt "Mapstr/iOS/Permissions"
-#| msgid "NSLocationUsageDescription"
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationUsageDescription"
-msgstr ""
-"Mapstr a besoin d'accéder à votre position pour afficher les adresses autour de "
-"vous !"
-
-#, fuzzy
-#| msgctxt "Mapstr/iOS/Permissions"
-#| msgid "NSLocationWhenInUseUsageDescription"
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationWhenInUseUsageDescription"
-msgstr ""
-"Mapstr a besoin d'accéder à votre position pour afficher les adresses autour de "
-"vous !"
-
-#, fuzzy
-#| msgctxt "Mapstr/iOS/Permissions"
-#| msgid "NSPhotoLibraryUsageDescription"
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSPhotoLibraryUsageDescription"
-msgstr "Mapstr a besoin d'accéder à vos photos !"

@@ -7,16 +7,6 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Language: nl\n"
 
-#:
-msgctxt "WatchKit Extension/Info.plist"
-msgid "NSLocationUsageDescription"
-msgstr ""
-
-#:
-msgctxt "WatchKit Extension/Info.plist"
-msgid "NSLocationWhenInUseUsageDescription"
-msgstr ""
-
 #. Place Sharing - in <CityName>
 #:
 msgid " in %s."
@@ -2455,38 +2445,3 @@ msgstr "Uw Plaatsen, uw Wereld"
 #:
 msgid "your friend"
 msgstr "uw vriend"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSCameraUsageDescription"
-msgstr "Mapstr moet de toegang hebben tot de camera om een adres te scannen!"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSContactsUsageDescription"
-msgstr "Mapstr heeft toegang nodig tot uw contactpersonen om ze in uw kaart te importeren!"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationAlwaysAndWhenInUseUsageDescription"
-msgstr ""
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationAlwaysUsageDescription"
-msgstr "Mapstr heeft toegang nodig tot je locatie voor nabijheidsmeldingen!"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationUsageDescription"
-msgstr "Mapstr heeft toegang nodig tot uw locatie om de plaatsen om u heen te laten zien!"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSLocationWhenInUseUsageDescription"
-msgstr "Mapstr heeft toegang nodig tot uw locatie om plaatsen om u heen te laten zien!"
-
-#:
-msgctxt "Mapstr/iOS/Permissions"
-msgid "NSPhotoLibraryUsageDescription"
-msgstr "Mapstr heeft toegang nodig tot uw foto bibliotheek om u uw eigen foto toe te laten voegen!"
