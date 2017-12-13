@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-12-13 11:16+0000\n"
+"PO-Revision-Date: 2017-12-13 12:21+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
 "Language-Team: French "
 "<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
@@ -1209,7 +1209,8 @@ msgstr "Cartes officielles que vous pourriez aimer"
 
 #. Official photos cannot be removed. We're sorry for that.
 msgid "Official photos cannot be removed. We're sorry for that."
-msgstr "Les photos officielles ne peuvent être supprimées. Nous en sommes désolés !"
+msgstr ""
+"Les photos officielles ne peuvent être supprimées. Nous en sommes désolés."
 
 #. Ok, let's do it!
 msgid "Ok, let's do it!"
@@ -1621,7 +1622,7 @@ msgstr "Appuyez ici pour ajouter des amis"
 
 #. Tips - More details
 msgid "Tap here to add more details to this place"
-msgstr "Tap here to add more details to this place"
+msgstr "Touchez ici pour ajouter plus d'informations à cet adresse"
 
 #. Tips - Opening hours
 msgid "Tap here to see the opening hours of this place"
@@ -1886,8 +1887,9 @@ msgid ""
 "Please, tell us what you think we should do to improve in Mapstr, or just tell us "
 "what you dislike..."
 msgstr ""
-"Nous sommes désolés d'apprendre ça ! Pourriez-vous nous dire ce que nous pouvons "
-"faire pour améliorer Mapstr, ou juste ce que vous n'avez pas aimé ?"
+"Nous sommes désolés d'apprendre ça !\n"
+"Pourriez-vous nous dire ce que nous pouvons faire pour améliorer Mapstr, ou "
+"juste ce que vous n'avez pas aimé ?"
 
 #. We're sorry, but it seems an error occured! Please try again later...
 msgid "We're sorry, but it seems an error occured! Please try again later..."
