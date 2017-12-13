@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-12-13 09:58+0000\n"
+"PO-Revision-Date: 2017-12-13 11:16+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
 "Language-Team: French "
 "<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
@@ -672,7 +672,7 @@ msgstr "Recherche"
 
 #. Tips - Find friends
 msgid "Find your friends to see their maps!"
-msgstr "Accédez à vos amis pour découvrir leurs adresses!"
+msgstr "Accédez à vos amis pour découvrir leurs adresses !"
 
 #. First name
 msgid "First name"
@@ -1864,7 +1864,8 @@ msgstr ""
 msgid ""
 "We were not able to save your photo, we're sorry for that. Please, try again later!"
 msgstr ""
-"Nous n'avons pas pu enregistrer votre photo, désolé. Merci de réessayer plus tard..."
+"Nous n'avons pas pu enregistrer votre photo, désolé. Merci de réessayer plus "
+"tard !"
 
 #. We won't post anything to Facebook, we hate that too!
 msgid "We won't post anything to Facebook, we hate that too!"
