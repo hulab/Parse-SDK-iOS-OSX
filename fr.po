@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-12-12 15:15+0100\n"
-"Last-Translator: Sebastien <sebastien@mapstr.com>\n"
-"Language-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
+"PO-Revision-Date: 2017-12-13 09:58+0000\n"
+"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
+"Language-Team: French "
+"<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Weblate 2.17.1\n"
 
 #. Place Sharing - in <CityName>
 msgid " in %s."
@@ -289,7 +290,7 @@ msgstr "Autour de vous"
 
 #. Article
 msgid "Article"
-msgstr ""
+msgstr "Article"
 
 #. At this address
 msgid "At this address"
@@ -488,7 +489,7 @@ msgstr "Données"
 
 #. Filter sorting list view - Date
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 #. Deactivated
 msgid "Deactivated"
@@ -536,7 +537,7 @@ msgstr "Déconnexion..."
 
 #. Filter sorting list view - Distance
 msgid "Distance"
-msgstr ""
+msgstr "Distance"
 
 #. Do you also want to disable nearby alerts for every existing places with this tag?
 msgid ""
@@ -623,7 +624,7 @@ msgstr "Ajoutez un site web"
 
 #. Enter an article
 msgid "Enter an article"
-msgstr ""
+msgstr "Ajoutez l'URL d'un article"
 
 #. Enter your friend's username or email
 msgid "Enter your friend's username or email:"
@@ -1252,7 +1253,7 @@ msgstr "Autres"
 
 #. Others - Export to other services
 msgid "Others"
-msgstr ""
+msgstr "Autres"
 
 #. Select Place - Section header: PLACES AROUND
 msgid "PLACES AROUND"
@@ -1292,7 +1293,7 @@ msgstr "Merci de mettre à jour l'application."
 
 #. Please wait... - Export bezel loading
 msgid "Please wait..."
-msgstr ""
+msgstr "Veuillez patienter..."
 
 #. Please, check your emails to reset your password
 msgid "Please, check your emails to reset your password"
@@ -1727,11 +1728,11 @@ msgstr "Cet utilisateur"
 
 #. This username is already used.
 msgid "This username is already used."
-msgstr ""
+msgstr "Ce nom d'utilisateur est déjà utilisé."
 
 #. This username is invalid.
 msgid "This username is invalid."
-msgstr ""
+msgstr "Ce nom d'utilisateur est invalide."
 
 #. Time Machine
 msgid "Time Machine"
@@ -1772,11 +1773,11 @@ msgstr "Impossible de se connecter à votre compte Facebook"
 
 #. Unfollow
 msgid "Unfollow"
-msgstr ""
+msgstr "Ne plus suivre"
 
 #. Unfollow {name}?
 msgid "Unfollow %s?"
-msgstr ""
+msgstr "Ne plus suivre %s ?"
 
 #. Update
 msgid "Update"
