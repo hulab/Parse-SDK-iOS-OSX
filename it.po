@@ -1,11 +1,17 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: Mapstr\n"
+"Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
+"PO-Revision-Date: 2017-12-13 12:26+0000\n"
+"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
+"Language-Team: Italian "
+"<https://translation.hulab.co/projects/mapstr/mapstr/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
-"Project-Id-Version: Mapstr\n"
-"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.17.1\n"
 
 #. Place Sharing - in <CityName>
 #:
@@ -945,7 +951,11 @@ msgstr "Ehi, non hai abilitato Mapstr all'utilizzo della tua posizione. Apri le 
 msgid "Hey,\n"
 "I use Mapstr app to save all my favorite places in the world, tag them and share them... and I'd like to share them with you!\n"
 " Download Mapstr for free: "
-msgstr "Ehi, sto utilizzando l'app Mastr per salvare tutti i miei luoghi preferiti nel mondo, taggarli e condividerli... e mi piacerebbe condividerli con te! Scarica Mapstr gratuitamente:"
+msgstr ""
+"Ehi,\n"
+"sto utilizzando l'app Mastr per salvare tutti i miei luoghi preferiti nel "
+"mondo, taggarli e condividerli...\n"
+"e mi piacerebbe condividerli con te! Scarica Mapstr gratuitamente: "
 
 #. Default tag: Hotel
 #:
