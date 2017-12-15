@@ -23,4 +23,8 @@ Pod::Spec.new do |s|
 
   s.dependency 'POLocalizedString'
 
+  s.subspec 'po' do |ss|
+    ss.resources = 'po/*.po'
+  end
+
 end
