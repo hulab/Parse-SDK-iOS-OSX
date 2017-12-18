@@ -1,2457 +1,2179 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Mapstr\n"
-"Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
-"PO-Revision-Date: 2017-12-13 12:26+0000\n"
-"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: Portuguese (Brazil) "
-"<https://translation.hulab.co/projects/mapstr/mapstr/pt_BR/>\n"
+"POT-Creation-Date: 2017-12-18 10:52+0000\n"
+"PO-Revision-Date: 2017-12-18 14:23+0100\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.17.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.5\n"
 
-#. Place Sharing - in <CityName>
-#:
-msgid " in %s."
-msgstr "em %s."
-
-#. is waiting for you on mapstr!
-#:
-msgid " is waiting for you on mapstr!"
-msgstr "está esperando você no mapstr!"
-
-#. is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!
-#:
-msgid " is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!"
-msgstr "está esperando você no mapstr, o primeiro aplicativo com mapa e notas para que os usuários salvem, vejam, compartilhem e enviem seus lugares favoritos!"
-
-#. shared:
-#:
-msgid " shared:"
-msgstr "compartilhado:"
-
-#. wants to share this place with you!
-#:
-msgid " wants to share this place with you!"
-msgstr "quer compartilhar este lugar com você!"
-
-#. wants you to use Mapstr!
-#:
-msgid " wants you to use Mapstr!"
-msgstr "quer que você use Mapstr!"
-
-#. {service name} Import
-#:
-msgid "%s Import"
-msgstr "Importar %s"
-
-#. No comment provided by engineer.
-#:
-msgid "%s Share"
-msgstr "%s Compartilhar"
-
-#. {distance} from location
-#:
-msgid "%s from location"
-msgstr "%s da localização"
-
-#. No Places - <Username> has no places yet
-#:
-msgid "%s has no places yet"
-msgstr "%s não tem lugares ainda"
-
-#. No Places - <Username> hasn't saved any place, yet.
-#:
-msgid "%s hasn't saved any place, yet."
-msgstr "%s ainda não salvou nenhum lugar."
-
-#. {Username} invited you!
-#:
-msgid "%s invited you!"
-msgstr "%s convidou você!"
-
-#. {hidden count} Invites
-#:
-msgid "%li Invites"
-msgstr "%1$li Convites"
-
-#. {friends count} friends
-#:
-msgid "%li friends"
-msgstr "%1$li amigos"
-
-#. {places count} places Sharing card - {places count} places
-#:
-msgid "%li places"
-msgstr "%1$li lugares"
-
-#. Tips - Save the place
-#:
-msgid "... and save the place to your map!"
-msgstr "... e salve o lugar no seu mapa!"
-
-#. A friend
-#:
-msgid "A friend"
-msgstr "Um amigo"
-
-#. A new version is available
-#:
-msgid "A new version is available"
-msgstr "Uma versão nova está disponível"
-
-#. Time Machine - body
-#:
-msgid "A new version will be created at each app launch, and the last 7 versions will be presented here.\n"
-"If you have multiple accounts, you will have specific files for each account."
-msgstr "Uma nova versão será criada em cada lançamento do aplicativo, e as últimas 7 versões serão apresentadas aqui. Se você tiver várias contas, você terá arquivos específicos para cada conta."
-
-#. Select Place - Section header: AT LOCATION
-#:
-msgid "AT LOCATION"
-msgstr "NA LOCALIZAÇÃO"
-
-#. Accept
-#:
-msgid "Accept"
-msgstr "Aceitar"
-
-#. Account
-#:
-msgid "Account"
-msgstr "Conta"
-
-#. Account Details
-#:
-msgid "Account Details"
-msgstr "Detalhes da Conta"
-
-#. Account settings
-#:
-msgid "Account settings"
-msgstr "Configurações de conta"
-
-#. Account visibility
-#:
-msgid "Account visibility"
-msgstr "Visibilidade da conta"
-
-#. Activate Notifications Turn on Notifications
-#:
-msgid "Activate Notifications"
-msgstr "Ativar Notificações"
-
-#. Activated
-#:
-msgid "Activated"
-msgstr "Ativado"
-
-#. Active
-#:
-msgid "Active"
-msgstr "Ativo"
-
-#. Add Sharing card - Add button
-#:
+#. Add
 msgid "Add"
 msgstr "Adicionar"
 
-#. Add @{username} to share your places
-#:
-msgid "Add @%s to share your places"
-msgstr "Adicione @%s para compartilhar seus lugares"
+#. Next
+msgid "Next"
+msgstr "Seguinte"
+
+#. Resend Invite
+msgid "Resend Invite"
+msgstr "Reenviar Convite"
+
+#. Already on Mapstr!
+msgid "Already on Mapstr!"
+msgstr "Já está no Mapstr!"
+
+#. Add your friends and discover their favorite places.
+msgid "Add your friends and discover their favorite places."
+msgstr "Adicione seus amigos e descubra seus lugares favoritos."
+
+#. Account visibility
+msgid "Account visibility"
+msgstr "Visibilidade da conta"
+
+#. Do you also want to disable nearby alerts for every existing places with this tag?
+msgid "Do you also want to disable nearby alerts for every existing places with this tag?"
+msgstr "Também deseja desativar alertas nas proximidades para todos os lugares com esta tag?"
+
+#. Disable nearby alerts for this tag
+msgid "Disable nearby alerts for this tag"
+msgstr "Desativar alertas nas proximidades para esta tag"
+
+#. Enable nearby alerts for this tag
+msgid "Enable nearby alerts for this tag"
+msgstr "Ativar alertas nas proximidades para esta tag"
+
+#. Following
+msgid "Following"
+msgstr "Seguindo"
+
+#. Visible profile
+msgid "Visible profile"
+msgstr "Perfil visível"
+
+#. By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n\nIn both cases your map remains strictly private and is only accessible by your friends after you accept their invitation.
+msgid ""
+"By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n"
+"\n"
+"In both cases your map remains strictly private and is only accessible by your friends after you accept their invitation."
+msgstr ""
+"Por padrão, seu perfil aparecerá nos resultados de pesquisa de amigos para ajudá-los a te encontrar. Se não quiser, você pode optar por não aparecer, e apenas os usuários que conhecem seu nome de usuário exato poderão encontrá-lo.\n"
+"\n"
+"Em ambos os casos, o seu mapa permanece estritamente privado e só é acessível a seus amigos após você aceitar o convite deles."
+
+#. Type the name or username of the person you are looking for...
+msgid "Type the name or username of the person you are looking for..."
+msgstr "Digite o nome ou o nome de usuário da pessoa que você está procurando..."
+
+#. Notification Body - Your friend {firstname} just joined Mapstr!
+msgid "NEW_FB_FRIEND_BODY"
+msgstr "Seu amigo %s acabou de entrar no Mapstr!"
+
+#. Notification Body - {firstname} just saved a new place on his map!
+msgid "NEW_SAVED_PLACE_BODY"
+msgstr "%s acabou de salvar um lugar novo no mapa!"
+
+#. Place Sharing - in {CityName}
+msgid " in %s."
+msgstr " em %s."
+
+#. {distance} from location
+msgid "%s from location"
+msgstr "%s da localização"
+
+#. No Places - {Username} has no places yet
+msgid "%s has no places yet"
+msgstr "%s não tem lugares ainda"
+
+msgid "%s Share"
+msgstr "%s Compartilhar"
+
+#. {friends count} friends
+msgid "%i friends"
+msgstr "%i amigos"
+
+#. {places count} places
+msgid "%i places"
+msgstr "%i lugares"
+
+#. {hidden count} Invites
+msgid "%i Invites"
+msgstr "%i Convites"
+
+#. Account Details
+msgid "Account Details"
+msgstr "Detalhes da Conta"
+
+#. Active
+msgid "Active"
+msgstr "Ativo"
 
 #. Add a friend
-#:
 msgid "Add a friend"
 msgstr "Adicionar um amigo"
 
-#. Add a new Place
-#:
-msgid "Add a new Place"
-msgstr "Adicionar um Lugar novo"
-
-#. Today Widget - Add a place at your location
-#:
-msgid "Add a place at your location"
-msgstr "Adicionar um lugar na sua localização"
-
 #. Add an account
-#:
 msgid "Add an account"
 msgstr "Adicionar uma conta"
 
-#. Add friends
-#:
-msgid "Add friends"
-msgstr "Adicionar amigos"
-
 #. Add place address
-#:
 msgid "Add place address"
 msgstr "Adicionar endereço do lugar"
 
 #. Add place name
-#:
 msgid "Add place name"
 msgstr "Adicionar nome do lugar"
 
-#. Add the name or address of the place you're looking for...
-#:
-msgid "Add the name or address of the place you're looking for..."
-msgstr "Adicione o nome ou o endereço do lugar que você está procurando..."
-
-#. Add to my Map
-#:
-msgid "Add to my Map"
-msgstr "Adicionar ao meu Mapa"
-
-#. Add your friends and discover their favorite places.
-#:
-msgid "Add your friends and discover their favorite places."
-msgstr "Adicione seus amigos e descubra seus lugares favoritos."
-
-#. Add your friends, share your map with them, and discover their world!
-#:
-msgid "Add your friends, share your map with them, and discover their world!"
-msgstr "Adicione seus amigos, compartilhe seu mapa com eles, e descubra o mundo deles!"
-
-#. Onboarding - Add your friends.r
-#. Share the places you want.
-#:
-msgid "Add your friends.\n"
-"Share the places you want."
-msgstr "Adicione seus amigos. Compartilhe os lugares que você quiser."
-
-#. Additive (default)
-#:
-msgid "Additive (default)"
-msgstr "Aditivo (padrão)"
-
-#. Additive option (default behavior): when you select multiple tags like 'restaurant' and 'to try', the map shows every places tagged with 'to try' plus every places tagged with 'restaurant'. This means each visible place will have either the tag 'restaurant' OR the tag 'to try'.
-#.
-#. Inclusive option: when you select multiple tags, the map only shows places tagged with all those tags. This means each visible place with have the tag 'restaurant' AND the tag 'to try'.
-#:
-msgid "Additive option (default behavior): when you select multiple tags like 'restaurant' and 'to try', the map shows every places tagged with 'to try' plus every places tagged with 'restaurant'. This means each visible place will have either the tag 'restaurant' OR the tag 'to try'.  \n"
-"\n"
-"Inclusive option: when you select multiple tags, the map only shows places tagged with all those tags. This means each visible place with have the tag 'restaurant' AND the tag 'to try'."
-msgstr "Opção aditiva (comportamento padrão): quando você seleciona várias tags como 'restaurante' e 'tentar', o mapa mostra todos os lugares marcados com 'tentar' mais todos os lugares marcados com 'restaurante'. Isso significa que cada lugar visível terá a tag 'restaurante' OU a tag 'tentar'. Opção inclusiva: quando você seleciona várias tags, o mapa mostra apenas lugares marcados com todas as tags. Isso significa que cada lugar visível tem a tag 'restaurante' E a tag 'tentar'."
-
-#. Alert
-#:
-msgid "Alert"
-msgstr "Alerta"
-
-#. Alert me of new places
-#:
-msgid "Alert me of new places"
-msgstr ""
-
-#. Alert me when I pass nearby
-#:
-msgid "Alert me when I pass nearby"
-msgstr "Alertar-me when teve Perto Passar"
-
-#. All
-#:
-msgid "All"
-msgstr "Tudo"
-
-#. Allow
-#:
-msgid "Allow"
-msgstr "Permitir"
-
-#. Allow notifications
-#:
-msgid "Allow notifications"
-msgstr "Permita as notificações"
-
-#. Already on Mapstr!
-#:
-msgid "Already on Mapstr!"
-msgstr "Já está no Mapstr!"
-
-#. Already on my Map
-#:
-msgid "Already on my Map"
-msgstr "Já está no meu Mapa"
+#. Screen Title: New place
+msgid "New place"
+msgstr "Lugar novo"
 
 #. The place is always open
-#:
 msgid "Always Open"
 msgstr "Sempre Aberto"
 
 #. An error occured, please try again later
-#:
 msgid "An error occured, please try again later"
 msgstr "Ocorreu um erro. Por favor, tente novamente mais tarde"
 
 #. Analyzing...
-#:
 msgid "Analyzing..."
 msgstr "Analisando..."
 
-#. Anonymous account: <accountId>
-#:
-msgid "Anonymous account: %s"
-msgstr "Conta anônima: %s"
-
-#. Application settings
-#:
-msgid "Application settings"
-msgstr "Configurações do aplicativo"
-
-#. Are you sure to cancel invite for %s?
-#:
-msgid "Are you sure to cancel invite for %s?"
-msgstr "Tem certeza que quer cancelar o convite para %s?"
-
-#. Are you sure? Onboarding - Are you sure?
-#:
 msgid "Are you sure?"
 msgstr "Tem certeza?"
 
-#. Around there
-#:
-msgid "Around there"
-msgstr "Por lá"
-
-#. Around you
-#:
-msgid "Around you"
-msgstr "À sua volta"
-
-#. Article
-#:
-msgid "Article"
-msgstr ""
-
-#. At this address
-#:
-msgid "At this address"
-msgstr "Neste endereço"
-
-#. At this place
-#:
-msgid "At this place"
-msgstr "Neste lugar"
-
-#. Back
-#:
-msgid "Back"
-msgstr "Voltar"
-
-#. Back to my Map
-#:
-msgid "Back to my Map"
-msgstr "Voltar ao meu Mapa"
-
-#. Back to my map
-#:
-msgid "Back to my map"
-msgstr "Voltar ao meu mapa"
-
-#. Background Location
-#:
-msgid "Background Location"
-msgstr "Localização em Segundo Plano"
-
-#. Bars & Clubs
-#:
-msgid "Bars & Clubs"
-msgstr "Bares e Clubes"
-
-#. Be alerted when you receive a new invite or when a friend accepts yours.
-#:
-msgid "Be alerted when you receive a new invite or when a friend accepts yours."
-msgstr "Seja alertado quando você receber um novo convite ou quando um amigo aceitar o seu."
-
-#. Biography
-#:
-msgid "Biography"
-msgstr "Biografia"
-
-#. Browse
-#:
-msgid "Browse"
-msgstr "Procurar"
-
-#. By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.
-#.
-#. In both cases your map remains strictly private and is only accessible by your friends after you accept their invitation.
-#:
-msgid "By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n"
-"\n"
-"In both cases your map remains strictly private and is only accessible by your friends after you accept their invitation."
-msgstr "Por padrão, seu perfil aparecerá nos resultados de pesquisa de amigos para ajudá-los a te encontrar. Se não quiser, você pode optar por não aparecer, e apenas os usuários que conhecem seu nome de usuário exato poderão encontrá-lo. Em ambos os casos, o seu mapa permanece estritamente privado e só é acessível a seus amigos após você aceitar o convite deles."
-
-#. Call
-#:
-msgid "Call"
-msgstr "Ligar"
-
-#. Cancel Onboarding - Cancel
-#:
-msgid "Cancel"
-msgstr "Cancelar"
-
-#. Cancel Invite
-#:
-msgid "Cancel Invite"
-msgstr "Cancelar Convite"
-
-#. Capture Address
-#:
-msgid "Capture Address"
-msgstr "Capturar Endereço"
-
-#. Action Sheet: Change tag's color
-#:
-msgid "Change tag's color"
-msgstr "Alterar a cor da marcação"
-
-#. Action Sheet: Change tag's name
-#:
-msgid "Change tag's name"
-msgstr "Alterar o nome da marcação"
-
-#. Change tags
-#:
-msgid "Change tags"
-msgstr "Alterar marcações"
-
-#. Place Sharing - Check out <place name>
-#:
-msgid "Check out %s"
-msgstr "Confira %s"
-
-#. Choose at least one tag...
-#:
-msgid "Choose at least one tag..."
-msgstr "Escolha pelo menos uma marcação..."
-
-#. Choice invite: Navigation
-#:
-msgid "Choose your prefered navigation app"
-msgstr "Escolha o seu aplicativo de navegação preferido"
-
-#. Choose your profile picture
-#:
-msgid "Choose your profile picture"
-msgstr "Escolha a sua foto de perfil"
-
-#. Place Sharing - Click the link to see all details in Mapstr, and save it to your map!
-#:
-msgid "Click the link to see it in Mapstr, and save it to your map!"
-msgstr "Clique no link para vê-lo no Mapstr, e salve-o no seu mapa!"
-
-#. Close
-#:
-msgid "Close"
-msgstr "Fechar"
-
-#. The place is closed on this day
-#:
-msgid "Closed"
-msgstr "Fechado"
-
-#. Onboarding - Complete your profile
-#:
-msgid "Complete your profile"
-msgstr "Complete seu perfil"
-
-#. Confirm password
-#:
-msgid "Confirm password"
-msgstr "Confirmar senha"
-
-#. Connect {service name}
-#:
-msgid "Connect %s"
-msgstr "Conectar %s"
-
-#. Connect to Foursquare
-#:
-msgid "Connect to Foursquare"
-msgstr "Conectar ao Foursquare"
-
-#. Connect to Instagram
-#:
-msgid "Connect to Instagram"
-msgstr "Conectar ao Instagram"
-
-#. Connect to Swarm
-#:
-msgid "Connect to Swarm"
-msgstr "Conectar ao Swarm"
-
-#. Connect with your friends
-#:
-msgid "Connect with your friends"
-msgstr "Conecte-se com seus amigos"
-
-#. Contacts
-#:
-msgid "Contacts"
-msgstr "Contatos"
-
-#. Alert message: Continue
-#:
-msgid "Continue"
-msgstr "Continuar"
-
-#. Add a new Place - Create a custom place Create a custom place
-#:
-msgid "Create a custom place"
-msgstr "Criar um lugar personalizado"
-
-#. Create a new tag
-#:
-msgid "Create a new tag"
-msgstr "Criar uma marcação nova"
-
-#. Create an account to see your friends places, and to access your map from multiple devices.
-#:
-msgid "Create an account to see your friends places, and to access your map from multiple devices."
-msgstr "Crie uma conta para ver os lugares dos seus amigos e para acessar o seu mapa a partir de dispositivos múltiplos."
-
-#. Create the place
-#:
-msgid "Create the place"
-msgstr "Criar o lugar"
-
-#. Onboarding - Create unlimited tagsr
-#. to sort them easily.
-#:
-msgid "Create unlimited tags\n"
-"to sort them easily."
-msgstr "Crie marcações ilimitadas para classificar facilmente."
-
-#. Indicates that the place is currently close
-#:
-msgid "Currently Closed"
-msgstr "Fechado No Momento"
-
-#. Indicates that the place is currently opened
-#:
-msgid "Currently Open"
-msgstr "Aberto No Momento"
-
-#. Custom place
-#:
-msgid "Custom place"
-msgstr "Personalizar lugar"
-
-#. Data
-#:
-msgid "Data"
-msgstr "Dados"
-
-#. Filter sorting list view - Date
-#:
-msgid "Date"
-msgstr ""
-
-#. Deactivated
-#:
-msgid "Deactivated"
-msgstr "Desativado"
-
-#. Default settings for new places
-#:
-msgid "Default settings for new places"
-msgstr "Configurações padrão para lugares novos"
-
-#. Delete
-#:
-msgid "Delete"
-msgstr "Excluir"
-
-#. Action sheet: Delete Place
-#:
-msgid "Delete Place"
-msgstr "Excluir Lugar"
-
-#. Action Sheet: delete tag
-#:
-msgid "Delete tag"
-msgstr "Excluir marcação"
-
-#. Delete this photo?
-#:
-msgid "Delete this photo?"
-msgstr "Excluir esta foto?"
-
-#. Deselect All
-#:
-msgid "Deselect All"
-msgstr "Desmarcar Todos"
-
-#. Disable nearby alerts for this tag
-#:
-msgid "Disable nearby alerts for this tag"
-msgstr "Desativar alertas nas proximidades para esta tag"
-
-#. Disconnect
-#:
-msgid "Disconnect"
-msgstr "Desconectar"
-
-#. Disconnected account Facebook login error - Disconnected account
-#:
-msgid "Disconnected account"
-msgstr "Conta desconectada"
-
-#. Disconnecting...
-#:
-msgid "Disconnecting..."
-msgstr "Desconectando..."
-
-#. Filter sorting list view - Distance
-#:
-msgid "Distance"
-msgstr ""
-
-#. Do you also want to disable nearby alerts for every existing places with this tag?
-#:
-msgid "Do you also want to disable nearby alerts for every existing places with this tag?"
-msgstr "Também deseja desativar alertas nas proximidades para todos os lugares com esta tag?"
-
-#. Do you really want to disconnect from this account?
-#:
-msgid "Do you really want to disconnect from this account?"
-msgstr "Você quer mesmo desconectar desta conta?"
-
-#. Onboarding - Do you use {application name}?
-#:
-msgid "Do you use %s?"
-msgstr "Você usa %s?"
-
-#. Do you want to be alerted when %s accepts your invite?
-#:
-msgid "Do you want to be alerted when %s accepts your invite?"
-msgstr "Você deseja ser alertado quando %s aceitar o seu convite?"
-
-#. Done
-#:
-msgid "Done"
-msgstr "Pronto"
-
-#. Downloading missing language(s)...
-#:
-msgid "Downloading missing language(s)..."
-msgstr "Baixando idioma(s) faltante(s)..."
-
-#. Tips - Drag the detail view
-#:
-msgid "Drag or tap to see more details"
-msgstr "Arraste ou toque para ver mais detalhes"
-
-#. Route Option - Drive app
-#:
-msgid "Drive app"
-msgstr "Aplicativo de direção"
-
-#. E-mail
-#:
-msgid "E-mail"
-msgstr "E-mail"
-
-#. Alert message: Could not signup, email already taken
-#:
-msgid "E-mail address already used, please provide another e-mail or login"
-msgstr "Endereço de email já utilizado, forneça outro e-mail ou faça login"
-
-#. E-mail not found
-#:
-msgid "E-mail not found"
-msgstr "E-mail não encontrado"
-
-#. E-mail sent!
-#:
-msgid "E-mail sent!"
-msgstr "E-mail enviado!"
-
-#. Edit
-#:
-msgid "Edit"
-msgstr "Editar"
-
-#. Enable nearby alerts for this tag
-#:
-msgid "Enable nearby alerts for this tag"
-msgstr "Ativar alertas nas proximidades para esta tag"
-
-#. Enable notifications in the settings to activate proximity alerts.
-#:
-msgid "Enable notifications in the settings to activate proximity alerts."
-msgstr "Habilite as notificações nas configurações para ativar os alertas de proximidade."
-
-#. Enable notifications to be alerted when you pass nearby this place.
-#:
-msgid "Enable notifications to be alerted when you pass nearby this place."
-msgstr "Habilite as notificações para ser alertado quando você passar perto deste local."
-
-#. Enable notifications to receive alerts from mapstr.
-#:
-msgid "Enable notifications to receive alerts from mapstr."
-msgstr "Habilite as notificações para receber alertas do mapstr."
-
-#. Enter a phone number
-#:
-msgid "Enter a phone number"
-msgstr "Digite um número de telefone"
-
-#. Enter a website
-#:
-msgid "Enter a website"
-msgstr "Insira um site"
-
-#. Enter an article
-#:
-msgid "Enter an article"
-msgstr ""
-
-#. Enter your friend's username or email
-#:
-msgid "Enter your friend's username or email:"
-msgstr "Digite o ID ou o e-mail do seu amigo:"
-
-#. Error
-#:
-msgid "Error"
-msgstr "Erro"
-
-#. Existing email
-#:
-msgid "Existing email"
-msgstr "E-mail existente"
-
-#. Export
-#:
-msgid "Export"
-msgstr "Exportar"
-
-#. FAQ
-#:
-msgid "FAQ"
-msgstr "Perguntas Frequentes"
-
-#. Facebook
-#:
-msgid "Facebook"
-msgstr "Facebook"
-
-#. Facebook login error - Facebook Error
-#:
-msgid "Facebook Error"
-msgstr "Erro do Facebook"
-
-#. Files (.csv or .kml)
-#:
-msgid "Files (.csv or .kml)"
-msgstr "Arquivos (.csv ou .kml)"
-
-#. Tips - Filter by tags
-#:
-msgid "Filter your places by their tags"
-msgstr "Filtre seus lugares pelas suas tags"
-
-#. Find People
-#:
-msgid "Find People"
-msgstr "Procurar por nome de usuário"
-
-#. iMessage - Find a place
-#:
-msgid "Find a place"
-msgstr "Encontrar um lugar"
-
-#. Tips - Find friends
-#:
-msgid "Find your friends to see their maps!"
-msgstr "Encontre seus amigos para ver seus mapas!"
-
-#. First name
-#:
-msgid "First name"
-msgstr "Nome"
-
-#. Follow
-#:
-msgid "Follow"
-msgstr "Seguir"
-
-#. Follow {username} to see his map.
-#:
-msgid "Follow %s to see his map."
-msgstr "Siga %s para ver o mapa dele."
-
-#. Add @{username} to share your places Follow @{username} to discover their places
-#:
-msgid "Follow @%s to discover their places"
-msgstr "Siga @%s para descobrir seus lugares"
-
-#. Followers
-#:
-msgid "Followers"
-msgstr "Seguidores"
-
-#. Following
-#:
-msgid "Following"
-msgstr "Seguindo"
-
-#. Food & Drink
-#:
-msgid "Food & Drink"
-msgstr "Comida & Bebida"
-
-#. Forgot password?
-#:
-msgid "Forgot password?"
-msgstr "Esqueceu a senha?"
-
-#. Frequently Asked Questions
-#:
-msgid "Frequently Asked Questions"
-msgstr "Perguntas Frequentes"
-
-#. Default tag: Friend Friend
-#:
-msgid "Friend"
-msgstr "Amigo"
-
-#. Friends
-#:
-msgid "Friends"
-msgstr "Amigos"
-
-#. Friends already on Mapstr
-#:
-msgid "Friends already on Mapstr"
-msgstr "Amigos que já estão no Mapstr"
-
-#. Fun
-#:
-msgid "Fun"
-msgstr "Diversão"
-
-#. General settings
-#:
-msgid "General settings"
-msgstr "Configurações gerais"
-
-#. Launch Screen - Get Started
-#:
-msgid "Get Started"
-msgstr "Começar"
-
-#. Go
-#:
-msgid "Go"
-msgstr "Ir"
-
-#. Got It
-#:
-msgid "Got It"
-msgstr "Entendido"
-
-#. Happy with Mapstr
-#:
-msgid "Happy with Mapstr?"
-msgstr "Feliz com o Mapstr?"
-
-#. Having issues with your account?
-#:
-msgid "Having issues with your account?"
-msgstr "Tendo problemas com a sua conta?"
-
-#. Health & Beauty
-#:
-msgid "Health & Beauty"
-msgstr "Saúde & Beleza"
-
-#. Help Screen Title: Help
-#:
-msgid "Help"
-msgstr "Ajuda"
-
-#. Contact email - Subject
-#:
-msgid "Hey Mapstr!"
-msgstr "Ei Mapstr!"
-
-#. Contact email - Subject: there's a conflict with my accounts
-#:
-msgid "Hey Mapstr, there's a conflict with my accounts!"
-msgstr "Ei, Mapstr, há um conflito com as minhas contas!"
-
-#. Hey Mapstr, you couldn't read this file!
-#:
-msgid "Hey Mapstr, you couldn't read this file!"
-msgstr "Ei Mapstr, você não conseguiu ler este arquivo!"
-
-#. Hey do you like Mapstr?
-#:
-msgid "Hey do you like Mapstr?"
-msgstr "Estamos sempre procurando melhorar, e nós realmente queremos saber o que você acha do mapstr. Por favor, nos diga, você está satisfeito com o mapstr?"
-
-#. Hey! Add me on Mapstr with the code %s (or click on the link)
-#:
-msgid "Hey! Add me on Mapstr with the code %s (or click on the link)!"
-msgstr "Ei! Me adicione no Mapstr com o código %s (ou clique no link)!"
-
-#. Hey, add me on Mapstr! I'm @{alias}.
-#:
-msgid "Hey, add me on Mapstr! I'm @%s."
-msgstr "Ei, me adicione no Mapstr! Eu sou @%s."
-
-#. Notification - do you know {place_name} is just over {distance with unity}?
-#:
-msgid "Hey, do you know %s is just over %s?"
-msgstr "Ei, você sabia que %s está a mais de %s?"
-
-#. Notification - do you know {place_name} is less than {distance with unity} away?
-#:
-msgid "Hey, do you know %s is less than %s away?"
-msgstr "Ei, você sabia que %s está a menos de %s de distância?"
-
-#. Notification - do you know {place_name} and {place_name} are less than {distance with unity} away?
-#:
-msgid "Hey, do you know that %s and %s are less than %s away?"
-msgstr "Ei, você sabia que %s e %s estão a menos de %s de distância?"
-
-#. Hey, join me on Mapstr! I'm @{alias}.
-#:
-msgid "Hey, join me on Mapstr! I'm @%s."
-msgstr "Ei, junte-se a mim no Mapstr! Eu sou @%s."
-
-#. Notification - you are near {place_name} and 2 other places!
-#:
-msgid "Hey, you are near %s and 2 other places!"
-msgstr "Ei, você está perto de %s e de 2 outros lugares!"
-
-#. Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!
-#:
-msgid "Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!"
-msgstr "Ei, você não permitiu que Mapstr acesse seus contatos. Abra as configurações para mudar isso!"
-
-#. Device location unavailable - mapstr not allowed
-#:
-msgid "Hey, you haven't allowed Mapstr to use your location. Open settings to change this!"
-msgstr "Ei, você não permitiu que Mapstr utilize a sua localização. Abra as configurações para mudar isso!"
-
-#. Invite email - Body
-#:
-msgid "Hey,\n"
-"I use Mapstr app to save all my favorite places in the world, tag them and share them... and I'd like to share them with you!\n"
-" Download Mapstr for free: "
-msgstr ""
-"Ei,\n"
-"Eu uso o aplicativo Mapstr para salvar todos os meus lugares favoritos no "
-"mundo, marcá-los e compartilhá-los...\n"
-"e eu gostaria de compartilhá-los com você! Baixe Mapstr gratuitamente: "
-
-#. Default tag: Hotel
-#:
-msgid "Hotel"
-msgstr "Hotel"
-
-#. I'm on Mapstr, an app to save all my favorite places, you should try it!
-#:
-msgid "I'm on Mapstr, an app to save all my favorite places, you should try it!"
-msgstr "Eu estou no Mapstr, um aplicativo para salvar todos os meus lugares favoritos, você devia experimentar!"
-
-#. Onboarding - I'm sure!
-#:
-msgid "I'm sure!"
-msgstr "Tenho certeza!"
-
-#. Identifying...
-#:
-msgid "Identifying..."
-msgstr "Identificando..."
-
-#. Identity
-#:
-msgid "Identity"
-msgstr "Identidade"
-
-#. If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation.
-#:
-msgid "If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation."
-msgstr "Se você tiver alguns problemas com os dados salvos localmente em seu telefone, como lugares ou tags faltantes, você pode forçar que seus dados sejam recarregados do nosso servidor para garantir uma sincronização completa."
-
-#. Import Invite - Ignore
-#:
-msgid "Ignore"
-msgstr "Ignorar"
-
-#. Import Import Invite - Import
-#:
-msgid "Import"
-msgstr "Importar"
-
-#. Screen Title: Import Place
-#:
-msgid "Import Place"
-msgstr "Importar Lugar"
-
-#. Import places
-#:
-msgid "Import places"
-msgstr "Importar lugares"
-
-#. Inactive
-#:
-msgid "Inactive"
-msgstr "Inativo"
-
-#. Inclusive
-#:
-msgid "Inclusive"
-msgstr "Inclusivo"
-
-#. Information
-#:
-msgid "Information"
-msgstr "Informações"
-
-#. Invalid file
-#:
-msgid "Invalid file"
-msgstr "Arquivo inválido"
-
-#. Invalid password
-#:
-msgid "Invalid password"
-msgstr "Senha inválida"
-
-#. Invite
-#:
-msgid "Invite"
-msgstr "Convidar"
-
-#. Invite {username} to share your maps together.
-#:
-msgid "Invite %s to share your maps together."
-msgstr "Convide %s para compartilhar seus mapas."
-
-#. Invite contacts
-#:
-msgid "Invite contacts"
-msgstr "Convidar contatos"
-
-#. Invite friends
-#:
-msgid "Invite friends"
-msgstr "Convidar amigos"
-
-#. Invited
-#:
-msgid "Invited"
-msgstr "Convidou"
-
-#. Invites
-#:
-msgid "Invites"
-msgstr "Convites"
-
-#. Facebook login error - It seems your account is disconnected. Please reconnect.
-#:
-msgid "It seems your account is disconnected. Please reconnect."
-msgstr "Parece que sua conta está desconectada. Por favor, reconecte."
-
-#. It seems your account is disconnected. We'll try to reconnect.
-#:
-msgid "It seems your account is disconnected. We'll try to reconnect."
-msgstr "Parece que sua conta está desconectada. Vamos tentar reconectar."
-
-#. It's a 6 letters password. Do you want to receive an email with a link to reset it?
-#:
-msgid "It's a 6 letters password.\n"
-"Do you want to receive an email with a link to reset it?"
-msgstr "É uma senha de 6 letras. Quer receber um e-mail com um link para redefini-la?"
-
-#. Notification - It's a nice area, you are near {number} places!
-#:
-msgid "It's a nice area, you are near %lu places!"
-msgstr "É um lugar legal, você está perto de %lu lugares!"
-
-#. It's time to join!
-#:
-msgid "It's time to join!"
-msgstr "É hora de participar!"
-
-#. Invite email - Subject Join me on Mapstr!
-#:
-msgid "Join me on Mapstr!"
-msgstr "Junte-se a mim no Mapstr!"
-
-#. Keep this place private:
-#:
-msgid "Keep this place private:"
-msgstr "Manter este lugar privado:"
-
-#. Keep those places private:
-#:
-msgid "Keep those places private:"
-msgstr "Manter estes lugares privados:"
-
-#. Last name
-#:
-msgid "Last name"
-msgstr "Sobrenome"
-
-#. Legal Notice
-#:
-msgid "Legal Notice"
-msgstr "Aviso Legal"
-
-#. Tips - Add first place
-#:
-msgid "Let's add your first place!"
-msgstr "Vamos adicionar o seu primeiro lugar."
-
-#. Tips - Let's search a place
-#:
-msgid "Let’s search a place with its name"
-msgstr "Vamos encontrar um lugar procurando pelo nome."
-
-#. Links with external apps
-#:
-msgid "Links with external apps"
-msgstr "Link com aplicativos externos"
-
-#. Switch: List
-#:
-msgid "List"
-msgstr "Lista"
-
-#. Loading picture...
-#:
-msgid "Loading picture..."
-msgstr "Carregando figura..."
-
-#. Loading...
-#:
-msgid "Loading..."
-msgstr "Carregando..."
-
-#. The text indicating the local time for the selected place
-#:
-msgid "Local time:"
-msgstr "Horário local:"
-
-#. Location Permission
-#:
-msgid "Location Permission"
-msgstr "Permissão de Localização"
-
-#. Location unavailable
-#:
-msgid "Location unavailable"
-msgstr "Localização indisponível"
-
-#. Log in with Facebook
-#:
-msgid "Log in with Facebook"
-msgstr "Fazer login com o Facebook"
-
-#. Alert message: Login
-#:
-msgid "Login"
-msgstr "Login"
-
-#. Tips - Long press a to edit or delete it
-#:
-msgid "Long press a tag to edit or delete it"
-msgstr "Pressione e segure para editar ou excluir uma tag"
-
-#. Looking around...
-#:
-msgid "Looking around..."
-msgstr "Procurando..."
-
-#. Switch: Map
-#:
-msgid "Map"
-msgstr "Mapa"
-
-#. Map settings
-#:
-msgid "Map settings"
-msgstr "Configurações de mapa"
-
-#. Map style
-#:
-msgid "Map style"
-msgstr "Estilo de mapa"
-
-#. Mapstr - your Places, your World
-#:
-msgid "Mapstr - your Places, your World"
-msgstr "Mapstr - seus Lugares, seu Mundo"
-
-#. Mapstr needs your authorization to access your contacts.
-#:
-msgid "Mapstr needs your authorization to access your contacts."
-msgstr "Mapstr precisa da sua autorização para acessar seus contatos."
-
-#. Mapstr needs your authorization to locate your position and your favorite places on the map.
-#:
-msgid "Mapstr needs your authorization to locate your position and your favorite places on the map."
-msgstr "Mapstr precisa da sua autorização para localizar a sua posição e seus lugares favoritos no mapa."
-
-#. Device camera unavailable
-#:
-msgid "Mapstr was not able to access the camera!"
-msgstr "Mapstr não conseguiu acessar a câmera!"
-
-#. Device location unavailable - location not determined
-#:
-msgid "Mapstr was not able to find your location... We're so sorry! Please try again later!"
-msgstr "Mapstr não conseguiu encontrar a sua localização... Lamentamos muito! Por favor, tente novamente mais tarde!"
-
-#. Maybe later
-#:
-msgid "Maybe later"
-msgstr "Talvez mais tarde"
-
-#. Facebook login error - Misconfigured account
-#:
-msgid "Misconfigured account"
-msgstr "Conta configurada incorretamente"
-
-#. Mobile notifications
-#:
-msgid "Mobile notifications"
-msgstr "Notificações móveis"
-
-#. Screen Title: Modify place
-#:
-msgid "Modify place"
-msgstr "Modificar lugar"
-
-#. More options
-#:
-msgid "More options"
-msgstr "Mais opções"
-
-#. Notification action - Don't alert me anymore
-#:
-msgid "Mute"
-msgstr "Silenciar"
-
-#. Current user map name Ma carte
-#:
-msgid "My Map"
-msgstr "Meu Mapa"
-
-#. My friends
-#:
-msgid "My friends"
-msgstr "Meus amigos"
-
-#. My location
-#:
-msgid "My location"
-msgstr "Minha localização"
-
-#. My places
-#:
-msgid "My places"
-msgstr "Meus lugares"
-
-#. Route Option - N/A
-#:
-msgid "N/A"
-msgstr "N/A"
-
-#. NEW
-#:
-msgid "NEW"
-msgstr "NOVO"
-
-#. Filter sorting list view - Name Name
-#:
-msgid "Name"
-msgstr "Nome"
-
-#. Name or Address
-#:
-msgid "Name or Address"
-msgstr "Nome ou Endereço"
-
-#. Nature
-#:
-msgid "Nature"
-msgstr "Natureza"
-
-#. Navigation Screen Title: Navigation
-#:
-msgid "Navigation"
-msgstr "Navegação"
-
-#. Near
-#:
-msgid "Near"
-msgstr "Próximo"
-
-#. Today Widget - Nearest Places
-#:
-msgid "Nearest Places"
-msgstr "Lugares Mais Próximos"
-
-#. Need some help?
-#:
-msgid "Need some help?"
-msgstr "Precisa de ajuda?"
-
-#. Network error
-#:
-msgid "Network error"
-msgstr "Erro de rede"
-
-#. Never miss a friend’s invite.
-#:
-msgid "Never miss a friend’s invite."
-msgstr "Nunca perca um convite de amizade."
-
-#. New place Screen Title: New place
-#:
-msgid "New place"
-msgstr "Lugar novo"
-
-#. Next
-#:
-msgid "Next"
-msgstr "Seguinte"
-
-#. No
-#:
-msgid "No"
-msgstr "Não"
-
-#. No invites 👻
-#:
-msgid "No invites 👻"
-msgstr "Não há convites 👻"
-
-#. No place to show
-#:
-msgid "No place to show"
-msgstr "Não há lugares para mostrar"
-
-#. No places yet
-#:
-msgid "No places yet"
-msgstr "Não há lugares ainda"
-
-#. No result
-#:
-msgid "No result"
-msgstr "Sem resultado"
-
-#. No tags selected
-#:
-msgid "No tags selected"
-msgstr "Não há marcações selecionadas"
-
-#. No thanks
-#:
-msgid "No thanks"
-msgstr "Não, obrigado"
-
-#. Nobody here?
-#:
-msgid "Nobody here?"
-msgstr "Ninguém aqui?"
-
-#. Not now
-#:
-msgid "Not now"
-msgstr "Não agora"
-
-#. Not that much
-#:
-msgid "Not that much"
-msgstr "Não muito"
-
-#. Notifications
-#:
-msgid "Notifications"
-msgstr "Notificações"
-
-#. Now Open
-#:
-msgid "Now Open"
-msgstr "Aberto Agora"
-
-#. OK
-#:
-msgid "OK"
-msgstr "OK"
-
-#. Official maps you might like
-#:
-msgid "Official maps you might like"
-msgstr ""
-
-#. Official photos cannot be removed. We're sorry for that.
-#:
-msgid "Official photos cannot be removed. We're sorry for that."
-msgstr "As fotos oficiais não podem ser removidas. Sentimos muito por isso."
-
-#. Ok, let's do it!
-#:
-msgid "Ok, let's do it!"
-msgstr "Ok, vamos lá!"
-
-#. Time Machine instruction - Title
-#:
-msgid "Old versions of your data will appear here, in case you need it."
-msgstr "As versões antigas dos seus dados aparecerão aqui, caso você precise delas."
-
-#. Ooooops, something went wrong
-#:
-msgid "Ooooops, something went wrong"
-msgstr "Ooooops, algo deu errado"
-
-#. Oops
-#:
-msgid "Oops"
-msgstr "Oops"
-
-#. Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue.
-#:
-msgid "Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue."
-msgstr "Opa, parece que há um problema com a sua conta. Tente novamente mais tarde ou entre em contato conosco em hello@mapstr.com se o problema persistir."
-
-#. Tips - Tap the add button below
-#:
-msgid "Open and tap the add button below"
-msgstr "Abra e toque no botão adicionar abaixo"
-
-#. No comment provided by engineer.
-#:
-msgid "Open in Safari"
-msgstr "Abrir no Safari"
-
-#. Operation not allowed
-#:
-msgid "Operation not allowed"
-msgstr "Operação não permitida"
-
-#. Other
-#:
-msgid "Other"
-msgstr "Outro"
-
-#. Others - Export to other services
-#:
-msgid "Others"
-msgstr ""
-
-#. Select Place - Section header: PLACES AROUND
-#:
-msgid "PLACES AROUND"
-msgstr "LUGARES POR PERTO"
-
-#. Password (6 letters min.)
-#:
-msgid "Password (6 letters min.)"
-msgstr "Senha (no mínimo 6 letras)"
-
-#. Permanently Closed
-#:
-msgid "Permanently Closed"
-msgstr "Permanentemente Fechado"
-
-#. Phone
-#:
-msgid "Phone"
-msgstr "Telefone"
-
-#. Photo Error
-#:
-msgid "Photo Error"
-msgstr "Erro de Foto"
-
-#. Photo scan
-#:
-msgid "Photo scan"
-msgstr "Digitalização de foto"
-
-#. Places
-#:
-msgid "Places"
-msgstr "Lugares"
-
-#. Please Update
-#:
-msgid "Please Update"
-msgstr "Por favor, Atualize"
-
-#. Please update your app.
-#:
-msgid "Please update your app."
-msgstr "Por favor, atualize seu aplicativo."
-
-#. Please wait... - Export bezel loading
-#:
-msgid "Please wait..."
-msgstr ""
-
-#. Please, check your emails to reset your password
-#:
-msgid "Please, check your emails to reset your password"
-msgstr "Por favor, verifique seus e-mails para redefinir sua senha"
-
-#. Please, connect first!
-#:
-msgid "Please, connect first!"
-msgstr "Por favor, conecte-se primeiro!"
-
-#. Please, connect to your Foursquare account and allow Mapstr to import your places
-#:
-msgid "Please, connect to your Foursquare account and allow Mapstr to import your places"
-msgstr "Por favor, conecte-se à sua conta Foursquare e permita que Mapstr importe seus lugares"
-
-#. Please, connect to your Instagram account and allow Mapstr to import your places
-#:
-msgid "Please, connect to your Instagram account and allow Mapstr to import your places"
-msgstr "Por favor, conecte-se à sua conta do Instagram e permita que o Mapstr importe seus lugares"
-
-#. Please, connect to your Swarm account and allow Mapstr to import your places
-#:
-msgid "Please, connect to your Swarm account and allow Mapstr to import your places"
-msgstr "Por favor, conecte-se à sua conta do Swarm e permita que o Mapstr importe seus lugares"
-
-#. Please, contact us!
-#:
-msgid "Please, contact us!"
-msgstr "Entre em contato com a gente!"
-
-#. Please, enter your password to connect to this account.
-#:
-msgid "Please, enter your password to connect to this account."
-msgstr "Por favor, digite sua senha para conectar-se a esta conta."
-
-#. Facebook login error - Go to iphone settings to allow Mapstr
-#:
-msgid "Please, go in your iPhone settings, in the Facebook menu, allow Mapstr, and try again."
-msgstr "Por favor, vá nas suas configurações do iPhone, no menu do Facebook, permita Mapstr, e tente novamente."
-
-#. Facebook login error - Go to iphone settings to update your password
-#:
-msgid "Please, go in your iPhone settings, in the Facebook menu, and retype your account password to ensure you're connected, and try again."
-msgstr "Por favor, vá nas suas configurações do iPhone, no menu do Facebook, e digite a senha da conta novamente para garantir que você esteja conectado, e tente novamente."
-
-#. Route Option - Private hire app
-#:
-msgid "Private hire app"
-msgstr "Aplicativo de motorista privado"
-
-#. Proximity alerts
-#:
-msgid "Proximity alerts"
-msgstr "Alertas de proximidade"
-
-#. Receive notifications for new friends invites or accepted requests.
-#:
-msgid "Receive notifications for new friends invites or accepted requests."
-msgstr "Receber notificações de novos convites de amizade ou solicitações aceitas."
-
-#. Receive notifications when you're passing nearby places.
-#:
-msgid "Receive notifications when you're passing nearby places."
-msgstr "Receber notificações quando você estiver passando por lugares próximos."
-
-#. Tag drawer - Release to change sort of tags
-#:
-msgid "Release to change sort"
-msgstr "Solte para alterar o tipo"
-
-#. Tag drawer - Release to select all tags
-#:
-msgid "Release to select all"
-msgstr "Solte para selecionar todas"
-
-#. Reload
-#:
-msgid "Reload"
-msgstr "Recarregar"
-
-#. Reload data
-#:
-msgid "Reload data"
-msgstr "Recarregar dados"
-
-#. Remove
-#:
-msgid "Remove"
-msgstr "Remover"
-
-#. Remove %s
-#:
-msgid "Remove %s"
-msgstr "Remover %s"
-
-#. Remove {name} from your friends?
-#:
-msgid "Remove %s from your friends?"
-msgstr "Remover %s dos seus amigos?"
-
-#. Require iOS 10
-#:
-msgid "Require iOS 10"
-msgstr "Exige iOS 10"
-
-#. Resend Invite
-#:
-msgid "Resend Invite"
-msgstr "Reenviar Convite"
-
 #. Reset
-#:
 msgid "Reset"
 msgstr "Redefinir"
 
 #. Reset your password?
-#:
 msgid "Reset your password?"
 msgstr "Redefinir sua senha?"
 
-#. Default tag: Restaurant
-#:
-msgid "Restaurant"
-msgstr "Restaurante"
+#. Around there
+msgid "Around there"
+msgstr "Por lá"
 
-#. Restaurants & Cafes
-#:
-msgid "Restaurants & Cafes"
-msgstr "Restaurantes e Cafés"
+#. Around you
+msgid "Around you"
+msgstr "À sua volta"
+
+#. Select Place - Section header: AT LOCATION
+msgid "AT LOCATION"
+msgstr "NA LOCALIZAÇÃO"
+
+#. At this address
+msgid "At this address"
+msgstr "Neste endereço"
+
+#. At this place
+msgid "At this place"
+msgstr "Neste lugar"
+
+#. Call
+msgid "Call"
+msgstr "Ligar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. No comment provided by engineer
+msgid "Cellular"
+msgstr "Celular"
+
+#. Action Sheet: Change tag's color
+msgid "Change tag's color"
+msgstr "Alterar a cor da marcação"
+
+#. Action Sheet: Change tag's name
+msgid "Change tag's name"
+msgstr "Alterar o nome da marcação"
+
+#. Place Sharing - Check out {place name}
+msgid "Check out %s"
+msgstr "Confira %s"
+
+#. Completed
+msgid "Completed"
+msgstr "Concluído"
+
+#. Confirm password
+msgid "Confirm password"
+msgstr "Confirmar senha"
+
+#. Contacts
+msgid "Contacts"
+msgstr "Contatos"
+
+#. Alert message: Continue
+msgid "Continue"
+msgstr "Continuar"
+
+#. Add a new Place - Section header: Create a custom place
+msgid "Create a custom place"
+msgstr "Criar um lugar personalizado"
+
+#. Create a new tag
+msgid "Create a new tag"
+msgstr "Criar uma marcação nova"
+
+#. Create the place
+msgid "Create the place"
+msgstr "Criar o lugar"
+
+#. Indicates that the place is currently close
+msgid "Currently Closed"
+msgstr "Fechado No Momento"
+
+#. Indicates that the place is currently opened
+msgid "Currently Open"
+msgstr "Aberto No Momento"
+
+#. Custom place
+msgid "Custom place"
+msgstr "Personalizar lugar"
+
+#. Delete
+msgid "Delete"
+msgstr "Excluir"
+
+#. Action sheet: Delete Place
+msgid "Delete Place"
+msgstr "Excluir Lugar"
+
+#. Action Sheet: delete tag
+msgid "Delete tag"
+msgstr "Excluir marcação"
+
+#. Delete this photo?
+msgid "Delete this photo?"
+msgstr "Excluir esta foto?"
+
+#. To disconnect
+msgid "Disconnect"
+msgstr "Desconectar"
+
+#. Facebook login error - Disconnected account
+msgid "Disconnected account"
+msgstr "Conta desconectada"
+
+#. Disconnecting...
+msgid "Disconnecting..."
+msgstr "Desconectando..."
+
+#. Do you really want to disconnect from this account?
+msgid "Do you really want to disconnect from this account?"
+msgstr "Você quer mesmo desconectar desta conta?"
+
+#. Edit
+msgid "Edit"
+msgstr "Editar"
+
+#. Alert message: Could not signup, e-mail already taken
+msgid "E-mail address already used, please provide another e-mail or login"
+msgstr "Endereço de email já utilizado, forneça outro e-mail ou faça login"
+
+#. E-mail not found
+msgid "E-mail not found"
+msgstr "E-mail não encontrado"
+
+#. E-mail sent!
+msgid "E-mail sent!"
+msgstr "E-mail enviado!"
+
+#. Error
+msgid "Error"
+msgstr "Erro"
+
+#. Existing email
+msgid "Existing email"
+msgstr "E-mail existente"
+
+#. Facebook
+msgid "Facebook"
+msgstr "Facebook"
+
+#. First name
+msgid "First name"
+msgstr "Nome"
+
+#. Food & Drink
+msgid "Food & Drink"
+msgstr "Comida & Bebida"
+
+#. Fun
+msgid "Fun"
+msgstr "Diversão"
+
+#. General settings
+msgid "General settings"
+msgstr "Configurações gerais"
+
+#. Launch Screen - Get Started
+msgid "Get Started"
+msgstr "Começar"
+
+#. Happy with Mapstr
+msgid "Happy with Mapstr?"
+msgstr "Feliz com o Mapstr?"
+
+#. Screen Title: Help
+msgid "Help"
+msgstr "Ajuda"
+
+#. Hey do you like Mapstr?
+msgid "Hey do you like Mapstr?"
+msgstr ""
+"Estamos sempre procurando melhorar, e nós realmente queremos saber o que você acha do mapstr.\n"
+"Por favor, nos diga, você está satisfeito com o mapstr?"
+
+#. Contact email - Subject
+msgid "Hey Mapstr!"
+msgstr "Ei Mapstr!"
+
+#. Hey Mapstr, you couldn't read this file!
+msgid "Hey Mapstr, you couldn't read this file!"
+msgstr "Ei Mapstr, você não conseguiu ler este arquivo!"
+
+#. Onboarding - I'm sure!
+msgid "I'm sure!"
+msgstr "Tenho certeza!"
+
+#. Identifying...
+msgid "Identifying..."
+msgstr "Identificando..."
+
+#. It's a 6 letters password. Do you want to receive an email with a link to reset it?
+msgid ""
+"It's a 6 letters password.\n"
+"Do you want to receive an email with a link to reset it?"
+msgstr ""
+"É uma senha de 6 letras.\n"
+"Quer receber um e-mail com um link para redefini-la?"
+
+#. Import
+msgid "Import"
+msgstr "Importar"
+
+#. Import Place
+msgid "Import Place"
+msgstr "Importar Lugar"
+
+#. Inactive
+msgid "Inactive"
+msgstr "Inativo"
+
+#. Invalid file
+msgid "Invalid file"
+msgstr "Arquivo inválido"
+
+#. Invalid password
+msgid "Invalid password"
+msgstr "Senha inválida"
+
+#. Facebook login error - It seems your account is disconnected. We'll try to reconnect.
+msgid "It seems your account is disconnected. We'll try to reconnect."
+msgstr "Parece que sua conta está desconectada. Vamos tentar reconectar."
+
+#. Last name
+msgid "Last name"
+msgstr "Sobrenome"
+
+#. Links with external apps
+msgid "Links with external apps"
+msgstr "Link com aplicativos externos"
+
+#. Loading...
+msgid "Loading..."
+msgstr "Carregando..."
+
+#. The text indicating the local time for the selected place
+msgid "Local time:"
+msgstr "Horário local:"
+
+#. Device location unavailable
+msgid "Location unavailable"
+msgstr "Localização indisponível"
+
+#. Alert message: Login
+msgid "Login"
+msgstr "Login"
+
+#. Looking around...
+msgid "Looking around..."
+msgstr "Procurando..."
+
+#. Device camera unavailable
+msgid "Mapstr was not able to access the camera!"
+msgstr "Mapstr não conseguiu acessar a câmera!"
+
+#. Device location unavailable - location not determined
+msgid "Mapstr was not able to find your location... We're so sorry! Please try again later!"
+msgstr "Mapstr não conseguiu encontrar a sua localização... Lamentamos muito! Por favor, tente novamente mais tarde!"
+
+#. Maybe later
+msgid "Maybe later"
+msgstr "Talvez mais tarde"
+
+#. Screen Title: Modify place
+msgid "Modify place"
+msgstr "Modificar lugar"
+
+#. Current user map name
+msgid "My Map"
+msgstr "Meu Mapa"
+
+#. Nature
+msgid "Nature"
+msgstr "Natureza"
+
+#. Screen Title: Navigation
+msgid "Navigation"
+msgstr "Navegação"
+
+#. Near
+msgid "Near"
+msgstr "Próximo"
+
+#. Need some help?
+msgid "Need some help?"
+msgstr "Precisa de ajuda?"
+
+#. Network error
+msgid "Network error"
+msgstr "Erro de rede"
+
+#. NEW
+msgid "NEW"
+msgstr "NOVO"
+
+msgid "No Connection"
+msgstr "Sem Conexão"
+
+#. More search results: No more results
+msgid "No more results"
+msgstr "Não há mais resultados"
+
+#. Alert message: No tags selected
+msgid "No tags selected"
+msgstr "Não há marcações selecionadas"
+
+#. No thanks
+msgid "No thanks"
+msgstr "Não, obrigado"
+
+#. Nobody here?
+msgid "Nobody here?"
+msgstr "Ninguém aqui?"
+
+#. Not now
+msgid "Not now"
+msgstr "Não agora"
+
+#. Not that much
+msgid "Not that much"
+msgstr "Não muito"
+
+#. Official photos cannot be removed. We're sorry for that.
+msgid "Official photos cannot be removed. We're sorry for that."
+msgstr "As fotos oficiais não podem ser removidas. Sentimos muito por isso."
+
+#. OK
+msgid "OK"
+msgstr "OK"
+
+#. Ok, let's do it!
+msgid "Ok, let's do it!"
+msgstr "Ok, vamos lá!"
+
+#. Ooooops, something went wrong
+msgid "Ooooops, something went wrong"
+msgstr "Ooooops, algo deu errado"
+
+#. Oops
+msgid "Oops"
+msgstr "Oops"
+
+msgid "Open in Safari"
+msgstr "Abrir no Safari"
+
+#. Operation not allowed
+msgid "Operation not allowed"
+msgstr "Operação não permitida"
+
+#. Other
+msgid "Other"
+msgstr "Outro"
+
+#. Password (6 letters min.)
+msgid "Password (6 letters min.)"
+msgstr "Senha (no mínimo 6 letras)"
+
+#. Photo Error
+msgid "Photo Error"
+msgstr "Erro de Foto"
+
+#. Photo scan
+msgid "Photo scan"
+msgstr "Digitalização de foto"
+
+#. Select Place - Section header: PLACES AROUND
+msgid "PLACES AROUND"
+msgstr "LUGARES POR PERTO"
+
+#. Please, check your emails to reset your password
+msgid "Please, check your emails to reset your password"
+msgstr "Por favor, verifique seus e-mails para redefinir sua senha"
+
+#. Please, connect to your Foursquare account and allow Mapstr to import your places
+msgid "Please, connect to your Foursquare account and allow Mapstr to import your places"
+msgstr "Por favor, conecte-se à sua conta Foursquare e permita que Mapstr importe seus lugares"
+
+#. Please, enter your password to connect to this account.
+msgid "Please, enter your password to connect to this account."
+msgstr "Por favor, digite sua senha para conectar-se a esta conta."
+
+#. More search results: Pull up to load more
+msgid "Pull up to load more"
+msgstr "Puxe para cima para carregar mais"
+
+#. Tag drawer - Release to select all tags
+msgid "Release to select all"
+msgstr "Solte para selecionar todas"
+
+#. Tag drawer - Release to change sort of tags
+msgid "Release to change sort"
+msgstr "Solte para alterar o tipo"
+
+#. Remove
+msgid "Remove"
+msgstr "Remover"
 
 #. Retrieving place details...
-#:
 msgid "Retrieving place details..."
 msgstr "Recuperando detalhes do lugar..."
 
-#. Satellite
-#:
-msgid "Satellite"
-msgstr "Satélite"
+#. Go
+msgid "Go"
+msgstr "Ir"
 
 #. Save
-#:
 msgid "Save"
 msgstr "Salvar"
 
-#. Onboarding - Save places you love,r
-#. places to try, places from magazines, etc.
-#:
-msgid "Save places you love,\n"
-"places to try, places from magazines, etc."
-msgstr "Salve os lugares que você ama, lugares para experimentar, lugares das revistas, etc."
-
 #. Saved
-#:
 msgid "Saved"
 msgstr "Salvo"
 
 #. Saving...
-#:
 msgid "Saving..."
 msgstr "Salvando..."
 
-#. Search Searchbar placeholder - Search
-#:
+#. Searchbar placeholder - Search
 msgid "Search"
 msgstr "Pesquisar"
 
 #. Searching...
-#:
 msgid "Searching..."
 msgstr "Pesquisando..."
 
-#. Today Widget - See all places nearby
-#:
-msgid "See all places nearby"
-msgstr "Ver todos os lugares próximos"
-
-#. See the article about this place
-#:
-msgid "See article"
-msgstr "Veja o artigo"
-
-#. See more
-#:
-msgid "See more"
-msgstr "Ver mais"
-
-#. iMessage - See more in Mapstr
-#:
-msgid "See more in Mapstr"
-msgstr "Ver mais no Mapstr"
-
-#. Notification action - See the map
-#:
-msgid "See the map"
-msgstr "Ver o mapa"
-
-#. Select All
-#:
-msgid "Select All"
-msgstr "Selecionar Todos"
-
-#. Select an Icon
-#:
-msgid "Select an Icon"
-msgstr "Selecionar um Ícone"
-
 #. Select an image from the Library
-#:
 msgid "Select an image from the Library"
 msgstr "Selecione uma imagem da Bibioteca"
 
-#. Tips - Select or create tags
-#:
-msgid "Select or create any tags you want to sort your places"
-msgstr "Selecione ou crie qualquer marcação que você quiser"
-
-#. Import places - Select those (places) you want to import.
-#:
-msgid "Select those you want to import."
-msgstr "Selecione aqueles que você deseja importar."
+#. Screen Title: Select Place
+msgid "Select your place"
+msgstr "Selecione seu lugar"
 
 #. Send
-#:
 msgid "Send"
 msgstr "Enviar"
 
 #. Services
-#:
 msgid "Services"
 msgstr "Serviços"
 
-#. Settings
-#:
+#. Screen Title: Settings
 msgid "Settings"
 msgstr "Configurações"
 
-#. Settings & help
-#:
-msgid "Settings & help"
-msgstr "Configurações e ajuda"
-
-#. Share your profile Sharing view - Share your profile
-#:
-msgid "Share your profile"
-msgstr "Compartilhe seu nome de usuário"
-
-#. Share your profile to gain new followers on Mapstr 😉
-#:
-msgid "Share your profile to gain new followers on Mapstr 😉"
-msgstr "Compartilhe seu perfil para ganhar novos seguidores no Mapstr 😉"
+#. Alert button title: Share
+msgid "Share"
+msgstr "Compartilhar"
 
 #. Shared with friends
-#:
 msgid "Shared with friends"
 msgstr "Compartilhado com amigos"
 
-#. Default tag: Shopping Shopping
-#:
+#. Default tag: Shopping
 msgid "Shopping"
 msgstr "Compras"
 
 #. Alert message: Show the already existing place
-#:
 msgid "Show it"
 msgstr "Mostrar"
 
-#. Show my friends on Mapstr
-#:
-msgid "Show my friends on Mapstr"
-msgstr "Mostrar meus amigos no Mapstr"
-
-#. Sign In
-#:
-msgid "Sign In"
-msgstr "Entrar"
-
-#. Sign Up
-#:
-msgid "Sign Up"
-msgstr "Cadastre-se"
-
-#. iMessage - Sign in
-#:
-msgid "Sign in"
-msgstr "Entrar"
-
-#. iMessage - Sign in and save your first places in the app, to retrieve them in Messages
-#:
-msgid "Sign in and save your first places in the app, to retrieve them in Messages"
-msgstr "Entre e salve seus primeiros lugares no aplicativo, para recuperá-los em Mensagens"
-
-#. Sign in with Facebook
-#:
-msgid "Sign in with Facebook"
-msgstr "Entrar com o Facebook"
-
-#. Sign in with e-mail
-#:
-msgid "Sign in with e-mail"
-msgstr "Entrar com o e-mail"
-
 #. Sign up / Log in
-#:
 msgid "Sign up / Log in"
 msgstr "Cadastre-se / Faça Login"
 
-#. Social activity
-#:
-msgid "Socal activity"
-msgstr "Atividade social"
-
-#. Sorry, but proximity notifications are only available on iOS 10.
-#. Please update to enjoy.
-#:
-msgid "Sorry, but proximity notifications are only available on iOS 10.\n"
-"Please update to enjoy."
-msgstr "Desculpe, mas as notificações de proximidade só estão disponíveis no iOS 10. Atualize para utilizá-las."
+#. Onboarding - skip
+msgid "skip"
+msgstr "pular"
 
 #. Sport
-#:
 msgid "Sport"
 msgstr "Esporte"
 
-#. Standard
-#:
-msgid "Standard"
-msgstr "Padrão"
-
 #. Success!
-#:
 msgid "Success!"
 msgstr "Sucesso!"
 
-#. Swipe right and find if any of your friends is already on Mapstr
-#:
-msgid "Swipe right and find if any of your friends is already on Mapstr"
-msgstr "Deslize para a direita e descubra se algum dos seus amigos já está no Mapstr"
-
 #. Syncing...
-#:
 msgid "Syncing..."
 msgstr "Sincronizando..."
 
 #. Tag name
-#:
 msgid "Tag name"
 msgstr "Nome da marcação"
 
-#. Tags filter behavior
-#:
-msgid "Tags filter behavior"
-msgstr "Tags com filtro de comportamento"
-
-#. Tags settings
-#:
-msgid "Tags settings"
-msgstr "Configurações de tags"
-
 #. Take a photo
-#:
 msgid "Take a photo"
 msgstr "Tirar uma foto"
 
-#. Tips - View Profile and Settings
-#:
-msgid "Tap here to access your profile and settings"
-msgstr "Toque aqui para acessar seu perfil e configurações"
-
-#. Tips - Add friends
-#:
-msgid "Tap here to add friends"
-msgstr "Toque aqui para adicionar amigos"
-
-#. Tips - More details
-#:
-msgid "Tap here to add more details to this place"
-msgstr "Toque aqui para adicionar mais detalhes a este lugar"
-
-#. Tips - Opening hours
-#:
-msgid "Tap here to see the opening hours of this place"
-msgstr "Toque aqui para ver o horário de funcionamento deste lugar"
-
-#. Tips - Tap here to start
-#:
-msgid "Tap here to start"
-msgstr "Toque aqui para começar"
-
-#. Tap on settings, then on « location » then on « always ».
-#:
-msgid "Tap on settings, then on « location » then on « always »."
-msgstr "Toque nas configurações, e em « localização » e depois em « sempre »."
-
-#. Tips - Proximity alert
-#:
-msgid "Tap the bell to activate proximity alert for this place"
-msgstr "Toque no sino para ativar o alerta de proximidade para este local"
-
-#. Tips - Place icon
-#:
-msgid "Tap the place icon to choose another one"
-msgstr "Toque no ícone do lugar para escolher outro"
-
-#. Tell your friends about it!
-#:
-msgid "Tell your friends about it!"
-msgstr "Indique para os seus amigos!"
-
-#. Term of use
-#:
-msgid "Term of use"
-msgstr "Termos de uso"
-
 #. Thank You!
-#:
 msgid "Thank You!"
 msgstr "Obrigado!"
 
 #. Thank You! That means a lot, and we'll do our best to keep it that way! If you have a minute, it would be great if you could rate us on the App Store...
-#:
 msgid "Thank You! That means a lot, and we'll do our best to keep it that way! If you have a minute, it would be great if you could rate us on the App Store..."
-msgstr "Isso significa muito para nós, e nós faremos o nosso melhor para continuar assim! Se você tiver um minuto, seria ótimo se você pudesse nos avaliar na App Store..."
+msgstr ""
+"Isso significa muito para nós, e nós faremos o nosso melhor para continuar assim!\n"
+"Se você tiver um minuto, seria ótimo se você pudesse nos avaliar na App Store..."
 
 #. Contact email - Thank you Title
-#:
 msgid "Thanks for your feedback!"
 msgstr "Obrigado pelo seu comentário!"
 
-#. The 1st map-meets-notes app for users to save, see, share and send their favorite places
-#:
-msgid "The 1st map-meets-notes app for users to save, see, share and send their favorite places"
-msgstr "O primeiro aplicativo com mapa e notas para que os usuários salvem, vejam, compartilhem e enviem seus lugares favoritos"
-
-#. The place <place name> has been successfully imported into your map.
-#:
+#. The place {place name} has been successfully imported into your map.
 msgid "The place %s has been successfully imported into your map."
 msgstr "O lugar %s foi importado com sucesso para o seu mapa."
 
-#. The tag {tag.name} already exists
-#:
-msgid "The tag \"%s\" already exists!"
+#. The tag "{tag name}" already exists
+msgid "The tag \\\"%s\\\" already exists!"
 msgstr "A marcação \"%s\" já existe!"
 
-#. Onboarding - Then it's super easy to import all your places to Mapstr.
-#:
-msgid "Then it's super easy to import all your places to Mapstr."
-msgstr "Então é super fácil importar todos os seus lugares para o Mapstr."
-
-#. There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!
-#:
-msgid "There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!"
-msgstr "Há um conflito entre sua conta do Facebook e sua conta de e-mail... Entre em contato conosco (hello@mapstr.com) para que possamos corrigir isso para você!"
-
 #. This email is already linked to another account!
-#:
 msgid "This email is already linked to another account!"
 msgstr "Este e-mail já está ligado a outra conta!"
 
-#. This email is linked to a Facebook account. Please use Facebook Login to sign in to your account.
-#:
-msgid "This email is linked to a Facebook account. Please use Facebook Login to sign in to your account."
-msgstr "Este e-mail está vinculado a uma conta do Facebook. Utilize o Login do Facebook para entrar na sua conta."
-
 #. This email isn't linked to any account. Please enter a valid email.
-#:
 msgid "This email isn't linked to any account. Please enter a valid email."
 msgstr "Este e-mail não está ligado a nenhuma conta. Por favor, digite um e-mail válido."
 
 #. This place does not exist!
-#:
 msgid "This place does not exist!"
 msgstr "Este lugar não existe!"
 
 #. This place is already on your map!
-#:
 msgid "This place is already on your map!"
 msgstr "Este lugar já está no seu mapa!"
 
-#. This place will appear on your map at next launch.
-#:
-msgid "This place will appear on your map at next launch."
-msgstr "Este lugar aparecerá no seu mapa no início da próxima sessão."
-
-#. This user
-#:
-msgid "This user"
-msgstr "Este usuário"
-
-#. This username is already used.
-#:
-msgid "This username is already used."
-msgstr ""
-
-#. This username is invalid.
-#:
-msgid "This username is invalid."
-msgstr ""
-
-#. Time Machine
-#:
-msgid "Time Machine"
-msgstr "Máquina do Tempo"
-
 #. Default tag: To try
-#:
 msgid "To try"
 msgstr "Tentar"
 
-#. Route Option - Transit app
-#:
-msgid "Transit app"
-msgstr "Aplicativo de trânsito"
-
-#. Travel
-#:
-msgid "Travel"
-msgstr "Viagem"
-
 #. Alert message: Try again
-#:
 msgid "Try again"
 msgstr "Tentar novamente"
 
-#. Turn on background geolocation to enable proximity alerts.
-#:
-msgid "Turn on background geolocation to enable proximity alerts."
-msgstr "Ative a geolocalização em segundo plano para habilitar os alertas de proximidade."
+#. Name or Address
+msgid "Name or Address"
+msgstr "Nome ou Endereço"
 
-#. Tips - Text search
-#:
-msgid "Type the name of a place you like (restaurant, museum, bar...)"
-msgstr "Digite o nome de um lugar que você gosta (um restaurante, um museu, etc)"
+#. Add the name or address of the place you're looking for...
+msgid "Add the name or address of the place you're looking for..."
+msgstr "Adicione o nome ou o endereço do lugar que você está procurando..."
 
-#. Type the name or username of the person you are looking for...
-#:
-msgid "Type the name or username of the person you are looking for..."
-msgstr "Digite o nome ou o nome de usuário da pessoa que você está procurando..."
-
-#. Unable to connect to your facebook account
-#:
-msgid "Unable to connect to your facebook account"
-msgstr "Não foi possível conectar a sua conta do facebook"
-
-#. Unfollow
-#:
-msgid "Unfollow"
-msgstr ""
-
-#. Unfollow {name}?
-#:
-msgid "Unfollow %s?"
-msgstr ""
+#. Add your friends, share your map with them, and discover their world!
+msgid "Add your friends, share your map with them, and discover their world!"
+msgstr "Adicione seus amigos, compartilhe seu mapa com eles, e descubra o mundo deles!"
 
 #. Update
-#:
 msgid "Update"
 msgstr "Atualizar"
 
 #. Uploading photo(s)...
-#:
 msgid "Uploading photo(s)..."
 msgstr "Enviando foto(s)..."
 
-#. Use the button below to add your first one!
-#:
-msgid "Use the button below to add your first one!"
-msgstr "Use o botão abaixo para adicionar o seu primeiro!"
-
-#. Use without account
-#:
-msgid "Use without account"
-msgstr "Usar sem conta"
-
-#. Username
-#:
-msgid "Username"
-msgstr "Nome de usuário"
-
 #. Utilities
-#:
 msgid "Utilities"
 msgstr "Utilidades"
 
-#. View Map
-#:
-msgid "View Map"
-msgstr "Ver mapa"
-
-#. Visible profile
-#:
-msgid "Visible profile"
-msgstr "Perfil visível"
-
-#. Visit the FAQ to learn how to import a file.
-#:
-msgid "Visit the FAQ to learn how to import a file."
-msgstr "Visite as Perguntas Frequentes para saber como importar um arquivo."
-
-#. Route Option - Walk app
-#:
-msgid "Walk app"
-msgstr "Aplicativo de caminhada"
-
 #. Want to contact us?
-#:
 msgid "Want to contact us?"
 msgstr "Quer entrar em contato com a gente?"
 
 #. Alert message: Warning Title
-#:
 msgid "Warning"
 msgstr "Aviso"
 
 #. Alert message: Google - Could not find any place with the address in autocomplete
-#:
 msgid "We couldn't understand this address. Please, try to take a clearer picture..."
 msgstr "Não conseguimos entender este endereço. Por favor, tente tirar uma imagem mais clara..."
 
 #. Alert message: OCR - No address found in text
-#:
 msgid "We couln't recognize this address. Please, try to take a clearer picture..."
 msgstr "Não conseguimos reconhecer este endereço. Por favor, tente tirar uma imagem mais clara..."
 
+#. We haven't met yet!\nPlease, tell more about you.
+msgid ""
+"We haven't met yet!\n"
+"Please, tell more about you."
+msgstr ""
+"Ainda não nos conhecemos!\n"
+"Por favor, conte mais sobre você."
+
 #. We really want to know what you think about mapstr!
-#:
 msgid "We really want to know what you think about mapstr!"
 msgstr "Realmente queremos saber o que você acha do mapstr!"
 
-#. Alert message: Google - Could not test the address with autocomplete Alert message: Google - Could not use autocomplete We were not able to connect to our server. Please try again later...
-#:
 msgid "We were not able to connect to our server. Please try again later..."
 msgstr "Não conseguimos nos conectar ao nosso servidor. Por favor, tente novamente mais tarde..."
 
 #. Alert message: Google - Could not geocode the address
-#:
 msgid "We were not able to locate this place on the map. We're sorry!"
 msgstr "Não conseguimos localizar este lugar no mapa. Sentimos muito!"
 
 #. We were not able to read this file. Please, send it to us, so that we can improve our import tool.
-#:
 msgid "We were not able to read this file. Please, send it to us, so that we can improve our import tool."
 msgstr "Não conseguimos ler este arquivo. Por favor, envie-o para nós para que possamos melhorar a nossa ferramenta de importação."
 
 #. We were not able to save your photo, we're sorry for that. Please, try again later!
-#:
 msgid "We were not able to save your photo, we're sorry for that. Please, try again later!"
 msgstr "Nós não conseguimos salvar a sua foto e lamentamos por isso. Por favor, tente novamente mais tarde!"
 
-#. We won't post anything to Facebook, we hate that too!
-#:
-msgid "We won't post anything to Facebook, we hate that too!"
-msgstr "Não postaremos nada no Facebook, nós também odiamos isso!"
-
 #. We'll be happy to answer all your questions or suggestions!
-#:
 msgid "We'll be happy to answer all your questions or suggestions!"
 msgstr "Ficaremos felizes em responder a todas as suas perguntas ou sugestões!"
 
 #. Contact email - Thank you message
-#:
 msgid "We'll get back to you as soon as we can :)"
 msgstr "Te retornaremos assim que possível :)"
 
-#. We're so sorry to hear that!
-#. Please, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike...
-#:
-msgid "We're so sorry to hear that!\n"
+#. We're so sorry to hear that!\nPlease, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike...
+msgid ""
+"We're so sorry to hear that!\n"
 "Please, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike..."
-msgstr "Lamentamos ouvir isso! Por favor, nos diga o que você acha que devemos fazer para melhorar o Mapstr, ou apenas nos diga o que você não gosta..."
+msgstr ""
+"Lamentamos ouvir isso!\n"
+"Por favor, nos diga o que você acha que devemos fazer para melhorar o Mapstr, ou apenas nos diga o que você não gosta..."
 
 #. We're sorry, but it seems an error occured! Please try again later...
-#:
 msgid "We're sorry, but it seems an error occured! Please try again later..."
 msgstr "Desculpe, mas parece que um erro ocorreu! Por favor, tente novamente mais tarde..."
 
 #. We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore.
-#:
 msgid "We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore."
 msgstr "Desculpe, mas parece que este lugar foi excluído pelo seu proprietário e não pode mais ser acessado."
 
-#. Import places - We've found {number} new places.
-#:
-msgid "We've found %lu new places."
-msgstr "Encontramos %1$lu novos lugares."
-
-#. No comment provided by engineer.
-#:
-msgid "WeChat Session"
-msgstr ""
-
-#. No comment provided by engineer.
-#:
-msgid "WeChat Timeline"
-msgstr ""
-
 #. Website
-#:
 msgid "Website"
 msgstr "Site"
 
-#. Onboarding - Welcome to Mapstr.
-#:
-msgid "Welcome to Mapstr."
-msgstr "Bem-vindo ao Mapstr."
-
-#. Whats New Description
-#:
-msgid "Whats New Description"
-msgstr "Searching by name is now possible to send friend requests. If you don’t want anyone to find you on mapstr, you can change settings."
-
-#. Whats New Title
-#:
-msgid "Whats New Title"
-msgstr "Easily find more friends!"
+msgid "WiFi"
+msgstr "Wi-Fi"
 
 #. Write a comment if you want to...
-#:
 msgid "Write a comment if you want to..."
 msgstr "Escreva um comentário se você quiser..."
 
 #. Wrong password, try again
-#:
 msgid "Wrong password, try again"
 msgstr "Senha errada, tente novamente"
 
-#. Yes
-#:
-msgid "Yes"
-msgstr "Sim"
-
-#. Yes!
-#:
+#. Import Invite - Yes
 msgid "Yes!"
 msgstr "Sim!"
 
 #. Yes, I really do
-#:
 msgid "Yes, I really do"
 msgstr "Sim"
 
-#. You already have all the places from this backup.
-#:
-msgid "You already have all the places from this backup."
-msgstr "Você já tem todos os lugares desse backup."
-
-#. You already have this place. Do you want to see it?
-#:
-msgid "You already have this place. Do you want to see it?"
-msgstr "Você já tem este lugar. Quer vê-lo?"
-
-#. Alert message: You are connecting to an existing account, you are going to loose your current anonymous places.
-#. If you wish to keep them please cancel and create a new account
-#:
-msgid "You are connecting to an existing account, you are going to loose your current anonymous places.\n"
+#. Alert message: You are connecting to an existing account, you are going to loose your current anonymous places.\nIf you wish to keep them please cancel and create a new account
+msgid ""
+"You are connecting to an existing account, you are going to loose your current anonymous places.\n"
 "If you wish to keep them please create a new account"
-msgstr "Você está se conectando a uma conta existente, você vai perder seus lugares anônimos atuais. Se você quiser mantê-los, por favor crie uma conta nova"
-
-#. Tips - Steal Place
-#:
-msgid "You can steal this place!"
-msgstr "Você pode roubar este lugar!"
+msgstr ""
+"Você está se conectando a uma conta existente, você vai perder seus lugares anônimos atuais.\n"
+"Se você quiser mantê-los, por favor crie uma conta nova"
 
 #. Alert message: You cannot delete a tag if it is used in a place
-#:
 msgid "You cannot delete a tag used in a place"
 msgstr "Você não pode excluir uma marcação usada em um lugar"
 
-#. You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications.
-#:
-msgid "You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications."
-msgstr "Você desativou as notificações para o Mapstr. Vá nas Configurações para habilitar as notificações."
-
-#. You have no followers yet
-#:
-msgid "You have no followers yet"
-msgstr "Você ainda não tem nenhum seguidor"
-
 #. You have no friends yet
-#:
 msgid "You have no friends yet"
 msgstr "Você ainda não tem nenhum amigo"
 
 #. No Places - You have no places yet
-#:
 msgid "You have no places yet"
 msgstr "Você ainda não tem nenhum lugar"
 
-#. Today Widget - No places yet...
-#:
-msgid "You have no places yet..."
-msgstr "Você ainda não tem nenhum lugar..."
+#. You haven't saved any place, yet.
+msgid "You haven't saved any place, yet."
+msgstr "Você ainda não salvou nenhum lugar."
 
-#. Tips - Pending invitations
-#:
-msgid "You have pending invitations!"
-msgstr "Você tem convites pendentes!"
+#. No Places - {Username} hasn't saved any place, yet.
+msgid "%s hasn't saved any place, yet."
+msgstr "%s ainda não salvou nenhum lugar."
+
+#. Use the button below to add your first one!
+msgid "Use the button below to add your first one!"
+msgstr "Use o botão abaixo para adicionar o seu primeiro!"
 
 #. You have the same!
-#:
 msgid "You have the same!"
 msgstr "Vocês tem o mesmo!"
 
 #. You have to provide a name for this place
-#:
 msgid "You have to provide a name for this place"
 msgstr "Você precisa fornecer um nome para este lugar"
 
 #. You have to provide an address for this place
-#:
 msgid "You have to provide an address for this place"
 msgstr "Você precisa fornecer um endereço para este lugar"
 
-#. You have to select at least one navigation application
-#:
-msgid "You have to select at least one navigation application"
-msgstr "Você precisa selecionar pelo menos um aplicativo de navegação"
-
-#. No Places - You haven't saved any place, yet.
-#:
-msgid "You haven't saved any place, yet."
-msgstr "Você ainda não salvou nenhum lugar."
-
 #. You like Mapstr?
-#:
 msgid "You like Mapstr?"
 msgstr "Gosta do Mapstr?"
 
-#. You moved the place position from <distance>. Do you want to save this new position?
-#:
-msgid "You moved the place position from %s. Do you want to save this new position?"
-msgstr "Você mudou a posição do lugar de %s. Você quer salvar esta posição nova?"
-
 #. You must provide a valid URL
-#:
 msgid "You must provide a valid URL"
 msgstr "Você precisa fornecer uma URL válida"
 
-#. You need to add your first place on your phone to initialize your account.
-#:
-msgid "You need to add your first place on your phone to initialize your account."
-msgstr "Você precisa adicionar o seu primeiro lugar no seu telefone para inicializar a sua conta."
-
 #. Alert message: A place need at list one tag
-#:
 msgid "You should add at least one tag"
 msgstr "Você precisa adicionar pelo menos uma marcação"
 
-#. You should create an account if you don't want to loose all your places.
-#:
-msgid "You should create an account if you don't want to loose all your places."
-msgstr "Você deveria criar uma conta se não quiser perder todos os seus lugares."
-
-#. You won't be able to access your friend's map anymore, and your friend won't be able to access yours.
-#:
-msgid "You won't be able to access your friend's map anymore, and your friend won't be able to access yours."
-msgstr "Você não conseguirá mais acessar o mapa do seu amigo, e seu amigo não conseguirá acessar o seu."
-
 #. You won't be able to retrieve your data if you change your phone or reinstall the app...
-#:
 msgid "You won't be able to retrieve your data if you change your phone or reinstall the app..."
 msgstr "Você não conseguirá recuperar seus dados se você mudar de telefone ou reinstalar o aplicativo..."
 
+#. Your email (only if you want)
+msgid "Your email (only if you want)"
+msgstr "Seu e-mail (só se você quiser)"
+
+#. Your message (required)
+msgid "Your message (required)"
+msgstr "Sua mensagem (obrigatório)"
+
+#. This user
+msgid "This user"
+msgstr "Este usuário"
+
+#. Time Machine - body
+msgid ""
+"A new version will be created at each app launch, and the last 7 versions will be presented here.\n"
+"If you have multiple accounts, you will have specific files for each account."
+msgstr ""
+"Uma nova versão será criada em cada lançamento do aplicativo, e as últimas 7 versões serão apresentadas aqui.\n"
+"Se você tiver várias contas, você terá arquivos específicos para cada conta."
+
+#. Anonymous account: {accountId}
+msgid "Anonymous account: %s"
+msgstr "Conta anônima: %s"
+
+#. Choice invite: Navigation
+msgid "Choose your prefered navigation app"
+msgstr "Escolha o seu aplicativo de navegação preferido"
+
+#. Facebook login error - Facebook Error
+msgid "Facebook Error"
+msgstr "Erro do Facebook"
+
+#. It seems your account is disconnected. Please reconnect.
+msgid "It seems your account is disconnected. Please reconnect."
+msgstr "Parece que sua conta está desconectada. Por favor, reconecte."
+
+#. Switch: List
+msgid "List"
+msgstr "Lista"
+
+#. Switch: Map
+msgid "Map"
+msgstr "Mapa"
+
+#. Facebook login error - Misconfigured account
+msgid "Misconfigured account"
+msgstr "Conta configurada incorretamente"
+
+#. Time Machine instruction - Title
+msgid "Old versions of your data will appear here, in case you need it."
+msgstr "As versões antigas dos seus dados aparecerão aqui, caso você precise delas."
+
+#. The place is permanently closed
+msgid "Permanently Closed"
+msgstr "Permanentemente Fechado"
+
+#. Time Machine
+msgid "Time Machine"
+msgstr "Máquina do Tempo"
+
+#. Facebook login error - Go to iphone settings to update your password
+msgid "Please, go in your iPhone settings, in the Facebook menu, and retype your account password to ensure you're connected, and try again."
+msgstr "Por favor, vá nas suas configurações do iPhone, no menu do Facebook, e digite a senha da conta novamente para garantir que você esteja conectado, e tente novamente."
+
+#. Facebook login error - Go to iphone settings to allow Mapstr
+msgid "Please, go in your iPhone settings, in the Facebook menu, allow Mapstr, and try again."
+msgstr "Por favor, vá nas suas configurações do iPhone, no menu do Facebook, permita Mapstr, e tente novamente."
+
+#. Today Widget - Add a place at your location
+msgid "Add a place at your location"
+msgstr "Adicionar um lugar na sua localização"
+
+#. Today Widget - No places yet...
+msgid "You have no places yet..."
+msgstr "Você ainda não tem nenhum lugar..."
+
+#. Today Widget - Nearest Places
+msgid "Nearest Places"
+msgstr "Lugares Mais Próximos"
+
+#. Today Widget - See all places nearby
+msgid "See all places nearby"
+msgstr "Ver todos os lugares próximos"
+
+#. You need to add your first place on your phone to initialize your account.
+msgid "You need to add your first place on your phone to initialize your account."
+msgstr "Você precisa adicionar o seu primeiro lugar no seu telefone para inicializar a sua conta."
+
+#. You already have this place. Do you want to see it?
+msgid "You already have this place. Do you want to see it?"
+msgstr "Você já tem este lugar. Quer vê-lo?"
+
+#. No
+msgid "No"
+msgstr "Não"
+
+#. Choose at least one tag...
+msgid "Choose at least one tag..."
+msgstr "Escolha pelo menos uma marcação..."
+
+#. My location
+msgid "My location"
+msgstr "Minha localização"
+
+#. Browse
+msgid "Browse"
+msgstr "Procurar"
+
+#. My places
+msgid "My places"
+msgstr "Meus lugares"
+
+#. Information
+msgid "Information"
+msgstr "Informações"
+
+#. The place is closed on this day
+msgid "Closed"
+msgstr "Fechado"
+
+#. Loading picture...
+msgid "Loading picture..."
+msgstr "Carregando figura..."
+
+#. Now Open
+msgid "Now Open"
+msgstr "Aberto Agora"
+
+#. See more
+msgid "See more"
+msgstr "Ver mais"
+
+#. This place will appear on your map at next launch.
+msgid "This place will appear on your map at next launch."
+msgstr "Este lugar aparecerá no seu mapa no início da próxima sessão."
+
+#. Your iPhone is not within range. This place will be saved later.
+msgid "Your iPhone is not within range. This place will be saved later."
+msgstr "Seu iPhone não está dentro do alcance. Este lugar será salvo mais tarde."
+
+#. This place is waiting to be saved. It will appear on your map at next launch.
+msgid "This place is waiting to be saved. It will appear on your map at next launch."
+msgstr "Este lugar está esperando para ser salvo. Ele aparecerá no seu mapa no início da próxima sessão."
+
+#. Add to my Map
+msgid "Add to my Map"
+msgstr "Adicionar ao meu Mapa"
+
+#. Already on my Map
+msgid "Already on my Map"
+msgstr "Já está no meu Mapa"
+
+#. Route Option - Drive app
+msgid "Drive app"
+msgstr "Aplicativo de direção"
+
+#. Route Option - Unity: min (minutes)
+msgid "min"
+msgstr "min"
+
+#. Route Option - N/A
+msgid "N/A"
+msgstr "N/A"
+
+#. Route Option - Private hire app
+msgid "Private hire app"
+msgstr "Aplicativo de motorista privado"
+
+#. Route Option - Transit app
+msgid "Transit app"
+msgstr "Aplicativo de trânsito"
+
+#. Route Option - Walk app
+msgid "Walk app"
+msgstr "Aplicativo de caminhada"
+
+#. You have to select at least one navigation application
+msgid "You have to select at least one navigation application"
+msgstr "Você precisa selecionar pelo menos um aplicativo de navegação"
+
+#. You moved the place position from {distance}. Do you want to save this new position?
+msgid "You moved the place position from %s. Do you want to save this new position?"
+msgstr "Você mudou a posição do lugar de %s. Você quer salvar esta posição nova?"
+
+#. Tips - Add first place
+msgid "Let's add your first place!"
+msgstr "Vamos adicionar o seu primeiro lugar."
+
+#. Tips - Let's search a place
+msgid "Let’s search a place with its name"
+msgstr "Vamos encontrar um lugar procurando pelo nome."
+
+#. Tips - Text search
+msgid "Type the name of a place you like (restaurant, museum, bar...)"
+msgstr "Digite o nome de um lugar que você gosta (um restaurante, um museu, etc)"
+
+#. Tips - Select or create tags
+msgid "Select or create any tags you want to sort your places"
+msgstr "Selecione ou crie qualquer marcação que você quiser"
+
+#. Tips - Save the place
+msgid "... and save the place to your map!"
+msgstr "... e salve o lugar no seu mapa!"
+
+#. Tips - Drag the detail view
+msgid "Drag or tap to see more details"
+msgstr "Arraste ou toque para ver mais detalhes"
+
+#. Default tag: Friend
+msgid "Friend"
+msgstr "Amigo"
+
+#. Default tag: Hotel
+msgid "Hotel"
+msgstr "Hotel"
+
+#. Default tag: Restaurant
+msgid "Restaurant"
+msgstr "Restaurante"
+
+#. Change Tags
+msgid "Change tags"
+msgstr "Alterar marcações"
+
+#. Create an account to see your friends places, and to access your map from multiple devices.
+msgid "Create an account to see your friends places, and to access your map from multiple devices."
+msgstr "Crie uma conta para ver os lugares dos seus amigos e para acessar o seu mapa a partir de dispositivos múltiplos."
+
+#. Forgot password?
+msgid "Forgot password?"
+msgstr "Esqueceu a senha?"
+
+#. Select an Icon
+msgid "Select an Icon"
+msgstr "Selecionar um Ícone"
+
+#. Sign Up
+msgid "Sign Up"
+msgstr "Cadastre-se"
+
+#. Choose your profile picture
+msgid "Choose your profile picture"
+msgstr "Escolha a sua foto de perfil"
+
+#. Close
+msgid "Close"
+msgstr "Fechar"
+
+#. Add a new Place
+msgid "Add a new Place"
+msgstr "Adicionar um Lugar novo"
+
+#. Enter a phone number
+msgid "Enter a phone number"
+msgstr "Digite um número de telefone"
+
+#. More options
+msgid "More options"
+msgstr "Mais opções"
+
+#. Term of use
+msgid "Term of use"
+msgstr "Termos de uso"
+
+#. Downloading missing language(s)...
+msgid "Downloading missing language(s)..."
+msgstr "Baixando idioma(s) faltante(s)..."
+
+#. or
+msgid "or"
+msgstr "ou"
+
+#. Capture Address
+msgid "Capture Address"
+msgstr "Capturar Endereço"
+
+#. Keep this place private:
+msgid "Keep this place private:"
+msgstr "Manter este lugar privado:"
+
+#. My friends
+msgid "My friends"
+msgstr "Meus amigos"
+
+#. We won't post anything to Facebook, we hate that too!
+msgid "We won't post anything to Facebook, we hate that too!"
+msgstr "Não postaremos nada no Facebook, nós também odiamos isso!"
+
+#. Phone
+msgid "Phone"
+msgstr "Telefone"
+
+#. Keep those places private:
+msgid "Keep those places private:"
+msgstr "Manter estes lugares privados:"
+
+#. Legal Notice
+msgid "Legal Notice"
+msgstr "Aviso Legal"
+
+#. Enter a website
+msgid "Enter a website"
+msgstr "Insira um site"
+
+#. Log in with Facebook
+msgid "Log in with Facebook"
+msgstr "Fazer login com o Facebook"
+
+#. Account settings
+msgid "Account settings"
+msgstr "Configurações de conta"
+
+#. Map settings
+msgid "Map settings"
+msgstr "Configurações de mapa"
+
+#. Standard
+msgid "Standard"
+msgstr "Padrão"
+
+#. Satellite
+msgid "Satellite"
+msgstr "Satélite"
+
+#. Import places
+msgid "Import places"
+msgstr "Importar lugares"
+
+#. Tell your friends about it!
+msgid "Tell your friends about it!"
+msgstr "Indique para os seus amigos!"
+
+#. Files (.csv or .kml)
+msgid "Files (.csv or .kml)"
+msgstr "Arquivos (.csv ou .kml)"
+
+#. Frequently Asked Questions
+msgid "Frequently Asked Questions"
+msgstr "Perguntas Frequentes"
+
+#. is waiting for you on mapstr!
+msgid " is waiting for you on mapstr!"
+msgstr " está esperando você no mapstr!"
+
+#. shared:
+msgid " shared:"
+msgstr " compartilhado:"
+
+#. wants to share this place with you!
+msgid " wants to share this place with you!"
+msgstr " quer compartilhar este lugar com você!"
+
+#. wants you to use Mapstr!
+msgid " wants you to use Mapstr!"
+msgstr " quer que você use Mapstr!"
+
+#. A friend
+msgid "A friend"
+msgstr "Um amigo"
+
+#. A new version is available
+msgid "A new version is available"
+msgstr "Uma versão nova está disponível"
+
+#. Onboarding - Add your friends.\nShare the places you want.
+msgid ""
+"Add your friends.\n"
+"Share the places you want."
+msgstr ""
+"Adicione seus amigos.\n"
+"Compartilhe os lugares que você quiser."
+
+#. Mapstr needs your authorization to locate your position and your favorite places on the map.
+msgid "Mapstr needs your authorization to locate your position and your favorite places on the map."
+msgstr "Mapstr precisa da sua autorização para localizar a sua posição e seus lugares favoritos no mapa."
+
+#. Back to my Map
+msgid "Back to my Map"
+msgstr "Voltar ao meu Mapa"
+
+#. Place Sharing - Click the link to see all details in Mapstr, and save it to your map!\n
+msgid "Click the link to see it in Mapstr, and save it to your map!"
+msgstr "Clique no link para vê-lo no Mapstr, e salve-o no seu mapa!"
+
+#. Onboarding - Complete your profile
+msgid "Complete your profile"
+msgstr "Complete seu perfil"
+
+#. Onboarding - Create unlimited tags\nto sort them easily.
+msgid ""
+"Create unlimited tags\n"
+"to sort them easily."
+msgstr ""
+"Crie marcações ilimitadas\n"
+"para classificar facilmente."
+
+#. Done
+msgid "Done"
+msgstr "Pronto"
+
+#. E-mail
+msgid "E-mail"
+msgstr "E-mail"
+
+#. Hey! Add me on Mapstr with the code %s (or click on the link)
+msgid "Hey! Add me on Mapstr with the code %s (or click on the link)!"
+msgstr "Ei! Me adicione no Mapstr com o código %s (ou clique no link)!"
+
+#. Device location unavailable - mapstr not allowed
+msgid "Hey, you haven't allowed Mapstr to use your location. Open settings to change this!"
+msgstr "Ei, você não permitiu que Mapstr utilize a sua localização. Abra as configurações para mudar isso!"
+
+#. I'm on Mapstr, an app to save all my favorite places, you should try it!
+msgid "I'm on Mapstr, an app to save all my favorite places, you should try it!"
+msgstr "Eu estou no Mapstr, um aplicativo para salvar todos os meus lugares favoritos, você devia experimentar!"
+
+#. Location Permission
+msgid "Location Permission"
+msgstr "Permissão de Localização"
+
+#. Mapstr - your Places, your World
+msgid "Mapstr - your Places, your World"
+msgstr "Mapstr - seus Lugares, seu Mundo"
+
+#. Alert
+msgid "Alert"
+msgstr "Alerta"
+
+#. No place to show
+msgid "No place to show"
+msgstr "Não há lugares para mostrar"
+
+#. Please update your app.
+msgid "Please update your app."
+msgstr "Por favor, atualize seu aplicativo."
+
+#. Please Update
+msgid "Please Update"
+msgstr "Por favor, Atualize"
+
+#. Onboarding - Save places you love,\nplaces to try, places from magazines, etc.
+msgid ""
+"Save places you love,\n"
+"places to try, places from magazines, etc."
+msgstr ""
+"Salve os lugares que você ama,\n"
+"lugares para experimentar, lugares das revistas, etc."
+
+#. Sign in with e-mail
+msgid "Sign in with e-mail"
+msgstr "Entrar com o e-mail"
+
+#. Sign in with Facebook
+msgid "Sign in with Facebook"
+msgstr "Entrar com o Facebook"
+
+#. Sign In
+msgid "Sign In"
+msgstr "Entrar"
+
+#. The 1st map-meets-notes app for users to save, see, share and send their favorite places
+msgid "The 1st map-meets-notes app for users to save, see, share and send their favorite places"
+msgstr "O primeiro aplicativo com mapa e notas para que os usuários salvem, vejam, compartilhem e enviem seus lugares favoritos"
+
+#. Use without account
+msgid "Use without account"
+msgstr "Usar sem conta"
+
+#. Onboarding - Welcome to Mapstr.
+msgid "Welcome to Mapstr."
+msgstr "Bem-vindo ao Mapstr."
+
 #. You've been invited to Mapstr!
-#:
 msgid "You've been invited to Mapstr!"
 msgstr "Você foi convidado para o Mapstr!"
 
 #. You've been invited to see this place on Mapstr!
-#:
 msgid "You've been invited to see this place on Mapstr!"
 msgstr "Você foi convidado para ver este lugar no Mapstr!"
 
-#. Your are not able to send messages from this device
-#:
-msgid "Your are not able to send messages from this device"
-msgstr "Não é possível enviar mensagens deste dispositivo"
+#. Launch Screen - your Places, your World
+msgid "your Places, your World"
+msgstr "seus Lugares, seu Mundo"
 
-#. Your email (only if you want)
-#:
-msgid "Your email (only if you want)"
-msgstr "Seu e-mail (só se você quiser)"
+#. Onboarding - Do you use {application name}?
+msgid "Do you use %s?"
+msgstr "Você usa %s?"
 
-#. Your iPhone is not within range. This place will be saved later.
-#:
-msgid "Your iPhone is not within range. This place will be saved later."
-msgstr "Seu iPhone não está dentro do alcance. Este lugar será salvo mais tarde."
+#. Import Invite - Ignore
+msgid "Ignore"
+msgstr "Ignorar"
 
-#. Your message (required)
-#:
-msgid "Your message (required)"
-msgstr "Sua mensagem (obrigatório)"
-
-#. Your username is @{alias} Your username is @%s
-#:
-msgid "Your username is @%s"
-msgstr "Seu nome de usuário é @%s"
-
-#. Route Option - Unity: min (minutes)
-#:
-msgid "min"
-msgstr "min"
+#. Onboarding - Then it's super easy to import all your places to Mapstr.
+msgid "Then it's super easy to import all your places to Mapstr."
+msgstr "Então é super fácil importar todos os seus lugares para o Mapstr."
 
 #. Image asset: onboarding_tag_1
-#:
 msgid "onboarding_tag_1"
 msgstr "onboarding_tag_1"
 
 #. Image asset: onboarding_tag_2
-#:
 msgid "onboarding_tag_2"
 msgstr "onboarding_tag_2"
 
 #. Image asset: onboarding_tag_3
-#:
 msgid "onboarding_tag_3"
 msgstr "onboarding_tag_3"
 
-#. or
-#:
-msgid "or"
-msgstr "ou"
+#. is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!
+msgid " is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!"
+msgstr " está esperando você no mapstr, o primeiro aplicativo com mapa e notas para que os usuários salvem, vejam, compartilhem e enviem seus lugares favoritos!"
 
-#. Onboarding - skip
-#:
-msgid "skip"
-msgstr "pular"
+#. Accept
+msgid "Accept"
+msgstr "Aceitar"
 
-#. Place source
-#:
-msgid "source:"
-msgstr "fonte:"
+#. Allow
+msgid "Allow"
+msgstr "Permitir"
+
+#. Are you sure to cancel invite for %s?
+msgid "Are you sure to cancel invite for %s?"
+msgstr "Tem certeza que quer cancelar o convite para %s?"
+
+#. Back
+msgid "Back"
+msgstr "Voltar"
+
+#. Cancel Invite
+msgid "Cancel Invite"
+msgstr "Cancelar Convite"
+
+#. Enter your friend's username or email
+msgid "Enter your friend's username or email:"
+msgstr "Digite o ID ou o e-mail do seu amigo:"
+
+#. Connect %s
+msgid "Connect %s"
+msgstr "Conectar %s"
+
+#. Follow
+msgid "Follow"
+msgstr "Seguir"
+
+#. Friends
+msgid "Friends"
+msgstr "Amigos"
+
+#. Invite email - Body
+msgid ""
+"Hey,\n"
+"I use Mapstr app to save all my favorite places in the world, tag them and share them... and I'd like to share them with you!\n"
+" Download Mapstr for free: "
+msgstr ""
+"Ei,\n"
+"Eu uso o aplicativo Mapstr para salvar todos os meus lugares favoritos no mundo, marcá-los e compartilhá-los... e eu gostaria de compartilhá-los com você!\n"
+"Baixe Mapstr gratuitamente: "
+
+#. Hey, add me on Mapstr! I'm @{alias}.
+msgid "Hey, add me on Mapstr! I'm @%s."
+msgstr "Ei, me adicione no Mapstr! Eu sou @%s."
+
+#. Invite contacts
+msgid "Invite contacts"
+msgstr "Convidar contatos"
+
+#. Invite
+msgid "Invite"
+msgstr "Convidar"
+
+#. Invited
+msgid "Invited"
+msgstr "Convidou"
+
+#. Invites
+msgid "Invites"
+msgstr "Convites"
+
+#. Invite email - Subject
+msgid "Join me on Mapstr!"
+msgstr "Junte-se a mim no Mapstr!"
+
+#. No invites 👻
+msgid "No invites 👻"
+msgstr "Não há convites 👻"
+
+#. No places yet
+msgid "No places yet"
+msgstr "Não há lugares ainda"
+
+#. Please, connect first!
+msgid "Please, connect first!"
+msgstr "Por favor, conecte-se primeiro!"
+
+#. Remove {name} from your friends?
+msgid "Remove %s from your friends?"
+msgstr "Remover %s dos seus amigos?"
+
+#. Remove %s
+msgid "Remove %s"
+msgstr "Remover %s"
+
+#. Share your profile
+msgid "Share your profile"
+msgstr "Compartilhe seu nome de usuário"
+
+#. Show my friends on Mapstr
+msgid "Show my friends on Mapstr"
+msgstr "Mostrar meus amigos no Mapstr"
+
+#. Swipe right and find if any of your friends is already on Mapstr
+msgid "Swipe right and find if any of your friends is already on Mapstr"
+msgstr "Deslize para a direita e descubra se algum dos seus amigos já está no Mapstr"
+
+#. Unable to connect to your facebook account
+msgid "Unable to connect to your facebook account"
+msgstr "Não foi possível conectar a sua conta do facebook"
 
 #. waiting...
-#:
 msgid "waiting..."
 msgstr "esperando..."
 
-#. Launch Screen - your Places, your World
-#:
-msgid "your Places, your World"
-msgstr "seus Lugares, seu Mundo"
+#. Yes
+msgid "Yes"
+msgstr "Sim"
+
+#. You won't be able to access your friend's map anymore, and your friend won't be able to access yours.
+msgid "You won't be able to access your friend's map anymore, and your friend won't be able to access yours."
+msgstr "Você não conseguirá mais acessar o mapa do seu amigo, e seu amigo não conseguirá acessar o seu."
+
+#. Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!
+msgid "Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!"
+msgstr "Ei, você não permitiu que Mapstr acesse seus contatos. Abra as configurações para mudar isso!"
+
+#. Mapstr needs your authorization to access your contacts.
+msgid "Mapstr needs your authorization to access your contacts."
+msgstr "Mapstr precisa da sua autorização para acessar seus contatos."
+
+#. iMessage - Find a place
+msgid "Find a place"
+msgstr "Encontrar um lugar"
+
+#. iMessage - Sign in and save your first places in the app, to retrieve them in Messages
+msgid "Sign in and save your first places in the app, to retrieve them in Messages"
+msgstr "Entre e salve seus primeiros lugares no aplicativo, para recuperá-los em Mensagens"
+
+#. iMessage - Sign in
+msgid "Sign in"
+msgstr "Entrar"
+
+#. iMessage - See more in Mapstr
+msgid "See more in Mapstr"
+msgstr "Ver mais no Mapstr"
+
+#. {Username} invited you!
+msgid "%s invited you!"
+msgstr "%s convidou você!"
+
+#. Follow {username} to see his map.
+msgid "Follow %s to see his map."
+msgstr "Siga %s para ver o mapa dele."
+
+#. Contact email - Subject: there's a conflict with my accounts
+msgid "Hey Mapstr, there's a conflict with my accounts!"
+msgstr "Ei, Mapstr, há um conflito com as minhas contas!"
+
+#. Hey, join me on Mapstr! I'm @{alias}.
+msgid "Hey, join me on Mapstr! I'm @%s."
+msgstr "Ei, junte-se a mim no Mapstr! Eu sou @%s."
+
+#. Invite {username} to share your maps together.
+msgid "Invite %s to share your maps together."
+msgstr "Convide %s para compartilhar seus mapas."
+
+#. Please, contact us!
+msgid "Please, contact us!"
+msgstr "Entre em contato com a gente!"
+
+#. There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!
+msgid "There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!"
+msgstr "Há um conflito entre sua conta do Facebook e sua conta de e-mail... Entre em contato conosco (hello@mapstr.com) para que possamos corrigir isso para você!"
+
+#. It's time to join!
+msgid "It's time to join!"
+msgstr "É hora de participar!"
+
+#. You should create an account if you don't want to loose all your places.
+msgid "You should create an account if you don't want to loose all your places."
+msgstr "Você deveria criar uma conta se não quiser perder todos os seus lugares."
+
+#. {service name} Import
+msgid "%s Import"
+msgstr "Importar %s"
+
+#. Connect to Foursquare
+msgid "Connect to Foursquare"
+msgstr "Conectar ao Foursquare"
+
+#. Connect to Instagram
+msgid "Connect to Instagram"
+msgstr "Conectar ao Instagram"
+
+#. Connect to Swarm
+msgid "Connect to Swarm"
+msgstr "Conectar ao Swarm"
+
+#. Deselect All
+msgid "Deselect All"
+msgstr "Desmarcar Todos"
+
+#. Please, connect to your Instagram account and allow Mapstr to import your places
+msgid "Please, connect to your Instagram account and allow Mapstr to import your places"
+msgstr "Por favor, conecte-se à sua conta do Instagram e permita que o Mapstr importe seus lugares"
+
+#. Please, connect to your Swarm account and allow Mapstr to import your places
+msgid "Please, connect to your Swarm account and allow Mapstr to import your places"
+msgstr "Por favor, conecte-se à sua conta do Swarm e permita que o Mapstr importe seus lugares"
+
+#. Select All
+msgid "Select All"
+msgstr "Selecionar Todos"
+
+#. Import places - Select those (places) you want to import.
+msgid "Select those you want to import."
+msgstr "Selecione aqueles que você deseja importar."
+
+#. This username is already used.
+msgid "This username is already used."
+msgstr "Este nome de usuário já está sendo usado."
+
+#. This username is invalid.
+msgid "This username is invalid."
+msgstr "Este nome de usuário é invalido."
+
+#. Visit the FAQ to learn how to import a file.
+msgid "Visit the FAQ to learn how to import a file."
+msgstr "Visite as Perguntas Frequentes para saber como importar um arquivo."
+
+#. You already have all the places from this backup.
+msgid "You already have all the places from this backup."
+msgstr "Você já tem todos os lugares desse backup."
+
+#. Whats New Image
+msgid "Whats New Image"
+msgstr "lang"
+
+#. Invite friends
+msgid "Invite friends"
+msgstr "Convidar amigos"
+
+#. Got It
+msgid "Got It"
+msgstr "Entendido"
+
+#. View Map
+msgid "View Map"
+msgstr "Ver mapa"
+
+#. Add friends
+msgid "Add friends"
+msgstr "Adicionar amigos"
+
+#. Connect with your friends
+msgid "Connect with your friends"
+msgstr "Conecte-se com seus amigos"
+
+#. Find People
+msgid "Find People"
+msgstr "Procurar por nome de usuário"
+
+#. Your are not able to send messages from this device
+msgid "Your are not able to send messages from this device"
+msgstr "Não é possível enviar mensagens deste dispositivo"
+
+#. Your username is @%s
+msgid "Your username is @%s"
+msgstr "Seu nome de usuário é @%s"
+
+#. FAQ
+msgid "FAQ"
+msgstr "Perguntas Frequentes"
+
+#. Followers
+msgid "Followers"
+msgstr "Seguidores"
+
+#. Share your profile to gain new followers on Mapstr 😉
+msgid "Share your profile to gain new followers on Mapstr 😉"
+msgstr "Compartilhe seu perfil para ganhar novos seguidores no Mapstr 😉"
+
+#. You have no followers yet
+msgid "You have no followers yet"
+msgstr "Você ainda não tem nenhum seguidor"
+
+#. Bars & Clubs
+msgid "Bars & Clubs"
+msgstr "Bares e Clubes"
+
+#. Health & Beauty
+msgid "Health & Beauty"
+msgstr "Saúde & Beleza"
+
+#. You have no followers yet
+msgid "Travel"
+msgstr "Viagem"
+
+#. All
+msgid "All"
+msgstr "Tudo"
+
+#. Restaurants & Cafes
+msgid "Restaurants & Cafes"
+msgstr "Restaurantes e Cafés"
+
+#. What's new title
+msgid "Whats New Title"
+msgstr "Easily find more friends!"
+
+#. Whats New Description
+msgid "Whats New Description"
+msgstr "Searching by name is now possible to send friend requests. If you don’t want anyone to find you on mapstr, you can change settings."
+
+#. Whats New 2nd button
+msgid "Whats New 2nd button"
+msgstr "Tente imediatamente"
+
+#. Notification Title - New invite!
+msgid "NEW_INVITE_TITLE"
+msgstr "Novo convite!"
+
+#. Notification Body - {firstname} has invited you on Mapstr.
+msgid "NEW_INVITE_BODY"
+msgstr "%s convidou você para o Mapstr."
+
+#. Notification Title - Invite accepted!
+msgid "ACCEPTED_INVITE_TITLE"
+msgstr "Convite aceito!"
+
+#. Notification Body - {firstname} has accepted your invite.
+msgid "ACCEPTED_INVITE_BODY"
+msgstr "%s aceitou o seu convite."
+
+#. Notification Title - new Follower!
+msgid "NEW_FOLLOWER_TITLE"
+msgstr "Você tem um novo seguidor!"
+
+#. Notification Body - {fullname} is now following you
+msgid "NEW_FOLLOWER_BODY"
+msgstr "%s está seguindo você agora"
+
+#. Activated
+msgid "Activated"
+msgstr "Ativado"
+
+#. Activate Notifications
+msgid "Activate Notifications"
+msgstr "Ativar Notificações"
+
+#. Background Location
+msgid "Background Location"
+msgstr "Localização em Segundo Plano"
+
+#. Deactivated
+msgid "Deactivated"
+msgstr "Desativado"
+
+#. Do you want to be alerted when %s accepts your invite?
+msgid "Do you want to be alerted when %s accepts your invite?"
+msgstr "Você deseja ser alertado quando %s aceitar o seu convite?"
+
+#. Enable notifications in the settings to activate proximity alerts.
+msgid "Enable notifications in the settings to activate proximity alerts."
+msgstr "Habilite as notificações nas configurações para ativar os alertas de proximidade."
+
+#. Enable notifications to be alerted when you pass nearby this place.
+msgid "Enable notifications to be alerted when you pass nearby this place."
+msgstr "Habilite as notificações para ser alertado quando você passar perto deste local."
+
+#. Enable notifications to receive alerts from mapstr.
+msgid "Enable notifications to receive alerts from mapstr."
+msgstr "Habilite as notificações para receber alertas do mapstr."
+
+#. You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications.
+msgid "You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications."
+msgstr "Você desativou as notificações para o Mapstr. Vá nas Configurações para habilitar as notificações."
+
+#. Notification - do you know {place_name} is just over {distance with unity}?
+msgid "Hey, do you know %s is just over %s?"
+msgstr "Ei, você sabia que %s está a mais de %s?"
+
+#. Notification - do you know {place_name} is less than {distance with unity} away?
+msgid "Hey, do you know %s is less than %s away?"
+msgstr "Ei, você sabia que %s está a menos de %s de distância?"
+
+#. Notification - do you know {place_name} and {place_name} are less than {distance with unity} away?
+msgid "Hey, do you know that %s and %s are less than %s away?"
+msgstr "Ei, você sabia que %s e %s estão a menos de %s de distância?"
+
+#. Notification - you are near {place_name} and 2 other places!
+msgid "Hey, you are near %s and 2 other places!"
+msgstr "Ei, você está perto de %s e de 2 outros lugares!"
+
+#. Notification - It's a nice area, you are near {number} places!
+msgid "It's a nice area, you are near %lu places!"
+msgstr "É um lugar legal, você está perto de %lu lugares!"
+
+#. Notification action - Don't alert me anymore
+msgid "Mute"
+msgstr "Silenciar"
+
+#. Notifications
+msgid "Notifications"
+msgstr "Notificações"
+
+#. Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue.
+msgid "Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue."
+msgstr "Opa, parece que há um problema com a sua conta. Tente novamente mais tarde ou entre em contato conosco em hello@mapstr.com se o problema persistir."
+
+#. Places
+msgid "Places"
+msgstr "Lugares"
+
+#. Proximity alerts
+msgid "Proximity alerts"
+msgstr "Alertas de proximidade"
+
+#. Receive notifications for new friends invites or accepted requests.
+msgid "Receive notifications for new friends invites or accepted requests."
+msgstr "Receber notificações de novos convites de amizade ou solicitações aceitas."
+
+#. Receive notifications when you're passing nearby places.
+msgid "Receive notifications when you're passing nearby places."
+msgstr "Receber notificações quando você estiver passando por lugares próximos."
+
+#. Require iOS 10
+msgid "Require iOS 10"
+msgstr "Exige iOS 10"
+
+#. Notification action - See the map
+msgid "See the map"
+msgstr "Ver o mapa"
+
+#. Social activity
+msgid "Socal activity"
+msgstr "Atividade social"
+
+#. Sorry, but proximity notifications are only available on iOS 10.\nPlease update to enjoy.
+msgid ""
+"Sorry, but proximity notifications are only available on iOS 10.\n"
+"Please update to enjoy."
+msgstr ""
+"Desculpe, mas as notificações de proximidade só estão disponíveis no iOS 10.\n"
+"Atualize para utilizá-las."
+
+#. Tap on settings, then on « location » then on « always ».
+msgid "Tap on settings, then on « location » then on « always »."
+msgstr "Toque nas configurações, e em « localização » e depois em « sempre »."
+
+#. This email is linked to a Facebook account. Please use Facebook Login to sign in to your account.
+msgid "This email is linked to a Facebook account. Please use Facebook Login to sign in to your account."
+msgstr "Este e-mail está vinculado a uma conta do Facebook. Utilize o Login do Facebook para entrar na sua conta."
+
+#. Turn on background geolocation to enable proximity alerts.
+msgid "Turn on background geolocation to enable proximity alerts."
+msgstr "Ative a geolocalização em segundo plano para habilitar os alertas de proximidade."
+
+#. Never miss a friend’s invite.
+msgid "Never miss a friend’s invite."
+msgstr "Nunca perca um convite de amizade."
+
+#. Allow notifications
+msgid "Allow notifications"
+msgstr "Permita as notificações"
+
+#. Be alerted when you receive a new invite or when a friend accepts yours.
+msgid "Be alerted when you receive a new invite or when a friend accepts yours."
+msgstr "Seja alertado quando você receber um novo convite ou quando um amigo aceitar o seu."
+
+#. Alert me when I pass nearby
+msgid "Alert me when I pass nearby"
+msgstr "Alertar-me when teve Perto Passar"
+
+#. Be notified of new places
+msgid "Be notified of new places"
+msgstr "Seja notificado sobre lugares novos"
 
 #. your friend
-#:
 msgid "your friend"
 msgstr "seu amigo"
+
+#. Account
+msgid "Account"
+msgstr "Conta"
+
+#. Additive (default)
+msgid "Additive (default)"
+msgstr "Aditivo (padrão)"
+
+#. Application settings
+msgid "Application settings"
+msgstr "Configurações do aplicativo"
+
+#. Data
+msgid "Data"
+msgstr "Dados"
+
+#. Default settings for new places
+msgid "Default settings for new places"
+msgstr "Configurações padrão para lugares novos"
+
+#. Biography
+msgid "Biography"
+msgstr "Biografia"
+
+#. Export
+msgid "Export"
+msgstr "Exportar"
+
+#. Identity
+msgid "Identity"
+msgstr "Identidade"
+
+#. Having issues with your account?
+msgid "Having issues with your account?"
+msgstr "Tendo problemas com a sua conta?"
+
+#. If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation.
+msgid "If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation."
+msgstr "Se você tiver alguns problemas com os dados salvos localmente em seu telefone, como lugares ou tags faltantes, você pode forçar que seus dados sejam recarregados do nosso servidor para garantir uma sincronização completa."
+
+#. Inclusive
+msgid "Inclusive"
+msgstr "Inclusivo"
+
+#. Map style
+msgid "Map style"
+msgstr "Estilo de mapa"
+
+#. Mobile notifications
+msgid "Mobile notifications"
+msgstr "Notificações móveis"
+
+msgid ""
+"Additive option (default behavior): when you select multiple tags like 'restaurant' and 'to try', the map shows every places tagged with 'to try' plus every places tagged with 'restaurant'. This means each visible place will have either the tag 'restaurant' OR the tag 'to try'.  \n"
+"\n"
+"Inclusive option: when you select multiple tags, the map only shows places tagged with all those tags. This means each visible place with have the tag 'restaurant' AND the tag 'to try'."
+msgstr ""
+"Opção aditiva (comportamento padrão): quando você seleciona várias tags como 'restaurante' e 'tentar', o mapa mostra todos os lugares marcados com 'tentar' mais todos os lugares marcados com 'restaurante'. Isso significa que cada lugar visível terá a tag 'restaurante' OU a tag 'tentar'.\n"
+"\n"
+"Opção inclusiva: quando você seleciona várias tags, o mapa mostra apenas lugares marcados com todas as tags. Isso significa que cada lugar visível tem a tag 'restaurante' E a tag 'tentar'."
+
+#. Reload data
+msgid "Reload data"
+msgstr "Recarregar dados"
+
+#. Reload
+msgid "Reload"
+msgstr "Recarregar"
+
+#. Settings & help
+msgid "Settings & help"
+msgstr "Configurações e ajuda"
+
+#. Tags settings
+msgid "Tags settings"
+msgstr "Configurações de tags"
+
+#. Tags filter behavior
+msgid "Tags filter behavior"
+msgstr "Tags com filtro de comportamento"
+
+#. Username
+msgid "Username"
+msgstr "Nome de usuário"
+
+#. Name
+msgid "Name"
+msgstr "Nome"
+
+#. Notification Title - New place!
+msgid "NEW_SAVED_PLACE_TITLE"
+msgstr "Lugar novo"
+
+#. Tips - Tap here to start
+msgid "Tap here to start"
+msgstr "Toque aqui para começar"
+
+#. Tips - Filter by tags
+msgid "Filter your places by their tags"
+msgstr "Filtre seus lugares pelas suas tags"
+
+#. Tips - Steal Place
+msgid "You can steal this place!"
+msgstr "Você pode roubar este lugar!"
+
+#. Tips - Tap the add button below
+msgid "Open and tap the add button below"
+msgstr "Abra e toque no botão adicionar abaixo"
+
+#. Tips - More details
+msgid "Tap here to add more details to this place"
+msgstr "Toque aqui para adicionar mais detalhes a este lugar"
+
+#. Tips - Long press a to edit or delete it
+msgid "Long press a tag to edit or delete it"
+msgstr "Pressione e segure para editar ou excluir uma tag"
+
+#. Tips - Opening hours
+msgid "Tap here to see the opening hours of this place"
+msgstr "Toque aqui para ver o horário de funcionamento deste lugar"
+
+#. Tips - Proximity alert
+msgid "Tap the bell to activate proximity alert for this place"
+msgstr "Toque no sino para ativar o alerta de proximidade para este local"
+
+#. Tips - Pending invitations
+msgid "You have pending invitations!"
+msgstr "Você tem convites pendentes!"
+
+#. Tips - View Profile and Settings
+msgid "Tap here to access your profile and settings"
+msgstr "Toque aqui para acessar seu perfil e configurações"
+
+#. Tips - Find friends
+msgid "Find your friends to see their maps!"
+msgstr "Encontre seus amigos para ver seus mapas!"
+
+#. Official maps you might like
+msgid "Official maps you might like"
+msgstr "Mapas oficiais que você pode gostar"
+
+#. Friends already on Mapstr
+msgid "Friends already on Mapstr"
+msgstr "Amigos que já estão no Mapstr"
+
+#. No result
+msgid "No result"
+msgstr "Sem resultado"
+
+#. Tips - Add friends
+msgid "Tap here to add friends"
+msgstr "Toque aqui para adicionar amigos"
+
+#. Tips - Place icon
+msgid "Tap the place icon to choose another one"
+msgstr "Toque no ícone do lugar para escolher outro"
+
+#. Add @{username} to share your places
+msgid "Add @%s to share your places"
+msgstr "Adicione @%s para compartilhar seus lugares"
+
+#. Back to my map
+msgid "Back to my map"
+msgstr "Voltar ao meu mapa"
+
+#. Follow @{username} to discover their places
+msgid "Follow @%s to discover their places"
+msgstr "Siga @%s para descobrir seus lugares"
+
+#. See the article about this place
+msgid "See article"
+msgstr "Veja o artigo"
+
+#. Place source
+msgid "source:"
+msgstr "fonte:"
+
+#. Unfollow {name}?
+msgid "Unfollow %s?"
+msgstr "Deixar de seguir $@?"
+
+#. Unfollow
+msgid "Unfollow"
+msgstr "Deixar de seguir"
+
+#. Article
+msgid "Article"
+msgstr "Artigo"
+
+#. Share your map
+msgid "Share your map"
+msgstr "Compartilhe seu mapa"
+
+#. Sort by: Date
+msgid "Date"
+msgstr "Data"
+
+#. Tips - Share map
+msgid "Tap here to share your map with your friends!"
+msgstr "Toque aqui para compartilhar seu mapa com seus amigos!"
+
+#. Sort by: Distance (from the user)
+msgid "Distance"
+msgstr "Distância"
+
+#. This picture doesn't have any GPS coordinates
+msgid "This picture doesn't have any GPS coordinates"
+msgstr "Esta imagem não tem nenhuma coordenada de GPS"
+
+#. Enter an article URL
+msgid "Enter an article URL"
+msgstr "Insira o URL de um artigo"
+
+#. You cannot delete a tag used without any other tag in a place
+msgid "You cannot delete a tag used without any other tag in a place"
+msgstr "Você não pode excluir uma tag usada sem que tenha alguma outra tag em um lugar"
+
+#. Delete the tag {tag name}?
+msgid "Delete the tag %s?"
+msgstr "Excluir a tag %s?"
+
+#. More... - More share options
+msgid "More..."
+msgstr "Mais..."
+
+#. This will remove it from {count} of your places and cannot be undone
+msgid "This will remove it from %i of your places and cannot be undone"
+msgstr "Isso irá remover @i de seus lugares e não pode ser desfeito"
+
+#. Please wait... - Export bezel loading
+msgid "Please wait..."
+msgstr "Aguarde..."
+
+#. Podium
+msgid "Podium"
+msgstr "Pódio"
+
+#. Search this area
+msgid "Search this area"
+msgstr "Pesquisar esta área"
+
+#. Your friends have no places here
+msgid "Your friends have no places here"
+msgstr "Seus amigos não tem lugares aqui"
+
+#. Move the map to search another area
+msgid "Move the map to search another area"
+msgstr "Mova o mapa para pesquisar outra área"
+
+#. You need at least 2 friends...
+msgid "You need at least 2 friends..."
+msgstr "Você precisa de pelo menos 2 amigos..."
+
+#. Podium lets you discover the most added places among your friends in this area
+msgid "Podium lets you discover the most added places among your friends in this area"
+msgstr "O pódio permite que você descubra os lugares mais adicionados entre seus amigos nesta área"
+
+#. Your data has been sent to {email}
+msgid "Your data has been sent to %s"
+msgstr "Seus dados foram enviados para %s"
+
+#. We don't have any email to sent your data to. Please add an email in your profile first.
+msgid "We don't have any email to sent your data to. Please add an email in your profile first."
+msgstr "Não temos nenhum e-mail para enviar seus dados. Adicione um e-mail em seu perfil primeiro."
+
+#. Delete my account
+msgid "Delete my account"
+msgstr "Excluir minha conta"
+
+#. Do you really want to permanently delete your account?
+msgid "Do you really want to permanently delete your account?"
+msgstr "Você realmente deseja excluir sua conta permanentemente?"
+
+#. Your data will be deleted and won't be recoverable. You can just disconnect instead.
+msgid "Your data will be deleted and won't be recoverable. You can just disconnect instead."
+msgstr "Seus dados serão excluídos e não serão recuperáveis. Você pode apenas se desconectar em vez disso."
+
+#. Friends being watched (observed for notification)
+msgid "Friends being watched"
+msgstr "Amigos sendo acompanhados"
+
+#. Be notified when these friends add a new place
+msgid "Be notified when these friends add a new place"
+msgstr "Seja notificado quando estes amigos adicionarem um novo lugar"
+
+#. Icons
+msgid "Icons"
+msgstr "Ícones"
+
+#. Cities
+msgid "Cities"
+msgstr "Cidades"
+
+#. Tags
+msgid "Tags"
+msgstr "Tags"
+
+#. Tips - Podium
+msgid "Tap here to see the most added places by your friends!"
+msgstr "Toque aqui para ver os lugares mais adicionados pelos seus amigos!"
+
+msgid "%i place"
+msgid_plural "%i places"
+msgstr[0] "%i lugar"
+msgstr[1] "%i lugares"
+
+msgid "%i friend"
+msgid_plural "%i friends"
+msgstr[0] "%i amigo"
+msgstr[1] "%i amigos"
+
+msgid "%i invite"
+msgid_plural "%i invites"
+msgstr[0] "%i convite"
+msgstr[1] "%i convites"
+
+msgid "We've found %i new place."
+msgid_plural "We've found %i new places."
+msgstr[0] "Encontramos %i novo lugare."
+msgstr[1] "Encontramos %i novos lugares."
