@@ -17,7 +17,12 @@ Pod::Spec.new do |s|
   s.author       = { "Maxime Epain" => "maxime@mapstr.com" }
   s.source       = { :git => "https://git.hulab.co/mapstr/mapstr-l10n.git", :tag => s.version.to_s }
   s.requires_arc = true
+
+  s.platform = :ios, :osx, :tvos, :watchos
   s.ios.deployment_target = '8.0'
+  s.osx.deployment_target = '10.9'
+  s.tvos.deployment_target = '9.0'
+  s.watchos.deployment_target = '2.0'
 
   s.resources = 'mo/*.mo'
 
