@@ -24,12 +24,16 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target = '9.0'
   s.watchos.deployment_target = '2.0'
 
-  s.resources = 'mo/*.mo'
+  s.default_subspecs = 'mo'
 
-  s.dependency 'POLocalizedString'
+  s.subspec 'mo' do |ss|
+    ss.resources = 'mo/*.mo'
+  end
 
   s.subspec 'po' do |ss|
     ss.resources = 'po/*.po'
   end
+
+  s.dependency 'POLocalizedString', '0.3.0'
 
 end
