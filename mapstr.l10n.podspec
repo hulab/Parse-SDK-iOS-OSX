@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.default_subspecs = 'mo', 'lproj'
 
   s.subspec 'mo' do |ss|
-    ss.resources = 'mo/*.mo'
+    ss.resources = 'po/*.mo'
   end
 
   s.subspec 'lproj' do |ss|
