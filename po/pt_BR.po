@@ -1,16 +1,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Mapstr\n"
+"Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2017-12-21 14:51+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2017-12-21 15:03+0000\n"
+"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
+"Language-Team: Portuguese (Brazil) "
+"<https://translation.hulab.co/projects/mapstr/mapstr/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.17.1\n"
 
 #. Add
 msgid "Add"
@@ -1113,7 +1115,7 @@ msgstr ""
 
 #. Tips - Add first place
 msgid "Let's add your first place!"
-msgstr "Vamos adicionar o seu primeiro lugar."
+msgstr "Vamos adicionar o seu primeiro lugar!"
 
 #. Tips - Let's search a place
 msgid "Let’s search a place with its name"
