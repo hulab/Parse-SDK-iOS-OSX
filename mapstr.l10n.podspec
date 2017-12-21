@@ -24,10 +24,14 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target = '9.0'
   s.watchos.deployment_target = '2.0'
 
-  s.default_subspecs = 'mo'
+  s.default_subspecs = 'mo', 'lproj'
 
   s.subspec 'mo' do |ss|
     ss.resources = 'mo/*.mo'
+  end
+
+  s.subspec 'lproj' do |ss|
+    ss.resources = 'ios/*.lproj'
   end
 
   s.subspec 'po' do |ss|
