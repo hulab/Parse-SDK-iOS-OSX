@@ -61,14 +61,6 @@ msgstr ""
 msgid "Type the name or username of the person you are looking for..."
 msgstr ""
 
-#. Notification Body - Your friend {firstname} just joined Mapstr!
-msgid "NEW_FB_FRIEND_BODY"
-msgstr ""
-
-#. Notification Body - {firstname} just saved a new place on his map!
-msgid "NEW_SAVED_PLACE_BODY"
-msgstr ""
-
 #. Place Sharing - in {CityName}
 msgid " in %s."
 msgstr ""
@@ -1630,30 +1622,6 @@ msgstr ""
 msgid "Whats New 2nd button"
 msgstr ""
 
-#. Notification Title - New invite!
-msgid "NEW_INVITE_TITLE"
-msgstr ""
-
-#. Notification Body - {firstname} has invited you on Mapstr.
-msgid "NEW_INVITE_BODY"
-msgstr ""
-
-#. Notification Title - Invite accepted!
-msgid "ACCEPTED_INVITE_TITLE"
-msgstr ""
-
-#. Notification Body - {firstname} has accepted your invite.
-msgid "ACCEPTED_INVITE_BODY"
-msgstr ""
-
-#. Notification Title - new Follower!
-msgid "NEW_FOLLOWER_TITLE"
-msgstr ""
-
-#. Notification Body - {fullname} is now following you
-msgid "NEW_FOLLOWER_BODY"
-msgstr ""
-
 #. Activated
 msgid "Activated"
 msgstr ""
@@ -1871,10 +1839,6 @@ msgstr ""
 
 #. Name
 msgid "Name"
-msgstr ""
-
-#. Notification Title - New place!
-msgid "NEW_SAVED_PLACE_TITLE"
 msgstr ""
 
 #. Tips - Tap here to start
