@@ -1,26 +1,18 @@
 /* Notification Body - Your friend {firstname} just joined Mapstr! */
-"NEW_FB_FRIEND_BODY" = "Your friend %@ just joined Mapstr!";
-
+"NEW_FB_FRIEND_BODY" = "Seu amigo %@ acabou de entrar no Mapstr!";
 /* Notification Body - {firstname} just saved a new place on his map! */
-"NEW_SAVED_PLACE_BODY" = "%@ just saved a new place on his map!";
-
+"NEW_SAVED_PLACE_BODY" = "%@ acabou de salvar um lugar novo no mapa!";
 /* Notification Title - New invite! */
-"NEW_INVITE_TITLE" = "New invite!";
-
+"NEW_INVITE_TITLE" = "Novo convite!";
 /* Notification Body - {firstname} has invited you on Mapstr. */
-"NEW_INVITE_BODY" = "%@ has invited you on Mapstr.";
-
+"NEW_INVITE_BODY" = "%@ convidou você para o Mapstr.";
 /* Notification Title - Invite accepted! */
-"ACCEPTED_INVITE_TITLE" = "Invite accepted!";
-
+"ACCEPTED_INVITE_TITLE" = "Convite aceito!";
 /* Notification Body - {firstname} has accepted your invite. */
-"ACCEPTED_INVITE_BODY" = "%@ has accepted your invite.";
-
+"ACCEPTED_INVITE_BODY" = "%@ aceitou o seu convite.";
 /* Notification Title - new Follower! */
-"NEW_FOLLOWER_TITLE" = "You have a new follower!";
-
+"NEW_FOLLOWER_TITLE" = "Você tem um novo seguidor!";
 /* Notification Body - {fullname} is now following you */
-"NEW_FOLLOWER_BODY" = "%@ is now following you";
-
+"NEW_FOLLOWER_BODY" = "%@ está seguindo você agora";
 /* Notification Title - New place! */
-"NEW_SAVED_PLACE_TITLE" = "New place!";
+"NEW_SAVED_PLACE_TITLE" = "Lugar novo!";
