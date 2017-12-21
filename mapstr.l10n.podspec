@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "Mapstr localization files."
   s.description  = <<-DESC
                     languages:
-					          - English.
+                    - English.
                     - French.
                     - German.
                     - Dutch.
