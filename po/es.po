@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mapstr\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2017-12-18 14:23+0100\n"
+"PO-Revision-Date: 2017-12-21 14:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
@@ -80,14 +80,6 @@ msgstr ""
 #. Type the name or username of the person you are looking for...
 msgid "Type the name or username of the person you are looking for..."
 msgstr "Escribe el nombre de usuario de la persona que buscas..."
-
-#. Notification Body - Your friend {firstname} just joined Mapstr!
-msgid "NEW_FB_FRIEND_BODY"
-msgstr "¡Tu amigo %s se ha unido a Mapstr!"
-
-#. Notification Body - {firstname} just saved a new place on his map!
-msgid "NEW_SAVED_PLACE_BODY"
-msgstr "¡%s ha guardado un lugar nuevo en su mapa!"
 
 #. Place Sharing - in {CityName}
 msgid " in %s."
@@ -1804,30 +1796,6 @@ msgstr ""
 msgid "Whats New 2nd button"
 msgstr "Probar ahora"
 
-#. Notification Title - New invite!
-msgid "NEW_INVITE_TITLE"
-msgstr "¡Nueva invitación!"
-
-#. Notification Body - {firstname} has invited you on Mapstr.
-msgid "NEW_INVITE_BODY"
-msgstr "%s te ha invitado a Mapstr."
-
-#. Notification Title - Invite accepted!
-msgid "ACCEPTED_INVITE_TITLE"
-msgstr "¡Invitación aceptada!"
-
-#. Notification Body - {firstname} has accepted your invite.
-msgid "ACCEPTED_INVITE_BODY"
-msgstr "%s ha aceptado tu invitación."
-
-#. Notification Title - new Follower!
-msgid "NEW_FOLLOWER_TITLE"
-msgstr "¡Tienes un nuevo seguidor!"
-
-#. Notification Body - {fullname} is now following you
-msgid "NEW_FOLLOWER_BODY"
-msgstr "%s ahora te sigue"
-
 #. Activated
 msgid "Activated"
 msgstr "Activado"
@@ -2100,10 +2068,6 @@ msgstr "Nombre de usuario"
 msgid "Name"
 msgstr "Nombre"
 
-#. Notification Title - New place!
-msgid "NEW_SAVED_PLACE_TITLE"
-msgstr "Lugar nuevo"
-
 #. Tips - Tap here to start
 msgid "Tap here to start"
 msgstr "Toca aquí para empezar"
@@ -2345,3 +2309,30 @@ msgid "We've found %i new place."
 msgid_plural "We've found %i new places."
 msgstr[0] "Hemos encontrado %i lugar nuevo."
 msgstr[1] "Hemos encontrado %i lugares nuevos."
+
+#~ msgid "NEW_FB_FRIEND_BODY"
+#~ msgstr "¡Tu amigo %s se ha unido a Mapstr!"
+
+#~ msgid "NEW_SAVED_PLACE_BODY"
+#~ msgstr "¡%s ha guardado un lugar nuevo en su mapa!"
+
+#~ msgid "NEW_INVITE_TITLE"
+#~ msgstr "¡Nueva invitación!"
+
+#~ msgid "NEW_INVITE_BODY"
+#~ msgstr "%s te ha invitado a Mapstr."
+
+#~ msgid "ACCEPTED_INVITE_TITLE"
+#~ msgstr "¡Invitación aceptada!"
+
+#~ msgid "ACCEPTED_INVITE_BODY"
+#~ msgstr "%s ha aceptado tu invitación."
+
+#~ msgid "NEW_FOLLOWER_TITLE"
+#~ msgstr "¡Tienes un nuevo seguidor!"
+
+#~ msgid "NEW_FOLLOWER_BODY"
+#~ msgstr "%s ahora te sigue"
+
+#~ msgid "NEW_SAVED_PLACE_TITLE"
+#~ msgstr "Lugar nuevo"

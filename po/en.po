@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Mapstr\n"
-"POT-Creation-Date: 2017-12-18 10:52+0000\n"
-"PO-Revision-Date: 2017-12-18 14:23+0100\n"
+"POT-Creation-Date: 2017-12-18 10:53+0000\n"
+"PO-Revision-Date: 2017-12-21 14:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "X-Generator: Poedit 2.0.5\n"
 
 #. Add
@@ -37,8 +37,12 @@ msgid "Account visibility"
 msgstr "Account visibility"
 
 #. Do you also want to disable nearby alerts for every existing places with this tag?
-msgid "Do you also want to disable nearby alerts for every existing places with this tag?"
-msgstr "Do you also want to disable nearby alerts for every existing places with this tag?"
+msgid ""
+"Do you also want to disable nearby alerts for every existing places with "
+"this tag?"
+msgstr ""
+"Do you also want to disable nearby alerts for every existing places with "
+"this tag?"
 
 #. Disable nearby alerts for this tag
 msgid "Disable nearby alerts for this tag"
@@ -58,25 +62,23 @@ msgstr "Visible profile"
 
 #. By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n\nIn both cases your map remains strictly private and is only accessible by your friends after you accept their invitation.
 msgid ""
-"By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n"
+"By default, your profile will appear in the friends search results to help "
+"your friends find you. If you don't want to, you can choose not to appear, "
+"and only the users who know your exact username will be able to find you.\n"
 "\n"
-"In both cases your map remains strictly private and is only accessible by your friends after you accept their invitation."
+"In both cases your map remains strictly private and is only accessible by "
+"your friends after you accept their invitation."
 msgstr ""
-"By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n"
+"By default, your profile will appear in the friends search results to help "
+"your friends find you. If you don't want to, you can choose not to appear, "
+"and only the users who know your exact username will be able to find you.\n"
 "\n"
-"In both cases your map remains strictly private and is only accessible by your friends after you accept their invitation."
+"In both cases your map remains strictly private and is only accessible by "
+"your friends after you accept their invitation."
 
 #. Type the name or username of the person you are looking for...
 msgid "Type the name or username of the person you are looking for..."
 msgstr "Type the name or username of the person you are looking for..."
-
-#. Notification Body - Your friend {firstname} just joined Mapstr!
-msgid "NEW_FB_FRIEND_BODY"
-msgstr "Your friend %s just joined Mapstr!"
-
-#. Notification Body - {firstname} just saved a new place on his map!
-msgid "NEW_SAVED_PLACE_BODY"
-msgstr "%s just saved a new place on his map!"
 
 #. Place Sharing - in {CityName}
 msgid " in %s."
@@ -318,7 +320,8 @@ msgstr "Help"
 #. Hey do you like Mapstr?
 msgid "Hey do you like Mapstr?"
 msgstr ""
-"We're always looking for improvement, and we really want to know what you think of mapstr.\n"
+"We're always looking for improvement, and we really want to know what you "
+"think of mapstr.\n"
 "Please tell us, are you satisfied with mapstr?"
 
 #. Contact email - Subject
@@ -402,8 +405,12 @@ msgid "Mapstr was not able to access the camera!"
 msgstr "Mapstr was not able to access the camera!"
 
 #. Device location unavailable - location not determined
-msgid "Mapstr was not able to find your location... We're so sorry! Please try again later!"
-msgstr "Mapstr was not able to find your location... We're so sorry! Please try again later!"
+msgid ""
+"Mapstr was not able to find your location... We're so sorry! Please try "
+"again later!"
+msgstr ""
+"Mapstr was not able to find your location... We're so sorry! Please try "
+"again later!"
 
 #. Maybe later
 msgid "Maybe later"
@@ -520,8 +527,12 @@ msgid "Please, check your emails to reset your password"
 msgstr "Please, check your emails to reset your password"
 
 #. Please, connect to your Foursquare account and allow Mapstr to import your places
-msgid "Please, connect to your Foursquare account and allow Mapstr to import your places"
-msgstr "Please, connect to your Foursquare account and allow Mapstr to import your places"
+msgid ""
+"Please, connect to your Foursquare account and allow Mapstr to import your "
+"places"
+msgstr ""
+"Please, connect to your Foursquare account and allow Mapstr to import your "
+"places"
 
 #. Please, enter your password to connect to this account.
 msgid "Please, enter your password to connect to this account."
@@ -640,10 +651,13 @@ msgid "Thank You!"
 msgstr "Thank You!"
 
 #. Thank You! That means a lot, and we'll do our best to keep it that way! If you have a minute, it would be great if you could rate us on the App Store...
-msgid "Thank You! That means a lot, and we'll do our best to keep it that way! If you have a minute, it would be great if you could rate us on the App Store..."
+msgid ""
+"Thank You! That means a lot, and we'll do our best to keep it that way! If "
+"you have a minute, it would be great if you could rate us on the App Store..."
 msgstr ""
 "It means a lot to us, and we'll do our best to keep it that way!\n"
-"If you have a minute, it would be great if you could rate us on the App Store..."
+"If you have a minute, it would be great if you could rate us on the App "
+"Store..."
 
 #. Contact email - Thank you Title
 msgid "Thanks for your feedback!"
@@ -714,12 +728,16 @@ msgid "Warning"
 msgstr "Warning"
 
 #. Alert message: Google - Could not find any place with the address in autocomplete
-msgid "We couldn't understand this address. Please, try to take a clearer picture..."
-msgstr "We couldn't understand this address. Please, try to take a clearer picture..."
+msgid ""
+"We couldn't understand this address. Please, try to take a clearer picture..."
+msgstr ""
+"We couldn't understand this address. Please, try to take a clearer picture..."
 
 #. Alert message: OCR - No address found in text
-msgid "We couln't recognize this address. Please, try to take a clearer picture..."
-msgstr "We couln't recognize this address. Please, try to take a clearer picture..."
+msgid ""
+"We couln't recognize this address. Please, try to take a clearer picture..."
+msgstr ""
+"We couln't recognize this address. Please, try to take a clearer picture..."
 
 #. We haven't met yet!\nPlease, tell more about you.
 msgid ""
@@ -741,12 +759,20 @@ msgid "We were not able to locate this place on the map. We're sorry!"
 msgstr "We were not able to locate this place on the map. We're sorry!"
 
 #. We were not able to read this file. Please, send it to us, so that we can improve our import tool.
-msgid "We were not able to read this file. Please, send it to us, so that we can improve our import tool."
-msgstr "We were not able to read this file. Please, send it to us, so that we can improve our import tool."
+msgid ""
+"We were not able to read this file. Please, send it to us, so that we can "
+"improve our import tool."
+msgstr ""
+"We were not able to read this file. Please, send it to us, so that we can "
+"improve our import tool."
 
 #. We were not able to save your photo, we're sorry for that. Please, try again later!
-msgid "We were not able to save your photo, we're sorry for that. Please, try again later!"
-msgstr "We were not able to save your photo, we're sorry for that. Please, try again later!"
+msgid ""
+"We were not able to save your photo, we're sorry for that. Please, try again "
+"later!"
+msgstr ""
+"We were not able to save your photo, we're sorry for that. Please, try again "
+"later!"
 
 #. We'll be happy to answer all your questions or suggestions!
 msgid "We'll be happy to answer all your questions or suggestions!"
@@ -759,18 +785,24 @@ msgstr "We'll get back to you as soon as we can :)"
 #. We're so sorry to hear that!\nPlease, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike...
 msgid ""
 "We're so sorry to hear that!\n"
-"Please, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike..."
+"Please, tell us what you think we should do to improve in Mapstr, or just "
+"tell us what you dislike..."
 msgstr ""
 "We're so sorry to hear that!\n"
-"Please, tell us what you think we should do to improve Mapstr, or just tell us what you dislike..."
+"Please, tell us what you think we should do to improve Mapstr, or just tell "
+"us what you dislike..."
 
 #. We're sorry, but it seems an error occured! Please try again later...
 msgid "We're sorry, but it seems an error occured! Please try again later..."
 msgstr "We're sorry, but it seems an error occured! Please try again later..."
 
 #. We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore.
-msgid "We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore."
-msgstr "We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore."
+msgid ""
+"We're sorry, but it seems this place has been deleted by its owner and can't "
+"be accessed anymore."
+msgstr ""
+"We're sorry, but it seems this place has been deleted by its owner and can't "
+"be accessed anymore."
 
 #. Website
 msgid "Website"
@@ -797,10 +829,12 @@ msgstr "Yes, I really do"
 
 #. Alert message: You are connecting to an existing account, you are going to loose your current anonymous places.\nIf you wish to keep them please cancel and create a new account
 msgid ""
-"You are connecting to an existing account, you are going to loose your current anonymous places.\n"
+"You are connecting to an existing account, you are going to loose your "
+"current anonymous places.\n"
 "If you wish to keep them please create a new account"
 msgstr ""
-"You are connecting to an existing account, you are going to loose your current anonymous places.\n"
+"You are connecting to an existing account, you are going to loose your "
+"current anonymous places.\n"
 "If you wish to keep them please create a new account"
 
 #. Alert message: You cannot delete a tag if it is used in a place
@@ -852,8 +886,12 @@ msgid "You should add at least one tag"
 msgstr "You should add at least one tag"
 
 #. You won't be able to retrieve your data if you change your phone or reinstall the app...
-msgid "You won't be able to retrieve your data if you change your phone or reinstall the app..."
-msgstr "You won't be able to retrieve your data if you change your phone or reinstall the app..."
+msgid ""
+"You won't be able to retrieve your data if you change your phone or "
+"reinstall the app..."
+msgstr ""
+"You won't be able to retrieve your data if you change your phone or "
+"reinstall the app..."
 
 #. Your email (only if you want)
 msgid "Your email (only if you want)"
@@ -869,10 +907,12 @@ msgstr "This user"
 
 #. Time Machine - body
 msgid ""
-"A new version will be created at each app launch, and the last 7 versions will be presented here.\n"
+"A new version will be created at each app launch, and the last 7 versions "
+"will be presented here.\n"
 "If you have multiple accounts, you will have specific files for each account."
 msgstr ""
-"A new version will be created at each app launch, and the last 7 versions will be presented here.\n"
+"A new version will be created at each app launch, and the last 7 versions "
+"will be presented here.\n"
 "If you have multiple accounts, you will have specific files for each account."
 
 #. Anonymous account: {accountId}
@@ -916,12 +956,20 @@ msgid "Time Machine"
 msgstr "Time Machine"
 
 #. Facebook login error - Go to iphone settings to update your password
-msgid "Please, go in your iPhone settings, in the Facebook menu, and retype your account password to ensure you're connected, and try again."
-msgstr "Please, go in your iPhone settings, in the Facebook menu, and retype your account password to ensure you're connected, and try again."
+msgid ""
+"Please, go in your iPhone settings, in the Facebook menu, and retype your "
+"account password to ensure you're connected, and try again."
+msgstr ""
+"Please, go in your iPhone settings, in the Facebook menu, and retype your "
+"account password to ensure you're connected, and try again."
 
 #. Facebook login error - Go to iphone settings to allow Mapstr
-msgid "Please, go in your iPhone settings, in the Facebook menu, allow Mapstr, and try again."
-msgstr "Please, go in your iPhone settings, in the Facebook menu, allow Mapstr, and try again."
+msgid ""
+"Please, go in your iPhone settings, in the Facebook menu, allow Mapstr, and "
+"try again."
+msgstr ""
+"Please, go in your iPhone settings, in the Facebook menu, allow Mapstr, and "
+"try again."
 
 #. Today Widget - Add a place at your location
 msgid "Add a place at your location"
@@ -940,8 +988,10 @@ msgid "See all places nearby"
 msgstr "See all places nearby"
 
 #. You need to add your first place on your phone to initialize your account.
-msgid "You need to add your first place on your phone to initialize your account."
-msgstr "You need to add your first place on your phone to initialize your account."
+msgid ""
+"You need to add your first place on your phone to initialize your account."
+msgstr ""
+"You need to add your first place on your phone to initialize your account."
 
 #. You already have this place. Do you want to see it?
 msgid "You already have this place. Do you want to see it?"
@@ -996,8 +1046,10 @@ msgid "Your iPhone is not within range. This place will be saved later."
 msgstr "Your iPhone is not within range. This place will be saved later."
 
 #. This place is waiting to be saved. It will appear on your map at next launch.
-msgid "This place is waiting to be saved. It will appear on your map at next launch."
-msgstr "This place is waiting to be saved. It will appear on your map at next launch."
+msgid ""
+"This place is waiting to be saved. It will appear on your map at next launch."
+msgstr ""
+"This place is waiting to be saved. It will appear on your map at next launch."
 
 #. Add to my Map
 msgid "Add to my Map"
@@ -1036,8 +1088,10 @@ msgid "You have to select at least one navigation application"
 msgstr "You have to select at least one navigation application"
 
 #. You moved the place position from {distance}. Do you want to save this new position?
-msgid "You moved the place position from %s. Do you want to save this new position?"
-msgstr "You moved the place position from %s. Do you want to save this new position?"
+msgid ""
+"You moved the place position from %s. Do you want to save this new position?"
+msgstr ""
+"You moved the place position from %s. Do you want to save this new position?"
 
 #. Tips - Add first place
 msgid "Let's add your first place!"
@@ -1080,8 +1134,12 @@ msgid "Change tags"
 msgstr "Change tags"
 
 #. Create an account to see your friends places, and to access your map from multiple devices.
-msgid "Create an account to see your friends places, and to access your map from multiple devices."
-msgstr "Create an account to see your friends places, and to access your map from multiple devices."
+msgid ""
+"Create an account to see your friends places, and to access your map from "
+"multiple devices."
+msgstr ""
+"Create an account to see your friends places, and to access your map from "
+"multiple devices."
 
 #. Forgot password?
 msgid "Forgot password?"
@@ -1228,8 +1286,12 @@ msgstr ""
 "Share the places you want."
 
 #. Mapstr needs your authorization to locate your position and your favorite places on the map.
-msgid "Mapstr needs your authorization to locate your position and your favorite places on the map."
-msgstr "Mapstr needs your authorization to locate your position and your favorite places on the map."
+msgid ""
+"Mapstr needs your authorization to locate your position and your favorite "
+"places on the map."
+msgstr ""
+"Mapstr needs your authorization to locate your position and your favorite "
+"places on the map."
 
 #. Back to my Map
 msgid "Back to my Map"
@@ -1264,12 +1326,18 @@ msgid "Hey! Add me on Mapstr with the code %s (or click on the link)!"
 msgstr "Hey! Add me on Mapstr with the code %s (or click on the link)!"
 
 #. Device location unavailable - mapstr not allowed
-msgid "Hey, you haven't allowed Mapstr to use your location. Open settings to change this!"
-msgstr "Hey, you haven't allowed Mapstr to use your location. Open settings to change this!"
+msgid ""
+"Hey, you haven't allowed Mapstr to use your location. Open settings to "
+"change this!"
+msgstr ""
+"Hey, you haven't allowed Mapstr to use your location. Open settings to "
+"change this!"
 
 #. I'm on Mapstr, an app to save all my favorite places, you should try it!
-msgid "I'm on Mapstr, an app to save all my favorite places, you should try it!"
-msgstr "I'm on Mapstr, an app to save all my favorite places, you should try it!"
+msgid ""
+"I'm on Mapstr, an app to save all my favorite places, you should try it!"
+msgstr ""
+"I'm on Mapstr, an app to save all my favorite places, you should try it!"
 
 #. Location Permission
 msgid "Location Permission"
@@ -1316,8 +1384,12 @@ msgid "Sign In"
 msgstr "Sign In"
 
 #. The 1st map-meets-notes app for users to save, see, share and send their favorite places
-msgid "The 1st map-meets-notes app for users to save, see, share and send their favorite places"
-msgstr "The 1st map-meets-notes app for users to save, see, share and send their favorite places"
+msgid ""
+"The 1st map-meets-notes app for users to save, see, share and send their "
+"favorite places"
+msgstr ""
+"The 1st map-meets-notes app for users to save, see, share and send their "
+"favorite places"
 
 #. Use without account
 msgid "Use without account"
@@ -1364,8 +1436,12 @@ msgid "onboarding_tag_3"
 msgstr "onboarding_tag_3"
 
 #. is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!
-msgid " is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!"
-msgstr " is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!"
+msgid ""
+" is waiting for you on mapstr, the 1st map-meets-notes app for users to "
+"save, see, share and send their favorite places!"
+msgstr ""
+" is waiting for you on mapstr, the 1st map-meets-notes app for users to "
+"save, see, share and send their favorite places!"
 
 #. Accept
 msgid "Accept"
@@ -1406,11 +1482,13 @@ msgstr "Friends"
 #. Invite email - Body
 msgid ""
 "Hey,\n"
-"I use Mapstr app to save all my favorite places in the world, tag them and share them... and I'd like to share them with you!\n"
+"I use Mapstr app to save all my favorite places in the world, tag them and "
+"share them... and I'd like to share them with you!\n"
 " Download Mapstr for free: "
 msgstr ""
 "Hey,\n"
-"I use Mapstr app to save all my favorite places in the world, tag them and share them... and I'd like to share them with you!\n"
+"I use Mapstr app to save all my favorite places in the world, tag them and "
+"share them... and I'd like to share them with you!\n"
 " Download Mapstr for free: "
 
 #. Hey, add me on Mapstr! I'm @{alias}.
@@ -1482,12 +1560,20 @@ msgid "Yes"
 msgstr "Yes"
 
 #. You won't be able to access your friend's map anymore, and your friend won't be able to access yours.
-msgid "You won't be able to access your friend's map anymore, and your friend won't be able to access yours."
-msgstr "You won't be able to access your friend's map anymore, and your friend won't be able to access yours."
+msgid ""
+"You won't be able to access your friend's map anymore, and your friend won't "
+"be able to access yours."
+msgstr ""
+"You won't be able to access your friend's map anymore, and your friend won't "
+"be able to access yours."
 
 #. Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!
-msgid "Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!"
-msgstr "Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!"
+msgid ""
+"Hey, you haven't allowed Mapstr to access your contacts. Open settings to "
+"change this!"
+msgstr ""
+"Hey, you haven't allowed Mapstr to access your contacts. Open settings to "
+"change this!"
 
 #. Mapstr needs your authorization to access your contacts.
 msgid "Mapstr needs your authorization to access your contacts."
@@ -1498,8 +1584,10 @@ msgid "Find a place"
 msgstr "Find a place"
 
 #. iMessage - Sign in and save your first places in the app, to retrieve them in Messages
-msgid "Sign in and save your first places in the app, to retrieve them in Messages"
-msgstr "Sign in and save your first places in the app, to retrieve them in Messages"
+msgid ""
+"Sign in and save your first places in the app, to retrieve them in Messages"
+msgstr ""
+"Sign in and save your first places in the app, to retrieve them in Messages"
 
 #. iMessage - Sign in
 msgid "Sign in"
@@ -1534,16 +1622,22 @@ msgid "Please, contact us!"
 msgstr "Please, contact us!"
 
 #. There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!
-msgid "There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!"
-msgstr "There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!"
+msgid ""
+"There's a conflict between your Facebook account and your email account... "
+"Please get in touch with us (hello@mapstr.com) so that we fix it for you!"
+msgstr ""
+"There's a conflict between your Facebook account and your email account... "
+"Please get in touch with us (hello@mapstr.com) so that we fix it for you!"
 
 #. It's time to join!
 msgid "It's time to join!"
 msgstr "It's time to join!"
 
 #. You should create an account if you don't want to loose all your places.
-msgid "You should create an account if you don't want to loose all your places."
-msgstr "You should create an account if you don't want to loose all your places."
+msgid ""
+"You should create an account if you don't want to loose all your places."
+msgstr ""
+"You should create an account if you don't want to loose all your places."
 
 #. {service name} Import
 msgid "%s Import"
@@ -1566,12 +1660,18 @@ msgid "Deselect All"
 msgstr "Deselect All"
 
 #. Please, connect to your Instagram account and allow Mapstr to import your places
-msgid "Please, connect to your Instagram account and allow Mapstr to import your places"
-msgstr "Please, connect to your Instagram account and allow Mapstr to import your places"
+msgid ""
+"Please, connect to your Instagram account and allow Mapstr to import your "
+"places"
+msgstr ""
+"Please, connect to your Instagram account and allow Mapstr to import your "
+"places"
 
 #. Please, connect to your Swarm account and allow Mapstr to import your places
-msgid "Please, connect to your Swarm account and allow Mapstr to import your places"
-msgstr "Please, connect to your Swarm account and allow Mapstr to import your places"
+msgid ""
+"Please, connect to your Swarm account and allow Mapstr to import your places"
+msgstr ""
+"Please, connect to your Swarm account and allow Mapstr to import your places"
 
 #. Select All
 msgid "Select All"
@@ -1675,35 +1775,13 @@ msgstr "Easily find more friends!"
 
 #. Whats New Description
 msgid "Whats New Description"
-msgstr "Searching by name is now possible to send friend requests. If you don’t want anyone to find you on mapstr, you can change settings."
+msgstr ""
+"Searching by name is now possible to send friend requests. If you don’t want "
+"anyone to find you on mapstr, you can change settings."
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"
 msgstr "Try right away"
-
-#. Notification Title - New invite!
-msgid "NEW_INVITE_TITLE"
-msgstr "New invite!"
-
-#. Notification Body - {firstname} has invited you on Mapstr.
-msgid "NEW_INVITE_BODY"
-msgstr "%s has invited you on Mapstr."
-
-#. Notification Title - Invite accepted!
-msgid "ACCEPTED_INVITE_TITLE"
-msgstr "Invite accepted!"
-
-#. Notification Body - {firstname} has accepted your invite.
-msgid "ACCEPTED_INVITE_BODY"
-msgstr "%s has accepted your invite."
-
-#. Notification Title - new Follower!
-msgid "NEW_FOLLOWER_TITLE"
-msgstr "You have a new follower!"
-
-#. Notification Body - {fullname} is now following you
-msgid "NEW_FOLLOWER_BODY"
-msgstr "%s is now following you"
 
 #. Activated
 msgid "Activated"
@@ -1738,8 +1816,12 @@ msgid "Enable notifications to receive alerts from mapstr."
 msgstr "Enable notifications to receive alerts from mapstr."
 
 #. You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications.
-msgid "You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications."
-msgstr "You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications."
+msgid ""
+"You have deactivated notifications for Mapstr. Please, go to the settings to "
+"enable notifications."
+msgstr ""
+"You have deactivated notifications for Mapstr. Please, go to the settings to "
+"enable notifications."
 
 #. Notification - do you know {place_name} is just over {distance with unity}?
 msgid "Hey, do you know %s is just over %s?"
@@ -1770,8 +1852,12 @@ msgid "Notifications"
 msgstr "Notifications"
 
 #. Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue.
-msgid "Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue."
-msgstr "Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue."
+msgid ""
+"Oops, it seems there's an issue with your account. Please try again later, "
+"or contact us at hello@mapstr.com if the problem continue."
+msgstr ""
+"Oops, it seems there's an issue with your account. Please try again later, "
+"or contact us at hello@mapstr.com if the problem continue."
 
 #. Places
 msgid "Places"
@@ -1814,8 +1900,12 @@ msgid "Tap on settings, then on « location » then on « always »."
 msgstr "Tap on settings, then on « location » then on « always »."
 
 #. This email is linked to a Facebook account. Please use Facebook Login to sign in to your account.
-msgid "This email is linked to a Facebook account. Please use Facebook Login to sign in to your account."
-msgstr "This email is linked to a Facebook account. Please use Facebook Login to sign in to your account."
+msgid ""
+"This email is linked to a Facebook account. Please use Facebook Login to "
+"sign in to your account."
+msgstr ""
+"This email is linked to a Facebook account. Please use Facebook Login to "
+"sign in to your account."
 
 #. Turn on background geolocation to enable proximity alerts.
 msgid "Turn on background geolocation to enable proximity alerts."
@@ -1830,8 +1920,10 @@ msgid "Allow notifications"
 msgstr "Allow notifications"
 
 #. Be alerted when you receive a new invite or when a friend accepts yours.
-msgid "Be alerted when you receive a new invite or when a friend accepts yours."
-msgstr "Be alerted when you receive a new invite or when a friend accepts yours."
+msgid ""
+"Be alerted when you receive a new invite or when a friend accepts yours."
+msgstr ""
+"Be alerted when you receive a new invite or when a friend accepts yours."
 
 #. Alert me when I pass nearby
 msgid "Alert me when I pass nearby"
@@ -1882,8 +1974,14 @@ msgid "Having issues with your account?"
 msgstr "Having issues with your account?"
 
 #. If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation.
-msgid "If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation."
-msgstr "If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation."
+msgid ""
+"If you experience some issues with the locally saved data on your phone, "
+"such as missing places or tags, you can force a reload of your data from our "
+"server, to ensure a full synchronisation."
+msgstr ""
+"If you experience some issues with the locally saved data on your phone, "
+"such as missing places or tags, you can force a reload of your data from our "
+"server, to ensure a full synchronisation."
 
 #. Inclusive
 msgid "Inclusive"
@@ -1898,13 +1996,23 @@ msgid "Mobile notifications"
 msgstr "Mobile notifications"
 
 msgid ""
-"Additive option (default behavior): when you select multiple tags like 'restaurant' and 'to try', the map shows every places tagged with 'to try' plus every places tagged with 'restaurant'. This means each visible place will have either the tag 'restaurant' OR the tag 'to try'.  \n"
+"Additive option (default behavior): when you select multiple tags like "
+"'restaurant' and 'to try', the map shows every places tagged with 'to try' "
+"plus every places tagged with 'restaurant'. This means each visible place "
+"will have either the tag 'restaurant' OR the tag 'to try'.  \n"
 "\n"
-"Inclusive option: when you select multiple tags, the map only shows places tagged with all those tags. This means each visible place with have the tag 'restaurant' AND the tag 'to try'."
+"Inclusive option: when you select multiple tags, the map only shows places "
+"tagged with all those tags. This means each visible place with have the tag "
+"'restaurant' AND the tag 'to try'."
 msgstr ""
-"Additive option (default behavior): when you select multiple tags like 'restaurant' and 'to try', the map shows every places tagged with 'to try' plus every places tagged with 'restaurant'. This means each visible place will have either the tag 'restaurant' OR the tag 'to try'.  \n"
+"Additive option (default behavior): when you select multiple tags like "
+"'restaurant' and 'to try', the map shows every places tagged with 'to try' "
+"plus every places tagged with 'restaurant'. This means each visible place "
+"will have either the tag 'restaurant' OR the tag 'to try'.  \n"
 "\n"
-"Inclusive option: when you select multiple tags, the map only shows places tagged with all those tags. This means each visible place with have the tag 'restaurant' AND the tag 'to try'."
+"Inclusive option: when you select multiple tags, the map only shows places "
+"tagged with all those tags. This means each visible place with have the tag "
+"'restaurant' AND the tag 'to try'."
 
 #. Reload data
 msgid "Reload data"
@@ -1933,10 +2041,6 @@ msgstr "Username"
 #. Name
 msgid "Name"
 msgstr "Name"
-
-#. Notification Title - New place!
-msgid "NEW_SAVED_PLACE_TITLE"
-msgstr "New place!"
 
 #. Tips - Tap here to start
 msgid "Tap here to start"
@@ -2099,16 +2203,24 @@ msgid "You need at least 2 friends..."
 msgstr "You need at least 2 friends..."
 
 #. Podium lets you discover the most added places among your friends in this area
-msgid "Podium lets you discover the most added places among your friends in this area"
-msgstr "Podium lets you discover the most added places among your friends in this area"
+msgid ""
+"Podium lets you discover the most added places among your friends in this "
+"area"
+msgstr ""
+"Podium lets you discover the most added places among your friends in this "
+"area"
 
 #. Your data has been sent to {email}
 msgid "Your data has been sent to %s"
 msgstr "Your data has been sent to %s"
 
 #. We don't have any email to sent your data to. Please add an email in your profile first.
-msgid "We don't have any email to sent your data to. Please add an email in your profile first."
-msgstr "We don't have any email to sent your data to. Please add an email in your profile first."
+msgid ""
+"We don't have any email to sent your data to. Please add an email in your "
+"profile first."
+msgstr ""
+"We don't have any email to sent your data to. Please add an email in your "
+"profile first."
 
 #. Delete my account
 msgid "Delete my account"
@@ -2119,8 +2231,12 @@ msgid "Do you really want to permanently delete your account?"
 msgstr "Do you really want to permanently delete your account?"
 
 #. Your data will be deleted and won't be recoverable. You can just disconnect instead.
-msgid "Your data will be deleted and won't be recoverable. You can just disconnect instead."
-msgstr "Your data will be deleted and won't be recoverable. You can just disconnect instead."
+msgid ""
+"Your data will be deleted and won't be recoverable. You can just disconnect "
+"instead."
+msgstr ""
+"Your data will be deleted and won't be recoverable. You can just disconnect "
+"instead."
 
 #. Friends being watched (observed for notification)
 msgid "Friends being watched"
@@ -2165,3 +2281,30 @@ msgid "We've found %i new place."
 msgid_plural "We've found %i new places."
 msgstr[0] "We've found %i new place."
 msgstr[1] "We've found %i new places."
+
+#~ msgid "NEW_FB_FRIEND_BODY"
+#~ msgstr "Your friend %s just joined Mapstr!"
+
+#~ msgid "NEW_SAVED_PLACE_BODY"
+#~ msgstr "%s just saved a new place on his map!"
+
+#~ msgid "NEW_INVITE_TITLE"
+#~ msgstr "New invite!"
+
+#~ msgid "NEW_INVITE_BODY"
+#~ msgstr "%s has invited you on Mapstr."
+
+#~ msgid "ACCEPTED_INVITE_TITLE"
+#~ msgstr "Invite accepted!"
+
+#~ msgid "ACCEPTED_INVITE_BODY"
+#~ msgstr "%s has accepted your invite."
+
+#~ msgid "NEW_FOLLOWER_TITLE"
+#~ msgstr "You have a new follower!"
+
+#~ msgid "NEW_FOLLOWER_BODY"
+#~ msgstr "%s is now following you"
+
+#~ msgid "NEW_SAVED_PLACE_TITLE"
+#~ msgstr "New place!"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mapstr\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2017-12-19 11:02+0100\n"
+"PO-Revision-Date: 2017-12-21 14:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -81,14 +81,6 @@ msgstr ""
 msgid "Type the name or username of the person you are looking for..."
 msgstr ""
 "Tapez le nom ou le nom d'utilisateur de la personne que vous cherchez..."
-
-#. Notification Body - Your friend {firstname} just joined Mapstr!
-msgid "NEW_FB_FRIEND_BODY"
-msgstr "Votre ami %s vient de rejoindre Mapstr !"
-
-#. Notification Body - {firstname} just saved a new place on his map!
-msgid "NEW_SAVED_PLACE_BODY"
-msgstr "%s vient d'ajouter un lieu sur sa carte !"
 
 #. Place Sharing - in {CityName}
 msgid " in %s."
@@ -1815,30 +1807,6 @@ msgstr ""
 msgid "Whats New 2nd button"
 msgstr "Essayez dès maintenant"
 
-#. Notification Title - New invite!
-msgid "NEW_INVITE_TITLE"
-msgstr "Nouvelle invitation !"
-
-#. Notification Body - {firstname} has invited you on Mapstr.
-msgid "NEW_INVITE_BODY"
-msgstr "%s vous a invité sur Mapstr."
-
-#. Notification Title - Invite accepted!
-msgid "ACCEPTED_INVITE_TITLE"
-msgstr "Invitation acceptée !"
-
-#. Notification Body - {firstname} has accepted your invite.
-msgid "ACCEPTED_INVITE_BODY"
-msgstr "%s a accepté votre invitation."
-
-#. Notification Title - new Follower!
-msgid "NEW_FOLLOWER_TITLE"
-msgstr "Vous avez un nouvel abonné !"
-
-#. Notification Body - {fullname} is now following you
-msgid "NEW_FOLLOWER_BODY"
-msgstr "%s vous suit"
-
 #. Activated
 msgid "Activated"
 msgstr "Activées"
@@ -2109,10 +2077,6 @@ msgstr "Nom d'utilisateur"
 msgid "Name"
 msgstr "Nom"
 
-#. Notification Title - New place!
-msgid "NEW_SAVED_PLACE_TITLE"
-msgstr "Nouveau lieu"
-
 #. Tips - Tap here to start
 msgid "Tap here to start"
 msgstr "Tapez ici pour commencer"
@@ -2353,3 +2317,30 @@ msgid "We've found %i new place."
 msgid_plural "We've found %i new places."
 msgstr[0] "Nous avons trouvé %i nouvelle adresse."
 msgstr[1] "Nous avons trouvé %i nouvelles adresses."
+
+#~ msgid "NEW_FB_FRIEND_BODY"
+#~ msgstr "Votre ami %s vient de rejoindre Mapstr !"
+
+#~ msgid "NEW_SAVED_PLACE_BODY"
+#~ msgstr "%s vient d'ajouter un lieu sur sa carte !"
+
+#~ msgid "NEW_INVITE_TITLE"
+#~ msgstr "Nouvelle invitation !"
+
+#~ msgid "NEW_INVITE_BODY"
+#~ msgstr "%s vous a invité sur Mapstr."
+
+#~ msgid "ACCEPTED_INVITE_TITLE"
+#~ msgstr "Invitation acceptée !"
+
+#~ msgid "ACCEPTED_INVITE_BODY"
+#~ msgstr "%s a accepté votre invitation."
+
+#~ msgid "NEW_FOLLOWER_TITLE"
+#~ msgstr "Vous avez un nouvel abonné !"
+
+#~ msgid "NEW_FOLLOWER_BODY"
+#~ msgstr "%s vous suit"
+
+#~ msgid "NEW_SAVED_PLACE_TITLE"
+#~ msgstr "Nouveau lieu"
