@@ -2418,12 +2418,6 @@ msgstr ""
 msgid "Oops, yes!"
 msgstr ""
 
-msgid "WeChat Timeline"
-msgstr ""
-
-msgid "WeChat Session"
-msgstr ""
-
 #, fuzzy
 msgid "Keep this place secret:"
 msgstr "Manter este lugar privado:"
