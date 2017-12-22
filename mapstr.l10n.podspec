@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "mapstr.l10n"
-  s.version      = "0.2.0"
+  s.version      = "0.2.1"
   s.summary      = "Mapstr localization files."
   s.description  = <<-DESC
                     languages:
@@ -38,6 +38,6 @@ Pod::Spec.new do |s|
     ss.resources = 'po/*.po'
   end
 
-  s.dependency 'POLocalizedString', '0.3.0'
+  s.dependency 'POLocalizedString', '0.3.1'
 
 end
