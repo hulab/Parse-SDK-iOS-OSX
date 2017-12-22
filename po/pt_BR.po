@@ -1898,7 +1898,6 @@ msgstr "Ei, você está perto de %s e de 2 outros lugares!"
 
 #. Notification - It's a nice area, you are near {number} places!
 #, fuzzy, c-format
-#| msgid "It's a nice area, you are near %lu places!"
 msgid "It's a nice area, you are near %i places!"
 msgstr "É um lugar legal, você está perto de %lu lugares!"
 
@@ -2358,7 +2357,6 @@ msgstr[0] "Encontramos %i novo lugare."
 msgstr[1] "Encontramos %i novos lugares."
 
 #, fuzzy
-#| msgid "Tap here to share your map with your friends!"
 msgid "Tap here to share your profile to your friends!"
 msgstr "Toque aqui para compartilhar seu mapa com seus amigos!"
 
@@ -2375,19 +2373,14 @@ msgid "whatsNew-iPhone6plus"
 msgstr ""
 
 #, fuzzy
-#| msgid "Friends being watched"
 msgid "Friends you are watching"
 msgstr "Amigos sendo acompanhados"
 
 #, fuzzy
-#| msgid "Be notified when these friends add a new place"
 msgid "Get notifications when your friends add new places."
 msgstr "Seja notificado quando estes amigos adicionarem um novo lugar"
 
 #, fuzzy
-#| msgid ""
-#| "Your data will be deleted and won't be recoverable. You can just "
-#| "disconnect instead."
 msgid ""
 "Are you sure you want to definitely delete this account? All your data will "
 "be lost and won't be recoverable. You can just disconnect instead."
@@ -2396,7 +2389,6 @@ msgstr ""
 "desconectar em vez disso."
 
 #, fuzzy, c-format
-#| msgid "Your data has been sent to %s"
 msgid "Your data has been successfully sent to your account's email: %s"
 msgstr "Seus dados foram enviados para %s"
 
@@ -2405,11 +2397,39 @@ msgid ""
 msgstr ""
 
 #, fuzzy
-#| msgid "Do you want to be alerted when %s accepts your invite?"
 msgid "Do you want to be alerted when friends accept your invite?"
 msgstr "Você deseja ser alertado quando %s aceitar o seu convite?"
 
 #, fuzzy, c-format
-#| msgid "The tag \\\"%s\\\" already exists!"
 msgid "The tag \"%s\" already exists!"
 msgstr "A marcação \"%s\" já existe!"
+
+msgid "celebrates Valentine's day!"
+msgstr ""
+
+#, c-format
+msgid "@%s really?"
+msgstr ""
+
+#, c-format
+msgid "Did you mean @%s instead?"
+msgstr ""
+
+msgid "Oops, yes!"
+msgstr ""
+
+msgid "WeChat Timeline"
+msgstr ""
+
+msgid "WeChat Session"
+msgstr ""
+
+#, fuzzy
+msgid "Keep this place secret:"
+msgstr "Manter este lugar privado:"
+
+msgid "By making this place secret, it won't be visible to your friends."
+msgstr ""
+
+msgid "Add all"
+msgstr ""
