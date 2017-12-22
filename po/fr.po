@@ -1,16 +1,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Mapstr\n"
+"Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2017-12-21 14:50+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2017-12-22 09:27+0000\n"
+"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
+"Language-Team: French "
+"<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.17.1\n"
 
 #. Add
 msgid "Add"
@@ -95,7 +97,7 @@ msgid "%s has no places yet"
 msgstr "%s n'a pas encore d'adresses"
 
 msgid "%s Share"
-msgstr "%s Share"
+msgstr "%s Partage"
 
 #. Account Details
 msgid "Account Details"
@@ -480,12 +482,12 @@ msgstr "Pas maintenant"
 
 #. Not that much
 msgid "Not that much"
-msgstr "Pas tant que ça..."
+msgstr "Pas tant que ça"
 
 #. Official photos cannot be removed. We're sorry for that.
 msgid "Official photos cannot be removed. We're sorry for that."
 msgstr ""
-"Les photos officielles ne peuvent être supprimées. Nous en sommes désolés !"
+"Les photos officielles ne peuvent être supprimées. Nous en sommes désolés."
 
 #. OK
 msgid "OK"
@@ -788,7 +790,7 @@ msgid ""
 "later!"
 msgstr ""
 "Nous n'avons pas pu enregistrer votre photo, désolé. Merci de réessayer plus "
-"tard..."
+"tard !"
 
 #. We'll be happy to answer all your questions or suggestions!
 msgid "We'll be happy to answer all your questions or suggestions!"
@@ -796,7 +798,7 @@ msgstr "Nous serons ravis de répondre à toutes vos questions et suggestions !
 
 #. Contact email - Thank you message
 msgid "We'll get back to you as soon as we can :)"
-msgstr "Nous reviendrons vers vous super rapidement."
+msgstr "Nous reviendrons vers vous super rapidement :)"
 
 #. We're so sorry to hear that!\nPlease, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike...
 msgid ""
@@ -806,7 +808,7 @@ msgid ""
 msgstr ""
 "Nous sommes désolés d'apprendre ça !\n"
 "Pourriez-vous nous dire ce que nous pouvons faire pour améliorer Mapstr, ou "
-"juste ce que vous n'avez pas aimé ?"
+"juste ce que vous n'avez pas aimé..."
 
 #. We're sorry, but it seems an error occured! Please try again later...
 msgid "We're sorry, but it seems an error occured! Please try again later..."
@@ -835,7 +837,7 @@ msgstr "Ajoutez un commentaire si vous le souhaitez..."
 
 #. Wrong password, try again
 msgid "Wrong password, try again"
-msgstr "Mauvais mot de passe, merci de réessayer..."
+msgstr "Mauvais mot de passe, merci de réessayer"
 
 #. Import Invite - Yes
 msgid "Yes!"
@@ -1710,7 +1712,7 @@ msgstr "Ce nom d'utilisateur est déjà utilisé."
 
 #. This username is invalid.
 msgid "This username is invalid."
-msgstr "Ce nom d'utilisateur est invalide"
+msgstr "Ce nom d'utilisateur est invalide."
 
 #. Visit the FAQ to learn how to import a file.
 msgid "Visit the FAQ to learn how to import a file."
@@ -1928,7 +1930,7 @@ msgstr ""
 #. Tap on settings, then on « location » then on « always ».
 msgid "Tap on settings, then on « location » then on « always »."
 msgstr ""
-"Allez dans les paramètres, puis choisissez \"Position\" puis \"Toujours\". "
+"Allez dans les paramètres, puis choisissez \"Position\" puis \"Toujours\"."
 
 #. This email is linked to a Facebook account. Please use Facebook Login to sign in to your account.
 msgid ""
@@ -2095,7 +2097,7 @@ msgstr "Ouvrez et appuyez sur le bouton ajouter ci-dessous"
 
 #. Tips - More details
 msgid "Tap here to add more details to this place"
-msgstr "Tap here to add more details to this place"
+msgstr "Appuyez ici pour ajouter plus de détails à cette adresse"
 
 #. Tips - Long press a to edit or delete it
 msgid "Long press a tag to edit or delete it"
@@ -2120,7 +2122,7 @@ msgstr "Appuyez ici pour accéder à votre profil et vos paramètres"
 
 #. Tips - Find friends
 msgid "Find your friends to see their maps!"
-msgstr "Accédez à vos amis pour découvrir leurs adresses!"
+msgstr "Accédez à vos amis pour découvrir leurs adresses !"
 
 #. Official maps you might like
 msgid "Official maps you might like"
@@ -2211,6 +2213,7 @@ msgid "More..."
 msgstr "Autres..."
 
 #. This will remove it from {count} of your places and cannot be undone
+#, fuzzy
 msgid "This will remove it from %i of your places and cannot be undone"
 msgstr "Cela va le supprimer de %i de vos lieux, et ne pourra pas être annulé."
 
