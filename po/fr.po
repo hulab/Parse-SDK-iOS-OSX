@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2017-12-22 09:27+0000\n"
+"PO-Revision-Date: 2017-12-22 09:30+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
 "Language-Team: French "
 "<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
@@ -2215,7 +2215,7 @@ msgstr "Autres..."
 #. This will remove it from {count} of your places and cannot be undone
 #, fuzzy
 msgid "This will remove it from %i of your places and cannot be undone"
-msgstr "Cela va le supprimer de %i de vos lieux, et ne pourra pas être annulé."
+msgstr "Cela va le supprimer de @i de vos lieux, et ne pourra pas être annulé."
 
 #. Please wait... - Export bezel loading
 msgid "Please wait..."
