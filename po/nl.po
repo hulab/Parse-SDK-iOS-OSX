@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mapstr\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2017-12-22 10:42+0100\n"
+"PO-Revision-Date: 2018-01-15 16:55+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -82,17 +82,21 @@ msgid "Type the name or username of the person you are looking for..."
 msgstr "Typ de naam of gebruikersnaam in van de persoon die je zoekt..."
 
 #. Place Sharing - in {CityName}
+#, c-format
 msgid " in %s."
 msgstr "in %s."
 
 #. {distance} from location
+#, c-format
 msgid "%s from location"
 msgstr "%s van locatie"
 
 #. No Places - {Username} has no places yet
+#, c-format
 msgid "%s has no places yet"
 msgstr "%s heeft nog geen plaatsen"
 
+#, c-format
 msgid "%s Share"
 msgstr "%s Delen"
 
@@ -187,6 +191,7 @@ msgid "Change tag's name"
 msgstr "Wijzig labelnaam"
 
 #. Place Sharing - Check out {place name}
+#, c-format
 msgid "Check out %s"
 msgstr "Uitchecken %s"
 
@@ -668,6 +673,7 @@ msgid "Thanks for your feedback!"
 msgstr "Bedankt voor uw feedback!"
 
 #. The place {place name} has been successfully imported into your map.
+#, c-format
 msgid "The place %s has been successfully imported into your map."
 msgstr "De plaats %s is met succes naar uw kaart geïmporteerd."
 
@@ -866,6 +872,7 @@ msgid "You haven't saved any place, yet."
 msgstr "U heeft nog geen plaats opgeslagen."
 
 #. No Places - {Username} hasn't saved any place, yet.
+#, c-format
 msgid "%s hasn't saved any place, yet."
 msgstr "%s heeft nog geen opgeslagen plaatsen."
 
@@ -929,6 +936,7 @@ msgstr ""
 "hebben."
 
 #. Anonymous account: {accountId}
+#, c-format
 msgid "Anonymous account: %s"
 msgstr "Anoniem account: %s"
 
@@ -1108,6 +1116,7 @@ msgid "You have to select at least one navigation application"
 msgstr "U moet minstens één navigatie-applicatie selecteren"
 
 #. You moved the place position from {distance}. Do you want to save this new position?
+#, c-format
 msgid ""
 "You moved the place position from %s. Do you want to save this new position?"
 msgstr "U hebt de plaats verplaatst van %s. Wilt u deze nieuwe plaats opslaan?"
@@ -1342,6 +1351,7 @@ msgid "E-mail"
 msgstr "E-mailadres"
 
 #. Hey! Add me on Mapstr with the code %s (or click on the link)
+#, c-format
 msgid "Hey! Add me on Mapstr with the code %s (or click on the link)!"
 msgstr "Hey! Voeg me toe op Mapstr met de code %s (of klik op de link)!"
 
@@ -1433,6 +1443,7 @@ msgid "your Places, your World"
 msgstr "Uw Plaatsen, uw Wereld"
 
 #. Onboarding - Do you use {application name}?
+#, c-format
 msgid "Do you use %s?"
 msgstr "Gebruikt u %s?"
 
@@ -1474,6 +1485,7 @@ msgid "Allow"
 msgstr "Toestaan"
 
 #. Are you sure to cancel invite for %s?
+#, c-format
 msgid "Are you sure to cancel invite for %s?"
 msgstr "Weet u zeker om de uitnodiging voor %s te annuleren?"
 
@@ -1490,6 +1502,7 @@ msgid "Enter your friend's username or email:"
 msgstr "Voer het ID of e-mailadres van uw vriend in:"
 
 #. Connect %s
+#, c-format
 msgid "Connect %s"
 msgstr "Verbind %s"
 
@@ -1514,6 +1527,7 @@ msgstr ""
 "  Download Mapstr gratis:"
 
 #. Hey, add me on Mapstr! I'm @{alias}.
+#, c-format
 msgid "Hey, add me on Mapstr! I'm @%s."
 msgstr "Hey, voeg me toe on Mapstr! Ik ben @%s."
 
@@ -1550,10 +1564,12 @@ msgid "Please, connect first!"
 msgstr "U moet eerst verbinden!"
 
 #. Remove {name} from your friends?
+#, c-format
 msgid "Remove %s from your friends?"
 msgstr "%s uit uw vrienden verwijderen?"
 
 #. Remove %s
+#, c-format
 msgid "Remove %s"
 msgstr "Verwijder %s"
 
@@ -1623,10 +1639,12 @@ msgid "See more in Mapstr"
 msgstr "Bekijk meer in Mapstr"
 
 #. {Username} invited you!
+#, c-format
 msgid "%s invited you!"
 msgstr "%s nodigde je uit!"
 
 #. Follow {username} to see his map.
+#, c-format
 msgid "Follow %s to see his map."
 msgstr "Volg %s om deze kaart te zien."
 
@@ -1635,10 +1653,12 @@ msgid "Hey Mapstr, there's a conflict with my accounts!"
 msgstr "Hey Mapstr, er is een probleem met mijn accounts!"
 
 #. Hey, join me on Mapstr! I'm @{alias}.
+#, c-format
 msgid "Hey, join me on Mapstr! I'm @%s."
 msgstr "Hey, voeg me toe op Mapstr! Ik ben @%s."
 
 #. Invite {username} to share your maps together.
+#, c-format
 msgid "Invite %s to share your maps together."
 msgstr "Nodig %s om je kaarten samen te delen."
 
@@ -1666,6 +1686,7 @@ msgstr ""
 "raakt."
 
 #. {service name} Import
+#, c-format
 msgid "%s Import"
 msgstr "%s Importeren"
 
@@ -1757,6 +1778,7 @@ msgid "Your are not able to send messages from this device"
 msgstr "Je bent niet in staat om berichten van dit apparaat te sturen."
 
 #. Your username is @%s
+#, c-format
 msgid "Your username is @%s"
 msgstr "Je gebruikersnaam is @%s"
 
@@ -1827,6 +1849,7 @@ msgid "Deactivated"
 msgstr "Uitgeschakeld"
 
 #. Do you want to be alerted when %s accepts your invite?
+#, c-format
 msgid "Do you want to be alerted when %s accepts your invite?"
 msgstr "Wil je worden gewaarschuwd wanneer %s je uitnodiging aanvaard?"
 
@@ -1853,22 +1876,27 @@ msgstr ""
 "meldingen in te schakelen."
 
 #. Notification - do you know {place_name} is just over {distance with unity}?
+#, c-format
 msgid "Hey, do you know %s is just over %s?"
 msgstr "Hey, wist je dat %s slechts %s ver is?"
 
 #. Notification - do you know {place_name} is less than {distance with unity} away?
+#, c-format
 msgid "Hey, do you know %s is less than %s away?"
 msgstr "Hey, wist je dat %s minder dan %s ver is?"
 
 #. Notification - do you know {place_name} and {place_name} are less than {distance with unity} away?
+#, c-format
 msgid "Hey, do you know that %s and %s are less than %s away?"
 msgstr "Hey, wist je dat %s en %s slechts %s ver zijn?"
 
 #. Notification - you are near {place_name} and 2 other places!
+#, c-format
 msgid "Hey, you are near %s and 2 other places!"
 msgstr "Hey, je bent dichtbij %s en 2 andere plaatsen!"
 
 #. Notification - It's a nice area, you are near {number} places!
+#, c-format
 msgid "It's a nice area, you are near %i places!"
 msgstr "Het is een mooie omgeving, dichtbij %i plaatsen!"
 
@@ -2140,6 +2168,7 @@ msgid "Tap the place icon to choose another one"
 msgstr "Tik op het plaatspictogram om andere te kiezen"
 
 #. Add @{username} to share your places
+#, c-format
 msgid "Add @%s to share your places"
 msgstr "Voeg @%s toe om plaatsen te delen"
 
@@ -2148,6 +2177,7 @@ msgid "Back to my map"
 msgstr "Terug naar mijn kaart"
 
 #. Follow @{username} to discover their places
+#, c-format
 msgid "Follow @%s to discover their places"
 msgstr "Volg @%s om hun plaatsen te ontdekken"
 
@@ -2160,8 +2190,9 @@ msgid "source:"
 msgstr "bron:"
 
 #. Unfollow {name}?
+#, c-format
 msgid "Unfollow %s?"
-msgstr "Stop met volgen van $@?"
+msgstr "Stop met volgen van %s?"
 
 #. Unfollow
 msgid "Unfollow"
@@ -2297,49 +2328,83 @@ msgid "Tap here to see the most added places by your friends!"
 msgstr ""
 "Tik hier om de meest toegevoegde plaatsen door je vrienden te bekijken!"
 
+#, c-format
 msgid "%i place"
 msgid_plural "%i places"
 msgstr[0] "%i plaats"
 msgstr[1] "%i plaatsen"
 
+#, c-format
 msgid "%i friend"
 msgid_plural "%i friends"
 msgstr[0] "%i vriend"
 msgstr[1] "%i vrienden"
 
+#, c-format
 msgid "%i invite"
 msgid_plural "%i invites"
 msgstr[0] "%i uitnodiging"
 msgstr[1] "%i uitnodigingen"
 
+#, c-format
 msgid "We've found %i new place."
 msgid_plural "We've found %i new places."
 msgstr[0] "We hebben %i nieuwe plaats gevonden."
 msgstr[1] "We hebben %i nieuwe plaatsen."
 
-#~ msgid "NEW_FB_FRIEND_BODY"
-#~ msgstr "Je vriend %s is nieuw bij Mapstr!"
+#, fuzzy
+#| msgid "Tap here to share your map with your friends!"
+msgid "Tap here to share your profile to your friends!"
+msgstr "Tik hier om je kaart met je vrienden te delen!"
 
-#~ msgid "NEW_SAVED_PLACE_BODY"
-#~ msgstr "%s heeft net een nieuwe plaats opgeslagen!"
+msgid "whatsNew-iPhone4"
+msgstr ""
 
-#~ msgid "NEW_INVITE_TITLE"
-#~ msgstr "Nieuwe uitnodiging!"
+msgid "whatsNew-iPhone5"
+msgstr ""
 
-#~ msgid "NEW_INVITE_BODY"
-#~ msgstr "%s heeft je uitgenodigd op Mapstr."
+msgid "whatsNew-iPhone6"
+msgstr ""
 
-#~ msgid "ACCEPTED_INVITE_TITLE"
-#~ msgstr "Uitnodiging geaccepteerd!"
+msgid "whatsNew-iPhone6plus"
+msgstr ""
 
-#~ msgid "ACCEPTED_INVITE_BODY"
-#~ msgstr "%s accepteerde je uitnodiging."
+#, fuzzy
+#| msgid "Friends being watched"
+msgid "Friends you are watching"
+msgstr "Gevolgde vrienden"
 
-#~ msgid "NEW_FOLLOWER_TITLE"
-#~ msgstr "Je hebt een nieuwe volger!"
+#, fuzzy
+#| msgid "Be notified when these friends add a new place"
+msgid "Get notifications when your friends add new places."
+msgstr "Krijg een melding wanneer deze vrienden een nieuwe plaats toevoegen"
 
-#~ msgid "NEW_FOLLOWER_BODY"
-#~ msgstr "%s volgt je nu"
+#, fuzzy
+#| msgid ""
+#| "Your data will be deleted and won't be recoverable. You can just "
+#| "disconnect instead."
+msgid ""
+"Are you sure you want to definitely delete this account? All your data will "
+"be lost and won't be recoverable. You can just disconnect instead."
+msgstr ""
+"Je gegevens worden verwijderd en kunnen niet worden hersteld. Je kunt gewoon "
+"ontkoppelen."
 
-#~ msgid "NEW_SAVED_PLACE_TITLE"
-#~ msgstr "Nieuwe plek"
+#, fuzzy, c-format
+#| msgid "Your data has been sent to %s"
+msgid "Your data has been successfully sent to your account's email: %s"
+msgstr "Je gegevens zijn verzonden naar %s"
+
+msgid ""
+"Please enter your email address in Account Settings to receive your data"
+msgstr ""
+
+#, fuzzy
+#| msgid "Do you want to be alerted when %s accepts your invite?"
+msgid "Do you want to be alerted when friends accept your invite?"
+msgstr "Wil je worden gewaarschuwd wanneer %s je uitnodiging aanvaard?"
+
+#, fuzzy, c-format
+#| msgid "The tag \\\"%s\\\" already exists!"
+msgid "The tag \"%s\" already exists!"
+msgstr "De label \"%s\" bestaat al!"

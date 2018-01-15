@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mapstr\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2017-12-22 10:41+0100\n"
+"PO-Revision-Date: 2018-01-15 16:54+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: it\n"
@@ -82,17 +82,21 @@ msgid "Type the name or username of the person you are looking for..."
 msgstr "Digita il nome o il nome utente della persona che stai cercando..."
 
 #. Place Sharing - in {CityName}
+#, c-format
 msgid " in %s."
 msgstr "a %s."
 
 #. {distance} from location
+#, c-format
 msgid "%s from location"
 msgstr "%s dalla posizione"
 
 #. No Places - {Username} has no places yet
+#, c-format
 msgid "%s has no places yet"
 msgstr "%s non ha ancora nessun luogo"
 
+#, c-format
 msgid "%s Share"
 msgstr "%s Condividi"
 
@@ -187,6 +191,7 @@ msgid "Change tag's name"
 msgstr "Cambia il nome del tag"
 
 #. Place Sharing - Check out {place name}
+#, c-format
 msgid "Check out %s"
 msgstr "Verifica %s"
 
@@ -668,6 +673,7 @@ msgid "Thanks for your feedback!"
 msgstr "Grazie per il tuo feedback!"
 
 #. The place {place name} has been successfully imported into your map.
+#, c-format
 msgid "The place %s has been successfully imported into your map."
 msgstr "Il luogo %s è stato importato con successo nella tua mappa."
 
@@ -867,6 +873,7 @@ msgid "You haven't saved any place, yet."
 msgstr "Non hai ancora salvato nessun luogo."
 
 #. No Places - {Username} hasn't saved any place, yet.
+#, c-format
 msgid "%s hasn't saved any place, yet."
 msgstr "%s non ha ancora salvato nessun luogo."
 
@@ -929,6 +936,7 @@ msgstr ""
 "Se possiedi più di un account dovrai specificare i file per ciascun account."
 
 #. Anonymous account: {accountId}
+#, c-format
 msgid "Anonymous account: %s"
 msgstr "Account anonimo: %s"
 
@@ -1105,6 +1113,7 @@ msgid "You have to select at least one navigation application"
 msgstr "Devi selezionare almeno un'applicazione di navigazione"
 
 #. You moved the place position from {distance}. Do you want to save this new position?
+#, c-format
 msgid ""
 "You moved the place position from %s. Do you want to save this new position?"
 msgstr ""
@@ -1341,6 +1350,7 @@ msgid "E-mail"
 msgstr "E-mail"
 
 #. Hey! Add me on Mapstr with the code %s (or click on the link)
+#, c-format
 msgid "Hey! Add me on Mapstr with the code %s (or click on the link)!"
 msgstr "Ehi! Aggiungimi su Mapstr con il codice %s (oppure clicca sul link)!"
 
@@ -1433,6 +1443,7 @@ msgid "your Places, your World"
 msgstr "i tuoi luoghi, il tuo mondo"
 
 #. Onboarding - Do you use {application name}?
+#, c-format
 msgid "Do you use %s?"
 msgstr "Stai utilizzando %s?"
 
@@ -1474,6 +1485,7 @@ msgid "Allow"
 msgstr "Consenti"
 
 #. Are you sure to cancel invite for %s?
+#, c-format
 msgid "Are you sure to cancel invite for %s?"
 msgstr "Sei sicuro/a di annullare l'invito destinato a %s?"
 
@@ -1490,6 +1502,7 @@ msgid "Enter your friend's username or email:"
 msgstr "Inserisci l'ID o l'email del tuo amico:"
 
 #. Connect %s
+#, c-format
 msgid "Connect %s"
 msgstr "Connetti %s"
 
@@ -1514,6 +1527,7 @@ msgstr ""
 "Scarica Mapstr gratuitamente: "
 
 #. Hey, add me on Mapstr! I'm @{alias}.
+#, c-format
 msgid "Hey, add me on Mapstr! I'm @%s."
 msgstr "Ehi, aggiungimi su Mapstr! Sono @%s."
 
@@ -1550,10 +1564,12 @@ msgid "Please, connect first!"
 msgstr "Per prima cosa connettiti!"
 
 #. Remove {name} from your friends?
+#, c-format
 msgid "Remove %s from your friends?"
 msgstr "Rimuovere %s dai propri amici?"
 
 #. Remove %s
+#, c-format
 msgid "Remove %s"
 msgstr "Rimuovi %s"
 
@@ -1622,10 +1638,12 @@ msgid "See more in Mapstr"
 msgstr "Visualizza altro su Mapstr"
 
 #. {Username} invited you!
+#, c-format
 msgid "%s invited you!"
 msgstr "%s ti ha invitato!"
 
 #. Follow {username} to see his map.
+#, c-format
 msgid "Follow %s to see his map."
 msgstr "Segui %s per vedere la sua mappa."
 
@@ -1634,10 +1652,12 @@ msgid "Hey Mapstr, there's a conflict with my accounts!"
 msgstr "Ehi Mapstr, c'è un conflitto con i miei account!"
 
 #. Hey, join me on Mapstr! I'm @{alias}.
+#, c-format
 msgid "Hey, join me on Mapstr! I'm @%s."
 msgstr "Ehi, raggiungimi su Mapstr! Sono @%s."
 
 #. Invite {username} to share your maps together.
+#, c-format
 msgid "Invite %s to share your maps together."
 msgstr "Invita %s per condividere le vostre mappe."
 
@@ -1663,6 +1683,7 @@ msgid ""
 msgstr "Se non vuoi perdere tutti i luoghi devi creare un account."
 
 #. {service name} Import
+#, c-format
 msgid "%s Import"
 msgstr "Importazione %s"
 
@@ -1754,6 +1775,7 @@ msgid "Your are not able to send messages from this device"
 msgstr "Non puoi inviare messaggi da questo dispositivo"
 
 #. Your username is @%s
+#, c-format
 msgid "Your username is @%s"
 msgstr "Il tuo nome utente è @%s"
 
@@ -1824,6 +1846,7 @@ msgid "Deactivated"
 msgstr "Disattivato"
 
 #. Do you want to be alerted when %s accepts your invite?
+#, c-format
 msgid "Do you want to be alerted when %s accepts your invite?"
 msgstr "Vuoi essere avvisato quando %s accetta il tuo invito?"
 
@@ -1852,22 +1875,27 @@ msgstr ""
 "abilitarle."
 
 #. Notification - do you know {place_name} is just over {distance with unity}?
+#, c-format
 msgid "Hey, do you know %s is just over %s?"
 msgstr "Ehi, lo sai che %s è a poco più di %s ?"
 
 #. Notification - do you know {place_name} is less than {distance with unity} away?
+#, c-format
 msgid "Hey, do you know %s is less than %s away?"
 msgstr "Ehi, lo sai che %s si trova a meno di %s ?"
 
 #. Notification - do you know {place_name} and {place_name} are less than {distance with unity} away?
+#, c-format
 msgid "Hey, do you know that %s and %s are less than %s away?"
 msgstr "Ehi, lo sai che %s e %s si trovano a meno di %s?"
 
 #. Notification - you are near {place_name} and 2 other places!
+#, c-format
 msgid "Hey, you are near %s and 2 other places!"
 msgstr "Ehi, sei vicino a %s e ad altri 2 luoghi!"
 
 #. Notification - It's a nice area, you are near {number} places!
+#, c-format
 msgid "It's a nice area, you are near %i places!"
 msgstr "È una zona gradevole, ti trovi vicino a %i luoghi!"
 
@@ -2138,6 +2166,7 @@ msgid "Tap the place icon to choose another one"
 msgstr "Tocca l'icona del luogo per sceglierne un'altra"
 
 #. Add @{username} to share your places
+#, c-format
 msgid "Add @%s to share your places"
 msgstr "Aggiungi @%s per condividere i tuoi luoghi"
 
@@ -2146,6 +2175,7 @@ msgid "Back to my map"
 msgstr "Torna alla mia mappa"
 
 #. Follow @{username} to discover their places
+#, c-format
 msgid "Follow @%s to discover their places"
 msgstr "Segui @%s per scoprire i suoi luoghi"
 
@@ -2158,8 +2188,9 @@ msgid "source:"
 msgstr "fonte:"
 
 #. Unfollow {name}?
+#, c-format
 msgid "Unfollow %s?"
-msgstr "Non seguire più $@?"
+msgstr "Non seguire più %s?"
 
 #. Unfollow
 msgid "Unfollow"
@@ -2292,49 +2323,83 @@ msgstr "Tag"
 msgid "Tap here to see the most added places by your friends!"
 msgstr "Tocca qui per vedere i luoghi più aggiunti dai tuoi amici!"
 
+#, c-format
 msgid "%i place"
 msgid_plural "%i places"
 msgstr[0] "%i luogo"
 msgstr[1] "%i luoghi"
 
+#, c-format
 msgid "%i friend"
 msgid_plural "%i friends"
 msgstr[0] "%i amico"
 msgstr[1] "%i amici"
 
+#, c-format
 msgid "%i invite"
 msgid_plural "%i invites"
 msgstr[0] "%i invito"
 msgstr[1] "%i inviti"
 
+#, c-format
 msgid "We've found %i new place."
 msgid_plural "We've found %i new places."
 msgstr[0] "Abbiamo trovato %i luogo nuovo."
 msgstr[1] "Abbiamo trovato %i luoghi nuovi."
 
-#~ msgid "NEW_FB_FRIEND_BODY"
-#~ msgstr "Il tuo amico %s si è appena iscritto a Mapstr!"
+#, fuzzy
+#| msgid "Tap here to share your map with your friends!"
+msgid "Tap here to share your profile to your friends!"
+msgstr "Tocca qui per condividere la tua mappa con gli amici!"
 
-#~ msgid "NEW_SAVED_PLACE_BODY"
-#~ msgstr "%s ha appena salvato un luogo nuovo sulla sua mappa!"
+msgid "whatsNew-iPhone4"
+msgstr ""
 
-#~ msgid "NEW_INVITE_TITLE"
-#~ msgstr "Nuovo invito!"
+msgid "whatsNew-iPhone5"
+msgstr ""
 
-#~ msgid "NEW_INVITE_BODY"
-#~ msgstr "%s ti ha invitato su Mapstr."
+msgid "whatsNew-iPhone6"
+msgstr ""
 
-#~ msgid "ACCEPTED_INVITE_TITLE"
-#~ msgstr "Invito accettato!"
+msgid "whatsNew-iPhone6plus"
+msgstr ""
 
-#~ msgid "ACCEPTED_INVITE_BODY"
-#~ msgstr "%s ha accettato il tuo invito."
+#, fuzzy
+#| msgid "Friends being watched"
+msgid "Friends you are watching"
+msgstr "Amici osservati"
 
-#~ msgid "NEW_FOLLOWER_TITLE"
-#~ msgstr "Hai un nuovo follower!"
+#, fuzzy
+#| msgid "Be notified when these friends add a new place"
+msgid "Get notifications when your friends add new places."
+msgstr "Ricevi una notifica quando questi amici aggiungono un nuovo luogo"
 
-#~ msgid "NEW_FOLLOWER_BODY"
-#~ msgstr "%s ti segue"
+#, fuzzy
+#| msgid ""
+#| "Your data will be deleted and won't be recoverable. You can just "
+#| "disconnect instead."
+msgid ""
+"Are you sure you want to definitely delete this account? All your data will "
+"be lost and won't be recoverable. You can just disconnect instead."
+msgstr ""
+"I tuoi dati verranno eliminati e non saranno recuperabili. Altrimenti puoi "
+"disconnetterti."
 
-#~ msgid "NEW_SAVED_PLACE_TITLE"
-#~ msgstr "Nuovo luogo"
+#, fuzzy, c-format
+#| msgid "Your data has been sent to %s"
+msgid "Your data has been successfully sent to your account's email: %s"
+msgstr "I dati sono stati inviati a %s"
+
+msgid ""
+"Please enter your email address in Account Settings to receive your data"
+msgstr ""
+
+#, fuzzy
+#| msgid "Do you want to be alerted when %s accepts your invite?"
+msgid "Do you want to be alerted when friends accept your invite?"
+msgstr "Vuoi essere avvisato quando %s accetta il tuo invito?"
+
+#, fuzzy, c-format
+#| msgid "The tag \\\"%s\\\" already exists!"
+msgid "The tag \"%s\" already exists!"
+msgstr "Il tag \"%s\" esiste già!"
