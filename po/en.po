@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
 "PO-Revision-Date: 2018-01-15 16:10+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: English "
-"<https://translation.hulab.co/projects/mapstr/mapstr/en/>\n"
+"Language-Team: English <https://translation.hulab.co/projects/mapstr/mapstr/"
+"en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2362,3 +2362,33 @@ msgstr "Do you want to be alerted when friends accept your invite?"
 #, c-format
 msgid "The tag \"%s\" already exists!"
 msgstr "The tag \"%s\" already exists!"
+
+msgid "celebrates Valentine's day!"
+msgstr ""
+
+#, c-format
+msgid "@%s really?"
+msgstr ""
+
+#, c-format
+msgid "Did you mean @%s instead?"
+msgstr ""
+
+msgid "Oops, yes!"
+msgstr ""
+
+msgid "WeChat Timeline"
+msgstr ""
+
+msgid "WeChat Session"
+msgstr ""
+
+#, fuzzy
+msgid "Keep this place secret:"
+msgstr "Keep this place private:"
+
+msgid "By making this place secret, it won't be visible to your friends."
+msgstr ""
+
+msgid "Add all"
+msgstr ""
