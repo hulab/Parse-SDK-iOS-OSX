@@ -1,16 +1,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Mapstr\n"
+"Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-01-15 16:54+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2018-01-15 16:29+0000\n"
+"Last-Translator: Juan <juan@mapstr.com>\n"
+"Language-Team: Spanish "
+"<https://translation.hulab.co/projects/mapstr/mapstr/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.17.1\n"
 
 #. Add
 msgid "Add"
@@ -134,7 +136,7 @@ msgstr "Siempre abierto"
 
 #. An error occured, please try again later
 msgid "An error occured, please try again later"
-msgstr "Ha ocurrido un error. Inténtalo más tarde."
+msgstr "Ha ocurrido un error. Inténtalo más tarde"
 
 #. Analyzing...
 msgid "Analyzing..."
@@ -2345,10 +2347,8 @@ msgid_plural "We've found %i new places."
 msgstr[0] "Hemos encontrado %i lugar nuevo."
 msgstr[1] "Hemos encontrado %i lugares nuevos."
 
-#, fuzzy
-#| msgid "Tap here to share your map with your friends!"
 msgid "Tap here to share your profile to your friends!"
-msgstr "¡Toca aquí para compartir tu mapa con tus amigos!"
+msgstr "¡Toca aquí para compartir tu perfil con tus amigos!"
 
 msgid "whatsNew-iPhone4"
 msgstr ""
@@ -2362,42 +2362,32 @@ msgstr ""
 msgid "whatsNew-iPhone6plus"
 msgstr ""
 
-#, fuzzy
-#| msgid "Friends being watched"
 msgid "Friends you are watching"
 msgstr "Amigos seguidos"
 
-#, fuzzy
-#| msgid "Be notified when these friends add a new place"
 msgid "Get notifications when your friends add new places."
-msgstr "Recibe una notificación cuando estos amigos añadan un lugar nuevo"
+msgstr "Recibe una notificación cuando tus amigos añadan un lugar nuevo."
 
-#, fuzzy
-#| msgid ""
-#| "Your data will be deleted and won't be recoverable. You can just "
-#| "disconnect instead."
 msgid ""
 "Are you sure you want to definitely delete this account? All your data will "
 "be lost and won't be recoverable. You can just disconnect instead."
 msgstr ""
-"Se eliminarán tus datos y no podrás recuperarlos. Si lo prefieres, puedes "
-"desconectar."
+"¿Estás seguro que quieres eliminar esta cuenta? Se eliminarán tus datos y no "
+"podrás recuperarlos. Si lo prefieres, puedes solamente desconectarte."
 
-#, fuzzy, c-format
-#| msgid "Your data has been sent to %s"
+#, c-format
 msgid "Your data has been successfully sent to your account's email: %s"
-msgstr "Se han enviado tus datos a %s"
+msgstr "Tus datos se han enviado correctamente al email: %s"
 
 msgid ""
 "Please enter your email address in Account Settings to receive your data"
 msgstr ""
+"Por favor, ingresa tu email en la pantalla de Configuración de la Cuenta "
+"para recibir tus datos"
 
-#, fuzzy
-#| msgid "Do you want to be alerted when %s accepts your invite?"
 msgid "Do you want to be alerted when friends accept your invite?"
-msgstr "¿Quieres recibir una alerta cuando %s acepte tu invitación?"
+msgstr "¿Quieres recibir una alerta cuando tus amigos acepten tu invitación?"
 
-#, fuzzy, c-format
-#| msgid "The tag \\\"%s\\\" already exists!"
+#, c-format
 msgid "The tag \"%s\" already exists!"
 msgstr "¡La etiqueta «%s» ya existe!"
