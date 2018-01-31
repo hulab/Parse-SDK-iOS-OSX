@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-01-15 16:55+0100\n"
+"PO-Revision-Date: 2018-01-31 14:17+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: Portuguese (Brazil) <https://translation.hulab.co/projects/"
-"mapstr/mapstr/pt_BR/>\n"
+"Language-Team: Portuguese (Brazil) "
+"<https://translation.hulab.co/projects/mapstr/mapstr/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Weblate 2.18\n"
 
 #. Add
 msgid "Add"
@@ -2361,16 +2361,16 @@ msgid "Tap here to share your profile to your friends!"
 msgstr "Toque aqui para compartilhar seu mapa com seus amigos!"
 
 msgid "whatsNew-iPhone4"
-msgstr ""
+msgstr "WhatNew-en"
 
 msgid "whatsNew-iPhone5"
-msgstr ""
+msgstr "WhatNew-en-568"
 
 msgid "whatsNew-iPhone6"
-msgstr ""
+msgstr "WhatNew-en-667"
 
 msgid "whatsNew-iPhone6plus"
-msgstr ""
+msgstr "WhatNew-en-736"
 
 #, fuzzy
 msgid "Friends you are watching"
