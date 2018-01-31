@@ -2420,3 +2420,18 @@ msgid ""
 "Follow the Valentine's Day map to discover the most inspirational places "
 "where you can express your love!"
 msgstr ""
+
+#, fuzzy
+msgid "Welcome to Mapstr, %s!"
+msgstr "Te damos la bienvenida a Mapstr."
+
+#, fuzzy
+msgid "Most added places among your friends"
+msgstr "¡Toca aquí para ver los lugares más añadidos por tus amigos!"
+
+msgid "Select a place below to add it to your map"
+msgstr ""
+
+#, fuzzy
+msgid "Loading the most added places among your friends..."
+msgstr "¡Toca aquí para ver los lugares más añadidos por tus amigos!"
