@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-01-15 16:14+0000\n"
+"PO-Revision-Date: 2018-01-31 14:17+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/"
-"fr/>\n"
+"Language-Team: French "
+"<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.17.1\n"
+"X-Generator: Weblate 2.18\n"
 
 #. Add
 msgid "Add"
@@ -2404,25 +2404,26 @@ msgid "The tag \"%s\" already exists!"
 msgstr "Le tag \"%s\" existe déjà !"
 
 msgid "celebrates Valentine's day!"
-msgstr ""
+msgstr "fête la Saint-Valentin !"
 
 #, c-format
 msgid "@%s really?"
-msgstr ""
+msgstr "@%s vraiment ?"
 
 #, c-format
 msgid "Did you mean @%s instead?"
 msgstr ""
 
 msgid "Oops, yes!"
-msgstr ""
+msgstr "Oops, oui !"
 
-#, fuzzy
 msgid "Keep this place secret:"
 msgstr "Garder cette adresse privée :"
 
 msgid "By making this place secret, it won't be visible to your friends."
 msgstr ""
+"En choisissant de garder cette adresse secrète, elle ne sera pas visible par "
+"vos amis."
 
 msgid "Add all"
-msgstr ""
+msgstr "Ajouter tous"
