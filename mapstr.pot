@@ -2246,3 +2246,32 @@ msgstr ""
 #, c-format
 msgid "The tag \"%s\" already exists!"
 msgstr ""
+
+msgid "celebrates Valentine's day!"
+msgstr ""
+
+#, c-format
+msgid "@%s really?"
+msgstr ""
+
+#, c-format
+msgid "Did you mean @%s instead?"
+msgstr ""
+
+msgid "Oops, yes!"
+msgstr ""
+
+msgid "WeChat Timeline"
+msgstr ""
+
+msgid "WeChat Session"
+msgstr ""
+
+msgid "Keep this place secret:"
+msgstr ""
+
+msgid "By making this place secret, it won't be visible to your friends."
+msgstr ""
+
+msgid "Add all"
+msgstr ""
