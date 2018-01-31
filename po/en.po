@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-01-31 14:07+0000\n"
+"PO-Revision-Date: 2018-01-31 14:12+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
 "Language-Team: English "
 "<https://translation.hulab.co/projects/mapstr/mapstr/en/>\n"
@@ -2364,18 +2364,18 @@ msgid "The tag \"%s\" already exists!"
 msgstr "The tag \"%s\" already exists!"
 
 msgid "celebrates Valentine's day!"
-msgstr "fête la Saint-Valentin !"
+msgstr "celebrates Valentine's day!"
 
 #, c-format
 msgid "@%s really?"
-msgstr "@%s vraiment ?"
+msgstr "@%s really?"
 
 #, c-format
 msgid "Did you mean @%s instead?"
-msgstr ""
+msgstr "Did you mean @%s instead?"
 
 msgid "Oops, yes!"
-msgstr ""
+msgstr "Oops, yes!"
 
 msgid "Keep this place secret:"
 msgstr "Garder cette adresse secrète :"
