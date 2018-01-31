@@ -1,16 +1,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Mapstr\n"
+"Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-01-15 16:55+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2018-01-31 14:17+0000\n"
+"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
+"Language-Team: Dutch "
+"<https://translation.hulab.co/projects/mapstr/mapstr/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
 
 #. Add
 msgid "Add"
@@ -2353,36 +2355,30 @@ msgstr[0] "We hebben %i nieuwe plaats gevonden."
 msgstr[1] "We hebben %i nieuwe plaatsen."
 
 #, fuzzy
-#| msgid "Tap here to share your map with your friends!"
 msgid "Tap here to share your profile to your friends!"
 msgstr "Tik hier om je kaart met je vrienden te delen!"
 
 msgid "whatsNew-iPhone4"
-msgstr ""
+msgstr "WhatNew-en"
 
 msgid "whatsNew-iPhone5"
-msgstr ""
+msgstr "WhatNew-en-568"
 
 msgid "whatsNew-iPhone6"
-msgstr ""
+msgstr "WhatNew-en-667"
 
 msgid "whatsNew-iPhone6plus"
-msgstr ""
+msgstr "WhatNew-en-736"
 
 #, fuzzy
-#| msgid "Friends being watched"
 msgid "Friends you are watching"
 msgstr "Gevolgde vrienden"
 
 #, fuzzy
-#| msgid "Be notified when these friends add a new place"
 msgid "Get notifications when your friends add new places."
 msgstr "Krijg een melding wanneer deze vrienden een nieuwe plaats toevoegen"
 
 #, fuzzy
-#| msgid ""
-#| "Your data will be deleted and won't be recoverable. You can just "
-#| "disconnect instead."
 msgid ""
 "Are you sure you want to definitely delete this account? All your data will "
 "be lost and won't be recoverable. You can just disconnect instead."
@@ -2391,7 +2387,6 @@ msgstr ""
 "ontkoppelen."
 
 #, fuzzy, c-format
-#| msgid "Your data has been sent to %s"
 msgid "Your data has been successfully sent to your account's email: %s"
 msgstr "Je gegevens zijn verzonden naar %s"
 
@@ -2400,11 +2395,33 @@ msgid ""
 msgstr ""
 
 #, fuzzy
-#| msgid "Do you want to be alerted when %s accepts your invite?"
 msgid "Do you want to be alerted when friends accept your invite?"
 msgstr "Wil je worden gewaarschuwd wanneer %s je uitnodiging aanvaard?"
 
 #, fuzzy, c-format
-#| msgid "The tag \\\"%s\\\" already exists!"
 msgid "The tag \"%s\" already exists!"
 msgstr "De label \"%s\" bestaat al!"
+
+msgid "celebrates Valentine's day!"
+msgstr ""
+
+#, c-format
+msgid "@%s really?"
+msgstr ""
+
+#, c-format
+msgid "Did you mean @%s instead?"
+msgstr ""
+
+msgid "Oops, yes!"
+msgstr ""
+
+#, fuzzy
+msgid "Keep this place secret:"
+msgstr "Deze plaats privé houden:"
+
+msgid "By making this place secret, it won't be visible to your friends."
+msgstr ""
+
+msgid "Add all"
+msgstr ""
