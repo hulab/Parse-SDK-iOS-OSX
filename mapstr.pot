@@ -2261,12 +2261,6 @@ msgstr ""
 msgid "Oops, yes!"
 msgstr ""
 
-msgid "WeChat Timeline"
-msgstr ""
-
-msgid "WeChat Session"
-msgstr ""
-
 msgid "Keep this place secret:"
 msgstr ""
 
