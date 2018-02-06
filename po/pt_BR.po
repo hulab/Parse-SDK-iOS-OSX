@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-01-31 14:17+0000\n"
+"PO-Revision-Date: 2018-02-06 17:27+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: Portuguese (Brazil) <https://translation.hulab.co/projects/"
-"mapstr/mapstr/pt_BR/>\n"
+"Language-Team: Portuguese (Brazil) "
+"<https://translation.hulab.co/projects/mapstr/mapstr/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1897,9 +1897,9 @@ msgid "Hey, you are near %s and 2 other places!"
 msgstr "Ei, você está perto de %s e de 2 outros lugares!"
 
 #. Notification - It's a nice area, you are near {number} places!
-#, fuzzy, c-format
+#, c-format
 msgid "It's a nice area, you are near %i places!"
-msgstr "É um lugar legal, você está perto de %lu lugares!"
+msgstr "É um lugar legal, você está perto de %i lugares!"
 
 #. Notification action - Don't alert me anymore
 msgid "Mute"
@@ -2400,7 +2400,7 @@ msgstr ""
 msgid "Do you want to be alerted when friends accept your invite?"
 msgstr "Você deseja ser alertado quando %s aceitar o seu convite?"
 
-#, fuzzy, c-format
+#, c-format
 msgid "The tag \"%s\" already exists!"
 msgstr "A marcação \"%s\" já existe!"
 
