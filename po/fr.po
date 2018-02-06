@@ -2443,3 +2443,21 @@ msgstr "Sélectionnez une adresse dans la liste pour l'ajouter à votre carte"
 
 msgid "Loading the most added places among your friends..."
 msgstr "Chargement des adresses les plus ajoutées par vos amis..."
+
+#, fuzzy
+msgid "Anyone here?!"
+msgstr "À cet endroit"
+
+msgid "Invite the friends you want to get recommendations from"
+msgstr ""
+
+msgid "This information will help your friends find you"
+msgstr ""
+
+#, fuzzy
+msgid "Email notifications"
+msgstr "Notifications mobiles"
+
+#, fuzzy
+msgid "Social activity"
+msgstr "Activité sociale"
