@@ -2402,3 +2402,21 @@ msgstr "Select a place below to add it to your map"
 
 msgid "Loading the most added places among your friends..."
 msgstr "Loading the most added places among your friends..."
+
+#, fuzzy
+msgid "Anyone here?!"
+msgstr "Around there"
+
+msgid "Invite the friends you want to get recommendations from"
+msgstr ""
+
+msgid "This information will help your friends find you"
+msgstr ""
+
+#, fuzzy
+msgid "Email notifications"
+msgstr "Mobile notifications"
+
+#, fuzzy
+msgid "Social activity"
+msgstr "Socal activity"
