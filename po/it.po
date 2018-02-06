@@ -2437,3 +2437,21 @@ msgstr ""
 #, fuzzy
 msgid "Loading the most added places among your friends..."
 msgstr "Tocca qui per vedere i luoghi più aggiunti dai tuoi amici!"
+
+#, fuzzy
+msgid "Anyone here?!"
+msgstr "Qui attorno"
+
+msgid "Invite the friends you want to get recommendations from"
+msgstr ""
+
+msgid "This information will help your friends find you"
+msgstr ""
+
+#, fuzzy
+msgid "Email notifications"
+msgstr "Notifiche mobili"
+
+#, fuzzy
+msgid "Social activity"
+msgstr "Attività social"
