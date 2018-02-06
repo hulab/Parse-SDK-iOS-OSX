@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-01-31 14:17+0000\n"
+"PO-Revision-Date: 2018-02-06 17:27+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: Spanish <https://translation.hulab.co/projects/mapstr/mapstr/"
-"es/>\n"
+"Language-Team: Spanish "
+"<https://translation.hulab.co/projects/mapstr/mapstr/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2406,9 +2406,8 @@ msgstr ""
 msgid "Oops, yes!"
 msgstr ""
 
-#, fuzzy
 msgid "Keep this place secret:"
-msgstr "Mantener este lugar privado:"
+msgstr "Mantener este lugar secreto:"
 
 msgid "By making this place secret, it won't be visible to your friends."
 msgstr ""
@@ -2421,17 +2420,14 @@ msgid ""
 "where you can express your love!"
 msgstr ""
 
-#, fuzzy
 msgid "Welcome to Mapstr, %s!"
-msgstr "Te damos la bienvenida a Mapstr."
+msgstr ""
 
-#, fuzzy
 msgid "Most added places among your friends"
-msgstr "¡Toca aquí para ver los lugares más añadidos por tus amigos!"
+msgstr ""
 
 msgid "Select a place below to add it to your map"
 msgstr ""
 
-#, fuzzy
 msgid "Loading the most added places among your friends..."
-msgstr "¡Toca aquí para ver los lugares más añadidos por tus amigos!"
+msgstr ""
