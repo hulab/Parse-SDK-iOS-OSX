@@ -2445,3 +2445,21 @@ msgstr ""
 msgid "Loading the most added places among your friends..."
 msgstr ""
 "Tik hier om de meest toegevoegde plaatsen door je vrienden te bekijken!"
+
+#, fuzzy
+msgid "Anyone here?!"
+msgstr "Daar ergens"
+
+msgid "Invite the friends you want to get recommendations from"
+msgstr ""
+
+msgid "This information will help your friends find you"
+msgstr ""
+
+#, fuzzy
+msgid "Email notifications"
+msgstr "Mobiele meldingen"
+
+#, fuzzy
+msgid "Social activity"
+msgstr "Sociale activiteit"
