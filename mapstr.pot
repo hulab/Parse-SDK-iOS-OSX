@@ -2269,3 +2269,8 @@ msgstr ""
 
 msgid "Add all"
 msgstr ""
+
+msgid ""
+"Follow the Valentine's Day map to discover the most inspirational places "
+"where you can express your love!"
+msgstr ""
