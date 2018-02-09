@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-02-09 16:01+0100\n"
+"PO-Revision-Date: 2018-02-09 15:18+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: Spanish <https://translation.hulab.co/projects/mapstr/mapstr/"
-"es/>\n"
+"Language-Team: Spanish "
+"<https://translation.hulab.co/projects/mapstr/mapstr/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Weblate 2.18\n"
 
 #. Add
 msgid "Add"
@@ -1735,7 +1735,7 @@ msgstr "Ya tienes todos los lugares de esta copia de seguridad."
 
 #. Whats New Image
 msgid "Whats New Image"
-msgstr ""
+msgstr "WhatNew-en-568"
 
 #. Invite friends
 msgid "Invite friends"
