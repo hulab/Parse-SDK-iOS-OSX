@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-02-06 16:59+0000\n"
+"PO-Revision-Date: 2018-02-09 16:02+0100\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: English "
-"<https://translation.hulab.co/projects/mapstr/mapstr/en/>\n"
+"Language-Team: English <https://translation.hulab.co/projects/mapstr/mapstr/"
+"en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. Add
 msgid "Add"
@@ -1722,7 +1722,7 @@ msgstr "You already have all the places from this backup."
 
 #. Whats New Image
 msgid "Whats New Image"
-msgstr "web"
+msgstr ""
 
 #. Invite friends
 msgid "Invite friends"
@@ -1795,17 +1795,15 @@ msgstr "Restaurants & Cafes"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr "Easily find more friends!"
+msgstr ""
 
 #. Whats New Description
 msgid "Whats New Description"
 msgstr ""
-"Searching by name is now possible to send friend requests. If you don’t want "
-"anyone to find you on mapstr, you can change settings."
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"
-msgstr "Try right away"
+msgstr ""
 
 #. Activated
 msgid "Activated"
