@@ -2286,3 +2286,18 @@ msgstr ""
 
 msgid "Loading the most added places among your friends..."
 msgstr ""
+
+msgid "Anyone here?!"
+msgstr ""
+
+msgid "Invite the friends you want to get recommendations from"
+msgstr ""
+
+msgid "This information will help your friends find you"
+msgstr ""
+
+msgid "Email notifications"
+msgstr ""
+
+msgid "Social activity"
+msgstr ""
