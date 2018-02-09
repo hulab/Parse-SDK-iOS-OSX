@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-02-09 16:02+0100\n"
+"PO-Revision-Date: 2018-02-09 15:09+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: English <https://translation.hulab.co/projects/mapstr/mapstr/"
-"en/>\n"
+"Language-Team: English "
+"<https://translation.hulab.co/projects/mapstr/mapstr/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Weblate 2.18\n"
 
 #. Add
 msgid "Add"
@@ -1722,7 +1722,7 @@ msgstr "You already have all the places from this backup."
 
 #. Whats New Image
 msgid "Whats New Image"
-msgstr ""
+msgstr "WhatNew-en-568"
 
 #. Invite friends
 msgid "Invite friends"
@@ -1795,15 +1795,17 @@ msgstr "Restaurants & Cafes"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr ""
+msgstr "Discover PODIUM!"
 
 #. Whats New Description
 msgid "Whats New Description"
 msgstr ""
+"Find out which are the most added places by your friends and the official "
+"accounts you follow"
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"
-msgstr ""
+msgstr "Try right away"
 
 #. Activated
 msgid "Activated"
@@ -2403,20 +2405,17 @@ msgstr "Select a place below to add it to your map"
 msgid "Loading the most added places among your friends..."
 msgstr "Loading the most added places among your friends..."
 
-#, fuzzy
 msgid "Anyone here?!"
-msgstr "Around there"
+msgstr "Anyone here?!"
 
 msgid "Invite the friends you want to get recommendations from"
-msgstr ""
+msgstr "Invite the friends you want to get recommendations from"
 
 msgid "This information will help your friends find you"
-msgstr ""
+msgstr "This information will help your friends find you"
 
-#, fuzzy
 msgid "Email notifications"
-msgstr "Mobile notifications"
+msgstr "Email notifications"
 
-#, fuzzy
 msgid "Social activity"
-msgstr "Socal activity"
+msgstr "Social activity"
