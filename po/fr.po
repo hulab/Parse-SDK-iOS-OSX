@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-02-09 15:59+0100\n"
+"PO-Revision-Date: 2018-02-09 15:18+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/"
-"fr/>\n"
+"Language-Team: French "
+"<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Weblate 2.18\n"
 
 #. Add
 msgid "Add"
@@ -1745,7 +1745,7 @@ msgstr "Vous avez déjà toutes les adresses de cette sauvegarde."
 
 #. Whats New Image
 msgid "Whats New Image"
-msgstr ""
+msgstr "WhatNew-fr-568"
 
 #. Invite friends
 msgid "Invite friends"
@@ -1818,15 +1818,17 @@ msgstr "Restaurants & Cafés"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr ""
+msgstr "Découvrez PODIUM !"
 
 #. Whats New Description
 msgid "Whats New Description"
 msgstr ""
+"Accédez aux adresses les plus ajoutées par vos amis et par les comptes "
+"officiels que vous suivez"
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"
-msgstr ""
+msgstr "Essayez dès maintenant"
 
 #. Activated
 msgid "Activated"
@@ -2444,9 +2446,8 @@ msgstr "Sélectionnez une adresse dans la liste pour l'ajouter à votre carte"
 msgid "Loading the most added places among your friends..."
 msgstr "Chargement des adresses les plus ajoutées par vos amis..."
 
-#, fuzzy
 msgid "Anyone here?!"
-msgstr "À cet endroit"
+msgstr ""
 
 msgid "Invite the friends you want to get recommendations from"
 msgstr ""
@@ -2454,10 +2455,8 @@ msgstr ""
 msgid "This information will help your friends find you"
 msgstr ""
 
-#, fuzzy
 msgid "Email notifications"
-msgstr "Notifications mobiles"
+msgstr ""
 
-#, fuzzy
 msgid "Social activity"
 msgstr "Activité sociale"
