@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "mapstr.l10n"
-  s.version      = "0.2.1"
+  s.version      = "0.2.2"
   s.summary      = "Mapstr localization files."
   s.description  = <<-DESC
                     languages:
@@ -23,6 +23,7 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.9'
   s.tvos.deployment_target = '9.0'
   s.watchos.deployment_target = '2.0'
+  s.swift_version = '3.2'
 
   s.default_subspecs = 'mo', 'lproj'
 
