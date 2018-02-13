@@ -1,0 +1,24 @@
+/* Application Name */
+"CFBundleDisplayName" = "mapstr";
+/* Authorization comment to access Camera */
+"NSCameraUsageDescription" = "Mapstr needs to access to the camera to scan an address!";
+/* Authorization comment to access Location */
+"NSLocationUsageDescription" = "Mapstr needs to access to your location to show places around you!";
+/* Authorization comment to access Location when app is use */
+"NSLocationWhenInUseUsageDescription" = "Mapstr needs to access to your location to show places around you!";
+/* Authorization comment to access Contacts */
+"NSContactsUsageDescription" = "Mapstr needs to access your contacts to import them in your map!";
+/* Authorization comment to access Photo Library */
+"NSPhotoLibraryUsageDescription" = "Mapstr needs to access your Photo library to let you add your own picture!";
+/* Shortcut Item -  Nearby Search */
+"UIApplicationShortcutItemTitle_NEARBY" = "Nearby search";
+/* Shortcut Item subtitle -  Add a place around you */
+"UIApplicationShortcutItemSubtitle_NEARBY" = "Add a place around you";
+/* Shortcut Item -  Text Search */
+"UIApplicationShortcutItemTitle_ADDBYTEXT" = "Text search";
+/* Shortcut Item subtitle -  Add a place by its name */
+"UIApplicationShortcutItemSubtitle_ADDBYTEXT" = "Add a place by its name";
+/* Authorization comment to access Location when app is in background */
+"NSLocationAlwaysUsageDescription" = "Mapstr needs to access to your location in background for nearby places notifications!";
+/* Authorization comment to access Location when app is in use or in background */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Mapstr needs to access to your location in background (\"Always allow\") for nearby places notifications";
