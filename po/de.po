@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-02-09 15:18+0000\n"
+"PO-Revision-Date: 2018-02-13 15:43+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
 "Language-Team: German "
 "<https://translation.hulab.co/projects/mapstr/mapstr/de/>\n"
@@ -1831,11 +1831,13 @@ msgstr "Restaurants & Cafés"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr ""
+msgstr "Discover PODIUM!"
 
 #. Whats New Description
 msgid "Whats New Description"
 msgstr ""
+"Find out which are the most added places by your friends and the official "
+"accounts you follow"
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"
