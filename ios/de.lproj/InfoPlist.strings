@@ -1,35 +1,24 @@
 /* Authorization comment to access Location when app is in use or in background */
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "Mapstr benötigt im Hintergrund Zugriff (Immer zulassen) auf deinen Standort, um dir Benachrichtigungen für die Umgebung zu schicken.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Mapstr benötigt im Hintergrund Zugriff (Immer zulassen) auf deinen Standort, um dir Benachrichtigungen für die Umgebung zu schicken";
 /* Application Name */
 "CFBundleDisplayName" = "Mapstr";
-
 /* Authorization comment to access Camera */
 "NSCameraUsageDescription" = "Hey, Mapstr muss auf deine Kamera zugreifen können, wenn du eine Adresse scannen willst!";
-
 /* Authorization comment to access Location */
 "NSLocationUsageDescription" = "Hey, Mapstr muss auf deinen Standort zugreifen können, um dir Orte in deiner Nähe anzuzeigen!";
-
 /* Authorization comment to access Location when app is use */
 "NSLocationWhenInUseUsageDescription" = "Hey, Mapstr muss auf deinen Standort zugreifen können, um dir Orte in deiner Nähe anzuzeigen!";
-
 /* Authorization comment to access Contacts */
 "NSContactsUsageDescription" = "Hey, Mapstr benötigt Zugriff auf deine Kontakte, um sie in die Karte zu importieren!";
-
 /* Authorization comment to access Photo Library */
 "NSPhotoLibraryUsageDescription" = "Hey, Mapstr benötigt Zugriff auf deine Fotobibliothek, damit du ein eigenes Bild hinzufügen kannst!";
-
 /* Shortcut Item -  Nearby Search */
 "UIApplicationShortcutItemTitle_NEARBY" = "Suche in der Nähe";
-
 /* Shortcut Item subtitle -  Add a place around you */
 "UIApplicationShortcutItemSubtitle_NEARBY" = "Füge einen Ort in deiner Nähe hinzu";
-
 /* Shortcut Item -  Text Search */
 "UIApplicationShortcutItemTitle_ADDBYTEXT" = "Textsuche";
-
 /* Shortcut Item subtitle -  Add a place by its name */
 "UIApplicationShortcutItemSubtitle_ADDBYTEXT" = "Füge einen Ort mit Namen hinzu";
-
 /* Authorization comment to access Location when app is in background */
-"NSLocationAlwaysUsageDescription" = "Mapstr benötigt im Hintergrund Zugriff auf deinen Standort, um dir Benachrichtigungen für die Umgebung zu schicken.";
-
+"NSLocationAlwaysUsageDescription" = "Mapstr benötigt im Hintergrund Zugriff auf deinen Standort, um dir Benachrichtigungen für die Umgebung zu schicken!";
