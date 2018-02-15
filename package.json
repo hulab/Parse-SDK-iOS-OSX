@@ -1,6 +1,6 @@
 {
   "name": "mapstr-l10n",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Mapstr localization files.",
   "main": "index.js",
   "scripts": {
