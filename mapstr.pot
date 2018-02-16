@@ -2290,9 +2290,6 @@ msgstr ""
 msgid "Anyone here?!"
 msgstr ""
 
-msgid "Invite the friends you want to get recommendations from"
-msgstr ""
-
 msgid "This information will help your friends find you"
 msgstr ""
 
