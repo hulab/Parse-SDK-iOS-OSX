@@ -39,6 +39,6 @@ Pod::Spec.new do |s|
     ss.resources = 'po/*.po'
   end
 
-  s.dependency 'POLocalizedString', '0.3.1'
+  s.dependency 'POLocalizedString', '0.4.0'
 
 end
