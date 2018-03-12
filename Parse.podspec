@@ -115,8 +115,8 @@ Pod::Spec.new do |s|
     s.libraries        = 'z', 'sqlite3'
 
     s.dependency 'Parse/Core'
-    s.dependency 'FBSDKCoreKit', '~> 4.28.0'
-    s.ios.dependency 'FBSDKLoginKit', '~> 4.28.0'
+    s.dependency 'FBSDKCoreKit', '~> 4.31'
+    s.ios.dependency 'FBSDKLoginKit', '~> 4.31'
     s.tvos.dependency 'FBSDKTVOSKit', '~> 4.28.0'
     s.tvos.dependency 'FBSDKShareKit', '~> 4.28.0'
   end
