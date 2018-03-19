@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-03-19 14:34+0000\n"
-"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
+"PO-Revision-Date: 2018-03-19 15:21+0000\n"
+"Last-Translator: Sebastien <sebastien@mapstr.com>\n"
 "Language-Team: French "
 "<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
 "Language: fr\n"
@@ -2449,9 +2449,8 @@ msgid "Anyone here?!"
 msgstr "Personne ici ?!"
 
 msgid "This information will help your friends find you"
-msgstr ""
+msgstr "Vous amis pourront vous trouver plus facilement"
 
-#, fuzzy
 msgid "Email notifications"
 msgstr "Notifications par email"
 
@@ -2465,13 +2464,13 @@ msgid "Facebook friends suggestions"
 msgstr "Suggestions d'amis Facebook"
 
 msgid "Friend activities summary"
-msgstr ""
+msgstr "Activité de vos amis"
 
 msgid "New features"
 msgstr "Nature"
 
 msgid "Release of official maps"
-msgstr ""
+msgstr "Nouvelles cartes officielles"
 
 msgid "Not to receive emails"
 msgstr ""
