@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-02-16 12:18+0100\n"
+"PO-Revision-Date: 2018-03-19 13:40+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: English <https://translation.hulab.co/projects/mapstr/mapstr/"
-"en/>\n"
+"Language-Team: English "
+"<https://translation.hulab.co/projects/mapstr/mapstr/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Weblate 2.19.1\n"
 
 #. Add
 msgid "Add"
@@ -2417,63 +2417,58 @@ msgstr "Email notifications"
 msgid "Social activity"
 msgstr "Social activity"
 
-#, fuzzy
 msgid "New friend invites"
 msgstr "Never miss a friend’s invite."
 
 msgid "Facebook friends suggestions"
-msgstr ""
+msgstr "Facebook friends suggestions"
 
 msgid "Friend activities summary"
-msgstr ""
+msgstr "Friend activities summary"
 
-#, fuzzy
 msgid "New features"
-msgstr "Nature"
+msgstr "New features"
 
-#, fuzzy
 msgid "Release of official maps"
-msgstr "Release to change sort"
+msgstr "Release of official maps"
 
 msgid "Not to receive emails"
-msgstr ""
+msgstr "Not to receive emails"
 
 msgid "News from Mapstr"
-msgstr ""
+msgstr "News from Mapstr"
 
 msgid "Receive a summary of your activities and your friend ones."
-msgstr ""
+msgstr "Receive a summary of your activities and your friend ones."
 
 msgid ""
 "Don't worry, we won't spam you, we don't have enough time to write it down."
 msgstr ""
+"Don't worry, we won't spam you, we don't have enough time to write it down."
 
 msgid "Don't make your friends wait for you!"
-msgstr ""
+msgstr "Don't make your friends wait for you!"
 
 msgid "Get a better experience with push notifications!"
-msgstr ""
+msgstr "Get a better experience with push notifications!"
 
 msgid "You can edit your preferences in your settings"
-msgstr ""
+msgstr "You can edit your preferences in your settings"
 
-#, fuzzy
 msgid "Allow push notifications"
-msgstr "Allow notifications"
+msgstr "Allow push notifications"
 
 msgid "Be notified when you've got new invitations on Mapstr"
-msgstr ""
+msgstr "Be notified when you've got new invitations on Mapstr"
 
-#, fuzzy
 msgid "👫 You've got new friends"
-msgstr "You have no friends yet"
+msgstr "👫 You've got new friends"
 
 msgid "💈 You're nearby a place you like"
-msgstr ""
+msgstr "💈 You're nearby a place you like"
 
-#, fuzzy
 msgid "🗺 Your friends add new places"
-msgstr "Your friends have no places here"
+msgstr "🗺 Your friends add new places"
 
 #~ msgid "Invite the friends you want to get recommendations from"
 #~ msgstr "Invite the friends you want to get recommendations from"
