@@ -2339,7 +2339,7 @@ msgstr ""
 msgid "Allow push notifications"
 msgstr ""
 
-msgid "Be notified when you're got new invitations on Mapstr"
+msgid "Be notified when you've got new invitations on Mapstr"
 msgstr ""
 
 msgid "👫 You've got new friends"
