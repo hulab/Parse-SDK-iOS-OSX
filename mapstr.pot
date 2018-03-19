@@ -2298,3 +2298,55 @@ msgstr ""
 
 msgid "Social activity"
 msgstr ""
+
+msgid "New friend invites"
+msgstr ""
+
+msgid "Facebook friends suggestions"
+msgstr ""
+
+msgid "Friend activities summary"
+msgstr ""
+
+msgid "New features"
+msgstr ""
+
+msgid "Release of official maps"
+msgstr ""
+
+msgid "Not to receive emails"
+msgstr ""
+
+msgid "News from Mapstr"
+msgstr ""
+
+msgid "Receive a summary of your activities and your friend ones."
+msgstr ""
+
+msgid ""
+"Don't worry, we won't spam you, we don't have enough time to write it down."
+msgstr ""
+
+msgid "Don't make your friends wait for you!"
+msgstr ""
+
+msgid "Get a better experience with push notifications!"
+msgstr ""
+
+msgid "You can edit your preferences in your settings"
+msgstr ""
+
+msgid "Allow push notifications"
+msgstr ""
+
+msgid "Be notified when you're got new invitations on Mapstr"
+msgstr ""
+
+msgid "👫 You've got new friends"
+msgstr ""
+
+msgid "💈 You're nearby a place you like"
+msgstr ""
+
+msgid "🗺 Your friends add new places"
+msgstr ""
