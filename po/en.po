@@ -2432,17 +2432,20 @@ msgstr "New features"
 msgid "Release of official maps"
 msgstr "Release of official maps"
 
-msgid "Not to receive emails"
-msgstr "Not to receive emails"
+msgid "Unsubscribe from all emails"
+msgstr ""
 
 msgid "News from Mapstr"
 msgstr "News from Mapstr"
 
-msgid "Receive a summary of your activities and your friend ones."
+#, fuzzy
+msgid "Receive a summary of your friends activities."
 msgstr "Receive a summary of your activities and your friend ones."
 
+#, fuzzy
 msgid ""
-"Don't worry, we won't spam you, we don't have enough time to write it down."
+"Don't worry, we won't spam you, we don't have enough time to write useless "
+"emails."
 msgstr ""
 "Don't worry, we won't spam you, we don't have enough time to write it down."
 
@@ -2469,6 +2472,9 @@ msgstr "💈 You're nearby a place you like"
 
 msgid "🗺 Your friends add new places"
 msgstr "🗺 Your friends add new places"
+
+#~ msgid "Not to receive emails"
+#~ msgstr "Not to receive emails"
 
 #~ msgid "Invite the friends you want to get recommendations from"
 #~ msgstr "Invite the friends you want to get recommendations from"

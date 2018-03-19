@@ -2472,17 +2472,18 @@ msgstr "Natura"
 msgid "Release of official maps"
 msgstr "Rilascia per modificare l'ordine"
 
-msgid "Not to receive emails"
+msgid "Unsubscribe from all emails"
 msgstr ""
 
 msgid "News from Mapstr"
 msgstr ""
 
-msgid "Receive a summary of your activities and your friend ones."
+msgid "Receive a summary of your friends activities."
 msgstr ""
 
 msgid ""
-"Don't worry, we won't spam you, we don't have enough time to write it down."
+"Don't worry, we won't spam you, we don't have enough time to write useless "
+"emails."
 msgstr ""
 
 msgid "Don't make your friends wait for you!"
