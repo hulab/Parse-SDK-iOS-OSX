@@ -2453,3 +2453,61 @@ msgstr "Notifiche mobili"
 #, fuzzy
 msgid "Social activity"
 msgstr "Attività social"
+
+#, fuzzy
+msgid "New friend invites"
+msgstr "Non ti perderai più gli inviti degli amici."
+
+msgid "Facebook friends suggestions"
+msgstr ""
+
+msgid "Friend activities summary"
+msgstr ""
+
+#, fuzzy
+msgid "New features"
+msgstr "Natura"
+
+#, fuzzy
+msgid "Release of official maps"
+msgstr "Rilascia per modificare l'ordine"
+
+msgid "Not to receive emails"
+msgstr ""
+
+msgid "News from Mapstr"
+msgstr ""
+
+msgid "Receive a summary of your activities and your friend ones."
+msgstr ""
+
+msgid ""
+"Don't worry, we won't spam you, we don't have enough time to write it down."
+msgstr ""
+
+msgid "Don't make your friends wait for you!"
+msgstr ""
+
+msgid "Get a better experience with push notifications!"
+msgstr ""
+
+msgid "You can edit your preferences in your settings"
+msgstr ""
+
+#, fuzzy
+msgid "Allow push notifications"
+msgstr "Abilita le notifiche"
+
+msgid "Be notified when you've got new invitations on Mapstr"
+msgstr ""
+
+#, fuzzy
+msgid "👫 You've got new friends"
+msgstr "Non hai ancora amici"
+
+msgid "💈 You're nearby a place you like"
+msgstr ""
+
+#, fuzzy
+msgid "🗺 Your friends add new places"
+msgstr "I tuoi amici non hanno luoghi qui"

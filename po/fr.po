@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
 "PO-Revision-Date: 2018-03-19 12:54+0000\n"
 "Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: French "
-"<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
+"Language-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/"
+"fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2456,3 +2456,61 @@ msgstr ""
 
 msgid "Social activity"
 msgstr "Activité sociale"
+
+#, fuzzy
+msgid "New friend invites"
+msgstr "Ne manquez aucune invitation de vos amis."
+
+msgid "Facebook friends suggestions"
+msgstr ""
+
+msgid "Friend activities summary"
+msgstr ""
+
+#, fuzzy
+msgid "New features"
+msgstr "Nature"
+
+#, fuzzy
+msgid "Release of official maps"
+msgstr "Lâcher pour changer l'ordre"
+
+msgid "Not to receive emails"
+msgstr ""
+
+msgid "News from Mapstr"
+msgstr ""
+
+msgid "Receive a summary of your activities and your friend ones."
+msgstr ""
+
+msgid ""
+"Don't worry, we won't spam you, we don't have enough time to write it down."
+msgstr ""
+
+msgid "Don't make your friends wait for you!"
+msgstr ""
+
+msgid "Get a better experience with push notifications!"
+msgstr ""
+
+msgid "You can edit your preferences in your settings"
+msgstr ""
+
+#, fuzzy
+msgid "Allow push notifications"
+msgstr "Activez les notifications"
+
+msgid "Be notified when you've got new invitations on Mapstr"
+msgstr ""
+
+#, fuzzy
+msgid "👫 You've got new friends"
+msgstr "Vous n'avez pas encore d'amis"
+
+msgid "💈 You're nearby a place you like"
+msgstr ""
+
+#, fuzzy
+msgid "🗺 Your friends add new places"
+msgstr "Vos amis n'ont pas de lieux ici"
