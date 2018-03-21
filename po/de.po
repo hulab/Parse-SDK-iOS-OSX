@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
+"Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-03-21 14:59+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-03-21 15:15+0000\n"
+"Last-Translator: Sebastien <sebastien@mapstr.com>\n"
+"Language-Team: German "
+"<https://translation.hulab.co/projects/mapstr/mapstr/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19.1\n"
 
 #. Add
 msgid "Add"
@@ -133,7 +136,7 @@ msgstr "Durchgängig geöffnet"
 
 #. An error occured, please try again later
 msgid "An error occured, please try again later"
-msgstr "Ein Fehler ist aufgetreten, bitte versuche es später wieder."
+msgstr "Ein Fehler ist aufgetreten, bitte versuche es später wieder"
 
 #. Analyzing...
 msgid "Analyzing..."
@@ -274,7 +277,7 @@ msgstr "Bearbeiten"
 msgid "E-mail address already used, please provide another e-mail or login"
 msgstr ""
 "Diese E-Mail-Adresse wird bereits benutzt. Bitte gib eine andere oder andere "
-"Anmeldedaten an."
+"Anmeldedaten an"
 
 #. E-mail not found
 msgid "E-mail not found"
@@ -544,7 +547,7 @@ msgstr ""
 
 #. Please, enter your password to connect to this account.
 msgid "Please, enter your password to connect to this account."
-msgstr "Bitte gib dein Passwort ein, um dich mit diesem Konto zu verbinden"
+msgstr "Bitte gib dein Passwort ein, um dich mit diesem Konto zu verbinden."
 
 #. More search results: Pull up to load more
 msgid "Pull up to load more"
@@ -1131,7 +1134,7 @@ msgstr "Lass uns deinen ersten Ort hinzufügen!"
 
 #. Tips - Let's search a place
 msgid "Let’s search a place with its name"
-msgstr "Finden wir einen Ort, indem wir nach seinem Namen suchen."
+msgstr "Finden wir einen Ort, indem wir nach seinem Namen suchen"
 
 #. Tips - Text search
 msgid "Type the name of a place you like (restaurant, museum, bar...)"
@@ -1635,7 +1638,7 @@ msgid ""
 "Sign in and save your first places in the app, to retrieve them in Messages"
 msgstr ""
 "Melde dich an und speichere deine ersten Ort in der App, dann kannst du sie "
-"in iMessage aufrufen."
+"in iMessage aufrufen"
 
 #. iMessage - Sign in
 msgid "Sign in"
@@ -1747,7 +1750,7 @@ msgstr "Dieser Nutzername ist ungültig."
 msgid "Visit the FAQ to learn how to import a file."
 msgstr ""
 "Besuche die Häufig gestellten Fragen und lerne, wie du eine Datei "
-"importieren kannst"
+"importieren kannst."
 
 #. You already have all the places from this backup.
 msgid "You already have all the places from this backup."
@@ -1828,7 +1831,7 @@ msgstr "Restaurants & Cafés"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr "Discover PODIUM!"
+msgstr "Entdecken Sie PODIUM!"
 
 #. Whats New Description
 msgid "Whats New Description"
@@ -1842,7 +1845,7 @@ msgstr "Sofort ausprobieren"
 
 #. Activated
 msgid "Activated"
-msgstr "Activated"
+msgstr "Aktiviert"
 
 #. Activate Notifications
 msgid "Activate Notifications"
@@ -2112,7 +2115,7 @@ msgstr "Verhalten des Tagfilters"
 
 #. Username
 msgid "Username"
-msgstr "Username"
+msgstr "Nutzernamen"
 
 #. Name
 msgid "Name"
@@ -2257,7 +2260,7 @@ msgstr "Mehr..."
 msgid "This will remove it from %i of your places and cannot be undone"
 msgstr ""
 "Damit wird es von %i deiner Orte entfernt. Dies kann nicht rückgängig "
-"gemacht werden."
+"gemacht werden"
 
 #. Please wait... - Export bezel loading
 msgid "Please wait..."
@@ -2265,7 +2268,7 @@ msgstr "Bitte warten..."
 
 #. Podium
 msgid "Podium"
-msgstr "Podium"
+msgstr "Podest"
 
 #. Search this area
 msgid "Search this area"
@@ -2450,13 +2453,15 @@ msgstr ""
 msgid "Welcome to Mapstr, %s!"
 msgstr "Willkommen bei Mapstr, %s!"
 
+#, fuzzy
 msgid "Most added places among your friends"
 msgstr ""
-"Hier tippen, um die am meisten hinzugefügten Orte deiner Freunde zu sehen!"
+"Hier tippen, um die am meisten hinzugefügten Orte deiner Freunde zu sehen"
 
 msgid "Select a place below to add it to your map"
 msgstr "Wähle einen der folgenden Orte, um sie deiner Karte hinzuzufügen"
 
+#, fuzzy
 msgid "Loading the most added places among your friends..."
 msgstr ""
 "Hier tippen, um die am meisten hinzugefügten Orte deiner Freunde zu sehen!"
