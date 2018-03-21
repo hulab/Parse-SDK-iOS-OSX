@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
+"Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-03-21 14:59+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-03-21 15:51+0000\n"
+"Last-Translator: Sebastien <sebastien@mapstr.com>\n"
+"Language-Team: Spanish "
+"<https://translation.hulab.co/projects/mapstr/mapstr/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19.1\n"
 
 #. Add
 msgid "Add"
@@ -274,7 +277,7 @@ msgstr "Editar"
 msgid "E-mail address already used, please provide another e-mail or login"
 msgstr ""
 "Dirección de correo electrónico ya en uso. Proporciona otra dirección o "
-"nombre de usuario."
+"nombre de usuario"
 
 #. E-mail not found
 msgid "E-mail not found"
@@ -328,7 +331,7 @@ msgstr "Ayuda"
 msgid "Hey do you like Mapstr?"
 msgstr ""
 "Siempre queremos mejorar, por eso nos gustaría saber qué piensas de Mapstr.\n"
-"Dinos si estás satisfecho con Mapstr."
+"Dinos, ¿estás satisfecho con Mapstr?"
 
 #. Contact email - Subject
 msgid "Hey Mapstr!"
@@ -530,7 +533,7 @@ msgstr "LUGARES ALREDEDOR"
 
 #. Please, check your emails to reset your password
 msgid "Please, check your emails to reset your password"
-msgstr "Revisa tu correo electrónico para restablecer la contraseña."
+msgstr "Revisa tu correo electrónico para restablecer la contraseña"
 
 #. Please, connect to your Foursquare account and allow Mapstr to import your places
 msgid ""
@@ -538,7 +541,7 @@ msgid ""
 "places"
 msgstr ""
 "Conéctate con tu cuenta de Foursquare y permite que Mapstr importe tus "
-"lugares."
+"lugares"
 
 #. Please, enter your password to connect to this account.
 msgid "Please, enter your password to connect to this account."
@@ -562,7 +565,7 @@ msgstr "Quitar"
 
 #. Retrieving place details...
 msgid "Retrieving place details..."
-msgstr "Recuperando detalles de lugares"
+msgstr "Recuperando detalles de lugares..."
 
 #. Go
 msgid "Go"
@@ -713,7 +716,7 @@ msgstr "Añade el nombre o la dirección del lugar que estás buscando..."
 
 #. Add your friends, share your map with them, and discover their world!
 msgid "Add your friends, share your map with them, and discover their world!"
-msgstr "Añade a tus amigos, comparte tu mapa con ellos y descubre su mundo."
+msgstr "¡Agrega a tus amigos, comparte tu mapa con ellos y descubre su mundo!"
 
 #. Update
 msgid "Update"
@@ -845,19 +848,19 @@ msgid ""
 msgstr ""
 "Se está conectando a una cuenta existente; perderás tus lugares anónimos "
 "actuales.\n"
-"Si deseas mantenerlos, crea una cuenta nueva."
+"Si deseas mantenerlos, crea una cuenta nueva"
 
 #. Alert message: You cannot delete a tag if it is used in a place
 msgid "You cannot delete a tag used in a place"
-msgstr "No puedes eliminar una etiqueta que se esté utilizando en un lugar."
+msgstr "No puedes eliminar una etiqueta que se esté utilizando en un lugar"
 
 #. You have no friends yet
 msgid "You have no friends yet"
-msgstr "Todavía no tienes amigos."
+msgstr "Todavía no tienes amigos"
 
 #. No Places - You have no places yet
 msgid "You have no places yet"
-msgstr "Aún no tienes ningún lugar."
+msgstr "Aún no tienes ningún lugar"
 
 #. You haven't saved any place, yet.
 msgid "You haven't saved any place, yet."
@@ -878,11 +881,11 @@ msgstr "¡Tienes el mismo!"
 
 #. You have to provide a name for this place
 msgid "You have to provide a name for this place"
-msgstr "Tienes que proporcionar un nombre para este lugar."
+msgstr "Tienes que proporcionar un nombre para este lugar"
 
 #. You have to provide an address for this place
 msgid "You have to provide an address for this place"
-msgstr "Tienes que proporcionar una dirección para este lugar."
+msgstr "Tienes que proporcionar una dirección para este lugar"
 
 #. You like Mapstr?
 msgid "You like Mapstr?"
@@ -890,11 +893,11 @@ msgstr "¿Te gusta Mapstr?"
 
 #. You must provide a valid URL
 msgid "You must provide a valid URL"
-msgstr "Debes proporcionar una dirección URL válida."
+msgstr "Debes proporcionar una dirección URL válida"
 
 #. Alert message: A place need at list one tag
 msgid "You should add at least one tag"
-msgstr "Debes añadir al menos una etiqueta."
+msgstr "Debes añadir al menos una etiqueta"
 
 #. You won't be able to retrieve your data if you change your phone or reinstall the app...
 msgid ""
@@ -988,7 +991,7 @@ msgstr ""
 
 #. Today Widget - Add a place at your location
 msgid "Add a place at your location"
-msgstr "Añade un lugar en tu ubicación."
+msgstr "Añade un lugar en tu ubicación"
 
 #. Today Widget - No places yet...
 msgid "You have no places yet..."
@@ -1118,7 +1121,7 @@ msgstr "¡Vamos a añadir tu primer lugar!"
 
 #. Tips - Let's search a place
 msgid "Let’s search a place with its name"
-msgstr "Vamos a encontrar un lugar buscando su nombre."
+msgstr "Vamos a encontrar un lugar buscando su nombre"
 
 #. Tips - Text search
 msgid "Type the name of a place you like (restaurant, museum, bar...)"
@@ -1131,7 +1134,7 @@ msgstr "Selecciona o crea las etiquetas que quieras"
 
 #. Tips - Save the place
 msgid "... and save the place to your map!"
-msgstr "... y guarda el lugar en tu mapa."
+msgstr "... y guarda el lugar en tu mapa!"
 
 #. Tips - Drag the detail view
 msgid "Drag or tap to see more details"
@@ -1175,7 +1178,7 @@ msgstr "Registrarse"
 
 #. Choose your profile picture
 msgid "Choose your profile picture"
-msgstr "Elige tu imagen de perfil."
+msgstr "Elige tu imagen de perfil"
 
 #. Close
 msgid "Close"
@@ -1275,7 +1278,7 @@ msgstr "Preguntas frecuentes"
 
 #. is waiting for you on mapstr!
 msgid " is waiting for you on mapstr!"
-msgstr " te está esperando en Mapstr."
+msgstr " te está esperando en Mapstr!"
 
 #. shared:
 msgid " shared:"
@@ -1283,11 +1286,11 @@ msgstr " ha compartido:"
 
 #. wants to share this place with you!
 msgid " wants to share this place with you!"
-msgstr " quiere compartir este lugar contigo."
+msgstr " quiere compartir este lugar contigo!"
 
 #. wants you to use Mapstr!
 msgid " wants you to use Mapstr!"
-msgstr " quiere que uses Mapstr."
+msgstr " quiere que uses Mapstr!"
 
 #. A friend
 msgid "A friend"
@@ -1464,7 +1467,7 @@ msgid ""
 "save, see, share and send their favorite places!"
 msgstr ""
 " te está esperando en Mapstr, la 1.ª aplicación de mapas y notas para que "
-"los usuarios guarden, vean, compartan y envíen sus lugares favoritos."
+"los usuarios guarden, vean, compartan y envíen sus lugares favoritos!"
 
 #. Accept
 msgid "Accept"
@@ -1574,7 +1577,7 @@ msgstr "Mostrar a mis amigos en Mapstr"
 #. Swipe right and find if any of your friends is already on Mapstr
 msgid "Swipe right and find if any of your friends is already on Mapstr"
 msgstr ""
-"Desliza a la derecha y descubre si alguno de tus amigos ya está en Mapstr."
+"Desliza a la derecha y descubre si alguno de tus amigos ya está en Mapstr"
 
 #. Unable to connect to your facebook account
 msgid "Unable to connect to your facebook account"
@@ -1615,7 +1618,7 @@ msgid ""
 "Sign in and save your first places in the app, to retrieve them in Messages"
 msgstr ""
 "Inicia sesión y guarda tus primeros lugares en la aplicación, para poder "
-"recuperarlos en los mensajes."
+"recuperarlos en los mensajes"
 
 #. iMessage - Sign in
 msgid "Sign in"
@@ -1697,14 +1700,13 @@ msgid ""
 "Please, connect to your Instagram account and allow Mapstr to import your "
 "places"
 msgstr ""
-"Conéctate con tu cuenta de Instagram y permite que Mapstr importe tus "
-"lugares."
+"Conéctate con tu cuenta de Instagram y permite que Mapstr importe tus lugares"
 
 #. Please, connect to your Swarm account and allow Mapstr to import your places
 msgid ""
 "Please, connect to your Swarm account and allow Mapstr to import your places"
 msgstr ""
-"Conéctate con tu cuenta de Swarm y permite que Mapstr importe tus lugares."
+"Conéctate con tu cuenta de Swarm y permite que Mapstr importe tus lugares"
 
 #. Select All
 msgid "Select All"
@@ -1805,7 +1807,7 @@ msgstr "Restaurantes & Cafes"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr "Discover PODIUM!"
+msgstr "¡Descubre PODIO!"
 
 #. Whats New Description
 msgid "Whats New Description"
@@ -2222,7 +2224,7 @@ msgstr "Introduce una URL de artículo"
 msgid "You cannot delete a tag used without any other tag in a place"
 msgstr ""
 "No puedes eliminar una etiqueta que se esté usando sin otra etiqueta en un "
-"lugar."
+"lugar"
 
 #. Delete the tag {tag name}?
 msgid "Delete the tag %s?"
@@ -2234,7 +2236,7 @@ msgstr "Más..."
 
 #. This will remove it from {count} of your places and cannot be undone
 msgid "This will remove it from %i of your places and cannot be undone"
-msgstr "Se eliminará de %i de tus lugares y es irreversible."
+msgstr "Se eliminará de %i de tus lugares y es irreversible"
 
 #. Please wait... - Export bezel loading
 msgid "Please wait..."
@@ -2266,7 +2268,7 @@ msgid ""
 "area"
 msgstr ""
 "Con el podio puedes descubrir los lugares más añadidos entres tus amigos en "
-"esta zona."
+"esta zona"
 
 #. Your data has been sent to {email}
 msgid "Your data has been sent to %s"
@@ -2390,7 +2392,7 @@ msgid "The tag \"%s\" already exists!"
 msgstr "¡La etiqueta «%s» ya existe!"
 
 msgid "celebrates Valentine's day!"
-msgstr "celebra el Día de San Valentín."
+msgstr "celebra el Día de San Valentín!"
 
 #, c-format
 msgid "@%s really?"
@@ -2426,7 +2428,7 @@ msgid "Most added places among your friends"
 msgstr "Los lugares más añadidos por tus amigos"
 
 msgid "Select a place below to add it to your map"
-msgstr "Elige un lugar a continuación para añadirlo a tu mapa."
+msgstr "Elige un lugar a continuación para añadirlo a tu mapa"
 
 msgid "Loading the most added places among your friends..."
 msgstr "Cargando los lugares más añadidos entres tus amigos..."
@@ -2444,7 +2446,7 @@ msgid "Social activity"
 msgstr "Actividad social"
 
 msgid "New friend invites"
-msgstr "No te pierdas las invitaciones de amigos."
+msgstr "No te pierdas las invitaciones de amigos"
 
 msgid "Facebook friends suggestions"
 msgstr "Sugerencias de amigos de Facebook"
@@ -2490,7 +2492,7 @@ msgid "Be notified when you've got new invitations on Mapstr"
 msgstr "Recibe una notificación cuando tengas invitaciones nuevas en Mapstr"
 
 msgid "👫 You've got new friends"
-msgstr "Todavía no tienes amigos."
+msgstr ""
 
 msgid "💈 You're nearby a place you like"
 msgstr "💈 Estás cerca de un lugar que te gusta"
