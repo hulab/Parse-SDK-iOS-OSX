@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: VERSION\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-03-21 15:21+0000\n"
-"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
+"PO-Revision-Date: 2018-03-21 15:51+0000\n"
+"Last-Translator: Sebastien <sebastien@mapstr.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<https://translation.hulab.co/projects/mapstr/mapstr/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -1128,7 +1128,7 @@ msgstr "Vamos adicionar o seu primeiro lugar!"
 
 #. Tips - Let's search a place
 msgid "Let’s search a place with its name"
-msgstr "Vamos encontrar um lugar procurando pelo nome."
+msgstr "Vamos encontrar um lugar procurando pelo nome"
 
 #. Tips - Text search
 msgid "Type the name of a place you like (restaurant, museum, bar...)"
@@ -1819,7 +1819,7 @@ msgstr "Restaurantes e Cafés"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr "Discover PODIUM!"
+msgstr "Descubra PODIUM!"
 
 #. Whats New Description
 msgid "Whats New Description"
@@ -2375,7 +2375,7 @@ msgid "Friends you are watching"
 msgstr "Amigos sendo acompanhados"
 
 msgid "Get notifications when your friends add new places."
-msgstr "Seja notificado quando estes amigos adicionarem um novo lugar"
+msgstr "Seja notificado quando estes amigos adicionarem um novo lugar."
 
 msgid ""
 "Are you sure you want to definitely delete this account? All your data will "
@@ -2435,7 +2435,7 @@ msgid "Welcome to Mapstr, %s!"
 msgstr "Bem-vindo(a) ao Mapstr, %s!"
 
 msgid "Most added places among your friends"
-msgstr "Toque aqui para ver os lugares mais adicionados pelos seus amigos!"
+msgstr ""
 
 msgid "Select a place below to add it to your map"
 msgstr "Selecione um lugar abaixo para adicioná-lo ao seu mapa"
@@ -2456,7 +2456,7 @@ msgid "Social activity"
 msgstr "Atividade social"
 
 msgid "New friend invites"
-msgstr "Nunca perca um convite de amizade."
+msgstr "Nunca perca um convite de amizade"
 
 msgid "Facebook friends suggestions"
 msgstr "Sugestões de amigos do Facebook"
@@ -2502,7 +2502,7 @@ msgid "Be notified when you've got new invitations on Mapstr"
 msgstr "Seja notificado quando você tiver novos convites no Mapstr"
 
 msgid "👫 You've got new friends"
-msgstr "Você ainda não tem nenhum amigo"
+msgstr ""
 
 msgid "💈 You're nearby a place you like"
 msgstr "💈 Você está perto de um lugar que curte"
