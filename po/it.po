@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: VERSION\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-03-21 15:21+0000\n"
-"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
+"PO-Revision-Date: 2018-03-21 15:51+0000\n"
+"Last-Translator: Sebastien <sebastien@mapstr.com>\n"
 "Language-Team: Italian "
 "<https://translation.hulab.co/projects/mapstr/mapstr/it/>\n"
 "Language: it\n"
@@ -56,7 +56,7 @@ msgstr "Abilita avvisi nelle vicinanze per questo tag"
 
 #. Following
 msgid "Following"
-msgstr "Following"
+msgstr "Abbonato"
 
 #. Visible profile
 msgid "Visible profile"
@@ -86,7 +86,7 @@ msgstr "Digita il nome o il nome utente della persona che stai cercando..."
 #. Place Sharing - in {CityName}
 #, c-format
 msgid " in %s."
-msgstr "a %s."
+msgstr " a %s."
 
 #. {distance} from location
 #, c-format
@@ -1128,7 +1128,7 @@ msgstr "Aggiungiamo questo primo luogo!"
 
 #. Tips - Let's search a place
 msgid "Let’s search a place with its name"
-msgstr "Troviamo un luogo cercando il suo nome."
+msgstr "Troviamo un luogo cercando il suo nome"
 
 #. Tips - Text search
 msgid "Type the name of a place you like (restaurant, museum, bar...)"
@@ -1137,7 +1137,7 @@ msgstr ""
 
 #. Tips - Select or create tags
 msgid "Select or create any tags you want to sort your places"
-msgstr "Seleziona o crea qualunque tag desideri."
+msgstr "Seleziona o crea qualunque tag desideri"
 
 #. Tips - Save the place
 msgid "... and save the place to your map!"
@@ -1265,7 +1265,7 @@ msgstr "Standard"
 
 #. Satellite
 msgid "Satellite"
-msgstr "Satellite"
+msgstr "Satellitare"
 
 #. Import places
 msgid "Import places"
@@ -1393,7 +1393,7 @@ msgstr "Aggiorna la tua app."
 
 #. Please Update
 msgid "Please Update"
-msgstr "Aggiorna."
+msgstr "Aggiorna"
 
 #. Onboarding - Save places you love,\nplaces to try, places from magazines, etc.
 msgid ""
@@ -1629,7 +1629,7 @@ msgstr "Trova un luogo"
 msgid ""
 "Sign in and save your first places in the app, to retrieve them in Messages"
 msgstr ""
-"Registrati e salva i tuoi primi luoghi sulla app. Li ritroverai nei Messaggi."
+"Registrati e salva i tuoi primi luoghi sulla app. Li ritroverai nei Messaggi"
 
 #. iMessage - Sign in
 msgid "Sign in"
@@ -1819,7 +1819,7 @@ msgstr "Ristoranti e caffetterie"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr "Discover PODIUM!"
+msgstr "Scopri PODIO!"
 
 #. Whats New Description
 msgid "Whats New Description"
@@ -2428,7 +2428,7 @@ msgid "Welcome to Mapstr, %s!"
 msgstr "Benvenuto/a su Mapstr, %s!"
 
 msgid "Most added places among your friends"
-msgstr "Tocca qui per vedere i luoghi più aggiunti dai tuoi amici!"
+msgstr ""
 
 msgid "Select a place below to add it to your map"
 msgstr "Seleziona un luogo per aggiungerlo alla mappa"
@@ -2449,7 +2449,7 @@ msgid "Social activity"
 msgstr "Attività social"
 
 msgid "New friend invites"
-msgstr "Non ti perderai più gli inviti degli amici."
+msgstr "Non ti perderai più gli inviti degli amici"
 
 msgid "Facebook friends suggestions"
 msgstr "Suggerimenti amici Facebook"
@@ -2495,7 +2495,7 @@ msgid "Be notified when you've got new invitations on Mapstr"
 msgstr "Ricevi una notifica quando hai nuovi inviti su Mapstr"
 
 msgid "👫 You've got new friends"
-msgstr "Non hai ancora amici"
+msgstr ""
 
 msgid "💈 You're nearby a place you like"
 msgstr "💈 Sei vicino a un posto che ti piace"
