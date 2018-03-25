@@ -96,12 +96,12 @@ Pod::Spec.new do |s|
   s.subspec 'FacebookUtils' do |s|
     s.platform = :ios, :tvos
     s.ios.deployment_target = '8.0'
-    s.tvos.deployment_target = '9.0'
+    # s.tvos.deployment_target = '9.0'
     s.public_header_files = 'ParseFacebookUtils/ParseFacebookUtils/*.h'
     s.source_files = 'ParseFacebookUtils/ParseFacebookUtils/**/*.{h,m}'
     s.exclude_files = 'ParseFacebookUtils/ParseFacebookUtils/ParseFacebookUtilsV4.h'
     s.ios.exclude_files = 'ParseFacebookUtils/ParseFacebookUtils/Internal/AuthenticationProvider/tvOS/**/*.{h,m}'
-    s.tvos.exclude_files = 'ParseFacebookUtils/ParseFacebookUtils/Internal/AuthenticationProvider/iOS/**/*.{h,m}'
+    # s.tvos.exclude_files = 'ParseFacebookUtils/ParseFacebookUtils/Internal/AuthenticationProvider/iOS/**/*.{h,m}'
   
     s.frameworks        = 'AudioToolbox',
                           'CFNetwork',
@@ -115,10 +115,10 @@ Pod::Spec.new do |s|
     s.libraries        = 'z', 'sqlite3'
 
     s.dependency 'Parse/Core'
-    s.dependency 'FBSDKCoreKit', '~> 4.28.0'
-    s.ios.dependency 'FBSDKLoginKit', '~> 4.28.0'
-    s.tvos.dependency 'FBSDKTVOSKit', '~> 4.28.0'
-    s.tvos.dependency 'FBSDKShareKit', '~> 4.28.0'
+    s.dependency 'FBSDKCoreKit', '~> 4.31.1'
+    s.ios.dependency 'FBSDKLoginKit', '~> 4.31.1'
+    # s.tvos.dependency 'FBSDKTVOSKit', '~> 4.28.0'
+    # s.tvos.dependency 'FBSDKShareKit', '~> 4.28.0'
   end
 
   s.subspec 'TwitterUtils' do |s|
