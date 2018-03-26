@@ -141,7 +141,7 @@ NS_REQUIRES_PROPERTY_DEFINITIONS
 
  @see -setObject:forKeyedSubscript:
  */
-- (void)setObject:(id)object forKey:(NSString *)key;
+- (void)setObject:(nullable id)object forKey:(NSString *)key;
 
 /**
  Unsets a key on the object.
@@ -176,7 +176,7 @@ NS_REQUIRES_PROPERTY_DEFINITIONS
 
  @see -setObject:forKey:
  */
-- (void)setObject:(id)object forKeyedSubscript:(NSString *)key;
+- (void)setObject:(nullable id)object forKeyedSubscript:(NSString *)key;
 
 /**
  Returns the instance of `PFRelation` class associated with the given key.

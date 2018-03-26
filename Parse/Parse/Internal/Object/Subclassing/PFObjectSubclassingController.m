@@ -256,11 +256,7 @@ static NSNumber *PFNumberCreateSafe(const char *typeEncoding, const void *bytes)
             dictionaryValue = PFNumberCreateSafe(argumentType, argumentValueBytes);
         }
 
-        if (dictionaryValue == nil) {
-            [sourceObject removeObjectForKey:propertyInfo.name];
-        } else {
-            sourceObject[propertyInfo.name] = dictionaryValue;
-        }
+        sourceObject[propertyInfo.name] = dictionaryValue;
     }
 }
 
