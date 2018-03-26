@@ -1548,8 +1548,7 @@ static void PFObjectAssertValueIsKindOfValidClass(id object) {
 ///--------------------------------------
 
 - (void)_setObject:(id)object forKey:(NSString *)key onlyIfDifferent:(BOOL)onlyIfDifferent {
-    PFParameterAssert(object != nil && key != nil,
-                      @"Can't use nil for keys or values on PFObject. Use NSNull for values.");
+    PFParameterAssert(key != nil, @"Can't use nil for keys on PFObject.");
     PFParameterAssert([key isKindOfClass:[NSString class]], @"PFObject keys must be NSStrings.");
 
     if (onlyIfDifferent) {
@@ -1561,13 +1560,21 @@ static void PFObjectAssertValueIsKindOfValidClass(id object) {
     }
 
     @synchronized (lock) {
-        if ([object isKindOfClass:[PFFieldOperation class]]) {
-            [self performOperation:object forKey:key];
-            return;
+        
+        PFFieldOperation *operation = nil;
+        
+        if (!object) {
+            operation = [[PFDeleteOperation alloc] init];
+            
+        } else if ([object isKindOfClass:[PFFieldOperation class]]) {
+            operation = object;
+            
+        } else {
+            PFObjectAssertValueIsKindOfValidClass(object);
+            operation = [PFSetOperation setWithValue:object];
         }
 
-        PFObjectAssertValueIsKindOfValidClass(object);
-        [self performOperation:[PFSetOperation setWithValue:object] forKey:key];
+        [self performOperation:operation forKey:key];
     }
 }
 
