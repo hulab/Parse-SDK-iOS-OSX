@@ -30,11 +30,11 @@ Pod::Spec.new do |s|
   s.subspec 'po' do |ss|
     ss.resources = 'po/*.po'
   end
-  
+
   s.subspec 'lproj' do |ss|
     ss.resources = 'ios/*.lproj'
   end
 
-  s.dependency 'POLocalizedString', '0.4.1'
+  s.dependency 'POLocalizedString', '1.1.1'
 
 end
