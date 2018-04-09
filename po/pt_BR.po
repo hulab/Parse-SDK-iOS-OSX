@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: VERSION\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-03-22 20:21+0000\n"
-"Last-Translator: Sebastien <sebastien@mapstr.com>\n"
-"Language-Team: Portuguese (Brazil) "
-"<https://translation.hulab.co/projects/mapstr/mapstr/pt_BR/>\n"
+"PO-Revision-Date: 2018-04-09 09:35+0000\n"
+"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
+"Language-Team: Portuguese (Brazil) <https://translation.hulab.co/projects/"
+"mapstr/mapstr/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1824,12 +1824,10 @@ msgstr "Descubra PODIUM!"
 #. Whats New Description
 msgid "Whats New Description"
 msgstr ""
-"Find out which are the most added places by your friends and the official "
-"accounts you follow"
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"
-msgstr "Try right away"
+msgstr ""
 
 #. Activated
 msgid "Activated"
