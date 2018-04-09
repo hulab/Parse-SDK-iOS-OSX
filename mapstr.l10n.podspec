@@ -25,18 +25,14 @@ Pod::Spec.new do |s|
   s.watchos.deployment_target = '2.0'
   s.swift_version = '3.2'
 
-  s.default_subspecs = 'mo', 'lproj'
-
-  s.subspec 'mo' do |ss|
-    ss.resources = 'po/*.mo'
-  end
-
-  s.subspec 'lproj' do |ss|
-    ss.resources = 'ios/*.lproj'
-  end
+  s.default_subspecs = 'po', 'lproj'
 
   s.subspec 'po' do |ss|
     ss.resources = 'po/*.po'
+  end
+  
+  s.subspec 'lproj' do |ss|
+    ss.resources = 'ios/*.lproj'
   end
 
   s.dependency 'POLocalizedString', '0.4.1'

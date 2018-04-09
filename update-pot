@@ -47,4 +47,4 @@ keywords="-kPOLocalizedString \
 -kPOLocalizedPluralFormatInBundle:2,3 \
 -kPOLocalizedPluralFormatFromContextInBundle:5c,2,3"
 
-find $src \( -iname "*.m" -o -iname "*.swift" -o -iname "*.java" \) -print0 | xargs -0 /usr/local/opt/gettext/bin/xgettext --no-location --join-existing --omit-header --language=ObjectiveC --language=Java --from-code=UTF-8 $keywords -o mapstr.pot
+find $src \( -iname "*.m" -o -iname "*.swift" -o -iname "*.java" \) -print0 | xargs -0 /usr/local/opt/gettext/bin/xgettext --no-location --join-existing --omit-header --language=ObjectiveC --language=Java --from-code=UTF-8 $keywords -o po/en.po
