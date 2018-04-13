@@ -2477,3 +2477,27 @@ msgstr "🗺 Your friends add new places"
 
 #~ msgid "Invite the friends you want to get recommendations from"
 #~ msgstr "Invite the friends you want to get recommendations from"
+
+msgid "Hey! @%s has shared the map of their favorite places! Check it out on Mapstr."
+msgstr "Hey! @%s has shared the map of their favorite places! Check it out on Mapstr."
+
+msgid "Hey! Check out my %s places! Join me on Mapstr, I'm @%s."
+msgstr "Hey! Check out my %s places! Join me on Mapstr, I'm @%s."
+
+msgid "Hey! I'd love to see the best places you've been to. Join me on Mapstr, I'm @%s."
+msgstr "Hey! I'd love to see the best places you've been to. Join me on Mapstr, I'm @%s."
+
+msgid "Hey! Look at the %u places %s has added to their map! Find it on Mapstr."
+msgstr "Hey! Look at the %u places %s has added to their map! Find it on Mapstr."
+
+msgid "Hey! Look at the %u places I've added to my map! Join me on Mapstr, I'm @%s."
+msgstr "Hey! Look at the %u places I've added to my map! Join me on Mapstr, I'm @%s."
+
+msgid "Hey! What are your favorite places around the world? @%s is sharing their map on Mapstr."
+msgstr "Hey! What are your favorite places around the world? @%s is sharing their map on Mapstr."
+
+msgid "Hey! What are your favorite places around the world? Mine are on Mapstr! Check out my map, I'm @%s."
+msgstr "Hey! What are your favorite places around the world? Mine are on Mapstr! Check out my map, I'm @%s."
+
+msgid "Hey! You should create a map of your favorite places and share it with me! Join me on Mapstr, I'm @%s."
+msgstr "Hey! You should create a map of your favorite places and share it with me! Join me on Mapstr, I'm @%s."
