@@ -1,18 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: Mapstr\n"
-"Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
-"POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-03-22 20:21+0000\n"
-"Last-Translator: Sebastien <sebastien@mapstr.com>\n"
-"Language-Team: French "
-"<https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.19.1\n"
+msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-04-13 17:37+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -2511,3 +2498,27 @@ msgstr "💈 Vous êtes à proximité d'un de vos lieux"
 
 msgid "🗺 Your friends add new places"
 msgstr "🗺 Vos amis ajoutent de nouvelles adresses"
+
+msgid "Hey! @%s has shared the map of their favorite places! Check it out on Mapstr."
+msgstr "Hey ! @%s a partagé la carte de ses adresses préférées ! Regarde-la dans Mapstr."
+
+msgid "Hey! Check out my %s places! Join me on Mapstr, I'm @%s."
+msgstr "Hey ! Jette un oeil à mes %s adresses ! Rejoins-moi sur Mapstr, je suis @%s dessus."
+
+msgid "Hey! I'd love to see the best places you've been to. Join me on Mapstr, I'm @%s."
+msgstr "Hey ! J'adorerai voir les meilleures adresses où tu es allé ! Rejoins moi sur Mapstr, j'y suis avec le nom @%s."
+
+msgid "Hey! Look at the %u places %s has added to their map! Find it on Mapstr."
+msgstr "Hey ! Regarde les %u adresses que %s a ajoutées à sa carte ! Elle est sur Mapstr."
+
+msgid "Hey! Look at the %u places I've added to my map! Join me on Mapstr, I'm @%s."
+msgstr "Hey ! Jette un oeil aux %u adresses que j'ai ajouté à ma carte ! Rejoins moi sur Mapstr, je suis @%s dessus."
+
+msgid "Hey! What are your favorite places around the world? @%s is sharing their map on Mapstr."
+msgstr "Hey ! Quelles sont tes adresses préférées dans le monde ? @%s partage sa carte sur Mapstr."
+
+msgid "Hey! What are your favorite places around the world? Mine are on Mapstr! Check out my map, I'm @%s."
+msgstr "Hey ! Quelles sont tes adresses préférées dans le monde ? Les miennes sont sur Mapstr ! Jette un oeil à ma carte, je suis @%s dessus."
+
+msgid "Hey! You should create a map of your favorite places and share it with me! Join me on Mapstr, I'm @%s."
+msgstr "Hey ! Tu devrais créer la carte de tes adresses préférées et la partager avec moi ! Rejoins-moi sur Mapstr, je suis @%s dessus."
