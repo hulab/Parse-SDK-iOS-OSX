@@ -1,18 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: VERSION\n"
-"Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
-"POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-04-09 09:35+0000\n"
-"Last-Translator: Maxime Epain <maxime@mapstr.com>\n"
-"Language-Team: Dutch <https://translation.hulab.co/projects/mapstr/mapstr/nl/"
-">\n"
-"Language: nl\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19.1\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-05-25 21:02+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: Dutch <https://translation.hulab.co/projects/mapstr/mapstr/nl/>\nLanguage: nl\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -20,7 +7,7 @@ msgstr "Toevoegen"
 
 #. Next
 msgid "Next"
-msgstr "Naast"
+msgstr "Volgende"
 
 #. Resend Invite
 msgid "Resend Invite"
@@ -1340,9 +1327,7 @@ msgstr "Voltooi uw profiel"
 msgid ""
 "Create unlimited tags\n"
 "to sort them easily."
-msgstr ""
-"Maak onbeperkte labels\n"
-"om gemakkelijk te sorteren."
+msgstr "Maak onbeperkt labels\nom gemakkelijk te sorteren."
 
 #. Done
 msgid "Done"
@@ -1979,7 +1964,7 @@ msgstr "Mis uitnodigingen van vrienden niet."
 
 #. Allow notifications
 msgid "Allow notifications"
-msgstr "Meldingen toestaane"
+msgstr "Meldingen toestaan"
 
 #. Be alerted when you receive a new invite or when a friend accepts yours.
 msgid ""
@@ -2491,7 +2476,7 @@ msgid "You can edit your preferences in your settings"
 msgstr "Je kunt je voorkeuren via de Instellingen bewerken"
 
 msgid "Allow push notifications"
-msgstr "Meldingen toestaane"
+msgstr "Meldingen toestaan"
 
 msgid "Be notified when you've got new invitations on Mapstr"
 msgstr "Ontvang een melding als je nieuwe uitnodigingen hebt op Mapstr"
