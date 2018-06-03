@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Mapstr\n"
 "Report-Msgid-Bugs-To: sebastien@mapstr.com\n"
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
-"PO-Revision-Date: 2018-03-22 20:21+0000\n"
+"PO-Revision-Date: 2018-06-03 19:30+0200\n"
 "Last-Translator: Sebastien <sebastien@mapstr.com>\n"
 "Language-Team: English <https://translation.hulab.co/projects/mapstr/mapstr/"
 "en/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19.1\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. Add
 msgid "Add"
@@ -2519,59 +2519,57 @@ msgstr ""
 "Join me on Mapstr, I'm @%s."
 
 msgid "%s wants you to check out %s's map!"
-msgstr ""
-
-msgid "WeChat Timeline"
-msgstr ""
-
-msgid "WeChat Session"
-msgstr ""
+msgstr "%s wants you to check out %s's map!"
 
 msgid ""
 "Do you have friends that always seem to know where to go? Invite them on "
 "Mapstr"
 msgstr ""
+"Do you have friends that always seem to know where to go? Invite them on "
+"Mapstr"
 
 msgid "Be notified when you've got a new friend on Mapstr!"
-msgstr ""
+msgstr "Be notified when you've got a new friend on Mapstr!"
 
 msgid "Don't miss out when you are nearby a place you like!"
-msgstr ""
+msgstr "Don't miss out when you are nearby a place you like!"
 
 msgid "Get notified when your friends add new places!"
-msgstr ""
+msgstr "Get notified when your friends add new places!"
 
 msgid "Share your map and get more friends!"
-msgstr ""
+msgstr "Share your map and get more friends!"
 
 msgid "Discover friends that are already waiting for you on Mapstr!"
-msgstr ""
+msgstr "Discover friends that are already waiting for you on Mapstr!"
 
 msgid "You've got some invitations on Mapstr!"
-msgstr ""
+msgstr "You've got some invitations on Mapstr!"
 
 msgid "Someone has not responded to your invite. Resend it!"
-msgstr ""
+msgstr "Someone has not responded to your invite. Resend it!"
 
 msgid ""
 "\\(self.friendName(relations.outgoingRequests)) has not responded to your "
 "invite. Resend it!"
 msgstr ""
+"\\(self.friendName(relations.outgoingRequests)) has not responded to your "
+"invite. Resend it!"
 
 msgid "Be alerted when a friend adds a new address"
-msgstr ""
+msgstr "Be alerted when a friend adds a new address"
 
 msgid "Be alerted when one of your favorite places is nearby"
-msgstr ""
+msgstr "Be alerted when one of your favorite places is nearby"
 
 msgid "Tap the bell on the place you want to be notified from"
-msgstr ""
+msgstr "Tap the bell on the place you want to be notified from"
 
 msgid "Longpress on a friend to activate the alerts"
-msgstr ""
+msgstr "Longpress on a friend to activate the alerts"
 
 msgid "Cool!"
-msgstr ""
+msgstr "Cool!"
 
 msgid "Tap here for more information"
-msgstr ""
+msgstr "Tap here for more information"
