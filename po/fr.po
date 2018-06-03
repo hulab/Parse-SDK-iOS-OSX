@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-04-13 19:20+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
+msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-06-03 17:34+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -2522,3 +2522,14 @@ msgstr "Hey ! Quelles sont tes adresses préférées dans le monde ? Les miennes
 
 msgid "Hey! You should create a map of your favorite places and share it with me! Join me on Mapstr, I'm @%s."
 msgstr "Hey ! Tu devrais créer la carte de tes adresses préférées et la partager avec moi ! Rejoins-moi sur Mapstr, je suis @%s dessus."
+
+msgid "%s wants you to check out %s's map!"
+msgstr "%s veut que tu jettes un oeil à la carte %s !"
+
+msgid ""
+"Do you have friends that always seem to know where to go? Invite them on "
+"Mapstr"
+msgstr "Tu as sûrement des amis qui savent toujours où aller ! Invite-les sur Mapstr"
+
+msgid "Be notified when you've got a new friend on Mapstr!"
+msgstr "Soyez notifié quand vous avez un nouvel ami sur Mapstr !"
