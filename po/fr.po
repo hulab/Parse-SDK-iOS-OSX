@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-06-03 17:34+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
+msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-06-04 11:13+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -2529,7 +2529,43 @@ msgstr "%s veut que tu jettes un oeil à la carte %s !"
 msgid ""
 "Do you have friends that always seem to know where to go? Invite them on "
 "Mapstr"
-msgstr "Tu as sûrement des amis qui savent toujours où aller ! Invite-les sur Mapstr"
+msgstr "Vous avez sûrement des amis qui savent toujours où aller ! Invitez-les sur Mapstr"
 
 msgid "Be notified when you've got a new friend on Mapstr!"
 msgstr "Soyez notifié quand vous avez un nouvel ami sur Mapstr !"
+
+msgid "Don't miss out when you are nearby a place you like!"
+msgstr "Ne passez plus près d'un de vos lieux préférés sans être averti !"
+
+msgid "Get notified when your friends add new places!"
+msgstr "Soyez notifié quand vos amis ajoutes de nouvelles adresses !"
+
+msgid "Share your map and get more friends!"
+msgstr "Partagez votre carte avec plus d'amis !"
+
+msgid "Discover friends that are already waiting for you on Mapstr!"
+msgstr "Découvrez vos amis qui vous attendent sur Mapstr !"
+
+msgid "You've got some invitations on Mapstr!"
+msgstr "Vous avez des invitations en attente sur Mapstr !"
+
+msgid "Someone has not responded to your invite. Resend it!"
+msgstr "Quelqu'un n'a pas répondu à votre invitation. Renvoyez la !"
+
+msgid "Be alerted when a friend adds a new address"
+msgstr "Soyez averti quand un ami ajoute une nouvelle adresse"
+
+msgid "Be alerted when one of your favorite places is nearby"
+msgstr "Soyez averti quand vous passez près d'un de vos lieux préférés"
+
+msgid "Tap the bell on the place you want to be notified from"
+msgstr "Appuyez sur la cloche du lieu pour lequel vous voulez être notifié"
+
+msgid "Longpress on a friend to activate the alerts"
+msgstr "Faites un appui long sur un ami pour activer les notifications"
+
+msgid "Cool!"
+msgstr "Cool !"
+
+msgid "Tap here for more information"
+msgstr "Appuyez ici pour plus d'informations"
