@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: 2017-12-18 10:53+0000\n"
 "PO-Revision-Date: 2018-03-22 20:21+0000\n"
 "Last-Translator: Sebastien <sebastien@mapstr.com>\n"
-"Language-Team: English "
-"<https://translation.hulab.co/projects/mapstr/mapstr/en/>\n"
+"Language-Team: English <https://translation.hulab.co/projects/mapstr/mapstr/"
+"en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2472,32 +2472,106 @@ msgstr "💈 You're nearby a place you like"
 msgid "🗺 Your friends add new places"
 msgstr "🗺 Your friends add new places"
 
-#~ msgid "Not to receive emails"
-#~ msgstr "Not to receive emails"
-
-#~ msgid "Invite the friends you want to get recommendations from"
-#~ msgstr "Invite the friends you want to get recommendations from"
-
-msgid "Hey! @%s has shared the map of their favorite places! Check it out on Mapstr."
-msgstr "Hey! @%s has shared the map of their favorite places! Check it out on Mapstr."
+msgid ""
+"Hey! @%s has shared the map of their favorite places! Check it out on Mapstr."
+msgstr ""
+"Hey! @%s has shared the map of their favorite places! Check it out on Mapstr."
 
 msgid "Hey! Check out my %s places! Join me on Mapstr, I'm @%s."
 msgstr "Hey! Check out my %s places! Join me on Mapstr, I'm @%s."
 
-msgid "Hey! I'd love to see the best places you've been to. Join me on Mapstr, I'm @%s."
-msgstr "Hey! I'd love to see the best places you've been to. Join me on Mapstr, I'm @%s."
+msgid ""
+"Hey! I'd love to see the best places you've been to. Join me on Mapstr, I'm @"
+"%s."
+msgstr ""
+"Hey! I'd love to see the best places you've been to. Join me on Mapstr, I'm @"
+"%s."
 
-msgid "Hey! Look at the %u places %s has added to their map! Find it on Mapstr."
-msgstr "Hey! Look at the %u places %s has added to their map! Find it on Mapstr."
+msgid ""
+"Hey! Look at the %u places %s has added to their map! Find it on Mapstr."
+msgstr ""
+"Hey! Look at the %u places %s has added to their map! Find it on Mapstr."
 
-msgid "Hey! Look at the %u places I've added to my map! Join me on Mapstr, I'm @%s."
-msgstr "Hey! Look at the %u places I've added to my map! Join me on Mapstr, I'm @%s."
+msgid ""
+"Hey! Look at the %u places I've added to my map! Join me on Mapstr, I'm @%s."
+msgstr ""
+"Hey! Look at the %u places I've added to my map! Join me on Mapstr, I'm @%s."
 
-msgid "Hey! What are your favorite places around the world? @%s is sharing their map on Mapstr."
-msgstr "Hey! What are your favorite places around the world? @%s is sharing their map on Mapstr."
+msgid ""
+"Hey! What are your favorite places around the world? @%s is sharing their "
+"map on Mapstr."
+msgstr ""
+"Hey! What are your favorite places around the world? @%s is sharing their "
+"map on Mapstr."
 
-msgid "Hey! What are your favorite places around the world? Mine are on Mapstr! Check out my map, I'm @%s."
-msgstr "Hey! What are your favorite places around the world? Mine are on Mapstr! Check out my map, I'm @%s."
+msgid ""
+"Hey! What are your favorite places around the world? Mine are on Mapstr! "
+"Check out my map, I'm @%s."
+msgstr ""
+"Hey! What are your favorite places around the world? Mine are on Mapstr! "
+"Check out my map, I'm @%s."
 
-msgid "Hey! You should create a map of your favorite places and share it with me! Join me on Mapstr, I'm @%s."
-msgstr "Hey! You should create a map of your favorite places and share it with me! Join me on Mapstr, I'm @%s."
+msgid ""
+"Hey! You should create a map of your favorite places and share it with me! "
+"Join me on Mapstr, I'm @%s."
+msgstr ""
+"Hey! You should create a map of your favorite places and share it with me! "
+"Join me on Mapstr, I'm @%s."
+
+msgid "%s wants you to check out %s's map!"
+msgstr ""
+
+msgid "WeChat Timeline"
+msgstr ""
+
+msgid "WeChat Session"
+msgstr ""
+
+msgid ""
+"Do you have friends that always seem to know where to go? Invite them on "
+"Mapstr"
+msgstr ""
+
+msgid "Be notified when you've got a new friend on Mapstr!"
+msgstr ""
+
+msgid "Don't miss out when you are nearby a place you like!"
+msgstr ""
+
+msgid "Get notified when your friends add new places!"
+msgstr ""
+
+msgid "Share your map and get more friends!"
+msgstr ""
+
+msgid "Discover friends that are already waiting for you on Mapstr!"
+msgstr ""
+
+msgid "You've got some invitations on Mapstr!"
+msgstr ""
+
+msgid "Someone has not responded to your invite. Resend it!"
+msgstr ""
+
+msgid ""
+"\\(self.friendName(relations.outgoingRequests)) has not responded to your "
+"invite. Resend it!"
+msgstr ""
+
+msgid "Be alerted when a friend adds a new address"
+msgstr ""
+
+msgid "Be alerted when one of your favorite places is nearby"
+msgstr ""
+
+msgid "Tap the bell on the place you want to be notified from"
+msgstr ""
+
+msgid "Longpress on a friend to activate the alerts"
+msgstr ""
+
+msgid "Cool!"
+msgstr ""
+
+msgid "Tap here for more information"
+msgstr ""
