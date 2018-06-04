@@ -2549,6 +2549,8 @@ msgstr "You've got some invitations on Mapstr!"
 msgid "Someone has not responded to your invite. Resend it!"
 msgstr "Someone has not responded to your invite. Resend it!"
 
+#. TRANSLATORS: the code part of the string will be replaced by a friend's firstname
+msgctxt "{= Friend's firstname} has not responded to your invite. Resend it!"
 msgid ""
 "\\(self.friendName(relations.outgoingRequests)) has not responded to your "
 "invite. Resend it!"
