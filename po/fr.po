@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-06-04 11:13+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
+msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-06-04 11:22+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -2569,3 +2569,10 @@ msgstr "Cool !"
 
 msgid "Tap here for more information"
 msgstr "Appuyez ici pour plus d'informations"
+
+#. TRANSLATORS: the code part of the string will be replaced by a friend's firstname
+msgctxt "{= Friend's firstname} has not responded to your invite. Resend it!"
+msgid ""
+"\\(self.friendName(relations.outgoingRequests)) has not responded to your "
+"invite. Resend it!"
+msgstr "\\(self.friendName(relations.outgoingRequests)) n'a pas répondu à votre invitation. Renvoyez-lui !"
