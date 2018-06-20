@@ -2598,7 +2598,7 @@ msgstr ""
 msgid "Discover the map"
 msgstr ""
 
-msgid "cancel"
+msgid "Skip"
 msgstr ""
 
 msgid "Discover %s's map!"
