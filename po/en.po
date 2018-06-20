@@ -2575,3 +2575,47 @@ msgstr "Cool!"
 
 msgid "Tap here for more information"
 msgstr "Tap here for more information"
+
+msgid "You're only following %s at the moment 🙈"
+msgstr ""
+
+msgid ""
+"Sign up to discover your friends’ favorite places and create your own map!"
+msgstr ""
+
+msgid "Discover more maps"
+msgstr ""
+
+msgid "Create your own map"
+msgstr ""
+
+msgid "Discover the map of %s"
+msgstr ""
+
+msgid "Now on Mapstr"
+msgstr ""
+
+msgid "Discover the map"
+msgstr ""
+
+msgid "cancel"
+msgstr ""
+
+msgid "Discover %s's map!"
+msgstr ""
+
+msgid "You should create your own map to be able to add places"
+msgstr ""
+
+msgid "Later"
+msgstr ""
+
+msgid "%s has not responded to your invite. Resend it!"
+msgstr ""
+
+msgid ""
+"Sign up to discover your friends' favorite places and create your own map!"
+msgstr ""
+
+msgid "Sign up"
+msgstr ""
