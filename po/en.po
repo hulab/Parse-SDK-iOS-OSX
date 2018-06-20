@@ -2600,9 +2600,6 @@ msgstr "Discover the map"
 msgid "Skip"
 msgstr "Skip"
 
-msgid "Discover %s's map!"
-msgstr "Discover %s's map!"
-
 msgid "You should create your own map to be able to add places"
 msgstr "You should create your own map to be able to add places"
 
@@ -2611,9 +2608,6 @@ msgstr "Later"
 
 msgid "%s has not responded to your invite. Resend it!"
 msgstr "%s has not responded to your invite. Resend it!"
-
-msgid "Sign up to discover your friends' favorite places and create your own map!"
-msgstr "Sign up to discover your friends' favorite places and create your own map!"
 
 msgid "Sign up"
 msgstr "Sign up"

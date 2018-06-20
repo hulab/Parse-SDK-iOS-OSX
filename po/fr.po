@@ -2601,9 +2601,6 @@ msgstr "Découvrir la carte"
 msgid "Skip"
 msgstr "Passer"
 
-msgid "Discover %s's map!"
-msgstr "Découvrir la carte de %s !"
-
 msgid "You should create your own map to be able to add places"
 msgstr "Vous devez créer votre carte pour pouvoir ajouter des lieux"
 
@@ -2612,9 +2609,6 @@ msgstr "Plus tard"
 
 msgid "%s has not responded to your invite. Resend it!"
 msgstr "%s n'a pas répondu à votre invitation. Renvoyez lui !"
-
-msgid "Sign up to discover your friends' favorite places and create your own map!"
-msgstr "Connectez-vous pour découvrir les meilleures adresses de vos amis et créer votre propre carte !"
 
 msgid "Sign up"
 msgstr "Me connecter"
