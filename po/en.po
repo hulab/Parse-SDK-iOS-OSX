@@ -2577,45 +2577,43 @@ msgid "Tap here for more information"
 msgstr "Tap here for more information"
 
 msgid "You're only following %s at the moment 🙈"
-msgstr ""
+msgstr "You're only following %s at the moment 🙈"
 
-msgid ""
-"Sign up to discover your friends’ favorite places and create your own map!"
-msgstr ""
+msgid "Sign up to discover your friends’ favorite places and create your own map!"
+msgstr "Sign up to discover your friends’ favorite places and create your own map!"
 
 msgid "Discover more maps"
-msgstr ""
+msgstr "Discover more maps"
 
 msgid "Create your own map"
-msgstr ""
+msgstr "Create your own map"
 
 msgid "Discover the map of %s"
-msgstr ""
+msgstr "Discover the map of %s"
 
 msgid "Now on Mapstr"
-msgstr ""
+msgstr "Now on Mapstr"
 
 msgid "Discover the map"
-msgstr ""
+msgstr "Discover the map"
 
 msgid "Skip"
-msgstr ""
+msgstr "Skip"
 
 msgid "Discover %s's map!"
-msgstr ""
+msgstr "Discover %s's map!"
 
 msgid "You should create your own map to be able to add places"
-msgstr ""
+msgstr "You should create your own map to be able to add places"
 
 msgid "Later"
-msgstr ""
+msgstr "Later"
 
 msgid "%s has not responded to your invite. Resend it!"
-msgstr ""
+msgstr "%s has not responded to your invite. Resend it!"
 
-msgid ""
-"Sign up to discover your friends' favorite places and create your own map!"
-msgstr ""
+msgid "Sign up to discover your friends' favorite places and create your own map!"
+msgstr "Sign up to discover your friends' favorite places and create your own map!"
 
 msgid "Sign up"
-msgstr ""
+msgstr "Sign up"
