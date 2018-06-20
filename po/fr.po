@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-06-20 13:06+0000\nLast-Translator: Arnaud Verdier <arnaud@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
+msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-06-20 13:08+0000\nLast-Translator: Arnaud Verdier <arnaud@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -2611,4 +2611,10 @@ msgid "Later"
 msgstr "Plus tard"
 
 msgid "%s has not responded to your invite. Resend it!"
-msgstr "%s n'a pas répondu à votre invitation. Renvoyez lui!"
+msgstr "%s n'a pas répondu à votre invitation. Renvoyez lui !"
+
+msgid "Sign up to discover your friends' favorite places and create your own map!"
+msgstr "Connectez-vous pour découvrir les meilleures adresses de vos amis et créer votre propre carte !"
+
+msgid "Sign up"
+msgstr "Me connecter"
