@@ -2579,8 +2579,10 @@ msgstr "Tap here for more information"
 msgid "You're only following %s at the moment 🙈"
 msgstr "You're only following %s at the moment 🙈"
 
-msgid "Sign up to discover your friends’ favorite places and create your own map!"
-msgstr "Sign up to discover your friends’ favorite places and create your own map!"
+msgid ""
+"Sign up to discover your friends' favorite places and create your own map!"
+msgstr ""
+"Sign up to discover your friends' favorite places and create your own map!"
 
 msgid "Discover more maps"
 msgstr "Discover more maps"

@@ -2580,7 +2580,7 @@ msgstr "\\(self.friendName(relations.outgoingRequests)) n'a pas répondu à votr
 msgid "You're only following %s at the moment 🙈"
 msgstr "Vous suivez seulement %s pour l'instant 🙈"
 
-msgid "Sign up to discover your friends’ favorite places and create your own map!"
+msgid "Sign up to discover your friends' favorite places and create your own map!"
 msgstr "Connectez-vous pour découvrir les meilleures adresses de vos amis et créer votre propre carte !"
 
 msgid "Discover more maps"
