@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-06-20 13:08+0000\nLast-Translator: Arnaud Verdier <arnaud@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
+msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-07-02 10:05+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -2612,3 +2612,18 @@ msgstr "%s n'a pas répondu à votre invitation. Renvoyez lui !"
 
 msgid "Sign up"
 msgstr "Me connecter"
+
+msgid "Friends' top places"
+msgstr "Top de mes amis"
+
+msgid "Add a place"
+msgstr "Ajouter une adresse"
+
+msgid "Not this place?"
+msgstr "Pas la bonne adresse ?"
+
+msgid "Choose in the list"
+msgstr "Choisissez-en une autre"
+
+msgid "Add a new place at your location"
+msgstr "Ajoutez directement votre position"
