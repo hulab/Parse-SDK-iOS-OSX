@@ -2601,6 +2601,7 @@ msgstr "%s has not responded to your invite. Resend it!"
 msgid "Sign up"
 msgstr "Sign up"
 
+#. TRANSLATORS: it has to be very short, indicating it's a top of the user's friends places, or the most popular places among his friends. If necessary we can omit the 'places' keyword as in French (top de mes amis)
 msgid "Friends' top places"
 msgstr "Friends' top places"
 
@@ -2610,8 +2611,9 @@ msgstr "Add a place"
 msgid "Not this place?"
 msgstr "Not this place?"
 
-msgid "Choose in the list"
+#. 'One' refers to a place (it comes after a "not this place?" question)
+msgid "Choose another one"
 msgstr "Choose another one"
 
-msgid "Add a new place at your location"
+msgid "Directly add your location"
 msgstr "Directly add your location"
