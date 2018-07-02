@@ -2613,3 +2613,18 @@ msgstr "%s has not responded to your invite. Resend it!"
 
 msgid "Sign up"
 msgstr "Sign up"
+
+msgid "Friends' top places"
+msgstr "Friends' top places"
+
+msgid "Add a place"
+msgstr "Add a place"
+
+msgid "Not this place?"
+msgstr "Not this place?"
+
+msgid "Choose in the list"
+msgstr "Choose in the list"
+
+msgid "Add a new place at your location"
+msgstr "Add a new place at your location"
