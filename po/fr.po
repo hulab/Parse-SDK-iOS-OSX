@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-07-02 10:05+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
+msgstr "Project-Id-Version: Mapstr\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2017-12-18 10:53+0000\nPO-Revision-Date: 2018-07-02 10:20+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -2621,3 +2621,10 @@ msgstr "Ajouter une adresse"
 
 msgid "Not this place?"
 msgstr "Pas la bonne adresse ?"
+
+#. 'One' refers to a place (it comes after a "not this place?" question)
+msgid "Choose another one"
+msgstr "Choisissez-en une autre"
+
+msgid "Directly add your location"
+msgstr "Ajoutez directement votre position"
