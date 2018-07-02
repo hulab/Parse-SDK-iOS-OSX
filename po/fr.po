@@ -2621,9 +2621,3 @@ msgstr "Ajouter une adresse"
 
 msgid "Not this place?"
 msgstr "Pas la bonne adresse ?"
-
-msgid "Choose in the list"
-msgstr "Choisissez-en une autre"
-
-msgid "Add a new place at your location"
-msgstr "Ajoutez directement votre position"
