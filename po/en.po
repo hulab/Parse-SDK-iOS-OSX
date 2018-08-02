@@ -56,7 +56,7 @@ msgid "Visible profile"
 msgstr "Visible profile"
 
 #. By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.
-#. 
+#.
 #. In both cases your map remains strictly private and is only accessible by your friends after you accept their invitation.
 msgid "By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n\nIn both cases your map remains strictly private and is only accessible by your friends after you accept their invitation."
 msgstr "By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n\nIn both cases your map remains strictly private and is only accessible by your friends after you accept their invitation."
@@ -1208,7 +1208,7 @@ msgid "Back to my Map"
 msgstr "Back to my Map"
 
 #. Place Sharing - Click the link to see all details in Mapstr, and save it to your map!
-#. 
+#.
 msgid "Click the link to see it in Mapstr, and save it to your map!"
 msgstr "Click the link to see it in Mapstr, and save it to your map!"
 
@@ -2382,3 +2382,39 @@ msgstr "Choose another one"
 msgid "Directly add your location"
 msgstr "Directly add your location"
 
+msgid "Your map is empty 🙈"
+msgstr "Your map is empty 🙈"
+
+msgid "Create a personal map full of your favorite places, and discover the best spots from your friends, influencers and publishers."
+msgstr "Create a personal map full of your favorite places, and discover the best spots from your friends, influencers and publishers."
+
+msgid "Add my first place"
+msgstr "Add my first place"
+
+msgid "Explore official maps"
+msgstr "Explore official maps"
+
+msgid "Get inspired by following public maps."
+msgstr "Get inspired by following public maps."
+
+msgid "Write something..."
+msgstr "Write something..."
+
+#, c-format
+#. TRANSLATORS: %i refers to the number of places to send (integer)
+msgid "Send %i place"
+msgid_plural "Send %i places"
+msgstr[0] "Send %i place"
+msgstr[1] "Send %i places"
+
+msgid "New chat"
+msgstr "New chat"
+
+msgid "Chats"
+msgstr "Chats"
+
+msgid "You can chat with friends who have Mapstr installed on their phone"
+msgstr "You can chat with friends who have Mapstr installed on their phone"
+
+msgid "Tap on the button below to start your first chat."
+msgstr "Tap on the button below to start your first chat."
