@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-07-05 08:27+0000\nPO-Revision-Date: 2018-08-02 14:48+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-07-05 08:27+0000\nPO-Revision-Date: 2018-08-02 14:50+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -2398,7 +2398,13 @@ msgstr[0] "Envoyer %i adresse"
 msgstr[1] "Envoyer %i addresses"
 
 msgid "New chat"
-msgstr "Nouveau message"
+msgstr "Nouvelle discussion"
 
 msgid "Chats"
 msgstr "Discussions"
+
+msgid "You can chat with friends who have Mapstr installed on their phone"
+msgstr "Vous pouvez discutez avec vos amis qui ont installé Mapstr sur leur téléphone"
+
+msgid "Tap on the button below to start your first chat."
+msgstr "Appuyez sur le bouton ci-dessous pour démarrer votre première discussion."
