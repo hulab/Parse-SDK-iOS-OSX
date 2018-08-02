@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-07-05 08:27+0000\n"
-"PO-Revision-Date: 2018-07-05 08:27+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-07-05 08:27+0000\nPO-Revision-Date: 2018-08-02 14:48+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -2382,3 +2372,33 @@ msgstr "Choisissez-en une autre"
 msgid "Directly add your location"
 msgstr "Ajoutez directement votre position"
 
+msgid "Your map is empty 🙈"
+msgstr "Votre carte est vide 🙈"
+
+msgid "Create a personal map full of your favorite places, and discover the best spots from your friends, influencers and publishers."
+msgstr "Créez votre carte personnelle avec toutes vos adresses préférées, et découvrez les meilleurs spots de vos amis, influenceurs ou institutions."
+
+msgid "Add my first place"
+msgstr "Ajoutez ma 1ère adresse"
+
+msgid "Explore official maps"
+msgstr "Découvrir des cartes officielles"
+
+msgid "Get inspired by following public maps."
+msgstr "Inspirez-vous en suivant des cartes publiques."
+
+msgid "Write something..."
+msgstr "Ecrivez quelque chose..."
+
+#. TRANSLATORS: %i refers to the number of places to send (integer)
+#, c-format
+msgid "Send %i place"
+msgid_plural "Send %i places"
+msgstr[0] "Envoyer %i adresse"
+msgstr[1] "Envoyer %i addresses"
+
+msgid "New chat"
+msgstr "Nouveau message"
+
+msgid "Chats"
+msgstr "Discussions"
