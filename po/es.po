@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-07-05 08:27+0000\n"
-"PO-Revision-Date: 2018-07-05 08:27+0000\n"
+"POT-Creation-Date: 2018-08-04 10:23+0000\n"
+"PO-Revision-Date: 2018-08-04 10:23+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: es\n"
@@ -10,6 +10,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Your map is empty 🙈"
+msgstr "Tu mapa está vacío 🙈"
+
+msgid "Create a personal map full of your favorite places, and discover the best spots from your friends, influencers and publishers."
+msgstr "Crea un mapa personal con todos tus lugares favoritos y descubre los mejores sitios de tus amigos, influencers y editores."
+
+msgid "Add my first place"
+msgstr "Añadir mi primer lugar"
+
+msgid "Explore official maps"
+msgstr "Explorar mapas oficiales"
+
+msgid "Get inspired by following public maps."
+msgstr "Inspírate con estos mapas públicos."
+
+msgid "Write something..."
+msgstr "Escribe algo..."
+
+#. TRANSLATORS: %i refers to the number of places to send (integer)
+#, c-format
+msgid "Send %i place"
+msgid_plural "Send %i places"
+msgstr[0] "Enviar %i lugar"
+msgstr[1] "Enviar %i lugares"
+
+msgid "New chat"
+msgstr "Nuevo chat"
+
+msgid "Chats"
+msgstr "Chats"
+
+msgid "You can chat with friends who have Mapstr installed on their phone"
+msgstr "Puedes chatear con tus amigos que tengan Mapstr instalado en su teléfono"
+
+msgid "Tap on the button below to start your first chat."
+msgstr "Toca el botón de abajo para iniciar tu primer chat."
 
 #. Add
 msgid "Add"
@@ -56,7 +93,6 @@ msgid "Visible profile"
 msgstr "Perfil visible"
 
 #. By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.
-#. 
 #. In both cases your map remains strictly private and is only accessible by your friends after you accept their invitation.
 msgid "By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n\nIn both cases your map remains strictly private and is only accessible by your friends after you accept their invitation."
 msgstr "De manera predeterminada, tu perfil aparecerá en los resultados de la búsqueda de amigos para que tus amigos puedan encontrarte. Si no quieres que esto suceda, puedes optar por no aparecer, y solo podrán encontrarte los usuarios que conozcan tu nombre de usuario.\n\nEn ambos casos, tu mapa seguirá siendo estrictamente confidencial y solo accesible a tus amigos una vez que aceptes su invitación."
@@ -1208,7 +1244,6 @@ msgid "Back to my Map"
 msgstr "Volver a mi Mapa"
 
 #. Place Sharing - Click the link to see all details in Mapstr, and save it to your map!
-#. 
 msgid "Click the link to see it in Mapstr, and save it to your map!"
 msgstr "¡Haz clic en el enlace para verlo en Mapstr y guárdalo en tu mapa!"
 
