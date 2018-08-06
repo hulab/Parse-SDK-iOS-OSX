@@ -2049,10 +2049,6 @@ msgstr "Damit wird es von %i deiner Orte entfernt. Dies kann nicht rückgängig 
 msgid "Please wait..."
 msgstr "Bitte warten..."
 
-#. Podium
-msgid "Podium"
-msgstr "Podest"
-
 #. Search this area
 msgid "Search this area"
 msgstr "In diesem Bereich suchen"

@@ -2049,10 +2049,6 @@ msgstr "Se eliminará de %i de tus lugares y es irreversible"
 msgid "Please wait..."
 msgstr "Espera..."
 
-#. Podium
-msgid "Podium"
-msgstr "Podio"
-
 #. Search this area
 msgid "Search this area"
 msgstr "Buscar esta zona"

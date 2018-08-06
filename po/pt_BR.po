@@ -2059,10 +2059,6 @@ msgstr "Isso irá remover %i de seus lugares e não pode ser desfeito"
 msgid "Please wait..."
 msgstr "Aguarde..."
 
-#. Podium
-msgid "Podium"
-msgstr "Pódio"
-
 #. Search this area
 msgid "Search this area"
 msgstr "Pesquisar esta área"

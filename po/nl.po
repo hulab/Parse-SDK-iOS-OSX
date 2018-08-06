@@ -2049,10 +2049,6 @@ msgstr "Dit zal het van %i van je plaatsen verwijderen en kan niet ongedaan word
 msgid "Please wait..."
 msgstr "Even wachten..."
 
-#. Podium
-msgid "Podium"
-msgstr "Podium"
-
 #. Search this area
 msgid "Search this area"
 msgstr "Zoek in dit gebied"

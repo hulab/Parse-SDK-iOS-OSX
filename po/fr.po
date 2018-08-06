@@ -2014,10 +2014,6 @@ msgstr "Cela va le supprimer de %i de vos lieux, et ne pourra pas être annulé"
 msgid "Please wait..."
 msgstr "Veuillez patienter..."
 
-#. Podium
-msgid "Podium"
-msgstr "Podium"
-
 #. Search this area
 msgid "Search this area"
 msgstr "Rechercher dans cette zone"
@@ -2357,7 +2353,7 @@ msgstr "Me connecter"
 
 #. TRANSLATORS: it has to be very short, indicating it's a top of the user's friends places, or the most popular places among his friends. If necessary we can omit the 'places' keyword as in French (top de mes amis)
 msgid "Friends' top places"
-msgstr "Top de mes amis"
+msgstr "Lieux les plus ajoutés"
 
 msgid "Add a place"
 msgstr "Ajouter une adresse"

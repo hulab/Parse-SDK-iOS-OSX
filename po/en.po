@@ -2024,10 +2024,6 @@ msgstr "This will remove it from %i of your places and cannot be undone"
 msgid "Please wait..."
 msgstr "Please wait..."
 
-#. Podium
-msgid "Podium"
-msgstr "Podium"
-
 #. Search this area
 msgid "Search this area"
 msgstr "Search this area"
