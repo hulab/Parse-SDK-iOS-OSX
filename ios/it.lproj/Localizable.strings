@@ -1,7 +1,7 @@
 /* Notification Body - Your friend {firstname} just joined Mapstr! */
 "NEW_FB_FRIEND_BODY" = "Il tuo amico %@ si è appena iscritto a Mapstr!";
 /* Notification Body - {firstname} just saved a new place on his map! */
-"NEW_SAVED_PLACE_BODY" = "%@ ha appena salvato un luogo nuovo sulla sua mappa!";
+"NEW_SAVED_PLACE_BODY" = "%@ ha appena salvato %@ sulla sua mappa!";
 /* Notification Title - New invite! */
 "NEW_INVITE_TITLE" = "Nuovo invito!";
 /* Notification Body - {firstname} has invited you on Mapstr. */
