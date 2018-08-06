@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-08-04 10:23+0000\n"
-"PO-Revision-Date: 2018-08-04 10:23+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-08-04 10:23+0000\nPO-Revision-Date: 2018-08-06 12:59+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: German <https://translation.hulab.co/projects/mapstr/mapstr/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2.20\n"
 
 msgid "Your map is empty 🙈"
 msgstr "Deine Karte ist leer 🙈"
@@ -24,7 +14,7 @@ msgid "Explore official maps"
 msgstr "Offizielle Karten erkunden"
 
 msgid "Get inspired by following public maps."
-msgstr "Inspiration durch diese öffentlichen Karten:"
+msgstr "Inspiration durch diese öffentlichen Karten."
 
 msgid "Write something..."
 msgstr "Schreib etwas ..."
@@ -813,7 +803,7 @@ msgstr "Ja, unbedingt"
 #. Alert message: You are connecting to an existing account, you are going to loose your current anonymous places.
 #. If you wish to keep them please cancel and create a new account
 msgid "You are connecting to an existing account, you are going to loose your current anonymous places.\nIf you wish to keep them please create a new account"
-msgstr "Wenn du dich mit einem vorhandenen Konto verbindest, dann verlierst du deine aktuellen anonymen Orte.\nWenn du sie behalten möchtest, dann erstelle bitte ein neues Konto."
+msgstr "Wenn du dich mit einem vorhandenen Konto verbindest, dann verlierst du deine aktuellen anonymen Orte.\nWenn du sie behalten möchtest, dann erstelle bitte ein neues Konto"
 
 #. Alert message: You cannot delete a tag if it is used in a place
 msgid "You cannot delete a tag used in a place"
@@ -1320,7 +1310,7 @@ msgstr "Anmelden"
 
 #. The 1st map-meets-notes app for users to save, see, share and send their favorite places
 msgid "The 1st map-meets-notes app for users to save, see, share and send their favorite places"
-msgstr "Dies ist die erste App, die Karten und Notizen verbindet. Nutzer können ihre Lieblingsorte speichern, sehen, teilen und verschicken."
+msgstr "Dies ist die erste App, die Karten und Notizen verbindet. Nutzer können ihre Lieblingsorte speichern, sehen, teilen und verschicken"
 
 #. Use without account
 msgid "Use without account"
@@ -1369,7 +1359,7 @@ msgstr "onboarding_tag_3"
 
 #. is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!
 msgid " is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!"
-msgstr " wartet auf dich bei Mapstr, der ersten App, die Karten und Notizen verbindet. Nutzer können ihre Lieblingsorte speichern, sehen, teilen und verschicken."
+msgstr " wartet auf dich bei Mapstr, der ersten App, die Karten und Notizen verbindet. Nutzer können ihre Lieblingsorte speichern, sehen, teilen und verschicken!"
 
 #. Accept
 msgid "Accept"
@@ -2170,7 +2160,7 @@ msgid "Friends you are watching"
 msgstr "Freunde, die beobachte werden"
 
 msgid "Get notifications when your friends add new places."
-msgstr "Lass dich benachrichtigen, wenn diese Freunde einen neuen Ort hinzufügen"
+msgstr "Lass dich benachrichtigen, wenn diese Freunde einen neuen Ort hinzufügen."
 
 msgid "Are you sure you want to definitely delete this account? All your data will be lost and won't be recoverable. You can just disconnect instead."
 msgstr "Deine Daten werden gelöscht und können nicht wiederhergestellt werden. Du kannst stattdessen einfach die Verbindung trennen."
@@ -2225,7 +2215,7 @@ msgid "Select a place below to add it to your map"
 msgstr "Wähle einen der folgenden Orte, um sie deiner Karte hinzuzufügen"
 
 msgid "Loading the most added places among your friends..."
-msgstr "Die am meisten hinzugefügten Orte deiner Freunde werden geladen"
+msgstr "Die am meisten hinzugefügten Orte deiner Freunde werden geladen..."
 
 msgid "Anyone here?!"
 msgstr "Irgendjemand hier?!"
@@ -2416,4 +2406,3 @@ msgstr "Wähle einen anderen"
 
 msgid "Directly add your location"
 msgstr "Füge deinen Standort direkt hinzu"
-
