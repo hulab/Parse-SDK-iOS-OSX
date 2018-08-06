@@ -1466,8 +1466,8 @@ msgstr "Desliza a la derecha y descubre si alguno de tus amigos ya está en Maps
 msgid "Unable to connect to your facebook account"
 msgstr "No se puede conectar a tu cuenta de Facebook"
 
-#. waiting...
-msgid "waiting..."
+#. pending...
+msgid "pending..."
 msgstr "Esperando..."
 
 #. Yes
@@ -1915,8 +1915,8 @@ msgid "Filter your places by their tags"
 msgstr "Filtra los lugares por sus etiquetas"
 
 #. Tips - Steal Place
-msgid "You can steal this place!"
-msgstr "¡Puedes robar este lugar!"
+msgid "You can grab this place!"
+msgstr "¡Puedes copiar este lugar!"
 
 #. Tips - Tap the add button below
 msgid "Open and tap the add button below"

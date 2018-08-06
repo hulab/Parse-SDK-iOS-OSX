@@ -46,7 +46,7 @@ msgid "Visible profile"
 msgstr "Profil visible"
 
 #. By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.
-#. 
+#.
 #. In both cases your map remains strictly private and is only accessible by your friends after you accept their invitation.
 msgid "By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n\nIn both cases your map remains strictly private and is only accessible by your friends after you accept their invitation."
 msgstr "Par défaut, votre profil apparaîtra dans les résultats de la recherche d'amis pour aider vos amis à vous trouver. Si vous ne préférez pas, vous pouvez choisir de ne pas être visible, et seuls les utilisateurs connaissant votre nom d'utilisateur exact pourront vous trouver.\n\nDans les deux cas, votre carte reste complètement privée et n'est accessible qu'aux amis dont vous avez accepté l'invitation."
@@ -1198,7 +1198,7 @@ msgid "Back to my Map"
 msgstr "Retour à ma Carte"
 
 #. Place Sharing - Click the link to see all details in Mapstr, and save it to your map!
-#. 
+#.
 msgid "Click the link to see it in Mapstr, and save it to your map!"
 msgstr "Clique sur le lien pour l'ouvrir dans Mapstr et l'enregistrer dans ta carte !"
 
@@ -1431,8 +1431,8 @@ msgstr "Balayez pour voir vos amis utilisant déjà Mapstr"
 msgid "Unable to connect to your facebook account"
 msgstr "Impossible de se connecter à votre compte Facebook"
 
-#. waiting...
-msgid "waiting..."
+#. pending...
+msgid "pending..."
 msgstr "en attente..."
 
 #. Yes
@@ -1879,9 +1879,9 @@ msgstr "Tapez ici pour commencer"
 msgid "Filter your places by their tags"
 msgstr "Filtrez vos adresses avec vos tags"
 
-#. Tips - Steal Place
-msgid "You can steal this place!"
-msgstr "Vous pouvez piquer cette adresse !"
+#. Tips - Grab Place
+msgid "You can grab this place!"
+msgstr "Vous pouvez copier cette adresse !"
 
 #. Tips - Tap the add button below
 msgid "Open and tap the add button below"

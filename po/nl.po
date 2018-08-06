@@ -1466,8 +1466,8 @@ msgstr "Veeg naar rechts en komt erachter of een van uw vrienden al op Mapstr zi
 msgid "Unable to connect to your facebook account"
 msgstr "Kan geen verbinding maken met uw Facebook-account"
 
-#. waiting...
-msgid "waiting..."
+#. pending...
+msgid "pending..."
 msgstr "wachten..."
 
 #. Yes
@@ -1914,9 +1914,9 @@ msgstr "Tik hier om te beginnen"
 msgid "Filter your places by their tags"
 msgstr "Filter je plaatsen via hun labels"
 
-#. Tips - Steal Place
-msgid "You can steal this place!"
-msgstr "Je kunt deze plaats stelen!"
+#. Tips - Grab Place
+msgid "You can grab this place!"
+msgstr "Je kunt deze plaats pakken!"
 
 #. Tips - Tap the add button below
 msgid "Open and tap the add button below"

@@ -1441,9 +1441,9 @@ msgstr "Swipe right and find if any of your friends is already on Mapstr"
 msgid "Unable to connect to your facebook account"
 msgstr "Unable to connect to your facebook account"
 
-#. waiting...
-msgid "waiting..."
-msgstr "waiting..."
+#. pending...
+msgid "pending..."
+msgstr "pending..."
 
 #. Yes
 msgid "Yes"
@@ -1889,9 +1889,9 @@ msgstr "Tap here to start"
 msgid "Filter your places by their tags"
 msgstr "Filter your places by their tags"
 
-#. Tips - Steal Place
-msgid "You can steal this place!"
-msgstr "You can steal this place!"
+#. Tips - Grab Place
+msgid "You can grab this place!"
+msgstr "You can grab this place!"
 
 #. Tips - Tap the add button below
 msgid "Open and tap the add button below"
