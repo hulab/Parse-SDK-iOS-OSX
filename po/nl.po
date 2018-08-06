@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-08-04 10:23+0000\n"
-"PO-Revision-Date: 2018-08-04 10:23+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: nl\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-08-04 10:23+0000\nPO-Revision-Date: 2018-08-06 12:59+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: Dutch <https://translation.hulab.co/projects/mapstr/mapstr/nl/>\nLanguage: nl\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2.20\n"
 
 msgid "Your map is empty 🙈"
 msgstr "Je kaart is leeg 🙈"
@@ -18,7 +8,7 @@ msgid "Create a personal map full of your favorite places, and discover the best
 msgstr "Maak een persoonlijke kaart aan met je favoriete locaties en ontdek de beste plekken via je vrienden, trendsetters en uitgevers."
 
 msgid "Add my first place"
-msgstr "1ste plaats toevoegen"
+msgstr "Mijn eerste plaats toevoegen"
 
 msgid "Explore official maps"
 msgstr "Officiële kaarten bekijken"
@@ -34,7 +24,7 @@ msgstr "Schrijf iets…"
 msgid "Send %i place"
 msgid_plural "Send %i places"
 msgstr[0] "%i plaats sturen"
-msgstr[1] "%1 plaatsen sturen"
+msgstr[1] "%i plaatsen sturen"
 
 msgid "New chat"
 msgstr "Nieuwe chat"
@@ -1688,7 +1678,7 @@ msgstr "Find out which are the most added places by your friends and the officia
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"
-msgstr "Try right away"
+msgstr "Probeer het meteen"
 
 #. Activated
 msgid "Activated"
@@ -2261,7 +2251,7 @@ msgid "News from Mapstr"
 msgstr "Nieuws van Mapstr"
 
 msgid "Receive a summary of your friends activities."
-msgstr "Ontvang een samenvatting van je vriendenactiviteiten"
+msgstr "Ontvang een samenvatting van je vriendenactiviteiten."
 
 msgid "Don't worry, we won't spam you, we don't have enough time to write useless emails."
 msgstr "Geen zorgen, we sturen geen spam - daar hebben we sowieso de tijd niet voor."
@@ -2318,7 +2308,7 @@ msgid "%s wants you to check out %s's map!"
 msgstr "%s will dat je de kaart van %s bekijkt!"
 
 msgid "Do you have friends that always seem to know where to go? Invite them on Mapstr"
-msgstr "Heb je vrienden die altijd alle beste locaties weten? Nodig ze uit voor Mapstr."
+msgstr "Heb je vrienden die altijd alle beste locaties weten? Nodig ze uit voor Mapstr"
 
 msgid "Be notified when you've got a new friend on Mapstr!"
 msgstr "Ontvang een melding als een vriend zich opgeeft voor Mapstr!"
@@ -2395,7 +2385,7 @@ msgid "Later"
 msgstr "Later"
 
 msgid "%s has not responded to your invite. Resend it!"
-msgstr "%s heeft niet gereageerd. Opnieuw verzenden."
+msgstr "%s heeft niet gereageerd. Opnieuw verzenden!"
 
 msgid "Sign up"
 msgstr "Aanmelden"
@@ -2416,4 +2406,3 @@ msgstr "Kies een andere"
 
 msgid "Directly add your location"
 msgstr "Je locatie direct toevoegen"
-
