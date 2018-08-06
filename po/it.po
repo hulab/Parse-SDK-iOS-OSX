@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-08-04 10:23+0000\n"
-"PO-Revision-Date: 2018-08-04 10:23+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: it\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-08-04 10:23+0000\nPO-Revision-Date: 2018-08-06 12:59+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: Italian <https://translation.hulab.co/projects/mapstr/mapstr/it/>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2.20\n"
 
 msgid "Your map is empty 🙈"
 msgstr "La tua mappa è vuota 🙈"
@@ -2170,7 +2160,7 @@ msgid "Friends you are watching"
 msgstr "Amici osservati"
 
 msgid "Get notifications when your friends add new places."
-msgstr "Ricevi una notifica quando questi amici aggiungono un nuovo luogo"
+msgstr "Ricevi una notifica quando questi amici aggiungono un nuovo luogo."
 
 msgid "Are you sure you want to definitely delete this account? All your data will be lost and won't be recoverable. You can just disconnect instead."
 msgstr "I tuoi dati verranno eliminati e non saranno recuperabili. Altrimenti puoi disconnetterti."
@@ -2318,7 +2308,7 @@ msgid "%s wants you to check out %s's map!"
 msgstr "%s vuole dare un'occhiata alla mappa di %s!"
 
 msgid "Do you have friends that always seem to know where to go? Invite them on Mapstr"
-msgstr "Hai amici che hanno sempre le idee chiare sulle loro destinazioni? Invitali su Mapstr!"
+msgstr "Hai amici che hanno sempre le idee chiare sulle loro destinazioni? Invitali su Mapstr"
 
 msgid "Be notified when you've got a new friend on Mapstr!"
 msgstr "Ricevi una notifica per ogni nuova amicizia su Mapstr!"
@@ -2416,4 +2406,3 @@ msgstr "Scegline un altro"
 
 msgid "Directly add your location"
 msgstr "Aggiungi direttamente la tua posizione"
-
