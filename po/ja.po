@@ -1465,10 +1465,6 @@ msgstr "右にスワイプして、Mapstrを使っている友だちを見つけ
 msgid "Unable to connect to your facebook account"
 msgstr "Facebookアカウントに接続できません"
 
-#. waiting...
-msgid "waiting..."
-msgstr "待っています…"
-
 #. Yes
 msgid "Yes"
 msgstr "はい"
@@ -1913,10 +1909,6 @@ msgstr "ここをタップして始めます"
 msgid "Filter your places by their tags"
 msgstr "タグで場所を選別します"
 
-#. Tips - Steal Place
-msgid "You can steal this place!"
-msgstr "この場所を盗むことができます！"
-
 #. Tips - Tap the add button below
 msgid "Open and tap the add button below"
 msgstr "開いて、下の「追加」ボタンをタップします"
@@ -2047,10 +2039,6 @@ msgstr "あなたの場所の%iから削除されます。この操作は元に�
 #. Please wait... - Export bezel loading
 msgid "Please wait..."
 msgstr "お待ちください…"
-
-#. Podium
-msgid "Podium"
-msgstr "表彰台"
 
 #. Search this area
 msgid "Search this area"
