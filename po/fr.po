@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-07-05 08:27+0000\n"
-"PO-Revision-Date: 2018-08-02 14:50+0000\n"
-"Last-Translator: Sebastien <sebastien@mapstr.com>\n"
-"Language-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-07-05 08:27+0000\nPO-Revision-Date: 2018-08-07 16:56+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
