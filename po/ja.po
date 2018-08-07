@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-08-07 10:27+0000\n"
-"PO-Revision-Date: 2018-08-07 10:27+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-08-07 10:27+0000\nPO-Revision-Date: 2018-08-07 10:56+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: Japanese <https://translation.hulab.co/projects/mapstr/mapstr/ja/>\nLanguage: ja\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 2.20\n"
 
 msgid "Your map is empty 🙈"
 msgstr "マップは空です 🙈"
@@ -1207,19 +1197,19 @@ msgstr "よくある質問"
 
 #. is waiting for you on mapstr!
 msgid " is waiting for you on mapstr!"
-msgstr "さんがmapstrであなたを待っています！"
+msgstr " さんがmapstrであなたを待っています！"
 
 #. shared:
 msgid " shared:"
-msgstr "共有："
+msgstr " 共有："
 
 #. wants to share this place with you!
 msgid " wants to share this place with you!"
-msgstr "さんがこの場所の共有をリクエストしています！"
+msgstr " さんがこの場所の共有をリクエストしています！"
 
 #. wants you to use Mapstr!
 msgid " wants you to use Mapstr!"
-msgstr "さんがMapstrの使用をリクエストしています！"
+msgstr " さんがMapstrの使用をリクエストしています！"
 
 #. A friend
 msgid "A friend"
@@ -1303,7 +1293,7 @@ msgstr "アップデートしてください"
 #. Onboarding - Save places you love,
 #. places to try, places from magazines, etc.
 msgid "Save places you love,\nplaces to try, places from magazines, etc."
-msgstr "大好きな場所、試したい場所、\n雑誌に載ってた場所などを保存。\n"
+msgstr "大好きな場所、試したい場所、\n雑誌に載ってた場所などを保存。"
 
 #. Sign in with e-mail
 msgid "Sign in with e-mail"
@@ -1368,7 +1358,7 @@ msgstr "オンボーディング_タグ_3"
 
 #. is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!
 msgid " is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!"
-msgstr "さんがmapstrであなたを待っています！お気に入りの場所を保存、閲覧、共有、送信できる初めてのノート機能付きマップアプリ！"
+msgstr " さんがmapstrであなたを待っています！お気に入りの場所を保存、閲覧、共有、送信できる初めてのノート機能付きマップアプリ！"
 
 #. Accept
 msgid "Accept"
@@ -1410,7 +1400,7 @@ msgstr "友だち"
 
 #. Invite email - Body
 msgid "Hey,\nI use Mapstr app to save all my favorite places in the world, tag them and share them... and I'd like to share them with you!\n Download Mapstr for free: "
-msgstr "こんにちは\n私は「Mapstr」アプリを使って、自分の世界中のお気に入りの場所を保存して、タグ付けしたり、共有したりしています…あなたともぜひ共有したいです！\nMapstrの無料ダウンロード："
+msgstr "こんにちは\n私は「Mapstr」アプリを使って、自分の世界中のお気に入りの場所を保存して、タグ付けしたり、共有したりしています…あなたともぜひ共有したいです！\nMapstrの無料ダウンロード： "
 
 #. Hey, add me on Mapstr! I'm @{alias}.
 #, c-format
@@ -2412,3 +2402,10 @@ msgstr "別の場所を選択"
 msgid "Directly add your location"
 msgstr "現在地に直接追加する"
 
+#. pending...
+msgid "pending..."
+msgstr "保留中..."
+
+#. Tips - Grab Place
+msgid "You can grab this place!"
+msgstr "あなたはこの場所をつかむことができます！"
