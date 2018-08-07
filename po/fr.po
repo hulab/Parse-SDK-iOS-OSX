@@ -2414,3 +2414,6 @@ msgstr "Vous pouvez discutez avec vos amis qui ont installé Mapstr sur leur té
 
 msgid "Tap on the button below to start your first chat."
 msgstr "Appuyez sur le bouton ci-dessous pour démarrer votre première discussion."
+
+msgid "Find the maps you follow here"
+msgstr "Retrouvez ici les cartes que vous suivez"
