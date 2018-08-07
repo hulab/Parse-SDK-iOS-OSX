@@ -2414,3 +2414,6 @@ msgstr "You can chat with friends who have Mapstr installed on their phone"
 
 msgid "Tap on the button below to start your first chat."
 msgstr "Tap on the button below to start your first chat."
+
+msgid "Find the maps you follow here"
+msgstr "Find the maps you follow here"
