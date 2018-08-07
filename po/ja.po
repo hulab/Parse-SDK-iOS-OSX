@@ -1,0 +1,2414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-08-07 10:27+0000\n"
+"PO-Revision-Date: 2018-08-07 10:27+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Your map is empty 🙈"
+msgstr "マップは空です 🙈"
+
+msgid "Create a personal map full of your favorite places, and discover the best spots from your friends, influencers and publishers."
+msgstr "お気に入りの場所を集めた自分だけのマップを作って、友だちやインフルエンサー、出版社のおすすめスポットを発見しよう。"
+
+msgid "Add my first place"
+msgstr "最初の場所を追加"
+
+msgid "Explore official maps"
+msgstr "公式マップを調べる"
+
+msgid "Get inspired by following public maps."
+msgstr "インスピレーションを発信する公式マップをフォローしよう 。"
+
+msgid "Write something..."
+msgstr "何か書いてください…"
+
+#. TRANSLATORS: %i refers to the number of places to send (integer)
+#, c-format
+msgid "Send %i place"
+msgid_plural "Send %i places"
+msgstr[0] "%i件の場所を送信"
+
+msgid "New chat"
+msgstr "新しいチャット"
+
+msgid "Chats"
+msgstr "チャット"
+
+msgid "You can chat with friends who have Mapstr installed on their phone"
+msgstr "スマホにMapstrをインストールしている友だちとチャットできます"
+
+msgid "Tap on the button below to start your first chat."
+msgstr "下のボタンをタップして、最初のチャットを始めます。"
+
+#. Add
+msgid "Add"
+msgstr "追加"
+
+#. Next
+msgid "Next"
+msgstr "次へ"
+
+#. Resend Invite
+msgid "Resend Invite"
+msgstr "招待状を再送信"
+
+#. Already on Mapstr!
+msgid "Already on Mapstr!"
+msgstr "すでにMapstr上にあります！"
+
+#. Add your friends and discover their favorite places.
+msgid "Add your friends and discover their favorite places."
+msgstr "友だちを追加して友だちのお気に入りの場所を発見しよう。"
+
+#. Account visibility
+msgid "Account visibility"
+msgstr "アカウントの可視性"
+
+#. Do you also want to disable nearby alerts for every existing places with this tag?
+msgid "Do you also want to disable nearby alerts for every existing places with this tag?"
+msgstr "このタグが付いている既存の場所の周辺アラートもすべて無効にしますか？"
+
+#. Disable nearby alerts for this tag
+msgid "Disable nearby alerts for this tag"
+msgstr "このタグの周辺アラートを無効にする"
+
+#. Enable nearby alerts for this tag
+msgid "Enable nearby alerts for this tag"
+msgstr "このタグの周辺アラートを有効にする"
+
+#. Following
+msgid "Following"
+msgstr "フォローする"
+
+#. Visible profile
+msgid "Visible profile"
+msgstr "プロフィールの表示"
+
+#. By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.
+#. In both cases your map remains strictly private and is only accessible by your friends after you accept their invitation.
+msgid "By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n\nIn both cases your map remains strictly private and is only accessible by your friends after you accept their invitation."
+msgstr "デフォルトでは、友だちがあなたを見つけられるように、友だちの検索結果にあなたのプロフィールが表示されます。表示したくない場合は、非表示にすることができ、あなたのユーザー名を知っている人だけがあなたを見つけることができます。\n\nどちらの場合も、あなたのマップは完全に非公開で、あなたが招待を承認した友だちだけがアクセスできます。"
+
+#. Type the name or username of the person you are looking for...
+msgid "Type the name or username of the person you are looking for..."
+msgstr "探している人の名前またはユーザー名を入力してください…"
+
+#. Place Sharing - in {CityName}
+#, c-format
+msgid " in %s."
+msgstr " in %s。"
+
+#. {distance} from location
+#, c-format
+msgid "%s from location"
+msgstr "現在地から%s"
+
+#. No Places - {Username} has no places yet
+#, c-format
+msgid "%s has no places yet"
+msgstr "%sさんにはまだ場所がありません"
+
+#, c-format
+msgid "%s Share"
+msgstr "%s共有"
+
+#. Account Details
+msgid "Account Details"
+msgstr "アカウントの詳細"
+
+#. Active
+msgid "Active"
+msgstr "有効"
+
+#. Add a friend
+msgid "Add a friend"
+msgstr "友だちを追加"
+
+#. Add an account
+msgid "Add an account"
+msgstr "アカウントを追加"
+
+#. Add place address
+msgid "Add place address"
+msgstr "場所の住所を追加"
+
+#. Add place name
+msgid "Add place name"
+msgstr "場所の名前を追加"
+
+#. Screen Title: New place
+msgid "New place"
+msgstr "新しい場所"
+
+#. The place is always open
+msgid "Always Open"
+msgstr "常にオープン"
+
+#. An error occured, please try again later
+msgid "An error occured, please try again later"
+msgstr "エラーが発生しました。後でもう一度お試しください"
+
+#. Analyzing...
+msgid "Analyzing..."
+msgstr "分析中…"
+
+msgid "Are you sure?"
+msgstr "本当にいいですか？"
+
+#. Reset
+msgid "Reset"
+msgstr "リセット"
+
+#. Reset your password?
+msgid "Reset your password?"
+msgstr "パスワードをリセットしますか？"
+
+#. Around there
+msgid "Around there"
+msgstr "その周辺"
+
+#. Around you
+msgid "Around you"
+msgstr "あなたの周辺"
+
+#. Select Place - Section header: AT LOCATION
+msgid "AT LOCATION"
+msgstr "位置情報で"
+
+#. At this address
+msgid "At this address"
+msgstr "この住所で"
+
+#. At this place
+msgid "At this place"
+msgstr "この場所で"
+
+#. Call
+msgid "Call"
+msgstr "電話する"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. No comment provided by engineer
+msgid "Cellular"
+msgstr "セルラー"
+
+#. Action Sheet: Change tag's color
+msgid "Change tag's color"
+msgstr "タグの色を変更"
+
+#. Action Sheet: Change tag's name
+msgid "Change tag's name"
+msgstr "タグ名を変更"
+
+#. Place Sharing - Check out {place name}
+#, c-format
+msgid "Check out %s"
+msgstr "%sをチェック"
+
+#. Completed
+msgid "Completed"
+msgstr "完了"
+
+#. Confirm password
+msgid "Confirm password"
+msgstr "パスワードを確認"
+
+#. Contacts
+msgid "Contacts"
+msgstr "連絡先"
+
+#. Alert message: Continue
+msgid "Continue"
+msgstr "続行"
+
+#. Add a new Place - Section header: Create a custom place
+msgid "Create a custom place"
+msgstr "カスタム場所を作成"
+
+#. Create a new tag
+msgid "Create a new tag"
+msgstr "新規タグを作成"
+
+#. Create the place
+msgid "Create the place"
+msgstr "場所を作成"
+
+#. Indicates that the place is currently close
+msgid "Currently Closed"
+msgstr "現在クローズ"
+
+#. Indicates that the place is currently opened
+msgid "Currently Open"
+msgstr "現在オープン"
+
+#. Custom place
+msgid "Custom place"
+msgstr "カスタム場所"
+
+#. Delete
+msgid "Delete"
+msgstr "削除"
+
+#. Action sheet: Delete Place
+msgid "Delete Place"
+msgstr "場所を削除"
+
+#. Action Sheet: delete tag
+msgid "Delete tag"
+msgstr "タグを削除"
+
+#. Delete this photo?
+msgid "Delete this photo?"
+msgstr "この写真を削除しますか？"
+
+#. To disconnect
+msgid "Disconnect"
+msgstr "切断"
+
+#. Facebook login error - Disconnected account
+msgid "Disconnected account"
+msgstr "切断されたアカウント"
+
+#. Disconnecting...
+msgid "Disconnecting..."
+msgstr "切断中…"
+
+#. Do you really want to disconnect from this account?
+msgid "Do you really want to disconnect from this account?"
+msgstr "このアカウントから切断しますか？"
+
+#. Edit
+msgid "Edit"
+msgstr "編集"
+
+#. Alert message: Could not signup, e-mail already taken
+msgid "E-mail address already used, please provide another e-mail or login"
+msgstr "このメールアドレスはすでに使用されています。別のメールアドレスを使用するか、ログインしてください"
+
+#. E-mail not found
+msgid "E-mail not found"
+msgstr "メールアドレスが見つかりません"
+
+#. E-mail sent!
+msgid "E-mail sent!"
+msgstr "メールを送信しました！"
+
+#. Error
+msgid "Error"
+msgstr "エラー"
+
+#. Existing email
+msgid "Existing email"
+msgstr "既存のメールアドレス"
+
+#. Facebook
+msgid "Facebook"
+msgstr "Facebook"
+
+#. First name
+msgid "First name"
+msgstr "名"
+
+#. Food & Drink
+msgid "Food & Drink"
+msgstr "フード＆ドリンク"
+
+#. Fun
+msgid "Fun"
+msgstr "楽しみ"
+
+#. General settings
+msgid "General settings"
+msgstr "一般設定"
+
+#. Launch Screen - Get Started
+msgid "Get Started"
+msgstr "始める"
+
+#. Happy with Mapstr
+msgid "Happy with Mapstr?"
+msgstr "Mapstrに満足していますか？"
+
+#. Screen Title: Help
+msgid "Help"
+msgstr "ヘルプ"
+
+#. Hey do you like Mapstr?
+msgid "Hey do you like Mapstr?"
+msgstr "私たちは常に改善を目指しており、ユーザーの方々がMapstrをどう思っているかぜひ知りたいと思っています。\nMapstrに満足いただいてますか？"
+
+#. Contact email - Subject
+msgid "Hey Mapstr!"
+msgstr "Mapstr！"
+
+#. Hey Mapstr, you couldn't read this file!
+msgid "Hey Mapstr, you couldn't read this file!"
+msgstr "Mapstr、このファイルが読み込まれませんでした！"
+
+#. Onboarding - I'm sure!
+msgid "I'm sure!"
+msgstr "もちろん！"
+
+#. Identifying...
+msgid "Identifying..."
+msgstr "確認中…"
+
+#. It's a 6 letters password. Do you want to receive an email with a link to reset it?
+msgid "It's a 6 letters password.\nDo you want to receive an email with a link to reset it?"
+msgstr "6文字のパスワードです。\nパスワードリセットのリンクをメールで受け取りますか？"
+
+#. Import
+msgid "Import"
+msgstr "インポート"
+
+#. Import Place
+msgid "Import Place"
+msgstr "場所をインポート"
+
+#. Inactive
+msgid "Inactive"
+msgstr "無効"
+
+#. Invalid file
+msgid "Invalid file"
+msgstr "無効なファイル"
+
+#. Invalid password
+msgid "Invalid password"
+msgstr "無効なパスワード"
+
+#. Facebook login error - It seems your account is disconnected. We'll try to reconnect.
+msgid "It seems your account is disconnected. We'll try to reconnect."
+msgstr "アカウントは切断されているようです。再接続を試みてみます。"
+
+#. Last name
+msgid "Last name"
+msgstr "姓"
+
+#. Links with external apps
+msgid "Links with external apps"
+msgstr "外部アプリとのリンク"
+
+#. Loading...
+msgid "Loading..."
+msgstr "読み込み中…"
+
+#. The text indicating the local time for the selected place
+msgid "Local time:"
+msgstr "現地時間："
+
+#. Device location unavailable
+msgid "Location unavailable"
+msgstr "位置情報が利用できません"
+
+#. Alert message: Login
+msgid "Login"
+msgstr "ログイン"
+
+#. Looking around...
+msgid "Looking around..."
+msgstr "周辺を探しています…"
+
+#. Device camera unavailable
+msgid "Mapstr was not able to access the camera!"
+msgstr "Mapstrがカメラにアクセスできませんでした！"
+
+#. Device location unavailable - location not determined
+msgid "Mapstr was not able to find your location... We're so sorry! Please try again later!"
+msgstr "Mapstrはあなたの現在地を特定できません…申し訳ありません！後でもう一度お試しください！"
+
+#. Maybe later
+msgid "Maybe later"
+msgstr "たぶん後で"
+
+#. Screen Title: Modify place
+msgid "Modify place"
+msgstr "場所を修正する"
+
+#. Current user map name
+msgid "My Map"
+msgstr "マイマップ"
+
+#. Nature
+msgid "Nature"
+msgstr "自然"
+
+#. Screen Title: Navigation
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#. Near
+msgid "Near"
+msgstr "近く"
+
+#. Need some help?
+msgid "Need some help?"
+msgstr "ヘルプが必要ですか？"
+
+#. Network error
+msgid "Network error"
+msgstr "ネットワークエラー"
+
+#. NEW
+msgid "NEW"
+msgstr "新"
+
+msgid "No Connection"
+msgstr "接続なし"
+
+#. More search results: No more results
+msgid "No more results"
+msgstr "その他の結果はありません"
+
+#. Alert message: No tags selected
+msgid "No tags selected"
+msgstr "選択されているタグはありません"
+
+#. No thanks
+msgid "No thanks"
+msgstr "いいえ、結構です"
+
+#. Nobody here?
+msgid "Nobody here?"
+msgstr "ここには誰もいませんか？"
+
+#. Not now
+msgid "Not now"
+msgstr "今はしない"
+
+#. Not that much
+msgid "Not that much"
+msgstr "それほどではない"
+
+#. Official photos cannot be removed. We're sorry for that.
+msgid "Official photos cannot be removed. We're sorry for that."
+msgstr "公式写真は削除できません。申し訳ありません。"
+
+#. OK
+msgid "OK"
+msgstr "OK"
+
+#. Ok, let's do it!
+msgid "Ok, let's do it!"
+msgstr "Ok、やりましょう！"
+
+#. Ooooops, something went wrong
+msgid "Ooooops, something went wrong"
+msgstr "おっと、問題が発生しました"
+
+#. Oops
+msgid "Oops"
+msgstr "おっと"
+
+msgid "Open in Safari"
+msgstr "Safariで開く"
+
+#. Operation not allowed
+msgid "Operation not allowed"
+msgstr "操作は許可されていません"
+
+#. Other
+msgid "Other"
+msgstr "その他"
+
+#. Password (6 letters min.)
+msgid "Password (6 letters min.)"
+msgstr "パスワード（6文字以上）"
+
+#. Photo Error
+msgid "Photo Error"
+msgstr "写真のエラー"
+
+#. Photo scan
+msgid "Photo scan"
+msgstr "写真のスキャン"
+
+#. Select Place - Section header: PLACES AROUND
+msgid "PLACES AROUND"
+msgstr "周辺の場所"
+
+#. Please, check your emails to reset your password
+msgid "Please, check your emails to reset your password"
+msgstr "メールを確認してパスワードをリセットしてください。"
+
+#. Please, connect to your Foursquare account and allow Mapstr to import your places
+msgid "Please, connect to your Foursquare account and allow Mapstr to import your places"
+msgstr "Foursquareのアカウントに接続して、Mapstrに場所のインポートを許可してください"
+
+#. Please, enter your password to connect to this account.
+msgid "Please, enter your password to connect to this account."
+msgstr "パスワードを入力して、このアカウントに接続してください"
+
+#. More search results: Pull up to load more
+msgid "Pull up to load more"
+msgstr "プルアップしてさらに読み込む"
+
+#. Tag drawer - Release to select all tags
+msgid "Release to select all"
+msgstr "リリースしてすべて選択"
+
+#. Tag drawer - Release to change sort of tags
+msgid "Release to change sort"
+msgstr "リリースして表示順を変更"
+
+#. Remove
+msgid "Remove"
+msgstr "削除"
+
+#. Retrieving place details...
+msgid "Retrieving place details..."
+msgstr "場所の詳細を取得中..."
+
+#. Go
+msgid "Go"
+msgstr "進む"
+
+#. Save
+msgid "Save"
+msgstr "保存"
+
+#. Saved
+msgid "Saved"
+msgstr "保存済み"
+
+#. Saving...
+msgid "Saving..."
+msgstr "保存中…"
+
+#. Searchbar placeholder - Search
+msgid "Search"
+msgstr "検索"
+
+#. Searching...
+msgid "Searching..."
+msgstr "検索中…"
+
+#. Select an image from the Library
+msgid "Select an image from the Library"
+msgstr "ライブラリから画像を選択"
+
+#. Screen Title: Select Place
+msgid "Select your place"
+msgstr "場所を選択してください"
+
+#. Send
+msgid "Send"
+msgstr "送信"
+
+#. Services
+msgid "Services"
+msgstr "サービス"
+
+#. Screen Title: Settings
+msgid "Settings"
+msgstr "設定"
+
+#. Alert button title: Share
+msgid "Share"
+msgstr "共有"
+
+#. Shared with friends
+msgid "Shared with friends"
+msgstr "友だちと共有"
+
+#. Default tag: Shopping
+msgid "Shopping"
+msgstr "ショッピング"
+
+#. Alert message: Show the already existing place
+msgid "Show it"
+msgstr "表示する"
+
+#. Sign up / Log in
+msgid "Sign up / Log in"
+msgstr "サインアップ/ログイン"
+
+#. Onboarding - skip
+msgid "skip"
+msgstr "スキップ"
+
+#. Sport
+msgid "Sport"
+msgstr "スポーツ"
+
+#. Success!
+msgid "Success!"
+msgstr "成功！"
+
+#. Syncing...
+msgid "Syncing..."
+msgstr "同期中..."
+
+#. Tag name
+msgid "Tag name"
+msgstr "タグ名"
+
+#. Take a photo
+msgid "Take a photo"
+msgstr "写真を撮る"
+
+#. Thank You!
+msgid "Thank You!"
+msgstr "ありがとうございます！"
+
+#. Thank You! That means a lot, and we'll do our best to keep it that way! If you have a minute, it would be great if you could rate us on the App Store...
+msgid "Thank You! That means a lot, and we'll do our best to keep it that way! If you have a minute, it would be great if you could rate us on the App Store..."
+msgstr "私たちにとってとても重要です。維持するように全力を尽くします！お時間があれば、App Storeでの評価にぜひご協力ください…"
+
+#. Contact email - Thank you Title
+msgid "Thanks for your feedback!"
+msgstr "フィードバックをありがとうございます！"
+
+#. The place {place name} has been successfully imported into your map.
+#, c-format
+msgid "The place %s has been successfully imported into your map."
+msgstr "場所「%s」がマップにインポートされました。"
+
+#. The tag "{tag name}" already exists
+msgid "The tag \\\"%s\\\" already exists!"
+msgstr "タグ「%s」はすでに存在しています！"
+
+#. This email is already linked to another account!
+msgid "This email is already linked to another account!"
+msgstr "このメールアドレスは、すでに別のアカウントにリンクされています！"
+
+#. This email isn't linked to any account. Please enter a valid email.
+msgid "This email isn't linked to any account. Please enter a valid email."
+msgstr "このメールアドレスはどのアカウントにもリンクされていません。有効なメールアドレスを入力してください。"
+
+#. This place does not exist!
+msgid "This place does not exist!"
+msgstr "この場所は存在していません！"
+
+#. This place is already on your map!
+msgid "This place is already on your map!"
+msgstr "この場所はすでにマップ上にあります！"
+
+#. Default tag: To try
+msgid "To try"
+msgstr "試す"
+
+#. Alert message: Try again
+msgid "Try again"
+msgstr "もう一度お試しください"
+
+#. Name or Address
+msgid "Name or Address"
+msgstr "名前または住所"
+
+#. Add the name or address of the place you're looking for...
+msgid "Add the name or address of the place you're looking for..."
+msgstr "探している場所の名前または住所を追加してください…"
+
+#. Add your friends, share your map with them, and discover their world!
+msgid "Add your friends, share your map with them, and discover their world!"
+msgstr "友だちを追加してマップを共有し、友だちの世界を発見しよう！"
+
+#. Update
+msgid "Update"
+msgstr "アップデート"
+
+#. Uploading photo(s)...
+msgid "Uploading photo(s)..."
+msgstr "写真をアップロード中…"
+
+#. Utilities
+msgid "Utilities"
+msgstr "公共施設"
+
+#. Want to contact us?
+msgid "Want to contact us?"
+msgstr "お問い合わせですか？"
+
+#. Alert message: Warning Title
+msgid "Warning"
+msgstr "警告"
+
+#. Alert message: Google - Could not find any place with the address in autocomplete
+msgid "We couldn't understand this address. Please, try to take a clearer picture..."
+msgstr "この住所を理解できませんでした。もっとクリアな写真を撮ってください…"
+
+#. Alert message: OCR - No address found in text
+msgid "We couln't recognize this address. Please, try to take a clearer picture..."
+msgstr "この住所を認識できませんでした。もっとクリアな写真を撮ってください…"
+
+#. We haven't met yet!
+#. Please, tell more about you.
+msgid "We haven't met yet!\nPlease, tell more about you."
+msgstr "初めてお会いしましたね！\nあなたのことをもっと教えてください。"
+
+#. We really want to know what you think about mapstr!
+msgid "We really want to know what you think about mapstr!"
+msgstr "Mapstrについてどう思っているかぜひ教えてください！"
+
+msgid "We were not able to connect to our server. Please try again later..."
+msgstr "サーバーに接続できませんでした。後でもう一度お試しください…"
+
+#. Alert message: Google - Could not geocode the address
+msgid "We were not able to locate this place on the map. We're sorry!"
+msgstr "この場所をマップ上で特定することができませんでした。申し訳ありません！"
+
+#. We were not able to read this file. Please, send it to us, so that we can improve our import tool.
+msgid "We were not able to read this file. Please, send it to us, so that we can improve our import tool."
+msgstr "このファイルを読み取れませんでした。インポートツールの改善に役立てるために、ファイルを当社までお送りください。"
+
+#. We were not able to save your photo, we're sorry for that. Please, try again later!
+msgid "We were not able to save your photo, we're sorry for that. Please, try again later!"
+msgstr "写真を保存することができませんでした。申し訳ありません！後でもう一度お試しください。"
+
+#. We'll be happy to answer all your questions or suggestions!
+msgid "We'll be happy to answer all your questions or suggestions!"
+msgstr "すべてのご質問とご意見に喜んでお答えします！"
+
+#. Contact email - Thank you message
+msgid "We'll get back to you as soon as we can :)"
+msgstr "できるだけ早くご連絡します"
+
+#. We're so sorry to hear that!
+#. Please, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike...
+msgid "We're so sorry to hear that!\nPlease, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike..."
+msgstr "それは大変残念です！\nMapstrを改善するにはどうすればよいか、またはあなたが不満に思う点を教えてください…"
+
+#. We're sorry, but it seems an error occured! Please try again later...
+msgid "We're sorry, but it seems an error occured! Please try again later..."
+msgstr "申し訳ありませんが、エラーが発生したようです。後でもう一度お試しください…"
+
+#. We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore.
+msgid "We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore."
+msgstr "申し訳ありませんが、この場所はオーナーが削除したため、アクセスすることができません。"
+
+#. Website
+msgid "Website"
+msgstr "ウェブサイト"
+
+msgid "WiFi"
+msgstr "WiFi"
+
+#. Write a comment if you want to...
+msgid "Write a comment if you want to..."
+msgstr "コメントを書こう…"
+
+#. Wrong password, try again
+msgid "Wrong password, try again"
+msgstr "パスワードが誤っています。もう一度お試しください"
+
+#. Import Invite - Yes
+msgid "Yes!"
+msgstr "はい！"
+
+#. Yes, I really do
+msgid "Yes, I really do"
+msgstr "はい、そうです"
+
+#. Alert message: You are connecting to an existing account, you are going to loose your current anonymous places.
+#. If you wish to keep them please cancel and create a new account
+msgid "You are connecting to an existing account, you are going to loose your current anonymous places.\nIf you wish to keep them please create a new account"
+msgstr "あなたは既存のアカウントに接続しており、現在の無名の場所は失われます。\nこれらの場所を保存する場合は、新しいアカウントを作成してください"
+
+#. Alert message: You cannot delete a tag if it is used in a place
+msgid "You cannot delete a tag used in a place"
+msgstr "場所に使用しているタグは削除できません"
+
+#. You have no friends yet
+msgid "You have no friends yet"
+msgstr "友だちはまだいません"
+
+#. No Places - You have no places yet
+msgid "You have no places yet"
+msgstr "場所はまだありません"
+
+#. You haven't saved any place, yet.
+msgid "You haven't saved any place, yet."
+msgstr "保存した場所はまだありません。"
+
+#. No Places - {Username} hasn't saved any place, yet.
+#, c-format
+msgid "%s hasn't saved any place, yet."
+msgstr "%sさんには保存した場所がまだありません。"
+
+#. Use the button below to add your first one!
+msgid "Use the button below to add your first one!"
+msgstr "下のボタンを使って、最初の場所を追加をしよう！"
+
+#. You have the same!
+msgid "You have the same!"
+msgstr "同じものがあります！"
+
+#. You have to provide a name for this place
+msgid "You have to provide a name for this place"
+msgstr "この場所の名前を入力してください"
+
+#. You have to provide an address for this place
+msgid "You have to provide an address for this place"
+msgstr "この場所の住所を入力してください"
+
+#. You like Mapstr?
+msgid "You like Mapstr?"
+msgstr "Mapstrが好きですか？"
+
+#. You must provide a valid URL
+msgid "You must provide a valid URL"
+msgstr "有効なURLを入力してください"
+
+#. Alert message: A place need at list one tag
+msgid "You should add at least one tag"
+msgstr "タグを1つ以上追加する必要があります"
+
+#. You won't be able to retrieve your data if you change your phone or reinstall the app...
+msgid "You won't be able to retrieve your data if you change your phone or reinstall the app..."
+msgstr "スマホを変えたり、アプリを再インストールすると、あなたのデータを取得できなくなります..."
+
+#. Your email (only if you want)
+msgid "Your email (only if you want)"
+msgstr "メールアドレス（任意）"
+
+#. Your message (required)
+msgid "Your message (required)"
+msgstr "メッセージ（必須）"
+
+#. This user
+msgid "This user"
+msgstr "このユーザー"
+
+#. Time Machine - body
+msgid "A new version will be created at each app launch, and the last 7 versions will be presented here.\nIf you have multiple accounts, you will have specific files for each account."
+msgstr "各アプリの起動時に新しいバージョンが作成され、ここに最後の7つのバージョンが表示されます。\n複数アカウントを所有している場合は、アカウント別に特定のファイルがあります。"
+
+#. Anonymous account: {accountId}
+#, c-format
+msgid "Anonymous account: %s"
+msgstr "匿名アカウント：%s"
+
+#. Choice invite: Navigation
+msgid "Choose your prefered navigation app"
+msgstr "お好みのナビゲーションアプリを選択してください"
+
+#. Facebook login error - Facebook Error
+msgid "Facebook Error"
+msgstr "Facebookのエラー"
+
+#. It seems your account is disconnected. Please reconnect.
+msgid "It seems your account is disconnected. Please reconnect."
+msgstr "お使いのアカウントは切断されているようです。再接続してください。"
+
+#. Switch: List
+msgid "List"
+msgstr "リスト"
+
+#. Switch: Map
+msgid "Map"
+msgstr "マップ"
+
+#. Facebook login error - Misconfigured account
+msgid "Misconfigured account"
+msgstr "誤った設定のアカウント"
+
+#. Time Machine instruction - Title
+msgid "Old versions of your data will appear here, in case you need it."
+msgstr "必要なときのために、古いバージョンのデータがここに表示されます。"
+
+#. The place is permanently closed
+msgid "Permanently Closed"
+msgstr "完全クローズ"
+
+#. Time Machine
+msgid "Time Machine"
+msgstr "タイムマシン"
+
+#. Facebook login error - Go to iphone settings to update your password
+msgid "Please, go in your iPhone settings, in the Facebook menu, and retype your account password to ensure you're connected, and try again."
+msgstr "iPhoneの設定を開き、Facebookのメニューでアカウントのパスワードを再入力し、接続されていることを確認してから、もう一度お試しください。"
+
+#. Facebook login error - Go to iphone settings to allow Mapstr
+msgid "Please, go in your iPhone settings, in the Facebook menu, allow Mapstr, and try again."
+msgstr "iPhoneの設定を開き、FacebookのメニューでMapstrに許可を与えてから、もう一度お試しください。"
+
+#. Today Widget - Add a place at your location
+msgid "Add a place at your location"
+msgstr "現在地に場所を追加する"
+
+#. Today Widget - No places yet...
+msgid "You have no places yet..."
+msgstr "場所はまだありません…"
+
+#. Today Widget - Nearest Places
+msgid "Nearest Places"
+msgstr "最寄りの場所"
+
+#. Today Widget - See all places nearby
+msgid "See all places nearby"
+msgstr "近くの場所をすべて表示"
+
+#. You need to add your first place on your phone to initialize your account.
+msgid "You need to add your first place on your phone to initialize your account."
+msgstr "お使いのスマホで最初の場所を追加して、アカウントを初期化します。"
+
+#. You already have this place. Do you want to see it?
+msgid "You already have this place. Do you want to see it?"
+msgstr "この場所はすでにあります。表示しますか？"
+
+#. No
+msgid "No"
+msgstr "いいえ"
+
+#. Choose at least one tag...
+msgid "Choose at least one tag..."
+msgstr "タグを1つ以上選択してください…"
+
+#. My location
+msgid "My location"
+msgstr "現在地"
+
+#. Browse
+msgid "Browse"
+msgstr "閲覧"
+
+#. My places
+msgid "My places"
+msgstr "マイプレイス"
+
+#. Information
+msgid "Information"
+msgstr "情報"
+
+#. The place is closed on this day
+msgid "Closed"
+msgstr "クローズ"
+
+#. Loading picture...
+msgid "Loading picture..."
+msgstr "写真を読み込み中…"
+
+#. Now Open
+msgid "Now Open"
+msgstr "現在オープン"
+
+#. See more
+msgid "See more"
+msgstr "さらに表示"
+
+#. This place will appear on your map at next launch.
+msgid "This place will appear on your map at next launch."
+msgstr "この場所は次回の起動時にマップ上に表示されます。"
+
+#. Your iPhone is not within range. This place will be saved later.
+msgid "Your iPhone is not within range. This place will be saved later."
+msgstr "お使いのiPhoneが範囲内にありません。 この場所は後で保存されます。"
+
+#. This place is waiting to be saved. It will appear on your map at next launch.
+msgid "This place is waiting to be saved. It will appear on your map at next launch."
+msgstr "この場所は保存待ちです。次回の起動時にマップ上に表示されます。"
+
+#. Add to my Map
+msgid "Add to my Map"
+msgstr "マイマップに追加"
+
+#. Already on my Map
+msgid "Already on my Map"
+msgstr "マイマップにすでにあります"
+
+#. Route Option - Drive app
+msgid "Drive app"
+msgstr "ドライブアプリ"
+
+#. Route Option - Unity: min (minutes)
+msgid "min"
+msgstr "分"
+
+#. Route Option - N/A
+msgid "N/A"
+msgstr "該当なし"
+
+#. Route Option - Private hire app
+msgid "Private hire app"
+msgstr "個人ハイヤーアプリ"
+
+#. Route Option - Transit app
+msgid "Transit app"
+msgstr "交通機関アプリ"
+
+#. Route Option - Walk app
+msgid "Walk app"
+msgstr "徒歩アプリ"
+
+#. You have to select at least one navigation application
+msgid "You have to select at least one navigation application"
+msgstr "ナビゲーションアプリを1つ以上選択してください"
+
+#. You moved the place position from {distance}. Do you want to save this new position?
+#, c-format
+msgid "You moved the place position from %s. Do you want to save this new position?"
+msgstr "この場所は%sから移動されました。この新しい位置を保存しますか？"
+
+#. Tips - Add first place
+msgid "Let's add your first place!"
+msgstr "最初の場所を追加しよう！"
+
+#. Tips - Let's search a place
+msgid "Let’s search a place with its name"
+msgstr "名前で場所を検索しよう"
+
+#. Tips - Text search
+msgid "Type the name of a place you like (restaurant, museum, bar...)"
+msgstr "好きな場所（レストラン、美術館、バーなど）の名前を入力します"
+
+#. Tips - Select or create tags
+msgid "Select or create any tags you want to sort your places"
+msgstr "場所を並べ替えるタグを選択または作成します"
+
+#. Tips - Save the place
+msgid "... and save the place to your map!"
+msgstr "…そして、その場所をマップに保存します！"
+
+#. Tips - Drag the detail view
+msgid "Drag or tap to see more details"
+msgstr "ドラッグまたはタップして詳細を表示します"
+
+#. Default tag: Friend
+msgid "Friend"
+msgstr "友だち"
+
+#. Default tag: Hotel
+msgid "Hotel"
+msgstr "ホテル"
+
+#. Default tag: Restaurant
+msgid "Restaurant"
+msgstr "レストラン"
+
+#. Change Tags
+msgid "Change tags"
+msgstr "タグを変更"
+
+#. Create an account to see your friends places, and to access your map from multiple devices.
+msgid "Create an account to see your friends places, and to access your map from multiple devices."
+msgstr "アカウントを作成すると、友だちの場所をみたり、複数のデバイスからマップにアクセスしたりできます。"
+
+#. Forgot password?
+msgid "Forgot password?"
+msgstr "パスワードをお忘れですか？"
+
+#. Select an Icon
+msgid "Select an Icon"
+msgstr "アイコンを選択"
+
+#. Sign Up
+msgid "Sign Up"
+msgstr "サインアップ"
+
+#. Choose your profile picture
+msgid "Choose your profile picture"
+msgstr "プロフィール写真を選択してください"
+
+#. Close
+msgid "Close"
+msgstr "閉じる"
+
+#. Add a new Place
+msgid "Add a new Place"
+msgstr "新しい場所を追加"
+
+#. Enter a phone number
+msgid "Enter a phone number"
+msgstr "電話番号を入力"
+
+#. More options
+msgid "More options"
+msgstr "その他のオプション"
+
+#. Term of use
+msgid "Term of use"
+msgstr "使用期間"
+
+#. Downloading missing language(s)...
+msgid "Downloading missing language(s)..."
+msgstr "不足している言語をダウンロード中…"
+
+#. or
+msgid "or"
+msgstr "または"
+
+#. Capture Address
+msgid "Capture Address"
+msgstr "住所を保存"
+
+#. Keep this place private:
+msgid "Keep this place private:"
+msgstr "この場所を非公開にする："
+
+#. My friends
+msgid "My friends"
+msgstr "マイフレンド"
+
+#. We won't post anything to Facebook, we hate that too!
+msgid "We won't post anything to Facebook, we hate that too!"
+msgstr "Facebookに投稿されることはありません。それは私たちも嫌いです！"
+
+#. Phone
+msgid "Phone"
+msgstr "電話"
+
+#. Keep those places private:
+msgid "Keep those places private:"
+msgstr "これらの場所を非公開にする："
+
+#. Legal Notice
+msgid "Legal Notice"
+msgstr "法的通知"
+
+#. Enter a website
+msgid "Enter a website"
+msgstr "ウェブサイトを入力"
+
+#. Log in with Facebook
+msgid "Log in with Facebook"
+msgstr "Facebookでログイン"
+
+#. Account settings
+msgid "Account settings"
+msgstr "アカウント設定"
+
+#. Map settings
+msgid "Map settings"
+msgstr "マップ設定"
+
+#. Standard
+msgid "Standard"
+msgstr "スタンダード"
+
+#. Satellite
+msgid "Satellite"
+msgstr "サテライト"
+
+#. Import places
+msgid "Import places"
+msgstr "場所をインポート"
+
+#. Tell your friends about it!
+msgid "Tell your friends about it!"
+msgstr "友だちに教えよう！"
+
+#. Files (.csv or .kml)
+msgid "Files (.csv or .kml)"
+msgstr "ファイル（.csvまたは.kml）"
+
+#. Frequently Asked Questions
+msgid "Frequently Asked Questions"
+msgstr "よくある質問"
+
+#. is waiting for you on mapstr!
+msgid " is waiting for you on mapstr!"
+msgstr "さんがmapstrであなたを待っています！"
+
+#. shared:
+msgid " shared:"
+msgstr "共有："
+
+#. wants to share this place with you!
+msgid " wants to share this place with you!"
+msgstr "さんがこの場所の共有をリクエストしています！"
+
+#. wants you to use Mapstr!
+msgid " wants you to use Mapstr!"
+msgstr "さんがMapstrの使用をリクエストしています！"
+
+#. A friend
+msgid "A friend"
+msgstr "友だち"
+
+#. A new version is available
+msgid "A new version is available"
+msgstr "新しいバージョンが利用できます"
+
+#. Onboarding - Add your friends.
+#. Share the places you want.
+msgid "Add your friends.\nShare the places you want."
+msgstr "友だちを追加。\n好きな場所を共有。"
+
+#. Mapstr needs your authorization to locate your position and your favorite places on the map.
+msgid "Mapstr needs your authorization to locate your position and your favorite places on the map."
+msgstr "あなたの現在地の特定とマップ上にお気に入りの場所を配置するには、Mapstrに許可を与える必要があります。"
+
+#. Back to my Map
+msgid "Back to my Map"
+msgstr "マイマップに戻る"
+
+#. Place Sharing - Click the link to see all details in Mapstr, and save it to your map!
+msgid "Click the link to see it in Mapstr, and save it to your map!"
+msgstr "リンクをクリックしてMapstrで確認し、自分のマップに保存してください！"
+
+#. Onboarding - Complete your profile
+msgid "Complete your profile"
+msgstr "プロフィールを完成させよう"
+
+#. Onboarding - Create unlimited tags
+#. to sort them easily.
+msgid "Create unlimited tags\nto sort them easily."
+msgstr "タグを無制限に作成して\n簡単に並べ替え。"
+
+#. Done
+msgid "Done"
+msgstr "完了"
+
+#. E-mail
+msgid "E-mail"
+msgstr "Eメール"
+
+#. Hey! Add me on Mapstr with the code %s (or click on the link)
+#, c-format
+msgid "Hey! Add me on Mapstr with the code %s (or click on the link)!"
+msgstr "ねぇ、コード%sを使って（またはリンクをクリックして）私をMapstrに追加して！"
+
+#. Device location unavailable - mapstr not allowed
+msgid "Hey, you haven't allowed Mapstr to use your location. Open settings to change this!"
+msgstr "位置情報を使用する許可がMapstrに与えられていません。設定を開いて変更してください！"
+
+#. I'm on Mapstr, an app to save all my favorite places, you should try it!
+msgid "I'm on Mapstr, an app to save all my favorite places, you should try it!"
+msgstr "私はお気に入りの場所を全部保存するのに「Mapstr」というアプリを使っています。ぜひ試してみて！"
+
+#. Location Permission
+msgid "Location Permission"
+msgstr "位置情報許可"
+
+#. Mapstr - your Places, your World
+msgid "Mapstr - your Places, your World"
+msgstr "Mapstr - あなたの場所、自分だけの世界"
+
+#. Alert
+msgid "Alert"
+msgstr "アラート"
+
+#. No place to show
+msgid "No place to show"
+msgstr "表示する場所はありません"
+
+#. Please update your app.
+msgid "Please update your app."
+msgstr "アプリをアップデートしてください。"
+
+#. Please Update
+msgid "Please Update"
+msgstr "アップデートしてください"
+
+#. Onboarding - Save places you love,
+#. places to try, places from magazines, etc.
+msgid "Save places you love,\nplaces to try, places from magazines, etc."
+msgstr "大好きな場所、試したい場所、\n雑誌に載ってた場所などを保存。\n"
+
+#. Sign in with e-mail
+msgid "Sign in with e-mail"
+msgstr "メールアドレスでサインイン"
+
+#. Sign in with Facebook
+msgid "Sign in with Facebook"
+msgstr "Facebookでサインイン"
+
+#. Sign In
+msgid "Sign In"
+msgstr "サインイン"
+
+#. The 1st map-meets-notes app for users to save, see, share and send their favorite places
+msgid "The 1st map-meets-notes app for users to save, see, share and send their favorite places"
+msgstr "お気に入りの場所を保存、閲覧、共有、送信できる初めてのノート機能付きマップアプリ"
+
+#. Use without account
+msgid "Use without account"
+msgstr "アカウントなしで使用する"
+
+#. Onboarding - Welcome to Mapstr.
+msgid "Welcome to Mapstr."
+msgstr "Mapstrへようこそ。"
+
+#. You've been invited to Mapstr!
+msgid "You've been invited to Mapstr!"
+msgstr "Mapstrに招待されました！"
+
+#. You've been invited to see this place on Mapstr!
+msgid "You've been invited to see this place on Mapstr!"
+msgstr "この場所をMapstrで表示するために招待されました！"
+
+#. Launch Screen - your Places, your World
+msgid "your Places, your World"
+msgstr "あなたの場所、自分だけの世界"
+
+#. Onboarding - Do you use {application name}?
+#, c-format
+msgid "Do you use %s?"
+msgstr "%sを使用しますか？"
+
+#. Import Invite - Ignore
+msgid "Ignore"
+msgstr "無視する"
+
+#. Onboarding - Then it's super easy to import all your places to Mapstr.
+msgid "Then it's super easy to import all your places to Mapstr."
+msgstr "すべての場所をMapstrに簡単にインポートすることができます。"
+
+#. Image asset: onboarding_tag_1
+msgid "onboarding_tag_1"
+msgstr "オンボーディング_タグ_1"
+
+#. Image asset: onboarding_tag_2
+msgid "onboarding_tag_2"
+msgstr "オンボーディング_タグ_2"
+
+#. Image asset: onboarding_tag_3
+msgid "onboarding_tag_3"
+msgstr "オンボーディング_タグ_3"
+
+#. is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!
+msgid " is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!"
+msgstr "さんがmapstrであなたを待っています！お気に入りの場所を保存、閲覧、共有、送信できる初めてのノート機能付きマップアプリ！"
+
+#. Accept
+msgid "Accept"
+msgstr "承諾する"
+
+#. Allow
+msgid "Allow"
+msgstr "許可する"
+
+#. Are you sure to cancel invite for %s?
+#, c-format
+msgid "Are you sure to cancel invite for %s?"
+msgstr "%sさんの招待をキャンセルしますか？"
+
+#. Back
+msgid "Back"
+msgstr "戻る"
+
+#. Cancel Invite
+msgid "Cancel Invite"
+msgstr "招待をキャンセル"
+
+#. Enter your friend's username or email
+msgid "Enter your friend's username or email:"
+msgstr "友だちのユーザー名またはメールアドレスを入力："
+
+#. Connect %s
+#, c-format
+msgid "Connect %s"
+msgstr "%sを接続"
+
+#. Follow
+msgid "Follow"
+msgstr "フォローする"
+
+#. Friends
+msgid "Friends"
+msgstr "友だち"
+
+#. Invite email - Body
+msgid "Hey,\nI use Mapstr app to save all my favorite places in the world, tag them and share them... and I'd like to share them with you!\n Download Mapstr for free: "
+msgstr "こんにちは\n私は「Mapstr」アプリを使って、自分の世界中のお気に入りの場所を保存して、タグ付けしたり、共有したりしています…あなたともぜひ共有したいです！\nMapstrの無料ダウンロード："
+
+#. Hey, add me on Mapstr! I'm @{alias}.
+#, c-format
+msgid "Hey, add me on Mapstr! I'm @%s."
+msgstr "ねぇ、Mapstrで私を追加して！私は＠%sです。"
+
+#. Invite contacts
+msgid "Invite contacts"
+msgstr "連絡先を招待"
+
+#. Invite
+msgid "Invite"
+msgstr "招待する"
+
+#. Invited
+msgid "Invited"
+msgstr "招待済み"
+
+#. Invites
+msgid "Invites"
+msgstr "招待状"
+
+#. Invite email - Subject
+msgid "Join me on Mapstr!"
+msgstr "一緒にMapstrを使おう！"
+
+#. No invites 👻
+msgid "No invites 👻"
+msgstr "招待状はありません👻"
+
+#. No places yet
+msgid "No places yet"
+msgstr "場所はまだありません"
+
+#. Please, connect first!
+msgid "Please, connect first!"
+msgstr "まず接続してください！"
+
+#. Remove {name} from your friends?
+#, c-format
+msgid "Remove %s from your friends?"
+msgstr "%sさんを友だちから削除しますか？"
+
+#. Remove %s
+#, c-format
+msgid "Remove %s"
+msgstr "%sさんを削除"
+
+#. Share your profile
+msgid "Share your profile"
+msgstr "プロフィールを共有"
+
+#. Show my friends on Mapstr
+msgid "Show my friends on Mapstr"
+msgstr "Mapstrの友だちを表示"
+
+#. Swipe right and find if any of your friends is already on Mapstr
+msgid "Swipe right and find if any of your friends is already on Mapstr"
+msgstr "右にスワイプして、Mapstrを使っている友だちを見つけよう"
+
+#. Unable to connect to your facebook account
+msgid "Unable to connect to your facebook account"
+msgstr "Facebookアカウントに接続できません"
+
+#. waiting...
+msgid "waiting..."
+msgstr "待っています…"
+
+#. Yes
+msgid "Yes"
+msgstr "はい"
+
+#. You won't be able to access your friend's map anymore, and your friend won't be able to access yours.
+msgid "You won't be able to access your friend's map anymore, and your friend won't be able to access yours."
+msgstr "あなたは友だちのマップにアクセスできなくなり、友だちもあなたのマップにアクセスできなくなります。"
+
+#. Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!
+msgid "Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!"
+msgstr "Mapstrに連絡先へのアクセス許可が与えられていません。設定を開いて変更してください！"
+
+#. Mapstr needs your authorization to access your contacts.
+msgid "Mapstr needs your authorization to access your contacts."
+msgstr "Mapstrに連絡先へのアクセス許可を与える必要があります。"
+
+#. iMessage - Find a place
+msgid "Find a place"
+msgstr "場所を見つけよう"
+
+#. iMessage - Sign in and save your first places in the app, to retrieve them in Messages
+msgid "Sign in and save your first places in the app, to retrieve them in Messages"
+msgstr "サインインして最初の場所をアプリに保存すると、メッセージでそれらの場所を取得することができます"
+
+#. iMessage - Sign in
+msgid "Sign in"
+msgstr "サインイン"
+
+#. iMessage - See more in Mapstr
+msgid "See more in Mapstr"
+msgstr "Mapstrで詳細をチェック"
+
+#. {Username} invited you!
+#, c-format
+msgid "%s invited you!"
+msgstr "%sさんに招待されました！"
+
+#. Follow {username} to see his map.
+#, c-format
+msgid "Follow %s to see his map."
+msgstr "フォローして、%sさんのマップを見よう。"
+
+#. Contact email - Subject: there's a conflict with my accounts
+msgid "Hey Mapstr, there's a conflict with my accounts!"
+msgstr "Mapstr、アカウントの競合が発生しています！"
+
+#. Hey, join me on Mapstr! I'm @{alias}.
+#, c-format
+msgid "Hey, join me on Mapstr! I'm @%s."
+msgstr "ねぇ、一緒にMapstrを使おう！私は＠%sです。"
+
+#. Invite {username} to share your maps together.
+#, c-format
+msgid "Invite %s to share your maps together."
+msgstr "%sさんを招待して、マップを共有しよう。"
+
+#. Please, contact us!
+msgid "Please, contact us!"
+msgstr "お問い合わせください！"
+
+#. There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!
+msgid "There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!"
+msgstr "お使いのFacebookアカウントとメールアカウント間で競合が生じています…この問題を修正しますので、hello@mapstr.comまでご連絡ください！"
+
+#. It's time to join!
+msgid "It's time to join!"
+msgstr "参加しよう！"
+
+#. You should create an account if you don't want to loose all your places.
+msgid "You should create an account if you don't want to loose all your places."
+msgstr "すべての場所を失わないようにするには、アカウントを作成する必要があります。"
+
+#. {service name} Import
+#, c-format
+msgid "%s Import"
+msgstr "%sのインポート"
+
+#. Connect to Foursquare
+msgid "Connect to Foursquare"
+msgstr "Foursquareに接続"
+
+#. Connect to Instagram
+msgid "Connect to Instagram"
+msgstr "Instagramに接続"
+
+#. Connect to Swarm
+msgid "Connect to Swarm"
+msgstr "Swarmに接続"
+
+#. Deselect All
+msgid "Deselect All"
+msgstr "すべて選択解除"
+
+#. Please, connect to your Instagram account and allow Mapstr to import your places
+msgid "Please, connect to your Instagram account and allow Mapstr to import your places"
+msgstr "Mapstrに保存されている場所をインポートするには、Instagramアカウントに接続してください"
+
+#. Please, connect to your Swarm account and allow Mapstr to import your places
+msgid "Please, connect to your Swarm account and allow Mapstr to import your places"
+msgstr "Mapstrに保存されている場所をインポートするには、Swarmアカウントに接続してください"
+
+#. Select All
+msgid "Select All"
+msgstr "すべて選択"
+
+#. Import places - Select those (places) you want to import.
+msgid "Select those you want to import."
+msgstr "インポートするものを選択します。"
+
+#. This username is already used.
+msgid "This username is already used."
+msgstr "このユーザー名はすでに使用されています。"
+
+#. This username is invalid.
+msgid "This username is invalid."
+msgstr "このユーザー名は無効です。"
+
+#. Visit the FAQ to learn how to import a file.
+msgid "Visit the FAQ to learn how to import a file."
+msgstr "ファイルのインポート方法は、FAQをご覧ください。"
+
+#. You already have all the places from this backup.
+msgid "You already have all the places from this backup."
+msgstr "このバックアップからすべての場所をすでに取得しています。"
+
+#. Whats New Image
+msgid "Whats New Image"
+msgstr "WhatNew-en-568"
+
+#. Invite friends
+msgid "Invite friends"
+msgstr "友だちを招待"
+
+#. Got It
+msgid "Got It"
+msgstr "わかりました"
+
+#. View Map
+msgid "View Map"
+msgstr "マップを表示"
+
+#. Add friends
+msgid "Add friends"
+msgstr "友だちを追加"
+
+#. Connect with your friends
+msgid "Connect with your friends"
+msgstr "友だちと接続"
+
+#. Find People
+msgid "Find People"
+msgstr "人を探す"
+
+#. Your are not able to send messages from this device
+msgid "Your are not able to send messages from this device"
+msgstr "このデバイスからメッセージを送信することはできません"
+
+#. Your username is @%s
+#, c-format
+msgid "Your username is @%s"
+msgstr "あなたのユーザー名は@%sです"
+
+#. FAQ
+msgid "FAQ"
+msgstr "FAQ"
+
+#. Followers
+msgid "Followers"
+msgstr "フォロワー"
+
+#. Share your profile to gain new followers on Mapstr 😉
+msgid "Share your profile to gain new followers on Mapstr 😉"
+msgstr "プロフィールを共有して、Mapstrの新しいフォロワーを増やそう😉"
+
+#. You have no followers yet
+msgid "You have no followers yet"
+msgstr "フォロワーはまだいません"
+
+#. Bars & Clubs
+msgid "Bars & Clubs"
+msgstr "バー＆クラブ"
+
+#. Health & Beauty
+msgid "Health & Beauty"
+msgstr "ヘルス＆ビューティー"
+
+#. You have no followers yet
+msgid "Travel"
+msgstr "旅行"
+
+#. All
+msgid "All"
+msgstr "すべて"
+
+#. Restaurants & Cafes
+msgid "Restaurants & Cafes"
+msgstr "レストラン＆カフェ"
+
+#. What's new title
+msgid "Whats New Title"
+msgstr "表彰台について知ろう！"
+
+#. Whats New Description
+msgid "Whats New Description"
+msgstr "友だちやフォローしている公式アカウントによって最も追加された場所がわかります"
+
+#. Whats New 2nd button
+msgid "Whats New 2nd button"
+msgstr "今すぐ試す"
+
+#. Activated
+msgid "Activated"
+msgstr "有効になりました"
+
+#. Activate Notifications
+msgid "Activate Notifications"
+msgstr "通知を有効にする"
+
+#. Background Location
+msgid "Background Location"
+msgstr "バックグラウンド位置情報"
+
+#. Deactivated
+msgid "Deactivated"
+msgstr "無効になりました"
+
+#. Do you want to be alerted when %s accepts your invite?
+#, c-format
+msgid "Do you want to be alerted when %s accepts your invite?"
+msgstr "%sさんが招待を承諾したときに通知を受け取りますか？"
+
+#. Enable notifications in the settings to activate proximity alerts.
+msgid "Enable notifications in the settings to activate proximity alerts."
+msgstr "設定で通知を有効にして、接近アラートを有効にします"
+
+#. Enable notifications to be alerted when you pass nearby this place.
+msgid "Enable notifications to be alerted when you pass nearby this place."
+msgstr "通知を有効にして、この場所の近くを通ったときにアラートを受信します。"
+
+#. Enable notifications to receive alerts from mapstr.
+msgid "Enable notifications to receive alerts from mapstr."
+msgstr "通知を有効にして、Mapstrからのアラートを受信します。"
+
+#. You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications.
+msgid "You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications."
+msgstr "Mapstrからの通知設定が無効になっています。設定で通知を有効にしてください。"
+
+#. Notification - do you know {place_name} is just over {distance with unity}?
+#, c-format
+msgid "Hey, do you know %s is just over %s?"
+msgstr "ねぇ、%sから%sちょっとだって知ってる？"
+
+#. Notification - do you know {place_name} is less than {distance with unity} away?
+#, c-format
+msgid "Hey, do you know %s is less than %s away?"
+msgstr "ねぇ、%sまで%s未満だって知ってる？"
+
+#. Notification - do you know {place_name} and {place_name} are less than {distance with unity} away?
+#, c-format
+msgid "Hey, do you know that %s and %s are less than %s away?"
+msgstr "ねぇ、%sと%sまで%s未満だって知ってる？"
+
+#. Notification - you are near {place_name} and 2 other places!
+#, c-format
+msgid "Hey, you are near %s and 2 other places!"
+msgstr "ねぇ、%sと他2か所の近くにいるってこと知ってる？"
+
+#. Notification - It's a nice area, you are near {number} places!
+#, c-format
+msgid "It's a nice area, you are near %i places!"
+msgstr "素敵なエリアです。%iか所の近くにいます！"
+
+#. Notification action - Don't alert me anymore
+msgid "Mute"
+msgstr "ミュート"
+
+#. Notifications
+msgid "Notifications"
+msgstr "通知"
+
+#. Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue.
+msgid "Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue."
+msgstr "お使いのアカウントに問題があるようです。後でもう一度お試しいただくか、問題が解決しない場合は、hello@mapstr.comまでご連絡ください。"
+
+#. Places
+msgid "Places"
+msgstr "場所"
+
+#. Proximity alerts
+msgid "Proximity alerts"
+msgstr "接近アラート"
+
+#. Receive notifications for new friends invites or accepted requests.
+msgid "Receive notifications for new friends invites or accepted requests."
+msgstr "新しい友だちの招待状やリクエスト承諾の通知を受け取ります。"
+
+#. Receive notifications when you're passing nearby places.
+msgid "Receive notifications when you're passing nearby places."
+msgstr "近くの場所を通過するときに通知を受け取ります。"
+
+#. Require iOS 10
+msgid "Require iOS 10"
+msgstr "iOS 10が必要です"
+
+#. Notification action - See the map
+msgid "See the map"
+msgstr "マップを表示"
+
+#. Social activity
+msgid "Socal activity"
+msgstr "ソーシャル活動"
+
+#. Sorry, but proximity notifications are only available on iOS 10.
+#. Please update to enjoy.
+msgid "Sorry, but proximity notifications are only available on iOS 10.\nPlease update to enjoy."
+msgstr "申し訳ありませんが、接近通知はiOS 10でのみご利用いただけます。\nアップデートしてご利用ください。"
+
+#. Tap on settings, then on « location » then on « always ».
+msgid "Tap on settings, then on « location » then on « always »."
+msgstr "設定をタップし、« 位置情報 » をオン、 « 常時 »をオンにします。"
+
+#. This email is linked to a Facebook account. Please use Facebook Login to sign in to your account.
+msgid "This email is linked to a Facebook account. Please use Facebook Login to sign in to your account."
+msgstr "このメールアドレスはFacebookアカウントにリンクされています。Facebookログインを使用して、お使いのアカウントにサインインしてください。"
+
+#. Turn on background geolocation to enable proximity alerts.
+msgid "Turn on background geolocation to enable proximity alerts."
+msgstr "接近アラートを有効にするには、バックグラウンド地理位置情報をオンにします。"
+
+#. Never miss a friend’s invite.
+msgid "Never miss a friend’s invite."
+msgstr "友だちからの招待を見逃すことがなくなります。"
+
+#. Allow notifications
+msgid "Allow notifications"
+msgstr "通知を許可する"
+
+#. Be alerted when you receive a new invite or when a friend accepts yours.
+msgid "Be alerted when you receive a new invite or when a friend accepts yours."
+msgstr "友だちから招待されたときや友だちが招待を承諾したときに通知されます。"
+
+#. Alert me when I pass nearby
+msgid "Alert me when I pass nearby"
+msgstr "近くの場所を通過したときにアラートを受け取る"
+
+#. Be notified of new places
+msgid "Be notified of new places"
+msgstr "新しい場所の通知を受け取る"
+
+#. your friend
+msgid "your friend"
+msgstr "あなたの友だち"
+
+#. Account
+msgid "Account"
+msgstr "アカウント"
+
+#. Additive (default)
+msgid "Additive (default)"
+msgstr "追加（デフォルト）"
+
+#. Application settings
+msgid "Application settings"
+msgstr "アプリケーション設定"
+
+#. Data
+msgid "Data"
+msgstr "データ"
+
+#. Default settings for new places
+msgid "Default settings for new places"
+msgstr "新しい場所のデフォルト設定"
+
+#. Biography
+msgid "Biography"
+msgstr "バイオグラフィー"
+
+#. Export
+msgid "Export"
+msgstr "エクスポート"
+
+#. Identity
+msgid "Identity"
+msgstr "識別情報"
+
+#. Having issues with your account?
+msgid "Having issues with your account?"
+msgstr "アカウントに問題がありますか？"
+
+#. If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation.
+msgid "If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation."
+msgstr "スマホのローカルに保存されている場所やタグの欠損などの問題が生じた場合は、サーバーから強制的にデータを再読み込みして、データを完全に同期させることができます。"
+
+#. Inclusive
+msgid "Inclusive"
+msgstr "包括"
+
+#. Map style
+msgid "Map style"
+msgstr "マップスタイル"
+
+#. Mobile notifications
+msgid "Mobile notifications"
+msgstr "モバイル通知"
+
+msgid "Additive option (default behavior): when you select multiple tags like 'restaurant' and 'to try', the map shows every places tagged with 'to try' plus every places tagged with 'restaurant'. This means each visible place will have either the tag 'restaurant' OR the tag 'to try'.  \n\nInclusive option: when you select multiple tags, the map only shows places tagged with all those tags. This means each visible place with have the tag 'restaurant' AND the tag 'to try'."
+msgstr "追加オプション（デフォルト）：「レストラン」と「試す」などの複数のタグを選択した場合、マップには「試す」のタグが付いたすべての場所と「レストラン」のタグが付いたすべての場所が表示されます。つまり、表示されるすべての場所には「レストラン」または「試す」のいずれかのタグが付いているということです。\n\n包括オプション：複数のタグを選択した場合、マップは選択したタグがすべて付いている場所のみを表示します。つまり、表示されるすべての場所には「レストラン」および「試す」の両方のタグが付いているということです。"
+
+#. Reload data
+msgid "Reload data"
+msgstr "データを再読み込み"
+
+#. Reload
+msgid "Reload"
+msgstr "再読み込み"
+
+#. Settings & help
+msgid "Settings & help"
+msgstr "設定＆ヘルプ"
+
+#. Tags settings
+msgid "Tags settings"
+msgstr "タグ設定"
+
+#. Tags filter behavior
+msgid "Tags filter behavior"
+msgstr "タグフィルター動作"
+
+#. Username
+msgid "Username"
+msgstr "ユーザー名"
+
+#. Name
+msgid "Name"
+msgstr "名前"
+
+#. Tips - Tap here to start
+msgid "Tap here to start"
+msgstr "ここをタップして始めます"
+
+#. Tips - Filter by tags
+msgid "Filter your places by their tags"
+msgstr "タグで場所を選別します"
+
+#. Tips - Steal Place
+msgid "You can steal this place!"
+msgstr "この場所を盗むことができます！"
+
+#. Tips - Tap the add button below
+msgid "Open and tap the add button below"
+msgstr "開いて、下の「追加」ボタンをタップします"
+
+#. Tips - More details
+msgid "Tap here to add more details to this place"
+msgstr "ここを開いて、この場所の詳細情報を追加します"
+
+#. Tips - Long press a to edit or delete it
+msgid "Long press a tag to edit or delete it"
+msgstr "タグを長押しすると、編集または削除できます"
+
+#. Tips - Opening hours
+msgid "Tap here to see the opening hours of this place"
+msgstr "ここをタップすると、この場所の営業時間が表示されます"
+
+#. Tips - Proximity alert
+msgid "Tap the bell to activate proximity alert for this place"
+msgstr "ベルをタップして、この場所の接近アラートを有効にします"
+
+#. Tips - Pending invitations
+msgid "You have pending invitations!"
+msgstr "保留中の招待状があります！"
+
+#. Tips - View Profile and Settings
+msgid "Tap here to access your profile and settings"
+msgstr "ここをタップして、プロフィールと設定にアクセスします"
+
+#. Tips - Find friends
+msgid "Find your friends to see their maps!"
+msgstr "友だちを見つけて、友だちのマップを見よう！"
+
+#. Official maps you might like
+msgid "Official maps you might like"
+msgstr "おすすめの公式マップ"
+
+#. Friends already on Mapstr
+msgid "Friends already on Mapstr"
+msgstr "Mapstrを利用している友だち"
+
+#. No result
+msgid "No result"
+msgstr "結果はありません"
+
+#. Tips - Add friends
+msgid "Tap here to add friends"
+msgstr "ここをタップして、友だちを追加します"
+
+#. Tips - Place icon
+msgid "Tap the place icon to choose another one"
+msgstr "場所のアイコンをタップして、別のアイコンを選択します"
+
+#. Add @{username} to share your places
+#, c-format
+msgid "Add @%s to share your places"
+msgstr "@%sさんを追加して、場所を共有します"
+
+#. Back to my map
+msgid "Back to my map"
+msgstr "マイマップに戻る"
+
+#. Follow @{username} to discover their places
+#, c-format
+msgid "Follow @%s to discover their places"
+msgstr "フォローして、@%sさんの場所を発見しよう"
+
+#. See the article about this place
+msgid "See article"
+msgstr "記事を表示"
+
+#. Place source
+msgid "source:"
+msgstr "ソース："
+
+#. Unfollow {name}?
+#, c-format
+msgid "Unfollow %s?"
+msgstr "%sさんをフォロー解除？"
+
+#. Unfollow
+msgid "Unfollow"
+msgstr "フォロー解除"
+
+#. Article
+msgid "Article"
+msgstr "記事"
+
+#. Share your map
+msgid "Share your map"
+msgstr "マップを共有"
+
+#. Sort by: Date
+msgid "Date"
+msgstr "日付"
+
+#. Tips - Share map
+msgid "Tap here to share your map with your friends!"
+msgstr "ここをタップして、友だちとマップを共有しよう！"
+
+#. Sort by: Distance (from the user)
+msgid "Distance"
+msgstr "距離"
+
+#. This picture doesn't have any GPS coordinates
+msgid "This picture doesn't have any GPS coordinates"
+msgstr "この写真にはGPS座標がありません"
+
+#. Enter an article URL
+msgid "Enter an article URL"
+msgstr "記事のURLを入力してください"
+
+#. You cannot delete a tag used without any other tag in a place
+msgid "You cannot delete a tag used without any other tag in a place"
+msgstr "その場所に他のタグがない場合、使用しているタグは削除できません"
+
+#. Delete the tag {tag name}?
+msgid "Delete the tag %s?"
+msgstr "タグ「%s」を削除しますか？"
+
+#. More... - More share options
+msgid "More..."
+msgstr "その他…"
+
+#. This will remove it from {count} of your places and cannot be undone
+msgid "This will remove it from %i of your places and cannot be undone"
+msgstr "あなたの場所の%iから削除されます。この操作は元に戻すことができません"
+
+#. Please wait... - Export bezel loading
+msgid "Please wait..."
+msgstr "お待ちください…"
+
+#. Podium
+msgid "Podium"
+msgstr "表彰台"
+
+#. Search this area
+msgid "Search this area"
+msgstr "このエリアを検索"
+
+#. Your friends have no places here
+msgid "Your friends have no places here"
+msgstr "ここには友だちの場所はありません"
+
+#. Move the map to search another area
+msgid "Move the map to search another area"
+msgstr "マップを動かして別のエリアを検索します"
+
+#. You need at least 2 friends...
+msgid "You need at least 2 friends..."
+msgstr "友だちが2人以上必要です…"
+
+#. Podium lets you discover the most added places among your friends in this area
+msgid "Podium lets you discover the most added places among your friends in this area"
+msgstr "表彰台では、このエリアで最も多くの友だちが追加した場所を見つけることができます。"
+
+#. Your data has been sent to {email}
+msgid "Your data has been sent to %s"
+msgstr "データが%sに送信されました"
+
+#. We don't have any email to sent your data to. Please add an email in your profile first.
+msgid "We don't have any email to sent your data to. Please add an email in your profile first."
+msgstr "データ送信先のメールアドレスがありません。最初にプロフィールにメールアドレスを追加してください。"
+
+#. Delete my account
+msgid "Delete my account"
+msgstr "アカウントを削除"
+
+#. Do you really want to permanently delete your account?
+msgid "Do you really want to permanently delete your account?"
+msgstr "アカウントを完全に削除しますか？"
+
+#. Your data will be deleted and won't be recoverable. You can just disconnect instead.
+msgid "Your data will be deleted and won't be recoverable. You can just disconnect instead."
+msgstr "あなたのデータは削除され、復元することはできません。削除の代わりに切断することもできます。"
+
+#. Friends being watched (observed for notification)
+msgid "Friends being watched"
+msgstr "友だちチェック"
+
+#. Be notified when these friends add a new place
+msgid "Be notified when these friends add a new place"
+msgstr "これらの友だちが新しい場所を追加したとき、通知されます"
+
+#. Icons
+msgid "Icons"
+msgstr "アイコン"
+
+#. Cities
+msgid "Cities"
+msgstr "都市"
+
+#. Tags
+msgid "Tags"
+msgstr "タグ"
+
+#. Tips - Podium
+msgid "Tap here to see the most added places by your friends!"
+msgstr "ここをタップすると、友達が最も多く追加した場所が表示されます！"
+
+#, c-format
+msgid "%i place"
+msgid_plural "%i places"
+msgstr[0] "場所%i件"
+
+#, c-format
+msgid "%i friend"
+msgid_plural "%i friends"
+msgstr[0] "友だち%i人"
+
+#, c-format
+msgid "%i invite"
+msgid_plural "%i invites"
+msgstr[0] "招待状%i件"
+
+#, c-format
+msgid "We've found %i new place."
+msgid_plural "We've found %i new places."
+msgstr[0] "%i件の新しい場所を見つけました。"
+
+msgid "Tap here to share your profile to your friends!"
+msgstr "ここをタップして、友だちとプロフィールを共有しよう！"
+
+msgid "whatsNew-iPhone4"
+msgstr "WhatNew-en"
+
+msgid "whatsNew-iPhone5"
+msgstr "WhatNew-en-568"
+
+msgid "whatsNew-iPhone6"
+msgstr "WhatNew-en-667"
+
+msgid "whatsNew-iPhone6plus"
+msgstr "WhatNew-en-736"
+
+msgid "Friends you are watching"
+msgstr "チェックしている友だち"
+
+msgid "Get notifications when your friends add new places."
+msgstr "友だちが新しい場所を追加すると、通知が届きます。"
+
+msgid "Are you sure you want to definitely delete this account? All your data will be lost and won't be recoverable. You can just disconnect instead."
+msgstr "このアカウントを本当に削除しますか？あなたのデータはすべて削除され、復元することはできません。削除の代わりに切断することもできます。"
+
+#, c-format
+msgid "Your data has been successfully sent to your account's email: %s"
+msgstr "データがアカウントのメールアドレス：%sに送信されました"
+
+msgid "Please enter your email address in Account Settings to receive your data"
+msgstr "アカウント設定でデータを受信するメールアドレスを入力してください"
+
+msgid "Do you want to be alerted when friends accept your invite?"
+msgstr "友だちが招待を承諾したときにアラートを受け取りますか？"
+
+#, c-format
+msgid "The tag \"%s\" already exists!"
+msgstr "タグ「%s」はすでに存在しています！"
+
+msgid "celebrates Valentine's day!"
+msgstr "バレンタインデーを祝おう！"
+
+#, c-format
+msgid "@%s really?"
+msgstr "@%sですか？"
+
+#, c-format
+msgid "Did you mean @%s instead?"
+msgstr "@%sではないですか？"
+
+msgid "Oops, yes!"
+msgstr "おっと、そうです！"
+
+msgid "Keep this place secret:"
+msgstr "この場所を非公開にする："
+
+msgid "By making this place secret, it won't be visible to your friends."
+msgstr "非公開にすると、この場所は友だちに表示されません。"
+
+msgid "Add all"
+msgstr "すべて追加"
+
+msgid "Follow the Valentine's Day map to discover the most inspirational places where you can express your love!"
+msgstr "バレンタインデーのマップをフォローして、最も感動的な場所であなたの愛を表現しよう！"
+
+msgid "Welcome to Mapstr, %s!"
+msgstr "%sさん、Mapstrへようこそ！"
+
+msgid "Most added places among your friends"
+msgstr "友だちに最も追加された場所"
+
+msgid "Select a place below to add it to your map"
+msgstr "マップに追加する場所を下から選択してください"
+
+msgid "Loading the most added places among your friends..."
+msgstr "最も多くの友だちに追加された場所を読み込み中…"
+
+msgid "Anyone here?!"
+msgstr "ここに誰かいますか？！"
+
+msgid "This information will help your friends find you"
+msgstr "この情報は友だちがあなたを見つけるのに役立ちます"
+
+msgid "Email notifications"
+msgstr "メール通知"
+
+msgid "Social activity"
+msgstr "ソーシャル活動"
+
+msgid "New friend invites"
+msgstr "新しい友だちの招待状"
+
+msgid "Facebook friends suggestions"
+msgstr "Facebook友だちのおすすめ"
+
+msgid "Friend activities summary"
+msgstr "友だちの活動サマリー"
+
+msgid "New features"
+msgstr "新機能"
+
+msgid "Release of official maps"
+msgstr "公式マップのリリース"
+
+msgid "Unsubscribe from all emails"
+msgstr "すべてのメール受信登録を解除"
+
+msgid "News from Mapstr"
+msgstr "Mapstrからのニュース"
+
+msgid "Receive a summary of your friends activities."
+msgstr "友だちの活動サマリーを受け取ります。"
+
+msgid "Don't worry, we won't spam you, we don't have enough time to write useless emails."
+msgstr "迷惑メールは送りませんので安心してください。私たちに無駄なメールを書いている時間はありません。"
+
+msgid "Don't make your friends wait for you!"
+msgstr "友だちを待たせないようにしよう！"
+
+msgid "Get a better experience with push notifications!"
+msgstr "プッシュ通知で使用体験を向上させよう！"
+
+msgid "You can edit your preferences in your settings"
+msgstr "設定で好みの設定に変更することができます"
+
+msgid "Allow push notifications"
+msgstr "プッシュ通知を許可する"
+
+msgid "Be notified when you've got new invitations on Mapstr"
+msgstr "Mapstrの新しい招待が届いたとき、通知されます"
+
+msgid "👫 You've got new friends"
+msgstr "👫新しい友だちが増えました"
+
+msgid "💈 You're nearby a place you like"
+msgstr "💈あなたが好きな場所の近くにいます"
+
+msgid "🗺 Your friends add new places"
+msgstr "🗺友だちが新しい場所を追加しました"
+
+msgid "Hey! @%s has shared the map of their favorite places! Check it out on Mapstr."
+msgstr "こんにちは！@%sさんがお気に入りの場所のマップを共有しました！Mapstrでチェックしよう。"
+
+msgid "Hey! Check out my %s places! Join me on Mapstr, I'm @%s."
+msgstr "ねぇ、私の%s件の場所をチェックしてみて！一緒にMapstrを使おう。私は＠%sです。"
+
+msgid "Hey! I'd love to see the best places you've been to. Join me on Mapstr, I'm @%s."
+msgstr "ねぇ、あなたの行った最高の場所を教えて！一緒にMapstrを使おう。私は＠%sです。"
+
+msgid "Hey! Look at the %u places %s has added to their map! Find it on Mapstr."
+msgstr "ねぇ、%sさんがマップに追加した%u件の場所を見てみて！Mapstrでチェックしよう。"
+
+msgid "Hey! Look at the %u places I've added to my map! Join me on Mapstr, I'm @%s."
+msgstr "ねぇ、マイマップに追加した%u件の場所を見てみて！一緒にMapstrを使おう。私は＠%sです。"
+
+msgid "Hey! What are your favorite places around the world? @%s is sharing their map on Mapstr."
+msgstr "ねぇ、世界のお気に入りの場所はどこ？Mapstrで@%sさんがマップを共有してるよ。"
+
+msgid "Hey! What are your favorite places around the world? Mine are on Mapstr! Check out my map, I'm @%s."
+msgstr "ねぇ！世界のお気に入りの場所はどこ？Mapstrで私のお気に入りを見れるよ！私のマップをチェックしてみて。私は＠%sです。"
+
+msgid "Hey! You should create a map of your favorite places and share it with me! Join me on Mapstr, I'm @%s."
+msgstr "ねぇ、お気に入りの場所のマップを作って、私と共有しない？一緒にMapstrを使おう。私は＠%sです。"
+
+msgid "%s wants you to check out %s's map!"
+msgstr "%sさんが%sさんのマップをチェックしてほしいとリクエストしています！"
+
+msgid "Do you have friends that always seem to know where to go? Invite them on Mapstr"
+msgstr "どこかに行くとき、いつも良い場所を知っている友だちがいますか？Mapstrに招待しよう"
+
+msgid "Be notified when you've got a new friend on Mapstr!"
+msgstr "Mapstrで新しい友だちができたとき、通知されます！"
+
+msgid "Don't miss out when you are nearby a place you like!"
+msgstr "近くのお気に入りの場所を見逃さないようにしよう！"
+
+msgid "Get notified when your friends add new places!"
+msgstr "友だちが新しい場所を追加すると、通知されます！"
+
+msgid "Share your map and get more friends!"
+msgstr "マップを共有して友だちを増やそう！"
+
+msgid "Discover friends that are already waiting for you on Mapstr!"
+msgstr "Mapstrであなたを待っている友だちを発見しよう！"
+
+msgid "You've got some invitations on Mapstr!"
+msgstr "Mapstrの招待状が届きました！"
+
+msgid "Someone has not responded to your invite. Resend it!"
+msgstr "招待状の返事が届いていない人がいます。再送信しよう！"
+
+#. TRANSLATORS: the code part of the string will be replaced by a friend's firstname
+msgctxt "{= Friend's firstname} has not responded to your invite. Resend it!"
+msgid "\\(self.friendName(relations.outgoingRequests)) has not responded to your invite. Resend it!"
+msgstr "\\(self.friendName(relations.outgoingRequests))さんから招待の返事が届いていません。再送信しよう！"
+
+msgid "Be alerted when a friend adds a new address"
+msgstr "友だちが新しい住所を追加したとき、アラートを受け取ります"
+
+msgid "Be alerted when one of your favorite places is nearby"
+msgstr "お気に入りの場所の近くにいるとき、アラートを受け取ります"
+
+msgid "Tap the bell on the place you want to be notified from"
+msgstr "通知を受け取りたい場所の上のベルをタップします"
+
+msgid "Longpress on a friend to activate the alerts"
+msgstr "友だちを長押ししてアラートを有効にします"
+
+msgid "Cool!"
+msgstr "いいね！"
+
+msgid "Tap here for more information"
+msgstr "ここをタップして詳細を表示します"
+
+msgid "You're only following %s at the moment 🙈"
+msgstr "現在フォローしているのは%sさんだけです🙈"
+
+msgid "Sign up to discover your friends' favorite places and create your own map!"
+msgstr "サインアップして友だちのお気に入りの場所を発見したり、自分のマップを作成したりしよう！"
+
+msgid "Discover more maps"
+msgstr "他のマップを見る"
+
+msgid "Create your own map"
+msgstr "自分のマップを作る"
+
+msgid "Discover the map of %s"
+msgstr "%sさんのマップを発見"
+
+msgid "Now on Mapstr"
+msgstr "今すぐMapstrで"
+
+msgid "Discover the map"
+msgstr "マップを発見しよう"
+
+msgid "Skip"
+msgstr "スキップ"
+
+msgid "You should create your own map to be able to add places"
+msgstr "自分のマップを作成すると、場所を追加することができます"
+
+msgid "Later"
+msgstr "後で"
+
+msgid "%s has not responded to your invite. Resend it!"
+msgstr "%sさんから招待状の返事が届いていません。再送信しよう！"
+
+msgid "Sign up"
+msgstr "サインアップ"
+
+#. TRANSLATORS: it has to be very short, indicating it's a top of the user's friends places, or the most popular places among his friends. If necessary we can omit the 'places' keyword as in French (top de mes amis)
+msgid "Friends' top places"
+msgstr "友だちに人気の場所"
+
+msgid "Add a place"
+msgstr "場所を追加"
+
+msgid "Not this place?"
+msgstr "この場所ではありませんか？"
+
+#. 'One' refers to a place (it comes after a "not this place?" question)
+msgid "Choose another one"
+msgstr "別の場所を選択"
+
+msgid "Directly add your location"
+msgstr "現在地に直接追加する"
+
