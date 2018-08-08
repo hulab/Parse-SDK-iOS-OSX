@@ -1,0 +1,18 @@
+/* Notification Body - Your friend {firstname} just joined Mapstr! */
+"NEW_FB_FRIEND_BODY" = "友だちの%@さんがMapstrに参加しました！";
+/* Notification Body - {firstname} just saved a new place on his map! */
+"NEW_SAVED_PLACE_BODY" = "%@さんがマップに%@を保存しました！";
+/* Notification Title - New invite! */
+"NEW_INVITE_TITLE" = "新しい招待状！";
+/* Notification Body - {firstname} has invited you on Mapstr. */
+"NEW_INVITE_BODY" = "%@さんからMapstrに招待されました！";
+/* Notification Title - Invite accepted! */
+"ACCEPTED_INVITE_TITLE" = "招待が承諾されました！";
+/* Notification Body - {firstname} has accepted your invite. */
+"ACCEPTED_INVITE_BODY" = "%@さんが招待を承諾しました。";
+/* Notification Title - new Follower! */
+"NEW_FOLLOWER_TITLE" = "新しいフォロワーがいます！";
+/* Notification Body - {fullname} is now following you */
+"NEW_FOLLOWER_BODY" = "%@さんがあなたをフォローしました";
+/* Notification Title - New place! */
+"NEW_SAVED_PLACE_TITLE" = "新しい場所！";

@@ -1,0 +1,35 @@
+/* Application Name */
+"CFBundleDisplayName" = "Mapstr";
+
+/* Authorization comment to access Camera */
+"NSCameraUsageDescription" = "住所をスキャンするには、Mapstrはカメラにアクセスする必要があります！";
+
+/* Authorization comment to access Location */
+"NSLocationUsageDescription" = "周辺の場所を表示するには、Mapstrはあなたの位置情報にアクセスする必要があります！";
+
+/* Authorization comment to access Location when app is use */
+"NSLocationWhenInUseUsageDescription" = "周辺の場所を表示するには、Mapstrはあなたの位置情報にアクセスする必要があります！";
+
+/* Authorization comment to access Contacts */
+"NSContactsUsageDescription" = "連絡先をマップにインポートするには、Mapstrは連絡先にアクセスする必要があります！";
+
+/* Authorization comment to access Photo Library */
+"NSPhotoLibraryUsageDescription" = "自分の写真を追加するには、Mapstrはフォトライブラリにアクセスする必要があります！";
+
+/* Shortcut Item -  Nearby Search */
+"UIApplicationShortcutItemTitle_NEARBY" = "周辺の検索";
+
+/* Shortcut Item subtitle -  Add a place around you */
+"UIApplicationShortcutItemSubtitle_NEARBY" = "周辺の場所を追加する";
+
+/* Shortcut Item -  Text Search */
+"UIApplicationShortcutItemTitle_ADDBYTEXT" = "テキスト検索";
+
+/* Shortcut Item subtitle -  Add a place by its name */
+"UIApplicationShortcutItemSubtitle_ADDBYTEXT" = "名前で場所を追加する";
+
+/* Authorization comment to access Location when app is in background */
+"NSLocationAlwaysUsageDescription" = "近くの場所を通知するには、Mapstrはバックグラウンドであなたの位置情報にアクセスする必要があります！";
+
+/* Authorization comment to access Location when app is in use or in background */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "近くの場所を通知するには、Mapstrはバックグラウンドであなたの位置情報にアクセス（「常に許可」）する必要があります";
