@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-07-05 08:27+0000\nPO-Revision-Date: 2018-08-07 16:56+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-07-05 08:27+0000\nPO-Revision-Date: 2018-08-10 07:06+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -1717,7 +1717,7 @@ msgstr "Notifications"
 
 #. Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue.
 msgid "Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue."
-msgstr "Oups, apparemment il y a un problème avec votre compte. Merci de réessayez pus tard, ou contactez-nous sur hello@mapstr.com si le problème persiste."
+msgstr "Oups, apparemment il y a un problème avec votre compte. Merci de réessayer pus tard, ou contactez-nous sur hello@mapstr.com si le problème persiste."
 
 #. Places
 msgid "Places"
