@@ -35,6 +35,6 @@ Pod::Spec.new do |s|
     ss.resources = 'ios/*.lproj'
   end
 
-  s.dependency 'POLocalizedString', '1.1.1'
+  s.dependency 'POLocalizedString', '~> 1.1.1'
 
 end
