@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-07-05 08:27+0000\n"
-"PO-Revision-Date: 2018-07-05 08:27+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: en\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-07-05 08:27+0000\nPO-Revision-Date: 2018-09-07 13:34+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: English <https://translation.hulab.co/projects/mapstr/mapstr/en/>\nLanguage: en\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -118,7 +108,7 @@ msgstr "Always Open"
 
 #. An error occured, please try again later
 msgid "An error occured, please try again later"
-msgstr "An error occured, please try again later"
+msgstr "An error occurred, please try again later"
 
 #. Analyzing...
 msgid "Analyzing..."
@@ -745,7 +735,7 @@ msgstr "We're so sorry to hear that!\nPlease, tell us what you think we should d
 
 #. We're sorry, but it seems an error occured! Please try again later...
 msgid "We're sorry, but it seems an error occured! Please try again later..."
-msgstr "We're sorry, but it seems an error occured! Please try again later..."
+msgstr "We're sorry, but it seems an error occurred! Please try again later..."
 
 #. We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore.
 msgid "We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore."
@@ -2396,8 +2386,8 @@ msgstr "Get inspired by following public maps."
 msgid "Write something..."
 msgstr "Write something..."
 
-#, c-format
 #. TRANSLATORS: %i refers to the number of places to send (integer)
+#, c-format
 msgid "Send %i place"
 msgid_plural "Send %i places"
 msgstr[0] "Send %i place"
