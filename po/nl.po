@@ -152,8 +152,8 @@ msgstr "Nieuwe plek"
 msgid "Always Open"
 msgstr "Altijd open"
 
-#. An error occured, please try again later
-msgid "An error occured, please try again later"
+#. An error occurred, please try again later
+msgid "An error occurred, please try again later"
 msgstr "Er is een fout opgetreden, probeer het later opnieuw"
 
 #. Analyzing...
@@ -779,8 +779,8 @@ msgstr "We zullen zo snel mogelijk contact met u opnemen :)"
 msgid "We're so sorry to hear that!\nPlease, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike..."
 msgstr "Wat vervelend om dat te horen!\nVertel ons wat u denkt dat we moeten doen om Mapstr te verbeteren, of vertel ons wat u niet leuk vindt..."
 
-#. We're sorry, but it seems an error occured! Please try again later...
-msgid "We're sorry, but it seems an error occured! Please try again later..."
+#. We're sorry, but it seems an error occurred! Please try again later...
+msgid "We're sorry, but it seems an error occurred! Please try again later..."
 msgstr "Sorry, maar er is een fout opgetreden! Probeer het later opnieuw..."
 
 #. We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore.

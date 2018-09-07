@@ -151,8 +151,8 @@ msgstr "新しい場所"
 msgid "Always Open"
 msgstr "常にオープン"
 
-#. An error occured, please try again later
-msgid "An error occured, please try again later"
+#. An error occurred, please try again later
+msgid "An error occurred, please try again later"
 msgstr "エラーが発生しました。後でもう一度お試しください"
 
 #. Analyzing...
@@ -778,8 +778,8 @@ msgstr "できるだけ早くご連絡します"
 msgid "We're so sorry to hear that!\nPlease, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike..."
 msgstr "それは大変残念です！\nMapstrを改善するにはどうすればよいか、またはあなたが不満に思う点を教えてください…"
 
-#. We're sorry, but it seems an error occured! Please try again later...
-msgid "We're sorry, but it seems an error occured! Please try again later..."
+#. We're sorry, but it seems an error occurred! Please try again later...
+msgid "We're sorry, but it seems an error occurred! Please try again later..."
 msgstr "申し訳ありませんが、エラーが発生したようです。後でもう一度お試しください…"
 
 #. We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore.
