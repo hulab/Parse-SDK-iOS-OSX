@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-07-05 08:27+0000\nPO-Revision-Date: 2018-08-10 07:06+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-07-05 08:27+0000\nPO-Revision-Date: 2018-09-07 13:53+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: French <https://translation.hulab.co/projects/mapstr/mapstr/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -1635,11 +1635,11 @@ msgstr "Restaurants & Cafés"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr "Découvrez PODIUM !"
+msgstr "Envoyez des messages à vos amis !"
 
 #. Whats New Description
 msgid "Whats New Description"
-msgstr "Accédez aux adresses les plus ajoutées par vos amis et par les comptes officiels que vous suivez"
+msgstr "🏕 Partagez des adresses\n🤩 Demandez plus d'infos\n💌 Envoyez un « merci selfie »"
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"
@@ -2407,3 +2407,6 @@ msgstr "Appuyez sur le bouton ci-dessous pour démarrer votre première discussi
 
 msgid "Find the maps you follow here"
 msgstr "Retrouvez ici les cartes que vous suivez"
+
+msgid "Tap here to message your friends"
+msgstr "Appuyez ici pour envoyer des messages à vos amis"
