@@ -1,24 +1,35 @@
 /* Application Name */
 "CFBundleDisplayName" = "mapstr";
+
 /* Authorization comment to access Camera */
 "NSCameraUsageDescription" = "Mapstr moet de toegang hebben tot de camera om een adres te scannen!";
+
 /* Authorization comment to access Location */
 "NSLocationUsageDescription" = "Mapstr heeft toegang nodig tot je locatie om de plaatsen om je heen te laten zien!";
+
 /* Authorization comment to access Location when app is use */
 "NSLocationWhenInUseUsageDescription" = "Mapstr heeft toegang nodig tot je locatie om plaatsen om je heen te laten zien!";
+
 /* Authorization comment to access Contacts */
 "NSContactsUsageDescription" = "Mapstr heeft toegang nodig tot je contactpersonen om ze in je kaart te importeren!";
+
 /* Authorization comment to access Photo Library */
 "NSPhotoLibraryUsageDescription" = "Mapstr heeft toegang nodig tot je fotobibliotheek om je je eigen foto toe te laten voegen!";
+
 /* Shortcut Item -  Nearby Search */
 "UIApplicationShortcutItemTitle_NEARBY" = "In de omgeving zoeken";
+
 /* Shortcut Item subtitle -  Add a place around you */
 "UIApplicationShortcutItemSubtitle_NEARBY" = "Voeg een plek om u heen toe";
+
 /* Shortcut Item -  Text Search */
 "UIApplicationShortcutItemTitle_ADDBYTEXT" = "Tekst zoeken";
+
 /* Shortcut Item subtitle -  Add a place by its name */
 "UIApplicationShortcutItemSubtitle_ADDBYTEXT" = "Voeg een plek toe via de naam";
+
 /* Authorization comment to access Location when app is in background */
 "NSLocationAlwaysUsageDescription" = "Mapstr heeft toegang nodig tot je locatie voor nabijheidsmeldingen!";
+
 /* Authorization comment to access Location when app is in use or in background */
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "Mapstr moet toegang hebben tot je locatie op de achtergrond (\"Altijd toestaan\") voor meldingen van nabijgelegen plaatsen";

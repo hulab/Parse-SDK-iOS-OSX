@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-08-04 10:23+0000\n"
-"PO-Revision-Date: 2018-08-04 10:23+0000\n"
+"POT-Creation-Date: 2018-09-11 16:25+0000\n"
+"PO-Revision-Date: 2018-09-11 16:25+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: pt_BR\n"
@@ -10,43 +10,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-msgid "Your map is empty 🙈"
-msgstr "Seu mapa está vazio 🙈"
-
-msgid "Create a personal map full of your favorite places, and discover the best spots from your friends, influencers and publishers."
-msgstr "Crie um mapa pessoal cheio de seus lugares favoritos e descubra os melhores lugares de seus amigos, influenciadores e editores."
-
-msgid "Add my first place"
-msgstr "Adicionar meu primeiro lugar"
-
-msgid "Explore official maps"
-msgstr "Explorar mapas oficiais"
-
-msgid "Get inspired by following public maps."
-msgstr "Inspire-se ao seguir mapas públicos."
-
-msgid "Write something..."
-msgstr "Escreva algo..."
-
-#. TRANSLATORS: %i refers to the number of places to send (integer)
-#, c-format
-msgid "Send %i place"
-msgid_plural "Send %i places"
-msgstr[0] "Enviar %i lugar"
-msgstr[1] "Enviar %i lugares"
-
-msgid "New chat"
-msgstr "Nova conversa"
-
-msgid "Chats"
-msgstr "Conversas"
-
-msgid "You can chat with friends who have Mapstr installed on their phone"
-msgstr "Você pode conversar com amigos que têm o Mapstr instalado em seus telefones"
-
-msgid "Tap on the button below to start your first chat."
-msgstr "Toque no botão abaixo para iniciar sua primeira conversa."
 
 #. Add
 msgid "Add"
@@ -2412,3 +2375,47 @@ msgstr "Escolher outro"
 
 msgid "Directly add your location"
 msgstr "Adicione sua localização diretamente"
+
+msgid "Your map is empty 🙈"
+msgstr "Seu mapa está vazio 🙈"
+
+msgid "Create a personal map full of your favorite places, and discover the best spots from your friends, influencers and publishers."
+msgstr "Crie um mapa pessoal cheio de seus lugares favoritos e descubra os melhores lugares de seus amigos, influenciadores e editores."
+
+msgid "Add my first place"
+msgstr "Adicionar meu primeiro lugar"
+
+msgid "Explore official maps"
+msgstr "Explorar mapas oficiais"
+
+msgid "Get inspired by following public maps."
+msgstr "Inspire-se ao seguir mapas públicos."
+
+msgid "Write something..."
+msgstr "Escreva algo..."
+
+#. TRANSLATORS: %i refers to the number of places to send (integer)
+#, c-format
+msgid "Send %i place"
+msgid_plural "Send %i places"
+msgstr[0] "Enviar %i lugar"
+msgstr[1] "Enviar %i lugares"
+
+msgid "New chat"
+msgstr "Nova conversa"
+
+msgid "Chats"
+msgstr "Conversas"
+
+msgid "You can chat with friends who have Mapstr installed on their phone"
+msgstr "Você pode conversar com amigos que têm o Mapstr instalado em seus telefones"
+
+msgid "Tap on the button below to start your first chat."
+msgstr "Toque no botão abaixo para iniciar sua primeira conversa."
+
+msgid "Find the maps you follow here"
+msgstr "Encontre os mapas que você segue aqui"
+
+msgid "Tap here to message your friends"
+msgstr "Toque aqui para enviar mensagens aos amigos"
+

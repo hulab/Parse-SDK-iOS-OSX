@@ -1,52 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-08-04 10:23+0000\n"
-"PO-Revision-Date: 2018-08-06 12:59+0000\n"
-"Last-Translator: Sebastien <sebastien@mapstr.com>\n"
-"Language-Team: Dutch <https://translation.hulab.co/projects/mapstr/mapstr/nl/>\n"
+"POT-Creation-Date: 2018-09-11 16:25+0000\n"
+"PO-Revision-Date: 2018-09-11 16:25+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-msgid "Your map is empty 🙈"
-msgstr "Je kaart is leeg 🙈"
-
-msgid "Create a personal map full of your favorite places, and discover the best spots from your friends, influencers and publishers."
-msgstr "Maak een persoonlijke kaart aan met je favoriete locaties en ontdek de beste plekken via je vrienden, trendsetters en uitgevers."
-
-msgid "Add my first place"
-msgstr "Mijn eerste plaats toevoegen"
-
-msgid "Explore official maps"
-msgstr "Officiële kaarten bekijken"
-
-msgid "Get inspired by following public maps."
-msgstr "Laat je inspireren door openbare kaarten."
-
-msgid "Write something..."
-msgstr "Schrijf iets…"
-
-#. TRANSLATORS: %i refers to the number of places to send (integer)
-#, c-format
-msgid "Send %i place"
-msgid_plural "Send %i places"
-msgstr[0] "%i plaats sturen"
-msgstr[1] "%i plaatsen sturen"
-
-msgid "New chat"
-msgstr "Nieuwe chat"
-
-msgid "Chats"
-msgstr "Chats"
-
-msgid "You can chat with friends who have Mapstr installed on their phone"
-msgstr "Je kunt chatten met vrienden die Mapstr op hun telefoon hebben geïnstalleerd"
-
-msgid "Tap on the button below to start your first chat."
-msgstr "Tik op de knop hieronder voor je eerste chat."
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Add
 msgid "Add"
@@ -54,11 +17,11 @@ msgstr "Toevoegen"
 
 #. Next
 msgid "Next"
-msgstr "Naast"
+msgstr "Volgende"
 
 #. Resend Invite
 msgid "Resend Invite"
-msgstr "Opnieuw Uitnodigen"
+msgstr "Opnieuw uitnodigen"
 
 #. Already on Mapstr!
 msgid "Already on Mapstr!"
@@ -70,7 +33,7 @@ msgstr "Voeg je vrienden toe en ontdek hun favoriete plekken."
 
 #. Account visibility
 msgid "Account visibility"
-msgstr "Account zichtbaarheid"
+msgstr " Zichtbaarheid account"
 
 #. Do you also want to disable nearby alerts for every existing places with this tag?
 msgid "Do you also want to disable nearby alerts for every existing places with this tag?"
@@ -78,15 +41,15 @@ msgstr "Wil je plaatselijke meldingen ook uitschakelen voor elke bestaande plaat
 
 #. Disable nearby alerts for this tag
 msgid "Disable nearby alerts for this tag"
-msgstr "Zet meldingen voor deze tag uit"
+msgstr "Meldingen voor deze tag uitschakelen"
 
 #. Enable nearby alerts for this tag
 msgid "Enable nearby alerts for this tag"
-msgstr "Zet meldingen voor deze tag aan"
+msgstr "Meldingen voor deze tag inschakelen"
 
 #. Following
 msgid "Following"
-msgstr "Volgende"
+msgstr "Volgend"
 
 #. Visible profile
 msgid "Visible profile"
@@ -95,11 +58,11 @@ msgstr "Zichtbaar profiel"
 #. By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.
 #. In both cases your map remains strictly private and is only accessible by your friends after you accept their invitation.
 msgid "By default, your profile will appear in the friends search results to help your friends find you. If you don't want to, you can choose not to appear, and only the users who know your exact username will be able to find you.\n\nIn both cases your map remains strictly private and is only accessible by your friends after you accept their invitation."
-msgstr "Standaard wordt je profiel weergegeven in de zoekresultaten van vrienden om je vrienden te helpen je te vinden. Als je dat niet wilt, kun je ervoor kiezen om niet te verschijnen. Alleen de gebruikers die je exacte gebruikersnaam kennen, kunnen je dan vinden.\n\nIn beide gevallen blijft je kaart strikt privé en deze is alleen toegankelijk door je vrienden nadat je hun uitnodiging hebt geaccepteerd."
+msgstr "Standaard wordt je profiel weergegeven in de zoekresultaten van vrienden om je vrienden te helpen je te vinden. Als je dat niet wilt, kun je ervoor kiezen om niet te verschijnen. Alleen de gebruikers die je exacte gebruikersnaam kennen, kunnen je dan vinden.\n\nIn beide gevallen blijft je kaart strikt privé en deze is alleen toegankelijk voor je vrienden nadat je hun uitnodiging hebt geaccepteerd."
 
 #. Type the name or username of the person you are looking for...
 msgid "Type the name or username of the person you are looking for..."
-msgstr "Typ de naam of gebruikersnaam in van de persoon die je zoekt..."
+msgstr "Voer de naam of gebruikersnaam in van de persoon die je zoekt…"
 
 #. Place Sharing - in {CityName}
 #, c-format
@@ -130,19 +93,19 @@ msgstr "Actief"
 
 #. Add a friend
 msgid "Add a friend"
-msgstr "Voeg een vriend toe"
+msgstr "Vriend toevoegen"
 
 #. Add an account
 msgid "Add an account"
-msgstr "Een account toevoegen"
+msgstr "Account toevoegen"
 
 #. Add place address
 msgid "Add place address"
-msgstr "Voeg een adres toe"
+msgstr "Adres toevoegen"
 
 #. Add place name
 msgid "Add place name"
-msgstr "Voeg plaatsnaam toe"
+msgstr "Plaatsnaam toevoegen"
 
 #. Screen Title: New place
 msgid "New place"
@@ -158,7 +121,7 @@ msgstr "Er is een fout opgetreden, probeer het later opnieuw"
 
 #. Analyzing...
 msgid "Analyzing..."
-msgstr "Analyseren..."
+msgstr "Analyseren…"
 
 msgid "Are you sure?"
 msgstr "Weet je het zeker?"
@@ -169,7 +132,7 @@ msgstr "Resetten"
 
 #. Reset your password?
 msgid "Reset your password?"
-msgstr "Je wachtwoord opnieuw instellen?"
+msgstr "Je wachtwoord herstellen?"
 
 #. Around there
 msgid "Around there"
@@ -204,16 +167,16 @@ msgstr "Cellulair"
 
 #. Action Sheet: Change tag's color
 msgid "Change tag's color"
-msgstr "Wijzig labelkleur"
+msgstr "Labelkleur wijzigen"
 
 #. Action Sheet: Change tag's name
 msgid "Change tag's name"
-msgstr "Wijzig labelnaam"
+msgstr "Labelnaam wijzigen"
 
 #. Place Sharing - Check out {place name}
 #, c-format
 msgid "Check out %s"
-msgstr "Uitchecken %s"
+msgstr "%s uitchecken"
 
 #. Completed
 msgid "Completed"
@@ -221,27 +184,27 @@ msgstr "Voltooid"
 
 #. Confirm password
 msgid "Confirm password"
-msgstr "Bevestig wachtwoord"
+msgstr "Wachtwoord bevestigen"
 
 #. Contacts
 msgid "Contacts"
-msgstr "Contacten"
+msgstr "Contactpersonen"
 
 #. Alert message: Continue
 msgid "Continue"
-msgstr "Voortzetten"
+msgstr "Doorgaan"
 
 #. Add a new Place - Section header: Create a custom place
 msgid "Create a custom place"
-msgstr "Maak een aangepaste plaats"
+msgstr "Een aangepaste plaats aanmaken"
 
 #. Create a new tag
 msgid "Create a new tag"
-msgstr "Maak een nieuwe label"
+msgstr "Een nieuw label maken"
 
 #. Create the place
 msgid "Create the place"
-msgstr "Maak de plaats"
+msgstr "De plaat aanmaken"
 
 #. Indicates that the place is currently close
 msgid "Currently Closed"
@@ -249,7 +212,7 @@ msgstr "Momenteel gesloten"
 
 #. Indicates that the place is currently opened
 msgid "Currently Open"
-msgstr "Momenteel Open"
+msgstr "Momenteel open"
 
 #. Custom place
 msgid "Custom place"
@@ -261,11 +224,11 @@ msgstr "Verwijderen"
 
 #. Action sheet: Delete Place
 msgid "Delete Place"
-msgstr "Verwijder plaats"
+msgstr "Plaats verwijderen"
 
 #. Action Sheet: delete tag
 msgid "Delete tag"
-msgstr "Verwijder label"
+msgstr "Label verwijder"
 
 #. Delete this photo?
 msgid "Delete this photo?"
@@ -277,7 +240,7 @@ msgstr "Loskoppelen"
 
 #. Facebook login error - Disconnected account
 msgid "Disconnected account"
-msgstr "Rekening loskoppelen"
+msgstr "Account loskoppelen"
 
 #. Disconnecting...
 msgid "Disconnecting..."
@@ -285,7 +248,7 @@ msgstr "Loskoppelen..."
 
 #. Do you really want to disconnect from this account?
 msgid "Do you really want to disconnect from this account?"
-msgstr "Wilt u dit account echt loskoppelen?"
+msgstr "Wil je dit account echt loskoppelen?"
 
 #. Edit
 msgid "Edit"
@@ -293,11 +256,11 @@ msgstr "Bewerken"
 
 #. Alert message: Could not signup, e-mail already taken
 msgid "E-mail address already used, please provide another e-mail or login"
-msgstr "E-mailadres is al gebruikt, geef een ander e-mailadres of login op"
+msgstr "E-mailadres is al gebruikt, geef een ander e-mailadres of andere inloggegevens op"
 
 #. E-mail not found
 msgid "E-mail not found"
-msgstr "E-mailadres is niet gevonden"
+msgstr "E-mailadres niet gevonden"
 
 #. E-mail sent!
 msgid "E-mail sent!"
@@ -333,7 +296,7 @@ msgstr "Algemene instellingen"
 
 #. Launch Screen - Get Started
 msgid "Get Started"
-msgstr "Beginnen"
+msgstr "Aan de slag"
 
 #. Happy with Mapstr
 msgid "Happy with Mapstr?"
@@ -345,7 +308,7 @@ msgstr "Hulp"
 
 #. Hey do you like Mapstr?
 msgid "Hey do you like Mapstr?"
-msgstr "We zijn altijd op zoek naar verbetering, en wij willen echt weten wat u van mapstr vindt.\nVertel ons, bent u tevreden met mapstr?"
+msgstr "We zijn altijd op zoek naar verbetering en willen echt weten wat je van mapstr vindt.\nDus zeg het maar, ben je tevreden met mapstr?"
 
 #. Contact email - Subject
 msgid "Hey Mapstr!"
@@ -357,15 +320,15 @@ msgstr "Hey Mapstr, je kon dit bestand niet lezen!"
 
 #. Onboarding - I'm sure!
 msgid "I'm sure!"
-msgstr "Ik ben er zeker van!"
+msgstr "Ik weet het zeker!"
 
 #. Identifying...
 msgid "Identifying..."
-msgstr "Het identificeren van ..."
+msgstr "Identificeren…"
 
 #. It's a 6 letters password. Do you want to receive an email with a link to reset it?
 msgid "It's a 6 letters password.\nDo you want to receive an email with a link to reset it?"
-msgstr "Het is een wachtwoord met 6 letters.\nWilt u een e-mail met een link om het te resetten?"
+msgstr "Het is een wachtwoord met 6 letters.\nWil je een e-mail met een link om het te resetten?"
 
 #. Import
 msgid "Import"
@@ -373,7 +336,7 @@ msgstr "Importeren"
 
 #. Import Place
 msgid "Import Place"
-msgstr "Importeer plaats"
+msgstr "Plaats importeren"
 
 #. Inactive
 msgid "Inactive"
@@ -389,7 +352,7 @@ msgstr "Ongeldig wachtwoord"
 
 #. Facebook login error - It seems your account is disconnected. We'll try to reconnect.
 msgid "It seems your account is disconnected. We'll try to reconnect."
-msgstr "Het lijkt erop dat uw account is losgekoppeld. We zullen proberen om opnieuw te verbinden."
+msgstr "Het lijkt erop dat je account is losgekoppeld. We zullen proberen opnieuw te verbinden."
 
 #. Last name
 msgid "Last name"
@@ -421,11 +384,11 @@ msgstr "Rondkijken..."
 
 #. Device camera unavailable
 msgid "Mapstr was not able to access the camera!"
-msgstr "Mapstr was niet in staat om toegang te krijgen tot de camera!"
+msgstr "Mapstr heeft geen toegang tot de camera!"
 
 #. Device location unavailable - location not determined
 msgid "Mapstr was not able to find your location... We're so sorry! Please try again later!"
-msgstr "Mapstr was niet in staat om uw locatie te vinden... Het spijt ons! Probeer het later opnieuw!"
+msgstr "Mapstr was niet in staat om je locatie te vinden... Het spijt ons! Probeer het later opnieuw!"
 
 #. Maybe later
 msgid "Maybe later"
@@ -433,7 +396,7 @@ msgstr "Misschien later"
 
 #. Screen Title: Modify place
 msgid "Modify place"
-msgstr "Wijzig plaats"
+msgstr "Plaats wijzigen"
 
 #. Current user map name
 msgid "My Map"
@@ -480,7 +443,7 @@ msgstr "Nee, bedankt"
 
 #. Nobody here?
 msgid "Nobody here?"
-msgstr "Niemand hier?"
+msgstr "Is daar iemand?"
 
 #. Not now
 msgid "Not now"
@@ -500,15 +463,15 @@ msgstr "OK"
 
 #. Ok, let's do it!
 msgid "Ok, let's do it!"
-msgstr "Oke, laten we het doen!"
+msgstr "Oke, klinkt goed!"
 
 #. Ooooops, something went wrong
 msgid "Ooooops, something went wrong"
-msgstr "Ooooops, er ging iets mis"
+msgstr "Oeps, er ging iets mis"
 
 #. Oops
 msgid "Oops"
-msgstr "Oops"
+msgstr "Oeps"
 
 msgid "Open in Safari"
 msgstr "In Safari openen"
@@ -523,7 +486,7 @@ msgstr "Anders"
 
 #. Password (6 letters min.)
 msgid "Password (6 letters min.)"
-msgstr "Wachtwoord (6 letters min.)"
+msgstr "Wachtwoord (min. 6 letters)"
 
 #. Photo Error
 msgid "Photo Error"
@@ -535,23 +498,23 @@ msgstr "Fotoscan"
 
 #. Select Place - Section header: PLACES AROUND
 msgid "PLACES AROUND"
-msgstr "Plaatsen rondom"
+msgstr "PLAATSEN IN DE BUURT"
 
 #. Please, check your emails to reset your password
 msgid "Please, check your emails to reset your password"
-msgstr "Gelieve daarna uw e-mail te bekijken om uw wachtwoord opnieuw in te stellen"
+msgstr "Controleer je Postvak IN om je wachtwoord opnieuw in te stellen"
 
 #. Please, connect to your Foursquare account and allow Mapstr to import your places
 msgid "Please, connect to your Foursquare account and allow Mapstr to import your places"
-msgstr "Gelieve aan te melden bij uw Foursquare-account en Mapstr uw plaatsen laten importeren"
+msgstr "Meld je aan met je Foursquare-account en laat Mapstr al je plaatsen importeren"
 
 #. Please, enter your password to connect to this account.
 msgid "Please, enter your password to connect to this account."
-msgstr "Voer uw wachtwoord in om verbinding te maken met dit account."
+msgstr "Voer je wachtwoord in om verbinding te maken met dit account."
 
 #. More search results: Pull up to load more
 msgid "Pull up to load more"
-msgstr "Trek omlaag om meer te laden"
+msgstr "Trek omhoog om meer te laden"
 
 #. Tag drawer - Release to select all tags
 msgid "Release to select all"
@@ -559,7 +522,7 @@ msgstr "Laat los om alles te selecteren"
 
 #. Tag drawer - Release to change sort of tags
 msgid "Release to change sort"
-msgstr "Laat los om soort te veranderen"
+msgstr "Laat los om sortering te veranderen"
 
 #. Remove
 msgid "Remove"
@@ -567,7 +530,7 @@ msgstr "Verwijderen"
 
 #. Retrieving place details...
 msgid "Retrieving place details..."
-msgstr "Plaatsgegevens ophalen ..."
+msgstr "Plaatsgegevens ophalen…"
 
 #. Go
 msgid "Go"
@@ -599,7 +562,7 @@ msgstr "Kies een afbeelding uit de bibliotheek"
 
 #. Screen Title: Select Place
 msgid "Select your place"
-msgstr "Selecteer uw regio"
+msgstr "Selecteer je regio"
 
 #. Send
 msgid "Send"
@@ -663,20 +626,20 @@ msgstr "Bedankt!"
 
 #. Thank You! That means a lot, and we'll do our best to keep it that way! If you have a minute, it would be great if you could rate us on the App Store...
 msgid "Thank You! That means a lot, and we'll do our best to keep it that way! If you have a minute, it would be great if you could rate us on the App Store..."
-msgstr "Het betekent veel voor ons, en we zullen ons best doen om dat zo te houden!\nAls u een minuut heeft zou het geweldig zijn als u ons zou kunnen beoordelen op de App Store..."
+msgstr "Het betekent veel voor ons, en we zullen ons best doen om dat zo te houden!\nAls je een minuutje hebt zou het geweldig zijn als je een recensie schrijft in de App Store..."
 
 #. Contact email - Thank you Title
 msgid "Thanks for your feedback!"
-msgstr "Bedankt voor uw feedback!"
+msgstr "Bedankt voor je feedback!"
 
 #. The place {place name} has been successfully imported into your map.
 #, c-format
 msgid "The place %s has been successfully imported into your map."
-msgstr "De plaats %s is met succes naar uw kaart geïmporteerd."
+msgstr "De plaats %s is naar uw kaart geïmporteerd."
 
 #. The tag "{tag name}" already exists
 msgid "The tag \\\"%s\\\" already exists!"
-msgstr "De label \"%s\" bestaat al!"
+msgstr "Het label \"%s\" bestaat al!"
 
 #. This email is already linked to another account!
 msgid "This email is already linked to another account!"
@@ -684,7 +647,7 @@ msgstr "Dit e-mailadres is al gekoppeld aan een ander account!"
 
 #. This email isn't linked to any account. Please enter a valid email.
 msgid "This email isn't linked to any account. Please enter a valid email."
-msgstr "Dit e-mailadres is niet gekoppeld aan een account. Gelieve een geldig e-mailadres in te vullen."
+msgstr "Dit e-mailadres is niet gekoppeld aan een account. Vul een geldig e-mailadres in."
 
 #. This place does not exist!
 msgid "This place does not exist!"
@@ -692,7 +655,7 @@ msgstr "Deze plaats bestaat niet!"
 
 #. This place is already on your map!
 msgid "This place is already on your map!"
-msgstr "Deze plek staat al op uw kaart!"
+msgstr "Deze plaats staat al op je kaart!"
 
 #. Default tag: To try
 msgid "To try"
@@ -708,11 +671,11 @@ msgstr "Naam of adres"
 
 #. Add the name or address of the place you're looking for...
 msgid "Add the name or address of the place you're looking for..."
-msgstr "Voeg de naam of het adres van de plaats waar u naar op zoek bent toe..."
+msgstr "Voeg de naam of het adres van de plaats toe dat/die je zoekt..."
 
 #. Add your friends, share your map with them, and discover their world!
 msgid "Add your friends, share your map with them, and discover their world!"
-msgstr "Voeg uw vrienden toe, deel uw kaart met ze en ontdek hun wereld!"
+msgstr "Voeg vrienden toe, deel je kaart met ze en ontdek hun wereld!"
 
 #. Update
 msgid "Update"
@@ -720,15 +683,15 @@ msgstr "Bijwerken"
 
 #. Uploading photo(s)...
 msgid "Uploading photo(s)..."
-msgstr "Foto(s) aan het uploaden..."
+msgstr "Foto(s) uploaden..."
 
 #. Utilities
 msgid "Utilities"
-msgstr "Nutsbedrijven"
+msgstr "Faciliteiten"
 
 #. Want to contact us?
 msgid "Want to contact us?"
-msgstr "Wilt u contact met ons opnemen?"
+msgstr "Wil je contact met ons opnemen?"
 
 #. Alert message: Warning Title
 msgid "Warning"
@@ -736,52 +699,52 @@ msgstr "Waarschuwing"
 
 #. Alert message: Google - Could not find any place with the address in autocomplete
 msgid "We couldn't understand this address. Please, try to take a clearer picture..."
-msgstr "We kunnen dit adres niet begrijpen. Gelieve, een duidelijkere foto te nemen..."
+msgstr "We begripen dit adres niet. Neem een duidelijkere foto..."
 
 #. Alert message: OCR - No address found in text
 msgid "We couln't recognize this address. Please, try to take a clearer picture..."
-msgstr "We konden dit adres niet herkennen. Probeer om een duidelijkere foto te nemen..."
+msgstr "We herkennen dit adres niet. Probeer een duidelijkere foto te nemen..."
 
 #. We haven't met yet!
 #. Please, tell more about you.
 msgid "We haven't met yet!\nPlease, tell more about you."
-msgstr "We hebben elkaar nog niet ontmoet!\nVertel eens wat meer over je."
+msgstr "We hebben elkaar nog niet ontmoet!\nVertel eens wat meer over jezelf."
 
 #. We really want to know what you think about mapstr!
 msgid "We really want to know what you think about mapstr!"
-msgstr "We willen heel graag weten wat u over mapstr denkt!"
+msgstr "We willen heel graag weten wat je van mapstr vindt!"
 
 msgid "We were not able to connect to our server. Please try again later..."
 msgstr "We waren niet in staat om verbinding te maken met onze server. Probeer het later opnieuw..."
 
 #. Alert message: Google - Could not geocode the address
 msgid "We were not able to locate this place on the map. We're sorry!"
-msgstr "We waren niet in staat om deze plaats op de kaart te vinden. Het spijt ons!"
+msgstr "We kunnen deze plaats niet op de kaart vinden. Het spijt ons!"
 
 #. We were not able to read this file. Please, send it to us, so that we can improve our import tool.
 msgid "We were not able to read this file. Please, send it to us, so that we can improve our import tool."
-msgstr "We waren niet in staat om dit bestand te lezen. Gelieve her naar ons te sturen zodat we onze import-tool kunnen verbeteren."
+msgstr "We konden dit bestand niet lezen. Stuur het naar ons op zodat we onze import-tool kunnen verbeteren."
 
 #. We were not able to save your photo, we're sorry for that. Please, try again later!
 msgid "We were not able to save your photo, we're sorry for that. Please, try again later!"
-msgstr "We waren niet in staat om uw foto op te slaan, het spijt ons. Gelieve het later opnieuw te proberen!"
+msgstr "We kunnen je foto niet opslaan. Probeer het later opnieuw!"
 
 #. We'll be happy to answer all your questions or suggestions!
 msgid "We'll be happy to answer all your questions or suggestions!"
-msgstr "We zullen graag al uw vragen of suggesties beantwoorden!"
+msgstr "We staan je graag te woord!"
 
 #. Contact email - Thank you message
 msgid "We'll get back to you as soon as we can :)"
-msgstr "We zullen zo snel mogelijk contact met u opnemen :)"
+msgstr "We zullen zo snel mogelijk contact opnemen :)"
 
 #. We're so sorry to hear that!
 #. Please, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike...
 msgid "We're so sorry to hear that!\nPlease, tell us what you think we should do to improve in Mapstr, or just tell us what you dislike..."
-msgstr "Wat vervelend om dat te horen!\nVertel ons wat u denkt dat we moeten doen om Mapstr te verbeteren, of vertel ons wat u niet leuk vindt..."
+msgstr "Wat vervelend om dat te horen!\nVertel ons wat je denkt dat we moeten doen om Mapstr te verbeteren, of vertel ons wat je niet leuk vindt..."
 
 #. We're sorry, but it seems an error occurred! Please try again later...
 msgid "We're sorry, but it seems an error occurred! Please try again later..."
-msgstr "Sorry, maar er is een fout opgetreden! Probeer het later opnieuw..."
+msgstr "Sorry, er is een fout opgetreden! Probeer het later opnieuw..."
 
 #. We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore.
 msgid "We're sorry, but it seems this place has been deleted by its owner and can't be accessed anymore."
@@ -792,11 +755,11 @@ msgid "Website"
 msgstr "Website"
 
 msgid "WiFi"
-msgstr "WiFi"
+msgstr "Wifi"
 
 #. Write a comment if you want to...
 msgid "Write a comment if you want to..."
-msgstr "Schrijf als u wilt een reactie..."
+msgstr "Schrijf een reactie..."
 
 #. Wrong password, try again
 msgid "Wrong password, try again"
@@ -813,23 +776,23 @@ msgstr "Ja, dat wil ik echt"
 #. Alert message: You are connecting to an existing account, you are going to loose your current anonymous places.
 #. If you wish to keep them please cancel and create a new account
 msgid "You are connecting to an existing account, you are going to loose your current anonymous places.\nIf you wish to keep them please create a new account"
-msgstr "U maakt verbinding met een bestaand account, u gaat uw huidige anonieme plaatsen verliezen.\nIndien u wenst te blijven kunt u een nieuw account aanmaken"
+msgstr "Je maakt verbinding met een bestaand account, je huidige anonieme plaatsen gaan verloren.\nAls je ze wilt bewaren, kun je een nieuw account aanmaken"
 
 #. Alert message: You cannot delete a tag if it is used in a place
 msgid "You cannot delete a tag used in a place"
-msgstr "U kunt geen label verwijderen dat gebruikt is op een plaats"
+msgstr "Je kunt een label dat gebruikt is op een plaats niet verwijderen"
 
 #. You have no friends yet
 msgid "You have no friends yet"
-msgstr "U hebt nog geen vrienden"
+msgstr "Je hebt nog geen vrienden"
 
 #. No Places - You have no places yet
 msgid "You have no places yet"
-msgstr "U hebt nog geen plaatsen"
+msgstr "Je hebt nog geen plaatsen"
 
 #. You haven't saved any place, yet.
 msgid "You haven't saved any place, yet."
-msgstr "U heeft nog geen plaats opgeslagen."
+msgstr "Je hebt nog geen plaats opgeslagen."
 
 #. No Places - {Username} hasn't saved any place, yet.
 #, c-format
@@ -838,43 +801,43 @@ msgstr "%s heeft nog geen opgeslagen plaatsen."
 
 #. Use the button below to add your first one!
 msgid "Use the button below to add your first one!"
-msgstr "Gebruik de onderstaande knop om uw eerste toe te voegen!"
+msgstr "Gebruik de onderstaande knop om je eerste toe te voegen!"
 
 #. You have the same!
 msgid "You have the same!"
-msgstr "U hebt dezelfde!"
+msgstr "Je hebt dezelfde!"
 
 #. You have to provide a name for this place
 msgid "You have to provide a name for this place"
-msgstr "U moet een naam voor deze plek opgeven"
+msgstr "Je moet een naam voor deze plek opgeven"
 
 #. You have to provide an address for this place
 msgid "You have to provide an address for this place"
-msgstr "U moet een adres voor deze plek opgeven"
+msgstr "Je moet een adres voor deze plek opgeven"
 
 #. You like Mapstr?
 msgid "You like Mapstr?"
-msgstr "Vind u Mapstr leuk?"
+msgstr "Bevalt Mapstr?"
 
 #. You must provide a valid URL
 msgid "You must provide a valid URL"
-msgstr "U moet een geldige URL opgeven"
+msgstr "Je moet een geldige URL opgeven"
 
 #. Alert message: A place need at list one tag
 msgid "You should add at least one tag"
-msgstr "U moet ten minste een tag toevoegen"
+msgstr "Je moet ten minste een tag toevoegen"
 
 #. You won't be able to retrieve your data if you change your phone or reinstall the app...
 msgid "You won't be able to retrieve your data if you change your phone or reinstall the app..."
-msgstr "U zult niet in staat zijn om uw gegevens op te halen als u een nieuwe telefoon neemt of de app opnieuw installeert..."
+msgstr "Je kunt je gegevens niet ophalen als je een nieuwe telefoon neemt of de app opnieuw installeert..."
 
 #. Your email (only if you want)
 msgid "Your email (only if you want)"
-msgstr "Uw e-mailadres (alleen als u wilt)"
+msgstr "Je e-mailadres (alleen als je dat wil)"
 
 #. Your message (required)
 msgid "Your message (required)"
-msgstr "Uw bericht (verplicht)"
+msgstr "Je bericht (verplicht)"
 
 #. This user
 msgid "This user"
@@ -882,7 +845,7 @@ msgstr "Deze gebruiker"
 
 #. Time Machine - body
 msgid "A new version will be created at each app launch, and the last 7 versions will be presented here.\nIf you have multiple accounts, you will have specific files for each account."
-msgstr "Elke keer als de app opnieuw opstart zal er een nieuwe versie worden gemaakt, en de laatste 7 versies worden hier gepresenteerd.\nAls u meerdere accounts hebt, zult u specifieke bestanden voor elk account hebben."
+msgstr "Elke keer als de app opnieuw opstart zal er een nieuwe versie worden gemaakt, en de laatste 7 versies worden hier gepresenteerd.\nAls je meerdere accounts hebt, zul je specifieke bestanden voor elk account hebben."
 
 #. Anonymous account: {accountId}
 #, c-format
@@ -891,15 +854,15 @@ msgstr "Anoniem account: %s"
 
 #. Choice invite: Navigation
 msgid "Choose your prefered navigation app"
-msgstr "Kies de gewenste navigatie app"
+msgstr "Kies de gewenste navigatie-app"
 
 #. Facebook login error - Facebook Error
 msgid "Facebook Error"
-msgstr "Facebook-fout"
+msgstr "Facebookfout"
 
 #. It seems your account is disconnected. Please reconnect.
 msgid "It seems your account is disconnected. Please reconnect."
-msgstr "Het lijkt erop dat uw account is losgekoppeld. Gelieve opnieuw te verbinden."
+msgstr "Het lijkt erop dat je account is losgekoppeld. Gelieve opnieuw te verbinden."
 
 #. Switch: List
 msgid "List"
@@ -911,11 +874,11 @@ msgstr "Kaart"
 
 #. Facebook login error - Misconfigured account
 msgid "Misconfigured account"
-msgstr "Verkeerd ingestelde rekening"
+msgstr "Verkeerd ingestelde account"
 
 #. Time Machine instruction - Title
 msgid "Old versions of your data will appear here, in case you need it."
-msgstr "Oude versies van uw gegevens zullen hier verschijnen, voor het geval u ze nodig hebt."
+msgstr "Oude versies van je gegevens verschijnen hier, voor het geval je ze nodig hebt."
 
 #. The place is permanently closed
 msgid "Permanently Closed"
@@ -927,19 +890,19 @@ msgstr "Tijdmachine"
 
 #. Facebook login error - Go to iphone settings to update your password
 msgid "Please, go in your iPhone settings, in the Facebook menu, and retype your account password to ensure you're connected, and try again."
-msgstr "Ga naar je iPhone-instellingen, dan naar het Facebook-menu en voer uw wachtwoord in om ervoor te zorgen dat u verbinding heeft en probeer het opnieuw."
+msgstr "Ga naar je iPhone-instellingen, dan naar het Facebookmenu en voer je wachtwoord in om ervoor te zorgen dat je verbinding hebt en probeer het opnieuw."
 
 #. Facebook login error - Go to iphone settings to allow Mapstr
 msgid "Please, go in your iPhone settings, in the Facebook menu, allow Mapstr, and try again."
-msgstr "Ga naar je iPhone-instellingen, dan naar het Facebook-menu, sta Mapstr toe, en probeer het opnieuw."
+msgstr "Ga naar je iPhone-instellingen, dan naar het Facebookmenu, geef Mapstr toestemming, en probeer het opnieuw."
 
 #. Today Widget - Add a place at your location
 msgid "Add a place at your location"
-msgstr "Voeg een plaats toe op uw locatie"
+msgstr "Voeg een plaats toe op je locatie"
 
 #. Today Widget - No places yet...
 msgid "You have no places yet..."
-msgstr "U hebt nog geen plaatsen..."
+msgstr "Je hebt nog geen plaatsen..."
 
 #. Today Widget - Nearest Places
 msgid "Nearest Places"
@@ -951,11 +914,11 @@ msgstr "Bekijk alle plaatsen in de buurt"
 
 #. You need to add your first place on your phone to initialize your account.
 msgid "You need to add your first place on your phone to initialize your account."
-msgstr "U moet uw eerste plaats op uw telefoon toevoegen om uw account te initialiseren."
+msgstr "Je moet je eerste plaats op je telefoon toevoegen om je account te initialiseren."
 
 #. You already have this place. Do you want to see it?
 msgid "You already have this place. Do you want to see it?"
-msgstr "U hebt deze plek al. Wilt u het bekijken?"
+msgstr "Je hebt deze plaats al. Wil je hem bekijken?"
 
 #. No
 msgid "No"
@@ -999,15 +962,15 @@ msgstr "Meer bekijken"
 
 #. This place will appear on your map at next launch.
 msgid "This place will appear on your map at next launch."
-msgstr "Deze plek zal op uw kaart verschijnen bij de volgende start."
+msgstr "Deze plaats zal op je kaart verschijnen bij de volgende start."
 
 #. Your iPhone is not within range. This place will be saved later.
 msgid "Your iPhone is not within range. This place will be saved later."
-msgstr "Uw iPhone is niet binnen bereik. Deze plaats zal later worden opgeslagen."
+msgstr "Je iPhone is niet binnen bereik. Deze plaats zal later worden opgeslagen."
 
 #. This place is waiting to be saved. It will appear on your map at next launch.
 msgid "This place is waiting to be saved. It will appear on your map at next launch."
-msgstr "Deze plek staat te wachten om opgeslagen te worden. Het zal op uw kaart verschijnen bij de volgende start."
+msgstr "Deze plaats wordt opgeslagen. Hij zal op je kaart verschijnen bij de volgende start."
 
 #. Add to my Map
 msgid "Add to my Map"
@@ -1019,7 +982,7 @@ msgstr "Al op mijn kaart"
 
 #. Route Option - Drive app
 msgid "Drive app"
-msgstr "Rij-app"
+msgstr "Auto-app"
 
 #. Route Option - Unity: min (minutes)
 msgid "min"
@@ -1027,15 +990,15 @@ msgstr "min"
 
 #. Route Option - N/A
 msgid "N/A"
-msgstr "N v.t."
+msgstr "N.v.t."
 
 #. Route Option - Private hire app
 msgid "Private hire app"
-msgstr "Particuliere huur app"
+msgstr "Particuliere huur-app"
 
 #. Route Option - Transit app
 msgid "Transit app"
-msgstr "Transit app"
+msgstr "Openbaar vervoer-app"
 
 #. Route Option - Walk app
 msgid "Walk app"
@@ -1043,12 +1006,12 @@ msgstr "Loop app"
 
 #. You have to select at least one navigation application
 msgid "You have to select at least one navigation application"
-msgstr "U moet minstens één navigatie-applicatie selecteren"
+msgstr "Je moet minstens één navigatie-applicatie selecteren"
 
 #. You moved the place position from {distance}. Do you want to save this new position?
 #, c-format
 msgid "You moved the place position from %s. Do you want to save this new position?"
-msgstr "U hebt de plaats verplaatst van %s. Wilt u deze nieuwe plaats opslaan?"
+msgstr "Je hebt de plaats verplaatst van %s. Wil je deze nieuwe plaats opslaan?"
 
 #. Tips - Add first place
 msgid "Let's add your first place!"
@@ -1056,15 +1019,15 @@ msgstr "Laten we de eerste plaats toevoegen!"
 
 #. Tips - Let's search a place
 msgid "Let’s search a place with its name"
-msgstr "Laten we een plaats vinden door naar de naam te zoeken"
+msgstr "We zoeken een plaats door op naam te zoeken"
 
 #. Tips - Text search
 msgid "Type the name of a place you like (restaurant, museum, bar...)"
-msgstr "Typ de naam van een plaats in waarvan je houdt (restaurant, museum, etc.)"
+msgstr "Voer de naam van een plaats in waarvan je houdt (restaurant, museum, etc.)"
 
 #. Tips - Select or create tags
 msgid "Select or create any tags you want to sort your places"
-msgstr "Selecteer of maak labels die u wilt creëren"
+msgstr "Selecteer of maak labels die je wilt creëren"
 
 #. Tips - Save the place
 msgid "... and save the place to your map!"
@@ -1072,7 +1035,7 @@ msgstr "... en sla de plaats op op je kaart!"
 
 #. Tips - Drag the detail view
 msgid "Drag or tap to see more details"
-msgstr "Sleep of tik op om meer details te zien"
+msgstr "Sleep of tik om meer details te zien"
 
 #. Default tag: Friend
 msgid "Friend"
@@ -1088,11 +1051,11 @@ msgstr "Restaurant"
 
 #. Change Tags
 msgid "Change tags"
-msgstr "Wijzig labels"
+msgstr "Labels wijzigen"
 
 #. Create an account to see your friends places, and to access your map from multiple devices.
 msgid "Create an account to see your friends places, and to access your map from multiple devices."
-msgstr "Maak een account aan om de plaatsen van uw vrienden te zien, en toegang tot uw kaart te krijgen vanaf meerdere apparaten."
+msgstr "Maak een account aan om de plaatsen van je vrienden te zien, en toegang tot je kaart te krijgen vanaf meerdere apparaten."
 
 #. Forgot password?
 msgid "Forgot password?"
@@ -1108,7 +1071,7 @@ msgstr "Aanmelden"
 
 #. Choose your profile picture
 msgid "Choose your profile picture"
-msgstr "Kies uw profielfoto"
+msgstr "Kies je profielfoto"
 
 #. Close
 msgid "Close"
@@ -1120,7 +1083,7 @@ msgstr "Een nieuwe plek toevoegen"
 
 #. Enter a phone number
 msgid "Enter a phone number"
-msgstr "Voer een telefoonnummer in"
+msgstr "Een telefoonnummer invoeren"
 
 #. More options
 msgid "More options"
@@ -1168,7 +1131,7 @@ msgstr "Juridische kennisgeving"
 
 #. Enter a website
 msgid "Enter a website"
-msgstr "Voer een website in"
+msgstr "Een website invoeren"
 
 #. Log in with Facebook
 msgid "Log in with Facebook"
@@ -1176,7 +1139,7 @@ msgstr "Inloggen met Facebook"
 
 #. Account settings
 msgid "Account settings"
-msgstr "Account instellingen"
+msgstr "Accountinstellingen"
 
 #. Map settings
 msgid "Map settings"
@@ -1192,11 +1155,11 @@ msgstr "Satelliet"
 
 #. Import places
 msgid "Import places"
-msgstr "importeer plaatsen"
+msgstr "Plaatsen importeren"
 
 #. Tell your friends about it!
 msgid "Tell your friends about it!"
-msgstr "Vertel u vrienden over!"
+msgstr "Deel het met al je vrienden!"
 
 #. Files (.csv or .kml)
 msgid "Files (.csv or .kml)"
@@ -1204,11 +1167,11 @@ msgstr "Bestanden (.csv of .kml)"
 
 #. Frequently Asked Questions
 msgid "Frequently Asked Questions"
-msgstr "Veel gestelde vragen"
+msgstr "Veelgestelde vragen"
 
 #. is waiting for you on mapstr!
 msgid " is waiting for you on mapstr!"
-msgstr " wacht op u op mapstr!"
+msgstr " wacht op je op mapstr!"
 
 #. shared:
 msgid " shared:"
@@ -1216,11 +1179,11 @@ msgstr " deelde:"
 
 #. wants to share this place with you!
 msgid " wants to share this place with you!"
-msgstr " wil deze plek met u delen!"
+msgstr " wil deze plek met je delen!"
 
 #. wants you to use Mapstr!
 msgid " wants you to use Mapstr!"
-msgstr " wil dat u Mapstr gebruikt!"
+msgstr " wil dat je Mapstr gebruikt!"
 
 #. A friend
 msgid "A friend"
@@ -1233,11 +1196,11 @@ msgstr "Een nieuwe versie is beschikbaar"
 #. Onboarding - Add your friends.
 #. Share the places you want.
 msgid "Add your friends.\nShare the places you want."
-msgstr "Voeg uw vrienden toe.\nDeel de plaatsen die u wilt."
+msgstr "Voeg je vrienden toe.\nDeel de plaatsen die je wil."
 
 #. Mapstr needs your authorization to locate your position and your favorite places on the map.
 msgid "Mapstr needs your authorization to locate your position and your favorite places on the map."
-msgstr "Mapstr heeft uw toestemming nodig om uw positie en uw favoriete plaatsen op de kaart te lokaliseren."
+msgstr "Mapstr heeft je toestemming nodig om je positie en je favoriete plaatsen op de kaart te vinden."
 
 #. Back to my Map
 msgid "Back to my Map"
@@ -1245,11 +1208,11 @@ msgstr "Terug naar mijn Kaart"
 
 #. Place Sharing - Click the link to see all details in Mapstr, and save it to your map!
 msgid "Click the link to see it in Mapstr, and save it to your map!"
-msgstr "Klik op de link om het in Mapstr te zien, en sla het op in uw kaart!"
+msgstr "Klik op de link om het in Mapstr te zien, en sla het op in je kaart!"
 
 #. Onboarding - Complete your profile
 msgid "Complete your profile"
-msgstr "Voltooi uw profiel"
+msgstr "Voltooi je profiel"
 
 #. Onboarding - Create unlimited tags
 #. to sort them easily.
@@ -1258,7 +1221,7 @@ msgstr "Maak onbeperkte labels\nom gemakkelijk te sorteren."
 
 #. Done
 msgid "Done"
-msgstr "Voltooid"
+msgstr "Gereed"
 
 #. E-mail
 msgid "E-mail"
@@ -1267,15 +1230,15 @@ msgstr "E-mailadres"
 #. Hey! Add me on Mapstr with the code %s (or click on the link)
 #, c-format
 msgid "Hey! Add me on Mapstr with the code %s (or click on the link)!"
-msgstr "Hey! Voeg me toe op Mapstr met de code %s (of klik op de link)!"
+msgstr "Hé! Voeg me toe op Mapstr met de code %s (of klik op de link)!"
 
 #. Device location unavailable - mapstr not allowed
 msgid "Hey, you haven't allowed Mapstr to use your location. Open settings to change this!"
-msgstr "Hey, u hebt Mapstr geen toestemming gegeven om uw locatie te gebruiken. Open de instellingen om dit te veranderen!"
+msgstr "Hé, je hebt Mapstr geen toestemming gegeven om je locatie te gebruiken. Open de instellingen om dit te veranderen!"
 
 #. I'm on Mapstr, an app to save all my favorite places, you should try it!
 msgid "I'm on Mapstr, an app to save all my favorite places, you should try it!"
-msgstr "Ik zit op Mapstr, een app om al mijn favoriete plekken op te slaan, je moet het proberen!"
+msgstr "Ik zit op Mapstr, een app om al mijn favoriete plekken op te slaan, probeer het zelf ook!"
 
 #. Location Permission
 msgid "Location Permission"
@@ -1283,7 +1246,7 @@ msgstr "Locatie Toestemmingen"
 
 #. Mapstr - your Places, your World
 msgid "Mapstr - your Places, your World"
-msgstr "Mapstr - uw Plaatsen, uw Wereld"
+msgstr "Mapstr - jouw plaatsen, jouw wereld"
 
 #. Alert
 msgid "Alert"
@@ -1295,24 +1258,24 @@ msgstr "Geen plaats om te laten zien"
 
 #. Please update your app.
 msgid "Please update your app."
-msgstr "Gelieve uw app bij te werken."
+msgstr "Werk de app bij."
 
 #. Please Update
 msgid "Please Update"
-msgstr "Gelieve bij te werken"
+msgstr "Bijwerken"
 
 #. Onboarding - Save places you love,
 #. places to try, places from magazines, etc.
 msgid "Save places you love,\nplaces to try, places from magazines, etc."
-msgstr "Sla plaatsen op waarvan u houdt,\nplaatsen om nog te bezoeken, plaatsen uit tijdschriften, etc."
+msgstr "Sla plaatsen op waar je dol op bent, \nplaatsen om nog te bezoeken, plaatsen uit tijdschriften, etc."
 
 #. Sign in with e-mail
 msgid "Sign in with e-mail"
-msgstr "Meld u aan met uw e-mailadres"
+msgstr "Meld je aan met je e-mailadres"
 
 #. Sign in with Facebook
 msgid "Sign in with Facebook"
-msgstr "Meld u aan met Facebook"
+msgstr "Meld je aan met Facebook"
 
 #. Sign In
 msgid "Sign In"
@@ -1320,7 +1283,7 @@ msgstr "Aanmelden"
 
 #. The 1st map-meets-notes app for users to save, see, share and send their favorite places
 msgid "The 1st map-meets-notes app for users to save, see, share and send their favorite places"
-msgstr "De 1e kaart-ontmoet-notities app waarmee gebruikers hun favoriete plekken op kunnen slaan, zien, en delen"
+msgstr "De 1e app voor kaarten, afspraken en notities waarmee gebruikers hun favoriete plekken kunnen opslaan, zien, en delen"
 
 #. Use without account
 msgid "Use without account"
@@ -1332,20 +1295,20 @@ msgstr "Welkom bij Mapstr."
 
 #. You've been invited to Mapstr!
 msgid "You've been invited to Mapstr!"
-msgstr "U bent uitgenodigd voor Mapstr!"
+msgstr "Je bent uitgenodigd voor Mapstr!"
 
 #. You've been invited to see this place on Mapstr!
 msgid "You've been invited to see this place on Mapstr!"
-msgstr "U bent uitgenodigd om deze plaats op Mapstr te bekijken!"
+msgstr "Je bent uitgenodigd om deze plaats op Mapstr te bekijken!"
 
 #. Launch Screen - your Places, your World
 msgid "your Places, your World"
-msgstr "Uw Plaatsen, uw Wereld"
+msgstr "Jouw plaatsen, jouw wereld"
 
 #. Onboarding - Do you use {application name}?
 #, c-format
 msgid "Do you use %s?"
-msgstr "Gebruikt u %s?"
+msgstr "Gebruik je %s?"
 
 #. Import Invite - Ignore
 msgid "Ignore"
@@ -1353,7 +1316,7 @@ msgstr "Negeren"
 
 #. Onboarding - Then it's super easy to import all your places to Mapstr.
 msgid "Then it's super easy to import all your places to Mapstr."
-msgstr "Dan is het super eenvoudig om al uw plaatsen naar Mapstr te importeren."
+msgstr "Dan is het super eenvoudig om al je plaatsen naar Mapstr te importeren."
 
 #. Image asset: onboarding_tag_1
 msgid "onboarding_tag_1"
@@ -1369,7 +1332,7 @@ msgstr "onboarding_tag_3"
 
 #. is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!
 msgid " is waiting for you on mapstr, the 1st map-meets-notes app for users to save, see, share and send their favorite places!"
-msgstr " staat op u te wachten op mapstr, de 1e kaart-ontmoet-notitie app waarmee gebruikers hun favoriete plekken op kunnen slaan, zien, delen en sturen!"
+msgstr " staat op je te wachten op mapstr, de 1e app voor kaarten, afspraken en notities waarmee gebruikers hun favoriete plekken kunnen opslaan, zien, delen en versturen!"
 
 #. Accept
 msgid "Accept"
@@ -1382,7 +1345,7 @@ msgstr "Toestaan"
 #. Are you sure to cancel invite for %s?
 #, c-format
 msgid "Are you sure to cancel invite for %s?"
-msgstr "Weet u zeker om de uitnodiging voor %s te annuleren?"
+msgstr "Weet je zeker dat je de uitnodiging voor %s wil annuleren?"
 
 #. Back
 msgid "Back"
@@ -1394,7 +1357,7 @@ msgstr "Uitnodiging annuleren"
 
 #. Enter your friend's username or email
 msgid "Enter your friend's username or email:"
-msgstr "Voer het ID of e-mailadres van uw vriend in:"
+msgstr "Voer de gebruikersnaam of het e-mailadres van je vriend in:"
 
 #. Connect %s
 #, c-format
@@ -1411,16 +1374,16 @@ msgstr "Vrienden"
 
 #. Invite email - Body
 msgid "Hey,\nI use Mapstr app to save all my favorite places in the world, tag them and share them... and I'd like to share them with you!\n Download Mapstr for free: "
-msgstr "Hey,\nIk gebruik de Mapstr app om al mijn favoriete plekken in de wereld te redden, taggen en te delen... en ik zou ze graag met je delen!\nDownload Mapstr gratis: "
+msgstr "Hey,\nIk gebruik de Mapstr app om al mijn favoriete plekken in de wereld op te slaan, te taggen en te delen... en ik zou ze graag met je delen!\nDownload Mapstr gratis:"
 
 #. Hey, add me on Mapstr! I'm @{alias}.
 #, c-format
 msgid "Hey, add me on Mapstr! I'm @%s."
-msgstr "Hey, voeg me toe on Mapstr! Ik ben @%s."
+msgstr "Hey, voeg me toe op Mapstr! Ik ben @%s."
 
 #. Invite contacts
 msgid "Invite contacts"
-msgstr "Nodig contacten uit"
+msgstr "Contactpersonen uitnodigen"
 
 #. Invite
 msgid "Invite"
@@ -1448,37 +1411,37 @@ msgstr "Nog geen plaatsen"
 
 #. Please, connect first!
 msgid "Please, connect first!"
-msgstr "U moet eerst verbinden!"
+msgstr "Je moet eerst verbinding maken!"
 
 #. Remove {name} from your friends?
 #, c-format
 msgid "Remove %s from your friends?"
-msgstr "%s uit uw vrienden verwijderen?"
+msgstr "%s uit je vrienden verwijderen?"
 
 #. Remove %s
 #, c-format
 msgid "Remove %s"
-msgstr "Verwijder %s"
+msgstr "%s verwijderen"
 
 #. Share your profile
 msgid "Share your profile"
-msgstr "Deel je gebruikersnaam"
+msgstr "Deel je profiel"
 
 #. Show my friends on Mapstr
 msgid "Show my friends on Mapstr"
-msgstr "Toon mijn vrienden op Mapstr"
+msgstr "Mijn vrienden op Mapstr weergeven"
 
 #. Swipe right and find if any of your friends is already on Mapstr
 msgid "Swipe right and find if any of your friends is already on Mapstr"
-msgstr "Veeg naar rechts en komt erachter of een van uw vrienden al op Mapstr zit"
+msgstr "Veeg naar rechts en komt erachter wie van je vrienden al op Mapstr zitten"
 
 #. Unable to connect to your facebook account
 msgid "Unable to connect to your facebook account"
-msgstr "Kan geen verbinding maken met uw Facebook-account"
+msgstr "Kan geen verbinding maken met je Facebookaccount"
 
 #. pending...
 msgid "pending..."
-msgstr "wachten..."
+msgstr "bezig..."
 
 #. Yes
 msgid "Yes"
@@ -1486,15 +1449,15 @@ msgstr "Ja"
 
 #. You won't be able to access your friend's map anymore, and your friend won't be able to access yours.
 msgid "You won't be able to access your friend's map anymore, and your friend won't be able to access yours."
-msgstr "U zal dan niet meer in staat zijn om toegang te krijgen tot de kaart van uw vriend, en uw vriend zal niet meer in staat zijn om toegang te krijgen tot die van u."
+msgstr "Je hebt dan geen toegang meer tot de kaarten van vrienden en vrienden niet tot de kaart van jou."
 
 #. Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!
 msgid "Hey, you haven't allowed Mapstr to access your contacts. Open settings to change this!"
-msgstr "Hey, Mapstr heeft nog geen toegang tot uw contactpersonen. Open de instellingen om dit te veranderen!"
+msgstr "Hey, Mapstr heeft nog geen toegang tot je contactpersonen. Open de instellingen om dit te veranderen!"
 
 #. Mapstr needs your authorization to access your contacts.
 msgid "Mapstr needs your authorization to access your contacts."
-msgstr "Mapstr heeft toestemming toegang tot uw contactpersonen."
+msgstr "Mapstr heeft toegang tot je contactpersonen nodig."
 
 #. iMessage - Find a place
 msgid "Find a place"
@@ -1502,7 +1465,7 @@ msgstr "Een plaats zoeken"
 
 #. iMessage - Sign in and save your first places in the app, to retrieve them in Messages
 msgid "Sign in and save your first places in the app, to retrieve them in Messages"
-msgstr "Meld u aan en sla uw eerste plaatsen op in de app, om ze op te kunnen halen in Berichten"
+msgstr "Meld je aan en sla je eerste plaatsen op in de app om ze te kunnen ophalen in Berichten"
 
 #. iMessage - Sign in
 msgid "Sign in"
@@ -1515,7 +1478,7 @@ msgstr "Bekijk meer in Mapstr"
 #. {Username} invited you!
 #, c-format
 msgid "%s invited you!"
-msgstr "%s nodigde je uit!"
+msgstr "%s heeft je uitgenodigd!"
 
 #. Follow {username} to see his map.
 #, c-format
@@ -1524,25 +1487,25 @@ msgstr "Volg %s om deze kaart te zien."
 
 #. Contact email - Subject: there's a conflict with my accounts
 msgid "Hey Mapstr, there's a conflict with my accounts!"
-msgstr "Hey Mapstr, er is een probleem met mijn accounts!"
+msgstr "Hé Mapstr, er is een probleem met mijn accounts!"
 
 #. Hey, join me on Mapstr! I'm @{alias}.
 #, c-format
 msgid "Hey, join me on Mapstr! I'm @%s."
-msgstr "Hey, voeg me toe op Mapstr! Ik ben @%s."
+msgstr "Hé, voeg me toe op Mapstr! Ik ben @%s."
 
 #. Invite {username} to share your maps together.
 #, c-format
 msgid "Invite %s to share your maps together."
-msgstr "Nodig %s om je kaarten samen te delen."
+msgstr "Nodig %s uit om je kaarten samen te delen."
 
 #. Please, contact us!
 msgid "Please, contact us!"
-msgstr "Contacteer ons a.u.b.!"
+msgstr "Neem contact met ons op!"
 
 #. There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!
 msgid "There's a conflict between your Facebook account and your email account... Please get in touch with us (hello@mapstr.com) so that we fix it for you!"
-msgstr "Er is een conflict tussen je Facebook-account en je e-mailaccount... Neem contact met ons op via (hello@mapstr.com), zodat we het op kunnen lossen!"
+msgstr "Er is een conflict tussen je Facebookaccount en je e-mailaccount... Neem contact met ons op via (hello@mapstr.com), zodat we het kunnen oplossen!"
 
 #. It's time to join!
 msgid "It's time to join!"
@@ -1555,7 +1518,7 @@ msgstr "Je moet een account aanmaken als je niet wilt dat je al je plaatsen kwij
 #. {service name} Import
 #, c-format
 msgid "%s Import"
-msgstr "%s Importeren"
+msgstr "%s importeren"
 
 #. Connect to Foursquare
 msgid "Connect to Foursquare"
@@ -1575,11 +1538,11 @@ msgstr "Alles deselecteren"
 
 #. Please, connect to your Instagram account and allow Mapstr to import your places
 msgid "Please, connect to your Instagram account and allow Mapstr to import your places"
-msgstr "Gelieve aan te melden bij je Instagram-account en Mapstr je plaatsen laten importeren"
+msgstr "Meld je aan bij je Instagramaccount en laat Mapstr je plaatsen importeren"
 
 #. Please, connect to your Swarm account and allow Mapstr to import your places
 msgid "Please, connect to your Swarm account and allow Mapstr to import your places"
-msgstr "Gelieve aan te melden bij je Swarm-account en Mapstr je plaatsen laten importeren"
+msgstr "Meld je aan bij je Swarmaccount en laat Mapstr je plaatsen importeren"
 
 #. Select All
 msgid "Select All"
@@ -1591,7 +1554,7 @@ msgstr "Selecteer wat je wilt importeren."
 
 #. This username is already used.
 msgid "This username is already used."
-msgstr "Deze gebruikersnaam is al gebruikt."
+msgstr "Deze gebruikersnaam wordt al gebruikt."
 
 #. This username is invalid.
 msgid "This username is invalid."
@@ -1599,7 +1562,7 @@ msgstr "Gebruikersnaam is ongeldig."
 
 #. Visit the FAQ to learn how to import a file.
 msgid "Visit the FAQ to learn how to import a file."
-msgstr "Bezoek de FAQ om te leren hoe een bestand te importeren."
+msgstr "Bezoek de FAQ om te leren hoe je een bestand kunt importeren."
 
 #. You already have all the places from this backup.
 msgid "You already have all the places from this backup."
@@ -1611,7 +1574,7 @@ msgstr "WhatNew-en-568"
 
 #. Invite friends
 msgid "Invite friends"
-msgstr "Nodig vrienden uit"
+msgstr "Vrienden uitnodigen"
 
 #. Got It
 msgid "Got It"
@@ -1619,7 +1582,7 @@ msgstr "Begrepen"
 
 #. View Map
 msgid "View Map"
-msgstr "Bekijk kaart"
+msgstr "Kaart bekijken"
 
 #. Add friends
 msgid "Add friends"
@@ -1631,11 +1594,11 @@ msgstr "Verbinden met je vrienden"
 
 #. Find People
 msgid "Find People"
-msgstr "Zoek gebruikersnaam"
+msgstr "Mensen zoeken"
 
 #. Your are not able to send messages from this device
 msgid "Your are not able to send messages from this device"
-msgstr "Je bent niet in staat om berichten van dit apparaat te sturen"
+msgstr "Je kunt met dit apparaat geen berichten versturen"
 
 #. Your username is @%s
 #, c-format
@@ -1644,7 +1607,7 @@ msgstr "Je gebruikersnaam is @%s"
 
 #. FAQ
 msgid "FAQ"
-msgstr "FAW"
+msgstr "FAQ"
 
 #. Followers
 msgid "Followers"
@@ -1680,15 +1643,15 @@ msgstr "Restaurants & cafés"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr "Ontdek PODIUM!"
+msgstr "Berichten sturen aan je vrienden!"
 
 #. Whats New Description
 msgid "Whats New Description"
-msgstr "Find out which are the most added places by your friends and the official accounts you follow"
+msgstr "🏕 Plaatsen rechtstreeks delen\n🏕 Vragen om aanbevelingen\n💌 Stuur een selfie als bedankje"
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"
-msgstr "Probeer het meteen"
+msgstr "Direct proberen"
 
 #. Activated
 msgid "Activated"
@@ -1709,19 +1672,19 @@ msgstr "Uitgeschakeld"
 #. Do you want to be alerted when %s accepts your invite?
 #, c-format
 msgid "Do you want to be alerted when %s accepts your invite?"
-msgstr "Wil je worden gewaarschuwd wanneer %s je uitnodiging aanvaard?"
+msgstr "Wil je worden gewaarschuwd wanneer %s je uitnodiging aanvaart?"
 
 #. Enable notifications in the settings to activate proximity alerts.
 msgid "Enable notifications in the settings to activate proximity alerts."
-msgstr "Zet meldingen aan in de instellingen om nabijheidsmeldingen te activeren."
+msgstr "Schakel meldingen in in de instellingen om nabijheidsmeldingen te activeren."
 
 #. Enable notifications to be alerted when you pass nearby this place.
 msgid "Enable notifications to be alerted when you pass nearby this place."
-msgstr "Zet meldingen zodat je wordt gewaarschuwd als je dichtbij deze plaats bent."
+msgstr "Schakel meldingen in zodat je wordt gewaarschuwd als je dicht bij deze plaats bent."
 
 #. Enable notifications to receive alerts from mapstr.
 msgid "Enable notifications to receive alerts from mapstr."
-msgstr "Schakel meldingen in om meldingen van mapstr te ontvangen."
+msgstr "Schakel meldingen in om meldingen van Mapstr te ontvangen."
 
 #. You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications.
 msgid "You have deactivated notifications for Mapstr. Please, go to the settings to enable notifications."
@@ -1745,12 +1708,12 @@ msgstr "Hey, wist je dat %s en %s slechts %s ver zijn?"
 #. Notification - you are near {place_name} and 2 other places!
 #, c-format
 msgid "Hey, you are near %s and 2 other places!"
-msgstr "Hey, je bent dichtbij %s en 2 andere plaatsen!"
+msgstr "Hey, je bent dicht bij %s en 2 andere plaatsen!"
 
 #. Notification - It's a nice area, you are near {number} places!
 #, c-format
 msgid "It's a nice area, you are near %i places!"
-msgstr "Het is een mooie omgeving, dichtbij %i plaatsen!"
+msgstr "Het is een mooie omgeving, dicht bij %i plaatsen!"
 
 #. Notification action - Don't alert me anymore
 msgid "Mute"
@@ -1762,7 +1725,7 @@ msgstr "Meldingen"
 
 #. Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue.
 msgid "Oops, it seems there's an issue with your account. Please try again later, or contact us at hello@mapstr.com if the problem continue."
-msgstr "Oeps, er lijkt een probleem met je account te zijn. Probeer het later opnieuw, of neem contact met ons op via hello@mapstr.com als het probleem blijft."
+msgstr "Er lijkt een probleem met je account te zijn. Probeer het later opnieuw of neem contact met ons op via hello@mapstr.com als het probleem aanhoudt."
 
 #. Places
 msgid "Places"
@@ -1778,7 +1741,7 @@ msgstr "Ontvang meldingen van nieuwe uitnodigingen van vrienden of aanvaarde ver
 
 #. Receive notifications when you're passing nearby places.
 msgid "Receive notifications when you're passing nearby places."
-msgstr "Ontvang meldingen als je in de buurt van nabijgelegen plaatsen bent."
+msgstr "Ontvang meldingen als je in de buurt van bepaalde plaatsen bent."
 
 #. Require iOS 10
 msgid "Require iOS 10"
@@ -1786,7 +1749,7 @@ msgstr "Vereist iOS 10"
 
 #. Notification action - See the map
 msgid "See the map"
-msgstr "Bekijk kaart"
+msgstr "De kaart bekijken"
 
 #. Social activity
 msgid "Socal activity"
@@ -1795,7 +1758,7 @@ msgstr "Sociale activiteit"
 #. Sorry, but proximity notifications are only available on iOS 10.
 #. Please update to enjoy.
 msgid "Sorry, but proximity notifications are only available on iOS 10.\nPlease update to enjoy."
-msgstr "Sorry, maar meldingen voor nabijheid zijn alleen beschikbaar op iOS 10.\nUpdate om het te gebruiken."
+msgstr "Sorry, maar meldingen voor nabijheid zijn alleen beschikbaar op iOS 10.\nWerk je iOS-versie bij om het te kunnen gebruiken."
 
 #. Tap on settings, then on « location » then on « always ».
 msgid "Tap on settings, then on « location » then on « always »."
@@ -1803,11 +1766,11 @@ msgstr "Tik op instellingen, vervolgens op «locatie» vervolgens op «altijd».
 
 #. This email is linked to a Facebook account. Please use Facebook Login to sign in to your account.
 msgid "This email is linked to a Facebook account. Please use Facebook Login to sign in to your account."
-msgstr "Dit e-mailadres is gekoppeld aan een Facebook-account. Gebruik Facebook Login om in te loggen op je account."
+msgstr "Dit e-mailadres is gekoppeld aan een Facebookaccount. Gebruik Facebook Login om in te loggen op je account."
 
 #. Turn on background geolocation to enable proximity alerts.
 msgid "Turn on background geolocation to enable proximity alerts."
-msgstr "Zet achtergrond geolocatie aan om nabijheidsmeldingen in te schakelen."
+msgstr "Schakel geolocatie in in de achtergrond om nabijheidsmeldingen in te schakelen."
 
 #. Never miss a friend’s invite.
 msgid "Never miss a friend’s invite."
@@ -1815,15 +1778,15 @@ msgstr "Mis uitnodigingen van vrienden niet."
 
 #. Allow notifications
 msgid "Allow notifications"
-msgstr "Meldingen toestaane"
+msgstr "Meldingen toestaan"
 
 #. Be alerted when you receive a new invite or when a friend accepts yours.
 msgid "Be alerted when you receive a new invite or when a friend accepts yours."
-msgstr "Krijg een melding als je een nieuwe uitnodiging ontvangt of bij acceptatie."
+msgstr "Krijg een melding als je een nieuwe uitnodiging ontvangt of iemand jouw uitnodiging accepteert."
 
 #. Alert me when I pass nearby
 msgid "Alert me when I pass nearby"
-msgstr "Alertar-me quando had passar perto"
+msgstr "Melding als ik in de buurt ben"
 
 #. Be notified of new places
 msgid "Be notified of new places"
@@ -1831,7 +1794,7 @@ msgstr "Blijf op de hoogte van nieuwe plaatsen"
 
 #. your friend
 msgid "your friend"
-msgstr "uw vriend"
+msgstr "Je vriend"
 
 #. Account
 msgid "Account"
@@ -1859,7 +1822,7 @@ msgstr "Biografie"
 
 #. Export
 msgid "Export"
-msgstr "Exportbestand"
+msgstr "Exporteren"
 
 #. Identity
 msgid "Identity"
@@ -1871,7 +1834,7 @@ msgstr "Problemen met je account?"
 
 #. If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation.
 msgid "If you experience some issues with the locally saved data on your phone, such as missing places or tags, you can force a reload of your data from our server, to ensure a full synchronisation."
-msgstr "Als je problemen hebt met de gegevens die lokaal op je telefoon zijn opgeslagen, zoals ontbrekende locaties of tags, kun je de gegevens geforceerd opnieuw laden van onze server voor een volledige synchronisatie."
+msgstr "Als je problemen hebt met de gegevens die lokaal op je telefoon zijn opgeslagen, zoals ontbrekende locaties of tags, kun je de gegevens geforceerd opnieuw van onze server laden voor een volledige synchronisatie."
 
 #. Inclusive
 msgid "Inclusive"
@@ -1906,7 +1869,7 @@ msgstr "Taginstellingen"
 
 #. Tags filter behavior
 msgid "Tags filter behavior"
-msgstr "Filtergedrag tags"
+msgstr "Tagfiltergedrag"
 
 #. Username
 msgid "Username"
@@ -1934,7 +1897,7 @@ msgstr "Open en tik op toevoegen hieronder"
 
 #. Tips - More details
 msgid "Tap here to add more details to this place"
-msgstr "Tik om meer details toe te voegen aan deze plaats"
+msgstr "Tik om meer details aan deze plaats toe te voegen"
 
 #. Tips - Long press a to edit or delete it
 msgid "Long press a tag to edit or delete it"
@@ -1950,7 +1913,7 @@ msgstr "Tik op de bel om nabijheidswaarschuwing voor plaats te activeren"
 
 #. Tips - Pending invitations
 msgid "You have pending invitations!"
-msgstr "Je hebt afwachtende uitnodigingen!"
+msgstr "Je hebt openstaande uitnodigingen!"
 
 #. Tips - View Profile and Settings
 msgid "Tap here to access your profile and settings"
@@ -1966,7 +1929,7 @@ msgstr "Officiële kaarten die je misschien leuk vindt"
 
 #. Friends already on Mapstr
 msgid "Friends already on Mapstr"
-msgstr "Frienden al op Mapstr"
+msgstr "Vrienden al op Mapstr"
 
 #. No result
 msgid "No result"
@@ -2005,11 +1968,11 @@ msgstr "bron:"
 #. Unfollow {name}?
 #, c-format
 msgid "Unfollow %s?"
-msgstr "Stop met volgen van %s?"
+msgstr "%s ontvolgen?"
 
 #. Unfollow
 msgid "Unfollow"
-msgstr "Stop met volgen"
+msgstr "Ontvolgen"
 
 #. Article
 msgid "Article"
@@ -2017,7 +1980,7 @@ msgstr "Artikel"
 
 #. Share your map
 msgid "Share your map"
-msgstr "Deel je kaart"
+msgstr "Je kaart delen"
 
 #. Sort by: Date
 msgid "Date"
@@ -2041,11 +2004,11 @@ msgstr "Voer een artikel-URL in"
 
 #. You cannot delete a tag used without any other tag in a place
 msgid "You cannot delete a tag used without any other tag in a place"
-msgstr "Je kunt geen label verwijderen zonder een ander label in een plaats"
+msgstr "Je kunt het laatste label voor een plaats niet verwijderen"
 
 #. Delete the tag {tag name}?
 msgid "Delete the tag %s?"
-msgstr "Verwijder label %s?"
+msgstr "Label %s verwijderen?"
 
 #. More... - More share options
 msgid "More..."
@@ -2053,15 +2016,15 @@ msgstr "Meer..."
 
 #. This will remove it from {count} of your places and cannot be undone
 msgid "This will remove it from %i of your places and cannot be undone"
-msgstr "Dit zal het van %i van je plaatsen verwijderen en kan niet ongedaan worden"
+msgstr "Dit zal het van %i van je plaatsen verwijderen en kan niet ongedaan worden gemaakt"
 
 #. Please wait... - Export bezel loading
 msgid "Please wait..."
-msgstr "Even wachten..."
+msgstr "Even geduld…"
 
 #. Search this area
 msgid "Search this area"
-msgstr "Zoek in dit gebied"
+msgstr "Zoeken in dit gebied"
 
 #. Your friends have no places here
 msgid "Your friends have no places here"
@@ -2097,7 +2060,7 @@ msgstr "Wil je je account echt permanent verwijderen?"
 
 #. Your data will be deleted and won't be recoverable. You can just disconnect instead.
 msgid "Your data will be deleted and won't be recoverable. You can just disconnect instead."
-msgstr "Je gegevens worden verwijderd en kunnen niet worden hersteld. Je kunt gewoon ontkoppelen."
+msgstr "Je gegevens worden verwijderd en kunnen niet worden hersteld. Je kunt ook gewoon ontkoppelen."
 
 #. Friends being watched (observed for notification)
 msgid "Friends being watched"
@@ -2109,7 +2072,7 @@ msgstr "Krijg een melding wanneer deze vrienden een nieuwe plaats toevoegen"
 
 #. Icons
 msgid "Icons"
-msgstr "Iconen"
+msgstr "Pictogrammen"
 
 #. Cities
 msgid "Cities"
@@ -2145,7 +2108,7 @@ msgstr[1] "%i uitnodigingen"
 msgid "We've found %i new place."
 msgid_plural "We've found %i new places."
 msgstr[0] "We hebben %i nieuwe plaats gevonden."
-msgstr[1] "We hebben %i nieuwe plaatsen."
+msgstr[1] "We hebben %i nieuwe plaatsen gevonden."
 
 msgid "Tap here to share your profile to your friends!"
 msgstr "Tik hier om je kaart met je vrienden te delen!"
@@ -2169,35 +2132,35 @@ msgid "Get notifications when your friends add new places."
 msgstr "Krijg een melding wanneer deze vrienden een nieuwe plaats toevoegen."
 
 msgid "Are you sure you want to definitely delete this account? All your data will be lost and won't be recoverable. You can just disconnect instead."
-msgstr "Je gegevens worden verwijderd en kunnen niet worden hersteld. Je kunt gewoon ontkoppelen."
+msgstr "Weet je zeker dat je dit account definitief wilt verwijderen? Je gegevens worden verwijderd en kunnen niet worden hersteld. Je kunt het account ook gewoon ontkoppelen."
 
 #, c-format
 msgid "Your data has been successfully sent to your account's email: %s"
 msgstr "Je gegevens zijn verzonden naar %s"
 
 msgid "Please enter your email address in Account Settings to receive your data"
-msgstr "Voer een e-mailadres in in Accountinstellingen om je data te ontvangen"
+msgstr "Voer een e-mailadres in in Accountinstellingen om je gegevens te ontvangen"
 
 msgid "Do you want to be alerted when friends accept your invite?"
-msgstr "Wil je worden gewaarschuwd wanneer %s je uitnodiging aanvaard?"
+msgstr "Wil je worden gewaarschuwd wanneer %s je uitnodiging aanvaart?"
 
 #, c-format
 msgid "The tag \"%s\" already exists!"
-msgstr "De label \"%s\" bestaat al!"
+msgstr "Het label \"%s\" bestaat al!"
 
 msgid "celebrates Valentine's day!"
 msgstr "viert Valentijnsdag!"
 
 #, c-format
 msgid "@%s really?"
-msgstr "@%s echt?"
+msgstr "@%s, echt?"
 
 #, c-format
 msgid "Did you mean @%s instead?"
 msgstr "Bedoelde je soms @%s?"
 
 msgid "Oops, yes!"
-msgstr "Oeps, o ja!"
+msgstr "Oeps, ja!"
 
 msgid "Keep this place secret:"
 msgstr "Deze plaats privé houden:"
@@ -2218,13 +2181,13 @@ msgid "Most added places among your friends"
 msgstr "Meest toegevoegde plaatsen door je vrienden"
 
 msgid "Select a place below to add it to your map"
-msgstr "Selecteer een locatie en voeg toe aan je kaart"
+msgstr "Selecteer een locatie en voeg deze toe aan je kaart"
 
 msgid "Loading the most added places among your friends..."
 msgstr "De meest toegevoegde plaatsen door je vrienden laden…"
 
 msgid "Anyone here?!"
-msgstr "Iemand hier?!"
+msgstr "Is daar iemand?!"
 
 msgid "This information will help your friends find you"
 msgstr "Met deze informatie kunnen je vrienden je vinden"
@@ -2245,10 +2208,10 @@ msgid "Friend activities summary"
 msgstr "Samenvatting vriendenactiviteit"
 
 msgid "New features"
-msgstr "Natuur"
+msgstr "Nieuwe functies"
 
 msgid "Release of official maps"
-msgstr "Laat los om soort te veranderen"
+msgstr "Uitgave van officiële kaarten"
 
 msgid "Unsubscribe from all emails"
 msgstr "Afmelden van alle e-mails"
@@ -2272,7 +2235,7 @@ msgid "You can edit your preferences in your settings"
 msgstr "Je kunt je voorkeuren via de Instellingen bewerken"
 
 msgid "Allow push notifications"
-msgstr "Meldingen toestaane"
+msgstr "Pushberichten toestaan"
 
 msgid "Be notified when you've got new invitations on Mapstr"
 msgstr "Ontvang een melding als je nieuwe uitnodigingen hebt op Mapstr"
@@ -2284,7 +2247,7 @@ msgid "💈 You're nearby a place you like"
 msgstr "💈 Je bent bij een favoriete locatie"
 
 msgid "🗺 Your friends add new places"
-msgstr "Je vrienden hebben hier geen plaatsen"
+msgstr "🗺 Je vrienden voegen nieuwe plaatsen toe"
 
 msgid "Hey! @%s has shared the map of their favorite places! Check it out on Mapstr."
 msgstr "Hé! @%s heeft de kaart van hun favoriete locaties gedeeld. Kijk zelf maar via Mapstr."
@@ -2346,13 +2309,13 @@ msgid "Be alerted when a friend adds a new address"
 msgstr "Krijg een melding als een vriend een adres toevoegt"
 
 msgid "Be alerted when one of your favorite places is nearby"
-msgstr "Ontvang een melding als er een favoriete locatie in de buurt is"
+msgstr "Ontvang een melding als er een favoriete plaats in de buurt is"
 
 msgid "Tap the bell on the place you want to be notified from"
 msgstr "Tik op het belletje bij de locatie als je een melding wilt"
 
 msgid "Longpress on a friend to activate the alerts"
-msgstr "Houd een vriend vast om de meldingen in te schakelen"
+msgstr "Druk lang op een vriend om meldingen in te schakelen"
 
 msgid "Cool!"
 msgstr "Cool!"
@@ -2401,10 +2364,10 @@ msgid "Friends' top places"
 msgstr "Toplocaties vrienden"
 
 msgid "Add a place"
-msgstr "Plek toevoegen"
+msgstr "Plaats toevoegen"
 
 msgid "Not this place?"
-msgstr "Andere plek?"
+msgstr "Andere plaats?"
 
 #. 'One' refers to a place (it comes after a "not this place?" question)
 msgid "Choose another one"
@@ -2412,3 +2375,47 @@ msgstr "Kies een andere"
 
 msgid "Directly add your location"
 msgstr "Je locatie direct toevoegen"
+
+msgid "Your map is empty 🙈"
+msgstr "Je kaart is leeg 🙈"
+
+msgid "Create a personal map full of your favorite places, and discover the best spots from your friends, influencers and publishers."
+msgstr "Maak een persoonlijke kaart aan met je favoriete locaties en ontdek de beste plekken via je vrienden, trendsetters en uitgevers."
+
+msgid "Add my first place"
+msgstr "Mijn eerste plaats toevoegen"
+
+msgid "Explore official maps"
+msgstr "Officiële kaarten bekijken"
+
+msgid "Get inspired by following public maps."
+msgstr "Laat je inspireren door openbare kaarten."
+
+msgid "Write something..."
+msgstr "Schrijf iets…"
+
+#. TRANSLATORS: %i refers to the number of places to send (integer)
+#, c-format
+msgid "Send %i place"
+msgid_plural "Send %i places"
+msgstr[0] "%i plaats sturen"
+msgstr[1] "%i plaatsen sturen"
+
+msgid "New chat"
+msgstr "Nieuwe chat"
+
+msgid "Chats"
+msgstr "Chats"
+
+msgid "You can chat with friends who have Mapstr installed on their phone"
+msgstr "Je kunt chatten met vrienden die Mapstr op hun telefoon hebben geïnstalleerd"
+
+msgid "Tap on the button below to start your first chat."
+msgstr "Tik op de knop hieronder voor je eerste chat."
+
+msgid "Find the maps you follow here"
+msgstr "Vind hier de kaarten die je volgt"
+
+msgid "Tap here to message your friends"
+msgstr "Tik hier om je vrienden berichten te sturen!"
+

@@ -1,5 +1,3 @@
-/* Authorization comment to access Location when app is in use or in background */
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "O Mapstr precisa acessar a sua localização em segundo plano (\"Permitir sempre\") para fornecer notificações de lugares próximos";
 /* Application Name */
 "CFBundleDisplayName" = "mapstr";
 
@@ -33,3 +31,5 @@
 /* Authorization comment to access Location when app is in background */
 "NSLocationAlwaysUsageDescription" = "O Mapstr precisa acessar a sua localização em segundo plano para fornecer notificações de lugares próximos!";
 
+/* Authorization comment to access Location when app is in use or in background */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "O Mapstr precisa acessar a sua localização em segundo plano (\"Permitir sempre\") para fornecer notificações de lugares próximos";
