@@ -5,7 +5,7 @@
 /* Notification Title - New invite! */
 "NEW_INVITE_TITLE" = "新しい招待状！";
 /* Notification Body - {firstname} has invited you on Mapstr. */
-"NEW_INVITE_BODY" = "%@さんからMapstrに招待されました！";
+"NEW_INVITE_BODY" = "%@さんからMapstrに招待されました";
 /* Notification Title - Invite accepted! */
 "ACCEPTED_INVITE_TITLE" = "招待が承諾されました！";
 /* Notification Body - {firstname} has accepted your invite. */
