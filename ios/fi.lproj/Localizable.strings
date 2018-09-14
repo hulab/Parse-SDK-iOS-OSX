@@ -1,18 +1,18 @@
 /* Notification Body - Your friend {firstname} just joined Mapstr! */
-"NEW_FB_FRIEND_BODY" = "Votre ami %@ vient de rejoindre Mapstr !";
+"NEW_FB_FRIEND_BODY" = "Ystäväsi %@ liittyi juuri Mapstriin!";
 /* Notification Body - {firstname} just saved a new place on his map! */
-"NEW_SAVED_PLACE_BODY" = "%@ vient d'ajouter %@ sur sa carte !";
+"NEW_SAVED_PLACE_BODY" = "%@ tallensi juuri paikan %@ kartalleen!";
 /* Notification Title - New invite! */
-"NEW_INVITE_TITLE" = "Nouvelle invitation !";
+"NEW_INVITE_TITLE" = "Uusi kutsu!";
 /* Notification Body - {firstname} has invited you on Mapstr. */
-"NEW_INVITE_BODY" = "%@ vous a invité sur Mapstr.";
+"NEW_INVITE_BODY" = "%@ kutsui sinut Mapstriin.";
 /* Notification Title - Invite accepted! */
-"ACCEPTED_INVITE_TITLE" = "Invitation acceptée !";
+"ACCEPTED_INVITE_TITLE" = "Kutsu hyväksytty!";
 /* Notification Body - {firstname} has accepted your invite. */
-"ACCEPTED_INVITE_BODY" = "%@ a accepté votre invitation.";
+"ACCEPTED_INVITE_BODY" = "%@ hyväksyi kutsunsa.";
 /* Notification Title - new Follower! */
-"NEW_FOLLOWER_TITLE" = "Vous avez un nouvel abonné !";
+"NEW_FOLLOWER_TITLE" = "Sinulla on uusi seuraaja!";
 /* Notification Body - {fullname} is now following you */
-"NEW_FOLLOWER_BODY" = "%@ vous suit";
+"NEW_FOLLOWER_BODY" = "%@ seuraa nyt sinua";
 /* Notification Title - New place! */
-"NEW_SAVED_PLACE_TITLE" = "Nouveau lieu !";
+"NEW_SAVED_PLACE_TITLE" = "Uusi paikka!";

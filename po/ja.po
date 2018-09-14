@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-09-11 16:25+0000\n"
-"PO-Revision-Date: 2018-09-11 16:25+0000\n"
+"POT-Creation-Date: 2018-09-14 01:22+0000\n"
+"PO-Revision-Date: 2018-09-14 01:22+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: ja\n"
@@ -1643,11 +1643,11 @@ msgstr "レストラン＆カフェ"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr "表彰台について知ろう！"
+msgstr "友だちにメッセージを送ろう！"
 
 #. Whats New Description
 msgid "Whats New Description"
-msgstr "友だちやフォローしている公式アカウントによって最も追加された場所がわかります"
+msgstr "🏕 色々な場所を瞬時に共有\n🤩 他のおすすめをリクエスト\n💌 «ありがとうセルフィー»を送信"
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"

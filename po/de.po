@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-09-11 16:25+0000\n"
-"PO-Revision-Date: 2018-09-11 16:25+0000\n"
+"POT-Creation-Date: 2018-09-14 01:22+0000\n"
+"PO-Revision-Date: 2018-09-14 01:22+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -1643,11 +1643,11 @@ msgstr "Restaurants & Cafés"
 
 #. What's new title
 msgid "Whats New Title"
-msgstr "Entdecken Sie PODIUM!"
+msgstr "Nachrichten an Freunde!"
 
 #. Whats New Description
 msgid "Whats New Description"
-msgstr "Find out which are the most added places by your friends and the official accounts you follow"
+msgstr "🏕 Orte sofort teilen\n🤩 Weitere Empfehlungen erhalten\n💌 Dankeschön-Selfies senden"
 
 #. Whats New 2nd button
 msgid "Whats New 2nd button"

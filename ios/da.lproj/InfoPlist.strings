@@ -1,0 +1,35 @@
+/* Application Name */
+"CFBundleDisplayName" = "mapstr";
+
+/* Authorization comment to access Camera */
+"NSCameraUsageDescription" = "Mapstr skal have adgang til kameraet for at scanne en adresse!";
+
+/* Authorization comment to access Location */
+"NSLocationUsageDescription" = "Mapstr skal have adgang til din placering for at vise steder omkring dig!";
+
+/* Authorization comment to access Location when app is use */
+"NSLocationWhenInUseUsageDescription" = "Mapstr skal have adgang til din placering for at vise steder omkring dig!";
+
+/* Authorization comment to access Contacts */
+"NSContactsUsageDescription" = "Mapstr skal have adgang til dine kontakter for at importere dem til dit kort!";
+
+/* Authorization comment to access Photo Library */
+"NSPhotoLibraryUsageDescription" = "Mapstr skal have adgang til dit fotobibliotek for at lade dig tilføje dit eget billede!";
+
+/* Shortcut Item -  Nearby Search */
+"UIApplicationShortcutItemTitle_NEARBY" = "Søg i nærheden";
+
+/* Shortcut Item subtitle -  Add a place around you */
+"UIApplicationShortcutItemSubtitle_NEARBY" = "Tilføj et sted i nærheden af dig";
+
+/* Shortcut Item -  Text Search */
+"UIApplicationShortcutItemTitle_ADDBYTEXT" = "Tekstsøgning";
+
+/* Shortcut Item subtitle -  Add a place by its name */
+"UIApplicationShortcutItemSubtitle_ADDBYTEXT" = "Tilføj et sted efter dets navn";
+
+/* Authorization comment to access Location when app is in background */
+"NSLocationAlwaysUsageDescription" = "Mapstr skal have adgang til din placering i baggrunden for notifikationer om nærliggende steder!";
+
+/* Authorization comment to access Location when app is in use or in background */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Mapstr skal have adgang til din placering i baggrunden (\"Tillad altid\") for notifikationer om nærliggende steder";
