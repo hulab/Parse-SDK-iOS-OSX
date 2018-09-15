@@ -2417,3 +2417,7 @@ msgstr "ここでフォローするマップを探します"
 
 msgid "Tap here to message your friends"
 msgstr "ここをタップして、友だちにメッセージを送ります"
+
+#. 'To' as a way to indicate the recipients field (of a message)
+msgid "To:"
+msgstr "に:"

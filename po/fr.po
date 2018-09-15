@@ -2422,3 +2422,7 @@ msgstr "Retrouvez ici les cartes que vous suivez"
 
 msgid "Tap here to message your friends"
 msgstr "Appuyez ici pour envoyer des messages à vos amis"
+
+#. 'To' as a way to indicate the recipients field (of a message)
+msgid "To:"
+msgstr "À :"
