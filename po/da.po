@@ -552,6 +552,10 @@ msgstr "Gemmer..."
 msgid "Search"
 msgstr "Søg"
 
+#. Searchbar placeholder - Search...
+msgid "Search..."
+msgstr "Søg..."
+
 #. Searching...
 msgid "Searching..."
 msgstr "Søger..."
@@ -2418,4 +2422,3 @@ msgstr "Find de kort du følger her"
 
 msgid "Tap here to message your friends"
 msgstr "Tryk her for at sende besked til dine venner"
-

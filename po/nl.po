@@ -552,6 +552,10 @@ msgstr "Opslaan…"
 msgid "Search"
 msgstr "Zoeken"
 
+#. Searchbar placeholder - Search...
+msgid "Search..."
+msgstr "Zoeken..."
+
 #. Searching...
 msgid "Searching..."
 msgstr "Zoeken..."
@@ -2418,4 +2422,3 @@ msgstr "Vind hier de kaarten die je volgt"
 
 msgid "Tap here to message your friends"
 msgstr "Tik hier om je vrienden berichten te sturen!"
-

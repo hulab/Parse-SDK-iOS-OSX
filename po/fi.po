@@ -552,6 +552,10 @@ msgstr "Tallennetaan"
 msgid "Search"
 msgstr "Haku"
 
+#. Searchbar placeholder - Search...
+msgid "Search..."
+msgstr "Haku..."
+
 #. Searching...
 msgid "Searching..."
 msgstr "Haetaan..."
@@ -2418,4 +2422,3 @@ msgstr "Löydät seuraamasi kartat täältä"
 
 msgid "Tap here to message your friends"
 msgstr "Lähetä viesti tätä napauttamalla"
-

@@ -552,6 +552,10 @@ msgstr "Saving..."
 msgid "Search"
 msgstr "Search"
 
+#. Searchbar placeholder - Search...
+msgid "Search..."
+msgstr "Search..."
+
 #. Searching...
 msgid "Searching..."
 msgstr "Searching..."
@@ -2418,4 +2422,3 @@ msgstr "Find the maps you follow here"
 
 msgid "Tap here to message your friends"
 msgstr "Tap here to message your friends"
-

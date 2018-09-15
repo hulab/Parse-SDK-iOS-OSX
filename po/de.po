@@ -552,6 +552,10 @@ msgstr "Wird gespeichert..."
 msgid "Search"
 msgstr "Suchen"
 
+#. Searchbar placeholder - Search...
+msgid "Search..."
+msgstr "Suchen..."
+
 #. Searching...
 msgid "Searching..."
 msgstr "Wird gesucht..."
@@ -2418,4 +2422,3 @@ msgstr "Diesen Karten folgst du"
 
 msgid "Tap here to message your friends"
 msgstr "Hier tippen, um Freunden zu schreiben"
-

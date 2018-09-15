@@ -552,6 +552,10 @@ msgstr "保存中…"
 msgid "Search"
 msgstr "検索"
 
+#. Searchbar placeholder - Search...
+msgid "Search..."
+msgstr "検索…"
+
 #. Searching...
 msgid "Searching..."
 msgstr "検索中…"
@@ -2413,4 +2417,3 @@ msgstr "ここでフォローするマップを探します"
 
 msgid "Tap here to message your friends"
 msgstr "ここをタップして、友だちにメッセージを送ります"
-
