@@ -2423,3 +2423,12 @@ msgstr "Tap here to message your friends"
 #. 'To' as a way to indicate the recipients field (of a message)
 msgid "To:"
 msgstr "To:"
+
+msgid "Choose a username to share with your friends"
+msgstr "Choose a username to share with your friends"
+
+msgid "You can change it at any time from your profile settings"
+msgstr "You can change it at any time from your profile settings"
+
+msgid "Messages"
+msgstr "Messages"
