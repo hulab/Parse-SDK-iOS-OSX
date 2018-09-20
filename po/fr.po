@@ -2350,9 +2350,6 @@ msgstr "Plus tard"
 msgid "%s has not responded to your invite. Resend it!"
 msgstr "%s n'a pas répondu à votre invitation. Renvoyez lui !"
 
-msgid "Sign up"
-msgstr "Me connecter"
-
 #. TRANSLATORS: it has to be very short, indicating it's a top of the user's friends places, or the most popular places among his friends. If necessary we can omit the 'places' keyword as in French (top de mes amis)
 msgid "Friends' top places"
 msgstr "Lieux les plus ajoutés"
