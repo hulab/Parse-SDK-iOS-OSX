@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-09-14 01:22+0000\n"
-"PO-Revision-Date: 2018-09-14 01:22+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+msgstr "Project-Id-Version: VERSION\nReport-Msgid-Bugs-To: sebastien@mapstr.com\nPOT-Creation-Date: 2018-09-14 01:22+0000\nPO-Revision-Date: 2018-09-28 17:07+0000\nLast-Translator: Sebastien <sebastien@mapstr.com>\nLanguage-Team: Japanese <https://translation.hulab.co/projects/mapstr/mapstr/ja/>\nLanguage: ja\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 2.20\n"
 
 #. Add
 msgid "Add"
@@ -534,7 +524,7 @@ msgstr "場所の詳細を取得中..."
 
 #. Go
 msgid "Go"
-msgstr "進む"
+msgstr "経路"
 
 #. Save
 msgid "Save"
@@ -663,7 +653,7 @@ msgstr "この場所はすでにマップ上にあります！"
 
 #. Default tag: To try
 msgid "To try"
-msgstr "試す"
+msgstr "試してみる"
 
 #. Alert message: Try again
 msgid "Try again"
@@ -986,7 +976,7 @@ msgstr "マイマップにすでにあります"
 
 #. Route Option - Drive app
 msgid "Drive app"
-msgstr "ドライブアプリ"
+msgstr "ドライブ"
 
 #. Route Option - Unity: min (minutes)
 msgid "min"
@@ -998,15 +988,15 @@ msgstr "該当なし"
 
 #. Route Option - Private hire app
 msgid "Private hire app"
-msgstr "個人ハイヤーアプリ"
+msgstr "個人ハイヤー"
 
 #. Route Option - Transit app
 msgid "Transit app"
-msgstr "交通機関アプリ"
+msgstr "交通機関"
 
 #. Route Option - Walk app
 msgid "Walk app"
-msgstr "徒歩アプリ"
+msgstr "徒歩"
 
 #. You have to select at least one navigation application
 msgid "You have to select at least one navigation application"
@@ -1893,7 +1883,7 @@ msgstr "タグで場所を選別します"
 
 #. Tips - Grab Place
 msgid "You can grab this place!"
-msgstr "あなたはこの場所をつかむことができます！"
+msgstr "この場所を自分の地図に追加することができます!"
 
 #. Tips - Tap the add button below
 msgid "Open and tap the add button below"
