@@ -2711,3 +2711,33 @@ msgstr "No space left on device"
 
 msgid "Quit"
 msgstr "Quit"
+
+msgid "Apple Maps"
+msgstr "Apple Maps"
+
+msgid "Google Maps"
+msgstr "Google Maps"
+
+msgid "Uber"
+msgstr "Uber"
+
+msgid "Citymapper"
+msgstr "Citymapper"
+
+msgid "Lyft"
+msgstr "Lyft"
+
+msgid "MappyGPS Free"
+msgstr "MappyGPS Free"
+
+msgid "Transit"
+msgstr "Transit"
+
+msgid "Waze"
+msgstr "Waze"
+
+msgid "Navigon"
+msgstr "Navigon"
+
+msgid "Yandex"
+msgstr "Yandex"

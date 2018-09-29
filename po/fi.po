@@ -2423,3 +2423,33 @@ msgstr "Lähetä viesti tätä napauttamalla"
 #. 'To' as a way to indicate the recipients field (of a message)
 msgid "To:"
 msgstr "To:"
+
+msgid "Apple Maps"
+msgstr "Apple Kartat"
+
+msgid "Google Maps"
+msgstr "Google Maps"
+
+msgid "Uber"
+msgstr "Uber"
+
+msgid "Citymapper"
+msgstr "Citymapper"
+
+msgid "Lyft"
+msgstr "Lyft"
+
+msgid "MappyGPS Free"
+msgstr "MappyGPS Free"
+
+msgid "Transit"
+msgstr "Transit"
+
+msgid "Waze"
+msgstr "Waze"
+
+msgid "Navigon"
+msgstr "Navigon"
+
+msgid "Yandex"
+msgstr "Yandex"

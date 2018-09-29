@@ -2423,3 +2423,33 @@ msgstr "Tocca qui per inviare messaggi agli amici"
 #. 'To' as a way to indicate the recipients field (of a message)
 msgid "To:"
 msgstr "A:"
+
+msgid "Apple Maps"
+msgstr "Apple Mappe"
+
+msgid "Google Maps"
+msgstr "Google Maps"
+
+msgid "Uber"
+msgstr "Uber"
+
+msgid "Citymapper"
+msgstr "Citymapper"
+
+msgid "Lyft"
+msgstr "Lyft"
+
+msgid "MappyGPS Free"
+msgstr "MappyGPS Free"
+
+msgid "Transit"
+msgstr "Transit"
+
+msgid "Waze"
+msgstr "Waze"
+
+msgid "Navigon"
+msgstr "Navigon"
+
+msgid "Yandex"
+msgstr "Yandex"
