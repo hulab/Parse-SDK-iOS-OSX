@@ -1,35 +1,24 @@
 /* Application Name */
 "CFBundleDisplayName" = "mapstr";
-
 /* Authorization comment to access Camera */
 "NSCameraUsageDescription" = "Mapstr tarvitsee kamerayhteyden osoitteen lukemiseen!";
-
 /* Authorization comment to access Location */
 "NSLocationUsageDescription" = "Mapstr tarvitsee sijaintitietojesi käyttöoikeuden näyttääkseen ympärilläsi olevia paikkoja!";
-
 /* Authorization comment to access Location when app is use */
 "NSLocationWhenInUseUsageDescription" = "Mapstr tarvitsee sijaintitietojesi käyttöoikeuden näyttääkseen ympärilläsi olevia paikkoja!";
-
 /* Authorization comment to access Contacts */
 "NSContactsUsageDescription" = "Mapstr tarvitsee yhteystietojesi käyttöoikeuden voidakseen siirtää ne kartallesi!";
-
 /* Authorization comment to access Photo Library */
 "NSPhotoLibraryUsageDescription" = "Mapstr tarvitsee valokuvakirjastosi käyttöoikeuden voidakseen antaa sinun lisätä oman kuvasi!";
-
 /* Shortcut Item -  Nearby Search */
 "UIApplicationShortcutItemTitle_NEARBY" = "Lähellä oleva haku";
-
 /* Shortcut Item subtitle -  Add a place around you */
 "UIApplicationShortcutItemSubtitle_NEARBY" = "Lisää ympärilläsi oleva paikka";
-
 /* Shortcut Item -  Text Search */
 "UIApplicationShortcutItemTitle_ADDBYTEXT" = "Tekstihaku";
-
 /* Shortcut Item subtitle -  Add a place by its name */
 "UIApplicationShortcutItemSubtitle_ADDBYTEXT" = "Lisää paikka nimensä perusteella";
-
 /* Authorization comment to access Location when app is in background */
 "NSLocationAlwaysUsageDescription" = "Mapstr tarvitsee sijaintitietojesi käyttöoikeuden lähettääkseen ilmoituksia lähellä olevista paikoista ollessaan käynnissä taustalla!";
-
 /* Authorization comment to access Location when app is in use or in background */
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "Mapstr tarvitsee sijaintitietojesi käyttöoikeuden lähettääkseen ilmoituksia lähellä olevista paikoista ollessaan käynnissä taustalla (\"Salli aina\")!";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Mapstr tarvitsee sijaintitietojesi käyttöoikeuden lähettääkseen ilmoituksia lähellä olevista paikoista ollessaan käynnissä taustalla (\"Salli aina\")";
