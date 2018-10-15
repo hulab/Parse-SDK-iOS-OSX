@@ -65,6 +65,9 @@
 #if TARGET_OS_WATCH || TARGET_OS_TV
     return 0;
 #elif TARGET_OS_IOS
+    if ([NSThread currentThread].isMainThread) {
+        _iconBadgeNumber = self.systemApplication.applicationIconBadgeNumber;
+    }
     return _iconBadgeNumber;
 #elif PF_TARGET_OS_OSX
     // Make sure not to use `NSApp` here, because it doesn't work sometimes,
