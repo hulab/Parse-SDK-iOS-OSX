@@ -18,6 +18,8 @@ NS_ASSUME_NONNULL_BEGIN
 @protocol PFSubclassing;
 @class PFRelation;
 @class PFACL;
+@class PFEncoder;
+@class PFDecoder;
 
 /**
  The name of the default pin that for PFObject local data store.
@@ -65,6 +67,8 @@ NS_REQUIRES_PROPERTY_DEFINITIONS
  @return A PFObject with the given class name and set with the given data.
  */
 + (instancetype)objectWithClassName:(NSString *)className dictionary:(nullable NSDictionary<NSString *, id> *)dictionary;
+
++ (instancetype)objectWithClassName:(NSString *)className objectId:(NSString *)objectId completeData:(BOOL)completeData;
 
 /**
  Creates a reference to an existing PFObject for use in creating associations between PFObjects.
@@ -881,6 +885,16 @@ NS_REQUIRES_PROPERTY_DEFINITIONS
  @return YES if the receiver and the other object are equal, otherwise NO.
  */
 - (BOOL)isEqualToObject:(PFObject *)object;
+
+///--------------------------------------
+#pragma mark - REST
+///--------------------------------------
+
+- (NSDictionary *)RESTDictionaryWithObjectEncoder:(PFEncoder *)objectEncoder
+                                operationSetUUIDs:(NSArray *_Nonnull*_Nonnull)operationSetUUIDs
+                                            error:(NSError **)error;
+
+- (BOOL)mergeFromRESTDictionary:(NSDictionary *)object withDecoder:(PFDecoder *)decoder error:(NSError **)error;
 
 @end
 

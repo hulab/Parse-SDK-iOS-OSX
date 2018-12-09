@@ -44,6 +44,7 @@
 #import <Parse/PFUserAuthenticationDelegate.h>
 #import <Parse/PFFileUploadResult.h>
 #import <Parse/PFFileUploadController.h>
+#import <Parse/PFJSONSerialization.h>
 
 #if TARGET_OS_IOS
 
