@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
   s.name             = 'Parse'
-  s.version          = '1.17.1.hulab.10'
+  s.version          = '1.17.2.hulab.1'
   s.license          =  { :type => 'BSD', :file => 'LICENSE' }
-  s.homepage         = 'https://git.hulab.co/hulab/Parse-SDK-iOS-OSX/'
+  s.homepage         = 'https://github.com/hulab/Parse-SDK-iOS-OSX/'
   s.summary          = 'Fork of a library that gives you access to the powerful Parse cloud platform from your iOS/OS X/watchOS/tvOS app.'
   s.authors          = 'Hulab'
   s.social_media_url = 'https://twitter.com/ParsePlatform'
 
-  s.source           = { :git => 'https://git.hulab.co/hulab/Parse-SDK-iOS-OSX.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/hulab/Parse-SDK-iOS-OSX.git', :tag => s.version.to_s }
 
   s.platform = :ios, :osx, :tvos, :watchos
   s.ios.deployment_target = '10.0'
@@ -112,7 +112,7 @@ Pod::Spec.new do |s|
                             'Social'
     s.libraries        = 'z', 'sqlite3'
 
-    s.dependency 'Parse/Core', '1.17.1.hulab.10'
+    s.dependency 'Parse/Core', '1.17.2.hulab.1'
     s.dependency 'Bolts', '~> 1.9'
     s.dependency 'FBSDKLoginKit', '~> 4.33'
   end
@@ -134,7 +134,7 @@ Pod::Spec.new do |s|
                           'SystemConfiguration'
     s.libraries        = 'z', 'sqlite3'
 
-    s.dependency 'Parse/Core', '1.17.1.hulab.10'
+    s.dependency 'Parse/Core', '1.17.2.hulab.1'
     s.dependency 'Bolts', '~> 1.9'
     s.dependency 'FBSDKTVOSKit', '~> 4.33'
     s.dependency 'FBSDKShareKit', '~> 4.33'
@@ -157,7 +157,7 @@ Pod::Spec.new do |s|
     s.weak_frameworks = 'Accounts',
                         'Social'
     s.libraries        = 'z', 'sqlite3'
-    s.dependency 'Parse/Core', '1.17.1.hulab.10'
+    s.dependency 'Parse/Core', '1.17.2.hulab.1'
   end
 
   s.subspec 'UI' do |s|
@@ -179,7 +179,7 @@ Pod::Spec.new do |s|
                             'UIKit',
                             'CoreGraphics',
                             'QuartzCore'
-    s.dependency 'Parse/Core', '1.17.1.hulab.10'
+    s.dependency 'Parse/Core', '1.17.2.hulab.1'
   end
 
   # prepare command for parseUI
