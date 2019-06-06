@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Parse'
-  s.version          = '1.17.2.hulab.4'
+  s.version          = '1.17.2.hulab.5'
   s.license          =  { :type => 'BSD', :file => 'LICENSE' }
   s.homepage         = 'https://github.com/hulab/Parse-SDK-iOS-OSX/'
   s.summary          = 'Fork of a library that gives you access to the powerful Parse cloud platform from your iOS/OS X/watchOS/tvOS app.'
@@ -112,7 +112,7 @@ Pod::Spec.new do |s|
                             'Social'
     s.libraries        = 'z', 'sqlite3'
 
-    s.dependency 'Parse/Core', '1.17.2.hulab.4'
+    s.dependency 'Parse/Core', '1.17.2.hulab.5'
     s.dependency 'Bolts', '~> 1.9'
     s.dependency 'FBSDKLoginKit', '~> 5.0'
   end
@@ -134,7 +134,7 @@ Pod::Spec.new do |s|
                           'SystemConfiguration'
     s.libraries        = 'z', 'sqlite3'
 
-    s.dependency 'Parse/Core', '1.17.2.hulab.4'
+    s.dependency 'Parse/Core', '1.17.2.hulab.5'
     s.dependency 'Bolts', '~> 1.9'
     s.dependency 'FBSDKTVOSKit', '~> 5.0'
     s.dependency 'FBSDKShareKit', '~> 5.0'
@@ -157,7 +157,7 @@ Pod::Spec.new do |s|
     s.weak_frameworks = 'Accounts',
                         'Social'
     s.libraries        = 'z', 'sqlite3'
-    s.dependency 'Parse/Core', '1.17.2.hulab.4'
+    s.dependency 'Parse/Core', '1.17.2.hulab.5'
   end
 
   s.subspec 'UI' do |s|
@@ -179,7 +179,7 @@ Pod::Spec.new do |s|
                             'UIKit',
                             'CoreGraphics',
                             'QuartzCore'
-    s.dependency 'Parse/Core', '1.17.2.hulab.4'
+    s.dependency 'Parse/Core', '1.17.2.hulab.5'
   end
 
   # prepare command for parseUI

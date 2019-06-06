@@ -87,6 +87,14 @@ static NSSet *protectedKeys;
 }
 
 ///--------------------------------------
+#pragma mark - Properties
+///--------------------------------------
+
+- (void) setObjectId:(NSString *)objectId {
+    PFParameterAssertionFailure(@"Installation's objectIds cannot be changed");
+}
+
+///--------------------------------------
 #pragma mark - Command Handlers
 ///--------------------------------------
 
