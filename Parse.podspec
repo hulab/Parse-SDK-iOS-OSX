@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Parse'
-  s.version          = '1.17.2.hulab.6'
+  s.version          = '1.17.2.hulab.7'
   s.license          =  { :type => 'BSD', :file => 'LICENSE' }
   s.homepage         = 'https://github.com/hulab/Parse-SDK-iOS-OSX/'
   s.summary          = 'Fork of a library that gives you access to the powerful Parse cloud platform from your iOS/OS X/watchOS/tvOS app.'
@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   
     s.libraries        = 'z', 'sqlite3'
   
-    s.dependency 'Bolts/Tasks', :git => 'https://github.com/hulab/Bolts-ObjC', branch: 'hulab'
+    s.dependency 'Bolts/Tasks', '1.9.1'
   end
 
   s.subspec 'FacebookUtils' do |s|
@@ -113,7 +113,7 @@ Pod::Spec.new do |s|
     s.libraries        = 'z', 'sqlite3'
 
     s.dependency 'Parse/Core', s.version.to_s
-    s.dependency 'Bolts', :git => 'https://github.com/hulab/Bolts-ObjC', branch: 'hulab'
+    s.dependency 'Bolts', '1.9.1'
     s.dependency 'FBSDKLoginKit', '~> 5.0'
   end
 
@@ -135,7 +135,7 @@ Pod::Spec.new do |s|
     s.libraries        = 'z', 'sqlite3'
 
     s.dependency 'Parse/Core', s.version.to_s
-    s.dependency 'Bolts', :git => 'https://github.com/hulab/Bolts-ObjC', branch: 'hulab'
+    s.dependency 'Bolts', '1.9.1'
     s.dependency 'FBSDKTVOSKit', '~> 5.0'
     s.dependency 'FBSDKShareKit', '~> 5.0'
   end
