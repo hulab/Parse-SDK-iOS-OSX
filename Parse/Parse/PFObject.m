@@ -1556,8 +1556,7 @@ static void PFObjectAssertValueIsKindOfValidClass(id object) {
 ///--------------------------------------
 
 - (void)_setObject:(id)object forKey:(NSString *)key onlyIfDifferent:(BOOL)onlyIfDifferent {
-    PFParameterAssert(object != nil && key != nil,
-                      @"Can't use nil for keys or values on PFObject. Use NSNull for values.");
+    PFParameterAssert(key != nil, @"Can't use nil for keys on PFObject.");
     PFParameterAssert([key isKindOfClass:[NSString class]], @"PFObject keys must be NSStrings.");
 
     if (onlyIfDifferent) {
@@ -1569,13 +1568,16 @@ static void PFObjectAssertValueIsKindOfValidClass(id object) {
     }
 
     @synchronized (lock) {
-        if ([object isKindOfClass:[PFFieldOperation class]]) {
-            [self performOperation:object forKey:key];
-            return;
+        PFFieldOperation *operation = nil;
+        if (!object) {
+            operation = [[PFDeleteOperation alloc] init];
+        } else if ([object isKindOfClass:[PFFieldOperation class]]) {
+            operation = object;
+        } else {
+            PFObjectAssertValueIsKindOfValidClass(object);
+            operation = [PFSetOperation setWithValue:object];
         }
-
-        PFObjectAssertValueIsKindOfValidClass(object);
-        [self performOperation:[PFSetOperation setWithValue:object] forKey:key];
+        [self performOperation:operation forKey:key];
     }
 }
 
@@ -2549,6 +2551,30 @@ static void PFObjectAssertValueIsKindOfValidClass(id object) {
 
 + (PFObjectSubclassingController *)subclassingController {
     return [Parse _currentManager].coreManager.objectSubclassingController;
+}
+
+///--------------------------------------
+#pragma mark - Equality
+///--------------------------------------
+
+- (BOOL)isEqual:(id)other {
+    return [self isEqualToObject:other];
+}
+
+- (NSUInteger)hash {
+    return _pfinternal_state.hash;
+}
+
+- (BOOL)isEqualToObject:(PFObject *)object {
+    if (object == self) {
+        return YES;
+    }
+
+    if (![object isKindOfClass:[PFObject class]]) {
+        return NO;
+    }
+
+    return [_pfinternal_state isEqualToState:object->_pfinternal_state];
 }
 
 @end
