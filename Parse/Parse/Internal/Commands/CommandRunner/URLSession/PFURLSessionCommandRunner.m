@@ -271,7 +271,7 @@
     // Completely disable caching of responses for security reasons.
     configuration.URLCache = [[NSURLCache alloc] initWithMemoryCapacity:[NSURLCache sharedURLCache].memoryCapacity
                                                            diskCapacity:0
-                                                               diskPath:nil];
+                                                           directoryURL:nil];
 
     NSBundle *bundle = [NSBundle mainBundle];
     NSDictionary *headers = [PFCommandURLRequestConstructor defaultURLRequestHeadersForApplicationId:applicationId
