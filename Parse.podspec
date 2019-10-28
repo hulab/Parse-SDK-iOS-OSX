@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Parse'
-  s.version          = '1.17.3.hulab.1'
+  s.version          = '1.17.3.hulab.2'
   s.license          =  { :type => 'BSD', :file => 'LICENSE' }
   s.homepage         = 'https://git.hulab.co/hulab/Parse-SDK-iOS-OSX/'
   s.summary          = 'Fork of a library that gives you access to the powerful Parse cloud platform from your iOS/OS X/watchOS/tvOS app.'

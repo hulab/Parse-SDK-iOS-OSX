@@ -269,9 +269,15 @@
     configuration.HTTPShouldSetCookies = NO;
 
     // Completely disable caching of responses for security reasons.
-    configuration.URLCache = [[NSURLCache alloc] initWithMemoryCapacity:[NSURLCache sharedURLCache].memoryCapacity
-                                                           diskCapacity:0
-                                                           directoryURL:nil];
+    if ([NSURLCache respondsToSelector:@selector(initWithMemoryCapacity:diskCapacity:directoryURL:)]) {
+        configuration.URLCache = [[NSURLCache alloc] initWithMemoryCapacity:[NSURLCache sharedURLCache].memoryCapacity
+                                                               diskCapacity:0
+                                                               directoryURL:nil];
+    } else {
+        configuration.URLCache = [[NSURLCache alloc] initWithMemoryCapacity:[NSURLCache sharedURLCache].memoryCapacity
+                                                               diskCapacity:0
+                                                                   diskPath:nil];
+    }
 
     NSBundle *bundle = [NSBundle mainBundle];
     NSDictionary *headers = [PFCommandURLRequestConstructor defaultURLRequestHeadersForApplicationId:applicationId
