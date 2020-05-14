@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Parse'
-  s.version          = '1.18.0.hulab.1'
+  s.version          = '1.18.0.hulab.2'
   s.license          =  { :type => 'BSD', :file => 'LICENSE' }
   s.homepage         = 'https://git.hulab.co/hulab/Parse-SDK-iOS-OSX/'
   s.summary          = 'Fork of a library that gives you access to the powerful Parse cloud platform from your iOS/OS X/watchOS/tvOS app.'
@@ -104,7 +104,7 @@ Pod::Spec.new do |s|
 
     s.dependency 'Parse/Core', s.version.to_s
     s.dependency 'Bolts/Tasks', '~> 1.9.1'
-    s.dependency 'FBSDKLoginKit', '~> 6.x'
+    s.dependency 'FBSDKLoginKit', '~> 7.x'
   end
 
   s.subspec 'FacebookUtils-tvOS' do |s|
@@ -126,8 +126,8 @@ Pod::Spec.new do |s|
 
     s.dependency 'Parse/Core', s.version.to_s
     s.dependency 'Bolts/Tasks', '~> 1.9.1'
-    s.dependency 'FBSDKTVOSKit', '~> 6.x'
-    s.dependency 'FBSDKShareKit', '~> 6.x'
+    s.dependency 'FBSDKTVOSKit', '~> 7.x'
+    s.dependency 'FBSDKShareKit', '~> 7.x'
   end
 
   s.subspec 'TwitterUtils' do |s|
