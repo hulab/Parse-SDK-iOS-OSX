@@ -233,7 +233,7 @@
 		810155DB1BB3832700D7C7BD /* PFObjectController.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FC6B1B50376D003841A2 /* PFObjectController.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		810155DD1BB3832700D7C7BD /* PFNetworkCommand.h in Headers */ = {isa = PBXBuildFile; fileRef = 8119C9961A76E28F0085B516 /* PFNetworkCommand.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		810155DE1BB3832700D7C7BD /* PFOfflineQueryLogic.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FCA11B503886003841A2 /* PFOfflineQueryLogic.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		810155DF1BB3832700D7C7BD /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		810155DF1BB3832700D7C7BD /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		810155E01BB3832700D7C7BD /* Parse_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 81068EBA1ADE462500A34D13 /* Parse_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		810155E11BB3832700D7C7BD /* PFFieldOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 81A2458B1B1E99C6006A6953 /* PFFieldOperation.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		810155E21BB3832700D7C7BD /* PFObjectPrivate.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FC5D1B503755003841A2 /* PFObjectPrivate.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -918,7 +918,7 @@
 		815F23881BD04D150054659F /* PFAlertView.h in Headers */ = {isa = PBXBuildFile; fileRef = 8101A14619ACDA97008BB503 /* PFAlertView.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		815F23891BD04D150054659F /* PFNetworkCommand.h in Headers */ = {isa = PBXBuildFile; fileRef = 8119C9961A76E28F0085B516 /* PFNetworkCommand.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		815F238A1BD04D150054659F /* PFOfflineQueryLogic.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FCA11B503886003841A2 /* PFOfflineQueryLogic.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		815F238B1BD04D150054659F /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		815F238B1BD04D150054659F /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		815F238C1BD04D150054659F /* Parse_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 81068EBA1ADE462500A34D13 /* Parse_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		815F238D1BD04D150054659F /* PFFieldOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 81A2458B1B1E99C6006A6953 /* PFFieldOperation.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		815F238E1BD04D150054659F /* PFObjectPrivate.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FC5D1B503755003841A2 /* PFObjectPrivate.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -1218,8 +1218,8 @@
 		818D6F211B3DCB5A00F94C82 /* PFObjectEstimatedData.h in Headers */ = {isa = PBXBuildFile; fileRef = 818D6F1E1B3DCB5A00F94C82 /* PFObjectEstimatedData.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		818D6F221B3DCB5A00F94C82 /* PFObjectEstimatedData.m in Sources */ = {isa = PBXBuildFile; fileRef = 818D6F1F1B3DCB5A00F94C82 /* PFObjectEstimatedData.m */; };
 		818D6F231B3DCB5A00F94C82 /* PFObjectEstimatedData.m in Sources */ = {isa = PBXBuildFile; fileRef = 818D6F1F1B3DCB5A00F94C82 /* PFObjectEstimatedData.m */; };
-		81951F161ACB90DA00E142EB /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		81951F171ACB90DA00E142EB /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		81951F161ACB90DA00E142EB /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		81951F171ACB90DA00E142EB /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		81951F181ACB90DA00E142EB /* PFJSONSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 81951F151ACB90DA00E142EB /* PFJSONSerialization.m */; };
 		81951F191ACB90DA00E142EB /* PFJSONSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 81951F151ACB90DA00E142EB /* PFJSONSerialization.m */; };
 		8196D55B1B0AB64B000465A1 /* PFAnalyticsController.h in Headers */ = {isa = PBXBuildFile; fileRef = 8196D5591B0AB64B000465A1 /* PFAnalyticsController.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -1552,7 +1552,7 @@
 		81C583C51C3B0A98000063C6 /* PFNetworkCommand.h in Headers */ = {isa = PBXBuildFile; fileRef = 8119C9961A76E28F0085B516 /* PFNetworkCommand.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C583C61C3B0A98000063C6 /* PFOfflineQueryLogic.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FCA11B503886003841A2 /* PFOfflineQueryLogic.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C583C71C3B0A98000063C6 /* PFQuery+Deprecated.h in Headers */ = {isa = PBXBuildFile; fileRef = 81CA29EA1C28ECA300C4F34A /* PFQuery+Deprecated.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81C583C81C3B0A98000063C6 /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		81C583C81C3B0A98000063C6 /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		81C583C91C3B0A98000063C6 /* Parse_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 81068EBA1ADE462500A34D13 /* Parse_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C583CA1C3B0A98000063C6 /* PFFieldOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 81A2458B1B1E99C6006A6953 /* PFFieldOperation.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C583CB1C3B0A98000063C6 /* PFObjectPrivate.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FC5D1B503755003841A2 /* PFObjectPrivate.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -1897,7 +1897,7 @@
 		81C585301C3B0AA1000063C6 /* PFNetworkCommand.h in Headers */ = {isa = PBXBuildFile; fileRef = 8119C9961A76E28F0085B516 /* PFNetworkCommand.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C585311C3B0AA1000063C6 /* PFUserDefaultsPersistenceGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = 818ADC741BE1A8BA00C8006C /* PFUserDefaultsPersistenceGroup.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C585321C3B0AA1000063C6 /* PFOfflineQueryLogic.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FCA11B503886003841A2 /* PFOfflineQueryLogic.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		81C585331C3B0AA1000063C6 /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		81C585331C3B0AA1000063C6 /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		81C585341C3B0AA1000063C6 /* Parse_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 81068EBA1ADE462500A34D13 /* Parse_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C585351C3B0AA1000063C6 /* PFFieldOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 81A2458B1B1E99C6006A6953 /* PFFieldOperation.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C585361C3B0AA1000063C6 /* PFObjectPrivate.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FC5D1B503755003841A2 /* PFObjectPrivate.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -2222,7 +2222,7 @@
 		81C586871C3B0AA9000063C6 /* PFObjectController.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FC6B1B50376D003841A2 /* PFObjectController.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C586881C3B0AA9000063C6 /* PFNetworkCommand.h in Headers */ = {isa = PBXBuildFile; fileRef = 8119C9961A76E28F0085B516 /* PFNetworkCommand.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C586891C3B0AA9000063C6 /* PFOfflineQueryLogic.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FCA11B503886003841A2 /* PFOfflineQueryLogic.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		81C5868A1C3B0AA9000063C6 /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		81C5868A1C3B0AA9000063C6 /* PFJSONSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 81951F141ACB90DA00E142EB /* PFJSONSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		81C5868B1C3B0AA9000063C6 /* Parse_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 81068EBA1ADE462500A34D13 /* Parse_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C5868C1C3B0AA9000063C6 /* PFFieldOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 81A2458B1B1E99C6006A6953 /* PFFieldOperation.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		81C5868D1C3B0AA9000063C6 /* PFObjectPrivate.h in Headers */ = {isa = PBXBuildFile; fileRef = 8166FC5D1B503755003841A2 /* PFObjectPrivate.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -3735,6 +3735,8 @@
 				09B119F714880776002B5594 /* PFGeoPoint.m */,
 				44B78E11157D21B000A5E97F /* PFInstallation.h */,
 				44B78E12157D21B000A5E97F /* PFInstallation.m */,
+				81951F141ACB90DA00E142EB /* PFJSONSerialization.h */,
+				81951F151ACB90DA00E142EB /* PFJSONSerialization.m */,
 				0925ABED13D791770095FEFA /* PFObject.h */,
 				E9BBE98E16D18E5800CD7B52 /* PFObject+Subclass.h */,
 				816A64701C29DC000029B197 /* PFObject+Synchronous.h */,
@@ -3822,8 +3824,6 @@
 				815618FF1A1F79AC0076504A /* PFDateFormatter.m */,
 				8159609F1ABCA3B30069EBCC /* PFFileManager.h */,
 				815960A01ABCA3B30069EBCC /* PFFileManager.m */,
-				81951F141ACB90DA00E142EB /* PFJSONSerialization.h */,
-				81951F151ACB90DA00E142EB /* PFJSONSerialization.m */,
 				81443B311A27838500F3FD17 /* PFDevice.h */,
 				81443B321A27838500F3FD17 /* PFDevice.m */,
 				819A4B061A67330200D01241 /* PFHash.h */,
