@@ -55,8 +55,6 @@
             @synchronized (installation.lock) {
                 // Retry the fetch as a save operation because this Installation was deleted on the server.
                 // We always want [currentInstallation fetch] to succeed.
-                installation.objectId = nil;
-                [installation _markAllFieldsDirty];
                 return [[installation saveAsync:nil] continueWithSuccessResult:installation];
             }
         }
