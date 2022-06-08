@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
   s.name             = 'Parse'
-  s.version          = '1.19.4'
+  s.version          = '1.19.4.hulab.1'
   s.license          =  { :type => 'BSD', :file => 'LICENSE' }
-  s.homepage         = 'http://parseplatform.org/'
-  s.summary          = 'A library that gives you access to the powerful Parse cloud platform from your iOS/OS X/watchOS/tvOS app.'
-  s.authors          = 'Parse Community'
+  s.homepage         = 'https://git.hulab.co/hulab/Parse-SDK-iOS-OSX/'
+  s.summary          = 'Fork of a library that gives you access to the powerful Parse cloud platform from your iOS/OS X/watchOS/tvOS app.'
+  s.authors          = 'Hulab'
   s.social_media_url = 'https://twitter.com/ParsePlatform'
 
-  s.source           = { :git => 'https://github.com/parse-community/Parse-SDK-iOS-OSX.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/hulab/Parse-SDK-iOS-OSX.git', :tag => s.version.to_s }
 
   s.platform = :ios, :osx, :tvos, :watchos
   s.ios.deployment_target = '9.0'
@@ -102,10 +102,10 @@ Pod::Spec.new do |s|
                             'Social'
     s.libraries        = 'z', 'sqlite3'
 
-    s.dependency 'Parse/Core'
+    s.dependency 'Parse/Core', s.version.to_s
     s.dependency 'Bolts/Tasks', '~> 1.9.1'
-    s.dependency 'FBSDKCoreKit', '= 11.0.1'
-    s.dependency 'FBSDKLoginKit', '= 11.0.1'
+	s.dependency 'FBSDKCoreKit', '~> 15.x'
+    s.dependency 'FBSDKLoginKit', '~> 15.x'
   end
 
   s.subspec 'FacebookUtils-tvOS' do |s|
@@ -125,10 +125,10 @@ Pod::Spec.new do |s|
                           'SystemConfiguration'
     s.libraries        = 'z', 'sqlite3'
 
-    s.dependency 'Parse/Core'
+    s.dependency 'Parse/Core', s.version.to_s
     s.dependency 'Bolts/Tasks', '~> 1.9.1'
-    s.dependency 'FBSDKTVOSKit', '= 11.0'
-    s.dependency 'FBSDKShareKit', '= 11.0.1'
+    s.dependency 'FBSDKTVOSKit', '~> 15.x'
+    s.dependency 'FBSDKShareKit', '~> 15.x'
   end
 
   s.subspec 'TwitterUtils' do |s|
@@ -148,7 +148,7 @@ Pod::Spec.new do |s|
     s.weak_frameworks = 'Accounts',
                         'Social'
     s.libraries        = 'z', 'sqlite3'
-    s.dependency 'Parse/Core'
+    s.dependency 'Parse/Core', s.version.to_s
   end
 
   s.subspec 'UI' do |s|
@@ -170,7 +170,7 @@ Pod::Spec.new do |s|
                             'UIKit',
                             'CoreGraphics',
                             'QuartzCore'
-    s.dependency 'Parse/Core'
+    s.dependency 'Parse/Core', s.version.to_s
   end
 
   # prepare command for parseUI

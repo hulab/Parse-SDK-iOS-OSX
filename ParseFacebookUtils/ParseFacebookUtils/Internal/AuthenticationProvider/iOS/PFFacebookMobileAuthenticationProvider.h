@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKLoginKit/FBSDKLoginManager.h>
+#import <FBSDKLoginKit/FBSDKLoginKit.h>
 
 #import <Parse/PFConstants.h>
 #import <Parse/PFUser.h>
