@@ -6,7 +6,6 @@ let package = Package(
     name: "ParseObjC",
     defaultLocalization: "en",
     platforms: [.iOS(.v12),
-                .macOS(.v10_10),
                 .tvOS(.v12),
                 .watchOS(.v2)],
     products: [
