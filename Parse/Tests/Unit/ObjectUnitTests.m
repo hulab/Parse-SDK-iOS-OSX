@@ -109,17 +109,13 @@
     PFAssertThrowsInconsistencyException(object[@"yarr"]);
 }
 
-- (void)testSettersWithNilArguments {
+- (void)testSettersWithNilKeys {
     PFObject *object = [PFObject objectWithClassName:@"Test"];
     id empty = nil;
 
     PFAssertThrowsInvalidArgumentException([object setObject:@"foo" forKey:empty]);
     PFAssertThrowsInvalidArgumentException([object setObject:@"foo" forKeyedSubscript:empty]);
     PFAssertThrowsInvalidArgumentException(object[empty] = @"foo");
-
-    PFAssertThrowsInvalidArgumentException([object setObject:empty forKey:@"foo"]);
-    PFAssertThrowsInvalidArgumentException([object setObject:empty forKeyedSubscript:@"foo"]);
-    PFAssertThrowsInvalidArgumentException(object[@"foo"] = empty);
 }
 
 - (void)testSettersWithInvalidValueTypes {

@@ -44,6 +44,8 @@
 #import "PFUserAuthenticationDelegate.h"
 #import "PFFileUploadResult.h"
 #import "PFFileUploadController.h"
+#import "PFJSONSerialization.h"
+#import "PFApplication.h"
 
 #if TARGET_OS_IOS
 
