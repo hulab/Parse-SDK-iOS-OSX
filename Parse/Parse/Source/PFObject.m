@@ -2573,7 +2573,7 @@ static void PFObjectAssertValueIsKindOfValidClass(id object) {
 }
 
 - (NSUInteger)hash {
-    return _pfinternal_state.hash;
+    return self._state.hash;
 }
 
 - (BOOL)isEqualToObject:(PFObject *)object {
