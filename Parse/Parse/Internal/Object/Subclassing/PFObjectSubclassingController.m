@@ -19,8 +19,21 @@
 #import "PFObject.h"
 #import "PFObject+Subclass.h"
 #import "PFObjectSubclassInfo.h"
+#import "PFEventuallyPin.h"
+#import "PFPin.h"
 #import "PFPropertyInfo_Private.h"
 #import "PFPropertyInfo_Runtime.h"
+#import "PFRole.h"
+#import "PFSession.h"
+#import "PFUser.h"
+
+#if !TARGET_OS_WATCH
+#import "PFInstallation.h"
+#endif
+
+#if !TARGET_OS_OSX && !TARGET_OS_WATCH
+#import "PFProduct.h"
+#endif
 
 // CFNumber does not use number type 0, we take advantage of that here.
 #define kCFNumberTypeUnknown 0
@@ -96,6 +109,18 @@ static NSNumber *PFNumberCreateSafe(const char *typeEncoding, const void *bytes)
     _registeredSubclassesAccessQueue = dispatch_queue_create("com.parse.object.subclassing", DISPATCH_QUEUE_SERIAL);
     _registeredSubclasses = [NSMutableDictionary dictionary];
     _unregisteredSubclasses = [NSMutableDictionary dictionary];
+
+    [self _rawRegisterSubclass:[PFUser class]];
+    [self _rawRegisterSubclass:[PFRole class]];
+    [self _rawRegisterSubclass:[PFSession class]];
+    [self _rawRegisterSubclass:[PFPin class]];
+    [self _rawRegisterSubclass:[PFEventuallyPin class]];
+#if !TARGET_OS_WATCH
+    [self _rawRegisterSubclass:[PFInstallation class]];
+#endif
+#if !TARGET_OS_OSX && !TARGET_OS_WATCH
+    [self _rawRegisterSubclass:[PFProduct class]];
+#endif
 
     return self;
 }

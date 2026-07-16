@@ -7,9 +7,22 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 
+#import "PFEventuallyPin.h"
 #import "PFObject+Subclass.h"
+#import "PFPin.h"
 #import "PFRelation.h"
+#import "PFRole.h"
+#import "PFSession.h"
 #import "PFSubclassing.h"
+#import "PFUser.h"
+
+#if !TARGET_OS_WATCH
+#import "PFInstallation.h"
+#endif
+
+#if !TARGET_OS_OSX && !TARGET_OS_WATCH
+#import "PFProduct.h"
+#endif
 
 #import "PFObjectPrivate.h"
 #import "PFObjectSubclassingController.h"
@@ -122,6 +135,22 @@
 - (void)testConstructor {
     PFObjectSubclassingController *subclassingController = [[PFObjectSubclassingController alloc] init];
     XCTAssertNotNil(subclassingController);
+}
+
+- (void)testConstructorRegistersBuiltInSubclasses {
+    PFObjectSubclassingController *subclassingController = [[PFObjectSubclassingController alloc] init];
+
+    XCTAssertEqual([PFUser class], [subclassingController subclassForParseClassName:@"_User"]);
+    XCTAssertEqual([PFRole class], [subclassingController subclassForParseClassName:@"_Role"]);
+    XCTAssertEqual([PFSession class], [subclassingController subclassForParseClassName:@"_Session"]);
+    XCTAssertEqual([PFPin class], [subclassingController subclassForParseClassName:@"_Pin"]);
+    XCTAssertEqual([PFEventuallyPin class], [subclassingController subclassForParseClassName:@"_EventuallyPin"]);
+#if !TARGET_OS_WATCH
+    XCTAssertEqual([PFInstallation class], [subclassingController subclassForParseClassName:@"_Installation"]);
+#endif
+#if !TARGET_OS_OSX && !TARGET_OS_WATCH
+    XCTAssertEqual([PFProduct class], [subclassingController subclassForParseClassName:@"_Product"]);
+#endif
 }
 
 - (void)testRegister {
