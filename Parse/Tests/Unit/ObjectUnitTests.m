@@ -11,7 +11,24 @@
 #import "PFUnitTestCase.h"
 #import "Parse_Private.h"
 #import "PFObjectPrivate.h"
+#import "PFObjectState.h"
 #import "BFTask+Private.h"
+
+static char PFObjectEqualityQueueKey;
+
+@interface PFEqualityStateTestObject : PFObject
+@property (nonatomic, copy) dispatch_block_t stateReadHandler;
+@end
+
+@implementation PFEqualityStateTestObject
+- (PFObjectState *)_state {
+    PFObjectState *state = [super _state];
+    if (dispatch_get_specific(&PFObjectEqualityQueueKey) && self.stateReadHandler) {
+        self.stateReadHandler();
+    }
+    return state;
+}
+@end
 
 @interface ObjectUnitTests : PFUnitTestCase
 
@@ -21,6 +38,45 @@
 
 ///--------------------------------------
 #pragma mark - Tests
+
+- (void)testEqualityRetainsStatesDuringConcurrentReplacement {
+    dispatch_queue_t queue = dispatch_queue_create("com.parse.tests.object-equality", DISPATCH_QUEUE_SERIAL);
+    dispatch_queue_set_specific(queue, &PFObjectEqualityQueueKey, &PFObjectEqualityQueueKey, NULL);
+    for (NSNumber *pauseRight in @[@NO, @YES]) {
+        PFEqualityStateTestObject *left = [[PFEqualityStateTestObject alloc] initWithClassName:@"EqualityTest"];
+        PFEqualityStateTestObject *right = [[PFEqualityStateTestObject alloc] initWithClassName:@"EqualityTest"];
+        left.objectId = @"before";
+        right.objectId = @"before";
+        XCTAssertTrue([left isEqualToObject:right]);
+        XCTAssertTrue([left isEqualToObject:left]);
+        XCTAssertFalse([left isEqual:(id)@"not a PFObject"]);
+        dispatch_semaphore_t stateRead = dispatch_semaphore_create(0);
+        dispatch_semaphore_t stateReplaced = dispatch_semaphore_create(0);
+        dispatch_group_t comparison = dispatch_group_create();
+        PFEqualityStateTestObject *paused = pauseRight.boolValue ? right : left;
+        paused.stateReadHandler = ^{
+            dispatch_semaphore_signal(stateRead);
+            long result = dispatch_semaphore_wait(stateReplaced, dispatch_time(DISPATCH_TIME_NOW, 5 * NSEC_PER_SEC));
+            XCTAssertEqual(result, 0);
+        };
+        __block BOOL equal = NO;
+        dispatch_group_async(comparison, queue, ^{
+            @autoreleasepool {
+                equal = [left isEqualToObject:right];
+            }
+        });
+        long readResult = dispatch_semaphore_wait(stateRead, dispatch_time(DISPATCH_TIME_NOW, 2 * NSEC_PER_SEC));
+        left._state = [PFObjectState stateWithParseClassName:@"EqualityTest" objectId:@"after" isComplete:YES];
+        right._state = [PFObjectState stateWithParseClassName:@"EqualityTest" objectId:@"after" isComplete:YES];
+        dispatch_semaphore_signal(stateReplaced);
+        long comparisonResult = dispatch_group_wait(comparison, dispatch_time(DISPATCH_TIME_NOW, 5 * NSEC_PER_SEC));
+        XCTAssertEqual(readResult, 0, @"Equality must read both objects through the synchronized state getter");
+        XCTAssertEqual(comparisonResult, 0);
+        // Pausing the left read compares before/after; pausing the right retains both before states.
+        XCTAssertEqual(equal, pauseRight.boolValue);
+        XCTAssertTrue([left isEqualToObject:right]);
+    }
+}
 ///--------------------------------------
 
 #pragma mark Constructors
