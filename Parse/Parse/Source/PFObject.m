@@ -2585,7 +2585,9 @@ static void PFObjectAssertValueIsKindOfValidClass(id object) {
         return NO;
     }
 
-    return [_pfinternal_state isEqualToState:object->_pfinternal_state];
+    PFObjectState *state = self._state;
+    PFObjectState *otherState = object._state;
+    return [state isEqualToState:otherState];
 }
 
 @end
