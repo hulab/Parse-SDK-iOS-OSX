@@ -8,6 +8,7 @@
  */
 
 #import "PFAssert.h"
+#import "PFHash.h"
 #import "PFObjectState.h"
 #import "PFObjectState_Private.h"
 
@@ -220,7 +221,7 @@
 }
 
 - (NSUInteger)hash {
-    return [NSString stringWithFormat:@"%@:%@", self.parseClassName, self.objectId].hash;
+    return PFIntegerPairHash(self.parseClassName.hash, self.objectId.hash);
 }
 
 - (BOOL)isEqualToState:(PFObjectState *)state {
