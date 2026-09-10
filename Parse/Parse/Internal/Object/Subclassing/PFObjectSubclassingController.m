@@ -359,7 +359,14 @@ static NSNumber *PFNumberCreateSafe(const char *typeEncoding, const void *bytes)
     if ([bundle.bundlePath hasPrefix:@"/System/"] || [bundle.bundlePath rangeOfString:@"iPhoneSimulator.sdk"].location != NSNotFound) {
         return;
     }
-    
+#if TARGET_OS_SIMULATOR
+    // Resolve aliases such as /var and /private/var for bundles under a mounted simulator runtime.
+    NSString *simulatorRoot = [[NSProcessInfo processInfo].environment[@"SIMULATOR_ROOT"] stringByResolvingSymlinksInPath];
+    if (simulatorRoot.length && [[bundle.bundlePath stringByResolvingSymlinksInPath] hasPrefix:[simulatorRoot stringByAppendingString:@"/"]]) {
+        return;
+    }
+#endif
+
     // The Parse framework cannot be bundled with a macOS Command Line Application but needs to be
     // external to the application. The preferred file system location is '/Library/Frameworks'
     // and we don't want to filter out the Parse framework if it is installed there. See also:
