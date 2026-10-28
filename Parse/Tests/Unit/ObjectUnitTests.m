@@ -21,6 +21,7 @@ static char PFObjectEqualityQueueKey;
 @end
 
 @implementation PFEqualityStateTestObject
+@synthesize stateReadHandler = _stateReadHandler;
 - (PFObjectState *)_state {
     PFObjectState *state = [super _state];
     if (dispatch_get_specific(&PFObjectEqualityQueueKey) && self.stateReadHandler) {
